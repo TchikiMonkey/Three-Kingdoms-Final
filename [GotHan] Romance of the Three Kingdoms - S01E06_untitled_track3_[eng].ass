@@ -51,7 +51,7 @@ Dialogue: 0,0:01:21.98,0:01:22.34,Default,,0,0,0,,Yes!
 Dialogue: 0,0:01:42.11,0:01:43.34,Default,,0,0,0,,Pull it out.
 Dialogue: 0,0:02:11.46,0:02:12.46,Default,,0,0,0,,My lord?
 Dialogue: 0,0:02:15.46,0:02:16.90,Style Names,,0,0,0,,{\pos(311.818,504.545)}Huáng Gài\NStyled: "Gōngfù"
-Dialogue: 0,0:02:20.23,0:02:24.02,Default,,0,0,0,,Heavens! My Lord, congratulations!
+Dialogue: 0,0:02:20.23,0:02:24.02,Default,,0,0,0,,Heavens! My lord, congratulations!
 Dialogue: 0,0:02:21.39,0:02:23.66,Style Names,,0,0,0,,{\pos(313.182,504.545)\fade(255,0,255,0,300,1790,2140)}Chéng Pǔ\NStyled: "Démóu"
 Dialogue: 0,0:02:25.87,0:02:27.90,Default,,0,0,0,,That's {\i1}the Heirloom Seal of the Realm!{\i0}
 Dialogue: 0,0:02:30.90,0:02:32.42,Default,,0,0,0,,The {\i1}Heirloom Seal?{\i0}
@@ -90,7 +90,7 @@ Dialogue: 0,0:04:54.63,0:04:57.98,Default,,0,0,0,,I don't have it! Why interroga
 Dialogue: 0,0:04:59.35,0:05:02.10,Default,,0,0,0,,Return it now, or you will suffer!
 Dialogue: 0,0:05:07.43,0:05:08.66,Default,,0,0,0,,By the high heavens!
 Dialogue: 0,0:05:09.75,0:05:12.82,Default,,0,0,0,,If I indeed have the Seal and am hiding it for myself,
-Dialogue: 0,0:05:13.10,0:05:19.54,Default,,0,0,0,,May I meet a painful end, struck by arrows!
+Dialogue: 0,0:05:13.10,0:05:19.54,Default,,0,0,0,,may I meet a painful end, struck by arrows!
 Dialogue: 0,0:05:20.87,0:05:25.86,Default,,0,0,0,,Since Wéntái has made such an oath,\Nperhaps he doesn't have the Seal after all.
 Dialogue: 0,0:05:33.07,0:05:36.10,Default,,0,0,0,,When you salvaged it, was this fellow present?
 Dialogue: 0,0:05:39.43,0:05:41.02,Default,,0,0,0,,You dare deceive us!
@@ -107,9 +107,9 @@ Dialogue: 0,0:06:59.59,0:07:03.86,Default,,0,0,0,,Mèngdé, don't be upset. \NVi
 Dialogue: 0,0:07:16.86,0:07:24.30,Default,,0,0,0,,{\bord12\pos(640,660)}I fought for great justice, to rid the empire of a traitor.
 Dialogue: 0,0:07:25.63,0:07:29.86,Default,,0,0,0,,{\bord12}From eighteen directions, came armies fighting for justice.
 Dialogue: 0,0:07:29.86,0:07:33.86,Default,,0,0,0,,{\bord12\pos(640,660)}My heart was grateful...!
-Dialogue: 0,0:07:35.15,0:07:36.86,Default,,0,0,0,,{\bord12\pos(640,660)}Utmost grateful...
+Dialogue: 0,0:07:35.15,0:07:36.86,Default,,0,0,0,,{\bord12\pos(640,660)}Utmost gratitude...
 Dialogue: 0,0:07:37.86,0:07:50.93,Default,,0,0,0,,{\bord12\pos(640,660)}I was to have Běnchū rally the people in Hénèi,
-Dialogue: 0,0:07:50.93,0:07:58.23,Default,,0,0,0,,{\bord12}Lead them to Mèngjīn and Suānzǎo, with the lords to guard Chénggāo,
+Dialogue: 0,0:07:50.93,0:07:58.23,Default,,0,0,0,,{\bord12}lead them to Mèngjīn and Suānzǎo, with the lords to guard Chénggāo,
 Dialogue: 0,0:07:58.23,0:08:03.30,Default,,0,0,0,,{\bord12}seize Yaocang, obstruct Huányuán and Dagu. Secure the station.
 Dialogue: 0,0:08:05.94,0:08:10.94,Default,,0,0,0,,{\bord12\pos(640,660)}Gōnglù! You were to lead the men of Nányáng,
 Dialogue: 0,0:08:10.94,0:08:15.94,Default,,0,0,0,,{\bord12}garrison Dānxī, and enter Wǔ pass, to strike at the capital province!
@@ -117,21 +117,21 @@ Dialogue: 0,0:08:16.62,0:08:19.62,Default,,0,0,0,,{\bord12\pos(640,660)}Dig in o
 Dialogue: 0,0:08:19.91,0:08:22.83,Default,,0,0,0,,{\bord12\pos(640,660)}Not to fight, but to threaten.
 Dialogue: 0,0:08:22.83,0:08:27.62,Default,,0,0,0,,{\bord12}We could direct the tides of war, and thus pacify the land!
 Dialogue: 0,0:08:29.59,0:08:32.30,Default,,0,0,0,,{\bord12\pos(640,660)}Yet, you hesitate and refuse to follow.
-Dialogue: 0,0:08:32.83,0:08:36.30,Default,,0,0,0,,{\bord12\pos(640,660)}and we lost the world's hope in us...
+Dialogue: 0,0:08:32.83,0:08:36.30,Default,,0,0,0,,{\bord12\pos(640,660)}We have lost the world's hope in us...
 Dialogue: 0,0:08:36.87,0:08:43.06,Default,,0,0,0,,{\bord12\pos(640,660)}For shame... for shame!
 Dialogue: 0,0:08:44.30,0:08:46.90,Style Names,,0,0,0,,{\pos(377.273,504.545)\fade(255,0,255,0,550,1900,2300)}Gōngsūn Zàn\NStyled: "Bóguī"
 Dialogue: 0,0:08:54.82,0:08:56.62,Default,,0,0,0,,For shame!
 Dialogue: 0,0:08:59.54,0:09:01.14,Default,,0,0,0,,For shame!
 Dialogue: 0,0:09:02.54,0:09:04.30,Default,,0,0,0,,For shame!
 Dialogue: 0,0:09:14.91,0:09:21.50,Note (Potential style?),,0,0,0,,{\i1}"Going through the Wormwood" ("蒿里行") \Nby Cáo Cāo{\i0}
-Dialogue: 0,0:09:15.27,0:09:21.62,Thinking,,0,0,0,,{\bord12}There rose men righteous in the east,\Nled legions to cruelty's end.
-Dialogue: 0,0:09:22.35,0:09:27.62,Thinking,,0,0,0,,{\bord12}They first had gathered at Méngjīn, \Nfor as their hearts laid in Xiányáng.
+Dialogue: 0,0:09:15.27,0:09:21.62,Thinking,,0,0,0,,{\bord12}There rose men righteous in the east,\Nled legions to quell the terror.
+Dialogue: 0,0:09:22.35,0:09:27.62,Thinking,,0,0,0,,{\bord12}They first had gathered at Méngjīn, \Nfor their hearts that lay in Xiányáng.
 Dialogue: 0,0:09:28.62,0:09:32.62,Thinking,,0,0,0,,{\bord12}Yet formations were divided,\N wavering like geese misguided,
 Dialogue: 0,0:09:32.62,0:09:36.78,Thinking,,0,0,0,,{\bord12}As greed had drove them to contend, and each dealt each a deadly end.
 Dialogue: 0,0:09:37.23,0:09:41.38,Thinking,,0,0,0,,{\bord12}Now Huáinán has a monarch made.\NIn north, one carved a seal of jade.
 Dialogue: 0,0:09:37.46,0:09:47.10,Note (Potential style?),,0,0,0,,Note: Referring to Yuán Shù and Yuán Shào. Yuán Shù would declare himself Emperor, \NYuán Shào would attempt to make Liú Yú emperor.
-Dialogue: 0,0:09:41.38,0:09:45.42,Thinking,,0,0,0,,{\bord12}Maille infests with lice and fleas, \Nlives ten thousands are deceased.
-Dialogue: 0,0:09:45.75,0:09:49.66,Thinking,,0,0,0,,{\bord12}Sun-blanched bones bared on the field,\Nfor thousand lǐ no roosters shrilled.
+Dialogue: 0,0:09:41.38,0:09:45.42,Thinking,,0,0,0,,{\bord12}Armor teems with lice and fleas, \Nlives ten thousands are deceased.
+Dialogue: 0,0:09:45.75,0:09:49.66,Thinking,,0,0,0,,{\bord12}Sun-bleached bones lie on the field,\Nfor a thousand {\i1}lǐ{\i0} no roosters shrilled.
 Dialogue: 0,0:09:49.66,0:09:55.82,Thinking,,0,0,0,,{\bord12}All lives but one lost in its wake, \Nreflecting breaks the heart with ache.
 Dialogue: 0,0:10:15.75,0:10:18.22,Default,,0,0,0,,Gentlemen? Ministers?
 Dialogue: 0,0:10:17.03,0:10:22.94,Style Names,,0,0,0,,{\pos(328.182,484.091)\fade(255,0,255,0,575,5460,5740)}Dǒng Zhuō\NStyled: "Zhòngyǐng"
@@ -139,13 +139,13 @@ Dialogue: 0,0:10:20.03,0:10:26.86,Default,NTP,0,0,0,,Those eighteen renegades ar
 Dialogue: 0,0:10:26.86,0:10:29.86,Default,,0,0,0,,They've already begun to eat each other.
 Dialogue: 0,0:10:32.19,0:10:34.98,Default,,0,0,0,,Now general Sūn Jiān is killed by the hands of Liú Biǎo!
 Dialogue: 0,0:10:35.71,0:10:38.02,Default,,0,0,0,,Qiáo Mào killed by Liú Dài!
-Dialogue: 0,0:10:39.11,0:10:42.72,Default,,0,0,0,,Hán Fù lost the Jì Province and fled to Zhāng Miǎo for shelter.
+Dialogue: 0,0:10:39.11,0:10:42.72,Default,,0,0,0,,Hán Fù lost Jì Province and fled to Zhāng Miǎo for shelter.
 Dialogue: 0,0:10:42.72,0:10:45.26,Default,,0,0,0,,And that Yuán Shào and Gōngsūn Zàn?
 Dialogue: 0,0:10:46.91,0:10:49.26,Default,,0,0,0,,All willing to submit to me!
 Dialogue: 0,0:10:55.03,0:10:58.06,Default,,0,0,0,,Gentlemen, you are all veteran ministers of the dynasty.
 Dialogue: 0,0:10:59.99,0:11:02.14,Default,,0,0,0,,As long as you remain loyal,
 Dialogue: 0,0:11:03.67,0:11:07.46,Default,,0,0,0,,Your old friend here can promise you prestige, rank, and wealth!
-Dialogue: 0,0:11:09.51,0:11:12.22,Default,,0,0,0,,Thanks, {\i1}Grand Preceptor{\i0}, for your great virtue!
+Dialogue: 0,0:11:09.51,0:11:12.22,Default,,0,0,0,,Thanks, {\i1}Grand Preceptor,{\i0} for your great virtue!
 Dialogue: 0,0:11:12.22,0:11:13.22,Default,,0,0,0,,Bring them in!
 Dialogue: 0,0:11:13.46,0:11:14.06,Default,,0,0,0,,Come!
 Dialogue: 0,0:11:22.39,0:11:24.02,Default,,0,0,0,,Put them all to death!
@@ -175,11 +175,11 @@ Dialogue: 0,0:16:26.74,0:16:28.50,Default,,0,0,0,,Treating me with great kindnes
 Dialogue: 0,0:16:28.68,0:16:30.50,Default,,0,0,0,,Even if I were crushed into dust,
 Dialogue: 0,0:16:30.50,0:16:34.02,Default,,0,0,0,,it wouldn't be enough to repay a thousandth part of your kindness!
 Dialogue: 0,0:16:36.03,0:16:40.50,Default,,0,0,0,,Today, I saw you anxious, instead of joyful.
-Dialogue: 0,0:16:41.50,0:16:45.22,Default,,0,0,0,,I figure, there must be a great state affair worrying you,
+Dialogue: 0,0:16:41.50,0:16:45.22,Default,,0,0,0,,I suspect there must be a great state affair worrying you,
 Dialogue: 0,0:16:46.23,0:16:47.82,Default,,0,0,0,,but I dare not ask too much.
 Dialogue: 0,0:16:50.48,0:16:55.82,Default,,0,0,0,,Today, I noticed that you broke down and refused to eat, nervous at all times.
 Dialogue: 0,0:16:56.15,0:17:00.74,Default,,0,0,0,,I hate myself for not being \Nable to ease your worries,
-Dialogue: 0,0:17:01.87,0:17:05.06,Default,,0,0,0,,so I have been sighing \Nat the moon instead
+Dialogue: 0,0:17:01.87,0:17:05.06,Default,,0,0,0,,so I have been sighing \Nat the moon instead.
 Dialogue: 0,0:17:05.74,0:17:09.06,Default,,0,0,0,,I didn't expect you to notice, sir.
 Dialogue: 0,0:17:14.50,0:17:21.14,Default,,0,0,0,,Sir, if you ever have a use for me,\NI will not back down even under threat of death.
 Dialogue: 0,0:17:44.99,0:17:49.50,Default,,0,0,0,,Who could've thought the fate of\Nthe great Hàn Empire rests within your hands!
@@ -190,14 +190,14 @@ Dialogue: 0,0:18:57.54,0:19:04.54,Default,,0,0,0,,{\bord12}Right now, the people
 Dialogue: 0,0:19:05.87,0:19:08.02,Default,,0,0,0,,{\bord12\pos(640,660)}But it's not as if you cannot help them.
 Dialogue: 0,0:19:09.99,0:19:14.26,Default,,0,0,0,,{\bord12\pos(640,660)}The traitorous Dǒng Zhuō wants to usurp the throne!
 Dialogue: 0,0:19:14.95,0:19:18.18,Default,,0,0,0,,{\bord12\pos(640,660)}All officials of the court are unable to oppose him.
-Dialogue: 0,0:19:21.74,0:19:27.31,Default,,0,0,0,,{\bord12}Now Dǒng Zhuó has an adopted son by the name of Lǚ Bù.
+Dialogue: 0,0:19:21.74,0:19:27.31,Default,,0,0,0,,{\bord12}Now Dǒng Zhuó has an adopted son by the name of Lü Bù.
 Dialogue: 0,0:19:27.31,0:19:29.14,Default,,0,0,0,,{\bord12\pos(640,660)}His power is extraordinary!
-Dialogue: 0,0:19:31.74,0:19:36.74,Default,,0,0,0,,{\bord12}I have observed that both Dǒng Zhuó and Lǚ Bù are lecherous.
+Dialogue: 0,0:19:31.74,0:19:36.74,Default,,0,0,0,,{\bord12}I have observed that both Dǒng Zhuó and Lü Bù are lecherous.
 Dialogue: 0,0:19:39.19,0:19:43.74,Default,,0,0,0,,{\bord12\pos(640,660)}So I wish to employ a Chain-Link Stratagem.
-Dialogue: 0,0:19:45.03,0:19:48.32,Default,,0,0,0,,{\bord12\pos(640,660)}First, I would let Lǚ Bù marry you,
+Dialogue: 0,0:19:45.03,0:19:48.32,Default,,0,0,0,,{\bord12\pos(640,660)}First, I would let Lü Bù marry you,
 Dialogue: 0,0:19:48.32,0:19:51.30,Default,,0,0,0,,{\bord12\pos(640,660)}and at the same time, present you to Dǒng Zhuō!
 Dialogue: 0,0:19:52.74,0:19:58.74,Default,,0,0,0,,{\bord12}If you can go in between them, you can strain the relationship between father and son!
-Dialogue: 0,0:19:59.91,0:20:06.06,Default,,0,0,0,,{\bord12}Eventually, it will provoke Lǚ Bù to murder the traitor, and end a great evil!
+Dialogue: 0,0:19:59.91,0:20:06.06,Default,,0,0,0,,{\bord12}Eventually, it will provoke Lü Bù to murder the traitor, and end a great evil!
 Dialogue: 0,0:20:07.83,0:20:12.54,Default,,0,0,0,,{\bord12\pos(640,660)}With that, it would restore the land once more!
 Dialogue: 0,0:20:15.54,0:20:19.54,Default,,0,0,0,,{\bord12\pos(640,660)}Could you do it?
 Dialogue: 0,0:20:34.83,0:20:38.20,Default,,0,0,0,,{\bord12}I already said it. Just give the order. \NI won't leave, even if it means death!
@@ -207,15 +207,15 @@ Dialogue: 0,0:20:52.65,0:20:54.90,Default,,0,0,0,,My lord, don't grieve!
 Dialogue: 0,0:20:54.90,0:20:57.30,Default,,0,0,0,,If I can't repay your great kindness,
 Dialogue: 0,0:20:57.63,0:21:00.34,Default,,0,0,0,,may I be cut to death by a thousand knives!
 Dialogue: 0,0:21:09.62,0:21:11.62,Default,,0,0,0,,I am beyond grateful.
-Dialogue: 0,0:21:47.18,0:21:50.66,Style Names,,0,0,0,,{\pos(971.818,512.727)}Lǚ Bù\NStyled: "Fèngxiān"
+Dialogue: 0,0:21:47.18,0:21:50.66,Style Names,,0,0,0,,{\pos(971.818,512.727)}Lü Bù\NStyled: "Fèngxiān"
 Dialogue: 0,0:22:15.47,0:22:16.58,Default,,0,0,0,,General!
 Dialogue: 0,0:22:18.79,0:22:21.94,Default,,0,0,0,,it seems you're in a good mood by yourself here!
-Dialogue: 0,0:22:23.47,0:22:27.46,Default,,0,0,0,,{\i1}Excellency of the Masses{\i0}, its not often I see you in the hunting grounds!
+Dialogue: 0,0:22:23.47,0:22:27.46,Default,,0,0,0,,{\i1}Excellency of the Masses,{\i0} it's not often I see you in the hunting grounds!
 Dialogue: 0,0:22:27.46,0:22:28.98,Default,,0,0,0,,Did you catch any game?
 Dialogue: 0,0:22:30.07,0:22:31.30,Default,,0,0,0,,Oh no, no game.
 Dialogue: 0,0:22:31.30,0:22:34.98,Default,,0,0,0,,After I settled here, I often go out \Nwith my family to admire the nature.
 Dialogue: 0,0:22:34.98,0:22:38.14,Default,,0,0,0,,I wonder if you, sir, would like to join us?
-Dialogue: 0,0:22:40.39,0:22:44.54,Default,,0,0,0,,Thank you, sir, but the Grand Preceptor has orders for me. I dare not tardy.
+Dialogue: 0,0:22:40.39,0:22:44.54,Default,,0,0,0,,Thank you, sir, but the Grand Preceptor has orders for me. I dare not tarry.
 Dialogue: 0,0:22:45.55,0:22:46.62,Default,,0,0,0,,Please do so, sir!
 Dialogue: 0,0:22:47.11,0:22:49.59,Default,,0,0,0,,Please do come visit me later on!
 Dialogue: 0,0:22:49.59,0:22:50.70,Default,,0,0,0,,Thank you, sir!
@@ -245,7 +245,7 @@ Dialogue: 0,0:25:18.55,0:25:19.06,Default,,0,0,0,,Cheers!
 Dialogue: 0,0:25:19.26,0:25:19.82,Default,,0,0,0,,Cheers.
 Dialogue: 0,0:26:03.63,0:26:06.62,Default,,0,0,0,,General? General!
 Dialogue: 0,0:26:08.18,0:26:09.18,Default,,0,0,0,,Sir.
-Dialogue: 0,0:26:10.35,0:26:12.18,Default,,0,0,0,,Haven't you seen General Lǚ before?
+Dialogue: 0,0:26:10.35,0:26:12.18,Default,,0,0,0,,Haven't you seen General Lü before?
 Dialogue: 0,0:26:12.75,0:26:16.18,Default,,0,0,0,,Sir, who is this lady?
 Dialogue: 0,0:26:16.18,0:26:18.18,Default,,0,0,0,,My humble daughter, Diāochán.
 Dialogue: 0,0:26:18.18,0:26:19.94,Default,,0,0,0,,I pay my respects, General.
@@ -287,7 +287,7 @@ Dialogue: 0,0:31:37.43,0:31:38.58,Default,,0,0,0,,Court dismissed!
 Dialogue: 0,0:31:44.95,0:31:45.91,Default,,0,0,0,,Father!
 Dialogue: 0,0:31:45.91,0:31:47.18,Default,,0,0,0,,Fèngxiān!
 Dialogue: 0,0:31:47.59,0:31:50.58,Default,,0,0,0,,I need you to go {\i1}Méiwù{\i0}-manor to escort munitions.
-Dialogue: 0,0:31:47.59,0:31:52.06,Note (Potential style?),,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 lǐ from Chang'an.
+Dialogue: 0,0:31:47.59,0:31:52.06,Note (Potential style?),,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 {\i1}lǐ{\i0} from Chang'an.
 Dialogue: 0,0:31:50.71,0:31:55.06,Default,,0,0,0,,I also need you to lead some troops to be garrisoned, just in case!
 Dialogue: 0,0:31:55.75,0:31:57.74,Default,,0,0,0,,Father, please ease yourself!
 Dialogue: 0,0:31:58.27,0:32:00.74,Default,,0,0,0,,I will surely return within three days!

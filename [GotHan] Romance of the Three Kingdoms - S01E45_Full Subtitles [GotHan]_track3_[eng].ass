@@ -213,7 +213,7 @@ Dialogue: 0,0:17:36.63,0:17:38.52,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}an
 Dialogue: 0,0:17:38.64,0:17:42.60,Default,,0,0,0,,{\bord11.909}But when you heard that Liu Bei gained Jing Province, what shocked you so?
 Dialogue: 0,0:17:42.60,0:17:47.60,That one frame,,0,0,0,,{\fade(255,0,255,0,500,3740,4100)\pos(977.6,372.4)}程昱
 Dialogue: 0,0:17:42.60,0:17:47.60,That one frame,,0,0,0,,{\fade(255,0,255,0,500,3740,4100)\pos(1043.2,444.4)}{\fs45}“字 仲德”
-Dialogue: 0,0:17:43.00,0:17:46.20,Style Names,,0,0,0,,{\pos(1038.4,479.6)}Chéng Yù \NStyled,\N Zhòngdé
+Dialogue: 0,0:17:43.00,0:17:46.20,Style Names,,0,0,0,,{\pos(1038.4,479.6)}Chéng Yù \NStyled:\N Zhòngdé
 Dialogue: 0,0:17:46.60,0:17:50.56,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Liu Bei is a dragon amongst men.
 Dialogue: 0,0:17:51.12,0:17:53.80,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}All his life, he had never reached water.
 Dialogue: 0,0:17:53.80,0:17:59.24,Default,,0,0,0,,{\bord11.909}Now that he has Jing Province, \Nit is as if a dragon entered the ocean.
@@ -254,7 +254,7 @@ Dialogue: 0,0:20:12.92,0:20:16.40,Default,,0,0,0,,Yet Cao Cao made Zhou Yu \Nthe
 Dialogue: 0,0:20:17.88,0:20:21.88,Default,,0,0,0,,The former fears Cao Cao will exploit the friction to invade,
 Dialogue: 0,0:20:22.60,0:20:26.64,Default,,0,0,0,,the latter wishes to provoke a fight between our alliance.
 Dialogue: 0,0:20:26.80,0:20:28.72,Default,,0,0,0,,He would take advantage from within.
-Dialogue: 0,0:20:30.56,0:20:34.72,Default,,0,0,0,,Lu Zijing has come here for the purpose of demanding Jing Province back.\N
+Dialogue: 0,0:20:30.56,0:20:34.72,Default,,0,0,0,,Lu Zijing has come here for the purpose of demanding Jing Province back.
 Dialogue: 0,0:20:35.88,0:20:39.52,Style Names,,0,0,0,,{\pos(992.25,489.352)\\fade(255,0,255,0,500,3250,3620)}Liú Bèi\NStyled: Xuándé
 Dialogue: 0,0:20:40.20,0:20:42.08,Default,,0,0,0,,Zijing is a loyal and generous man.
 Dialogue: 0,0:20:42.40,0:20:47.00,Default,,0,0,0,,He argued for our protection, so Sun Quan and Zhou Yu blamed him for their loss.
@@ -280,7 +280,7 @@ Dialogue: 0,0:21:59.68,0:22:04.08,Default,,0,0,0,,On the orders of the Marquis o
 Dialogue: 0,0:22:06.00,0:22:09.80,Default,,0,0,0,,Earlier, in front of the Marquis of Wu, I advocated
 Dialogue: 0,0:22:10.60,0:22:13.68,Default,,0,0,0,,to lend Jing Province as a\N temporary residence for you.
 Dialogue: 0,0:22:16.40,0:22:20.76,Default,,0,0,0,,Now it has been a long time since your promise, \Nand it has not been returned.
-Dialogue: 0,0:22:21.12,0:22:23.20,Default,,0,0,0,,Now that our two families are married,\N
+Dialogue: 0,0:22:21.12,0:22:23.20,Default,,0,0,0,,Now that our two families are married,
 Dialogue: 0,0:22:23.20,0:22:27.88,Default,,0,0,0,,consider that and return the land of Jing-Xiang.
 Dialogue: 0,0:22:28.48,0:22:29.84,Default,,0,0,0,,Okay...
 Dialogue: 0,0:22:38.00,0:22:41.36,Default,,0,0,0,,Imperial Uncle, why are you... why are you like this?
@@ -424,10 +424,10 @@ Dialogue: 0,0:34:05.48,0:34:06.08,Default,,0,0,0,,What!?
 Dialogue: 0,0:34:06.64,0:34:14.08,Default,,0,0,0,,Capture Zhou Yu alive!
 Dialogue: 0,0:34:16.40,0:34:19.84,Default,,0,0,0,,That Peasant Zhuge!
 Dialogue: 0,0:34:31.68,0:34:37.40,Default,,0,0,0,,Commander! Commander!
-Dialogue: 0,0:35:01.76,0:35:05.04,Default,,0,0,0,,Who is playing my {\i1}Yangzi River Song{\i0}?
+Dialogue: 0,0:35:01.76,0:35:05.04,Default,,0,0,0,,Who is playing my {\i1}Yangzi River Song?{\i0}
 Dialogue: 0,0:35:18.88,0:35:19.76,Default,,0,0,0,,On the mountain,
 Dialogue: 0,0:35:21.20,0:35:23.16,Default,,0,0,0,,who is it that zithers?
-Dialogue: 0,0:35:33.00,0:35:35.96,Default,,0,0,0,,How did you know \Nhow to play my {\i1}Yangzi River Song{\i0}?
+Dialogue: 0,0:35:33.00,0:35:35.96,Default,,0,0,0,,How did you know \Nhow to play my {\i1}Yangzi River Song?{\i0}
 Dialogue: 0,0:35:37.84,0:35:42.04,Default,,0,0,0,,{\bord11.909\pos(640,670)}I admired your perfect melody, Gongjin,
 Dialogue: 0,0:35:42.04,0:35:44.08,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}thus I obtained it at a great cost.
 Dialogue: 0,0:35:44.96,0:35:49.40,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}I have cherished it ever since,\N and I play it from time to time.

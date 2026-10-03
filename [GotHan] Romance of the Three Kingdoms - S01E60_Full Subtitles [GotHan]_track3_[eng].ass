@@ -34,10 +34,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.78,0:00:07.82,Episode Title,,0,0,0,,{\fade(255,0,255,0,1500,5740,7020)\pos(653.755,355)}Episode 60
 Dialogue: 0,0:00:00.78,0:00:07.82,Episode Title,,0,0,0,,{\fade(255,0,255,0,1500,5740,7020)\pos(653.755,524.455)}The Death of Cáo Cāo
-Dialogue: 0,0:00:30.02,0:00:32.40,Default,,0,0,0,,My Lord, masters Ma Liang and Yi Ji are here.
+Dialogue: 0,0:00:30.02,0:00:32.40,Default,,0,0,0,,My lord, masters Ma Liang and Yi Ji are here.
 Dialogue: 0,0:00:32.42,0:00:36.02,Style Names,,0,0,0,,{\pos(972.571,467.429)}Liú Bèi\NStyled: Xuándé
 Dialogue: 0,0:00:34.61,0:00:36.30,Default,,0,0,0,,Call them in.
-Dialogue: 0,0:00:36.86,0:00:37.92,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:00:36.86,0:00:37.92,Default,,0,0,0,,My lord!
 Dialogue: 0,0:00:39.30,0:00:43.34,Default,,0,0,0,,Please rise.
 Dialogue: 0,0:00:44.82,0:00:47.84,Default,,0,0,0,,How fare Jing Province and Yunchang?
 Dialogue: 0,0:00:47.84,0:00:52.37,Default,,0,0,0,,General Guan fell for Lu Xun's trap and moved most of the Jing army to siege Fancheng.
@@ -49,8 +49,8 @@ Dialogue: 0,0:01:06.21,0:01:09.29,Default,,0,0,0,,General Guan was hit by a pois
 Dialogue: 0,0:01:09.29,0:01:12.56,Default,,0,0,0,,He is now reassembling troops to retake Jing Province.
 Dialogue: 0,0:01:12.56,0:01:15.99,Default,,0,0,0,,General Guan ordered us to return to Chengdu to seek aid.
 Dialogue: 0,0:01:20.42,0:01:26.78,Style Names,,0,0,0,,{\fade(255,0,255,0,400,5940,6340)\pos(321.143,467.429)}Zhūgě Liàng\NStyled: Kǒngmíng
-Dialogue: 0,0:01:32.73,0:01:34.40,Default,,0,0,0,,My Lord!
-Dialogue: 0,0:01:38.52,0:01:41.31,Default,,0,0,0,,My Lord! Strategos!
+Dialogue: 0,0:01:32.73,0:01:34.40,Default,,0,0,0,,My lord!
+Dialogue: 0,0:01:38.52,0:01:41.31,Default,,0,0,0,,My lord! Strategos!
 Dialogue: 0,0:01:42.16,0:01:45.57,Default,,0,0,0,,General Liao, please rise. General Liao, please rise!
 Dialogue: 0,0:01:46.24,0:01:49.23,Default,,0,0,0,,General Guan was trapped in Maicheng.
 Dialogue: 0,0:01:49.23,0:01:51.27,Default,,0,0,0,,He ordered me to break out and seek help.
@@ -66,10 +66,10 @@ Dialogue: 0,0:02:32.77,0:02:37.60,Default,,0,0,0,,I will lead an army to rescue 
 Dialogue: 0,0:02:37.60,0:02:39.51,Default,,0,0,0,,Strategos, muster the troops
 Dialogue: 0,0:02:39.51,0:02:42.68,Default,,0,0,0,,and send a man to Langzhong to inform Yide.
 Dialogue: 0,0:02:43.56,0:02:44.33,Default,,0,0,0,,Yes.
-Dialogue: 0,0:02:44.74,0:02:48.04,Default,,0,0,0,,My Lord!
-Dialogue: 0,0:02:48.04,0:02:52.06,Default,NTP,0,0,0,,My Lord! General Guan left Maicheng for Linju overnight, but was caught by Wu!
+Dialogue: 0,0:02:44.74,0:02:48.04,Default,,0,0,0,,My lord!
+Dialogue: 0,0:02:48.04,0:02:52.06,Default,NTP,0,0,0,,My lord! General Guan left Maicheng for Linju overnight, but was caught by Wu!
 Dialogue: 0,0:02:52.06,0:02:56.34,Default,,0,0,0,,General Guan and his son chose\N to die rather than yield to Sun Quan!
-Dialogue: 0,0:03:02.95,0:03:04.17,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:03:02.95,0:03:04.17,Default,,0,0,0,,My lord!
 Dialogue: 0,0:03:05.26,0:03:07.50,Style Names,,0,0,0,,{\fade(255,0,255,0,400,1860,2220)\pos(334,506)}Sūn Quán\NStyled: Zhòngmóu
 Dialogue: 0,0:03:06.98,0:03:08.08,Default,,0,0,0,,How so?
 Dialogue: 0,0:03:08.61,0:03:13.76,Default,,0,0,0,,At present, Cao Cao, with\N a million strong host, covets Jiangnan.
@@ -116,18 +116,18 @@ Dialogue: 0,0:07:32.08,0:07:38.89,Default,,0,0,0,,With you dying in regret, \Nho
 Dialogue: 0,0:07:34.67,0:07:37.70,Default,,0,0,0,,Elder Uncle!
 Dialogue: 0,0:07:38.18,0:07:42.06,Style Names,,0,0,0,,{\pos(793.6,494.4)}Guān Xīng\NStyled: Ānguó
 Dialogue: 0,0:07:42.26,0:07:44.24,Default,,0,0,0,,Young Guan Xing!
-Dialogue: 0,0:08:19.13,0:08:20.79,Default,,0,0,0,,My Lord, worry not.
+Dialogue: 0,0:08:19.13,0:08:20.79,Default,,0,0,0,,My lord, worry not.
 Dialogue: 0,0:08:21.95,0:08:25.18,Default,,0,0,0,,{\bord14}As ancient wisdom says,\N "death and life are destined."
 Dialogue: 0,0:08:26.20,0:08:28.77,Default,,0,0,0,,{\bord14\pos(640,660)}Yunchang was unyielding but proud,
 Dialogue: 0,0:08:28.77,0:08:30.92,Default,,0,0,0,,{\bord14\pos(640,660)}and thus such tragedy befell him.
-Dialogue: 0,0:08:32.00,0:08:37.49,Default,,0,0,0,,{\bord14}My Lord, you should look after your health, in order to seek revenge later.
+Dialogue: 0,0:08:32.00,0:08:37.49,Default,,0,0,0,,{\bord14}My lord, you should look after your health, in order to seek revenge later.
 Dialogue: 0,0:08:38.22,0:08:43.09,Default,,0,0,0,,{\bord14}When I swore at the Peach Garden with Yunchang and Yide,
 Dialogue: 0,0:08:43.09,0:08:45.35,Default,,0,0,0,,{\bord14\pos(640,660)}we swore to live and die together.
 Dialogue: 0,0:08:45.35,0:08:47.37,Default,,0,0,0,,{\bord14\pos(640,660)}Now that Yunchang has passed,
 Dialogue: 0,0:08:48.96,0:08:52.98,Default,,0,0,0,,{\bord14\pos(640,660)}how can I enjoy glory by myself?
-Dialogue: 0,0:08:58.73,0:08:59.17,Default,,0,0,0,,My Lord—
+Dialogue: 0,0:08:58.73,0:08:59.17,Default,,0,0,0,,My lord—
 Dialogue: 0,0:08:59.17,0:09:03.43,Default,,0,0,0,,{\bord14}I shall not live under the same\N sun and moon as Eastern Wu!
-Dialogue: 0,0:09:06.15,0:09:09.46,Default,NTP,0,0,0,,My Lord, scouts have reported,
+Dialogue: 0,0:09:06.15,0:09:09.46,Default,NTP,0,0,0,,My lord, scouts have reported,
 Dialogue: 0,0:09:09.46,0:09:13.30,Default,NTP,0,0,0,,Eastern Wu offered Yunchang's head to Cao Cao.
 Dialogue: 0,0:09:15.25,0:09:18.48,Default,,0,0,0,,Cao Cao buried him with noble honors.
 Dialogue: 0,0:09:19.12,0:09:21.14,Default,,0,0,0,,What is the meaning of this?
@@ -136,10 +136,10 @@ Dialogue: 0,0:09:26.92,0:09:31.77,Default,,0,0,0,,He buried Yunchang to \Nmake y
 Dialogue: 0,0:09:34.43,0:09:41.99,Default,,0,0,0,,Pity my Yunchang, his head and body in two places!
 Dialogue: 0,0:09:43.74,0:09:46.91,Style Names,,0,0,0,,{\pos(971.2,227.2)}General of\N the Five Tigers,\NMarquis of Hanshou,\NSpirit Tablet \Nof Guan Yu
 Dialogue: 0,0:09:52.52,0:09:58.71,Default,,0,0,0,,Muster the army against Eastern Wu and exact revenge!
-Dialogue: 0,0:10:00.16,0:10:01.70,Default,,0,0,0,,My Lord, do not!
+Dialogue: 0,0:10:00.16,0:10:01.70,Default,,0,0,0,,My lord, do not!
 Dialogue: 0,0:10:02.41,0:10:07.16,Default,,0,0,0,,Right now, Wu wants us to invade Wei \Nwhilst Wei wants us to attack Wu.
 Dialogue: 0,0:10:07.16,0:10:09.87,Default,,0,0,0,,They both have their own interests.
-Dialogue: 0,0:10:10.63,0:10:15.28,Default,,0,0,0,,My Lord, you should stay put \Nand hold a funeral for Yunchang.
+Dialogue: 0,0:10:10.63,0:10:15.28,Default,,0,0,0,,My lord, you should stay put \Nand hold a funeral for Yunchang.
 Dialogue: 0,0:10:16.20,0:10:20.85,Default,,0,0,0,,Our best chance is to attack when Wu \Nand Wei are fighting against each other.
 Dialogue: 0,0:10:30.48,0:10:36.53,Default,,0,0,0,,Tomorrow, I will go outside the \Nsouthern gate to hold a memorial ceremony.
 Dialogue: 0,0:10:36.53,0:10:42.71,Default,,0,0,0,,All military personnel will wear \Nmourning clothes for Yunchang.
@@ -294,7 +294,7 @@ Dialogue: 0,0:25:02.61,0:25:07.72,Default,,0,0,0,,{\bord14}I hope the coming yea
 Dialogue: 0,0:25:07.94,0:25:12.02,Default,,0,0,0,,{\bord14\pos(640,660)}Let it be such a year!
 Dialogue: 0,0:25:30.56,0:25:33.70,Default,NTP,0,0,0,,Your Highness, Eastern Wu has sent an envoy
 Dialogue: 0,0:25:33.70,0:25:35.50,Default,NTP,0,0,0,,to deliver a letter from Sun Quan.
-Dialogue: 0,0:25:46.14,0:25:51.44,Thinking,,0,0,0,,{\bord14}Your servant, Sun Quan, has long known that \Nthe Mandate of Heaven now favors the Prince of Wei.
+Dialogue: 0,0:25:46.14,0:25:51.44,Thinking,,0,0,0,,{\bord14}Your servant, Sun Quan, has long known that \Nthe Mandate of Heaven now favors the King of Wei.
 Dialogue: 0,0:25:51.44,0:25:53.70,Thinking,,0,0,0,,{\bord14\pos(640,660)}I hope you shall ascend to the Great Throne,
 Dialogue: 0,0:25:53.70,0:25:57.49,Thinking,,0,0,0,,{\bord14\pos(640,660)}eradicate Liu Bei, and pacify the two Riverlands.
 Dialogue: 0,0:25:57.49,0:26:02.69,Thinking,,0,0,0,,{\bord14}Then, I will immediately submit to you with all my people and land.
@@ -311,7 +311,7 @@ Dialogue: 0,0:26:58.56,0:27:00.73,Default,,0,0,0,,{\bord14\pos(640,660)}Ascend t
 Dialogue: 0,0:27:00.73,0:27:04.84,Default,,0,0,0,,May Your Highness ascend to the Great Throne!
 Dialogue: 0,0:27:09.54,0:27:14.50,Default,,0,0,0,,{\bord14\pos(640,660)}I have served the House of Han for many years.
 Dialogue: 0,0:27:14.50,0:27:17.44,Default,,0,0,0,,{\bord14\pos(640,660)}Although I have virtuous deeds and the people's will,
-Dialogue: 0,0:27:18.30,0:27:21.46,Default,,0,0,0,,{\bord14\pos(640,660)}I am already the Prince of Wei.
+Dialogue: 0,0:27:18.30,0:27:21.46,Default,,0,0,0,,{\bord14\pos(640,660)}I am already the King of Wei.
 Dialogue: 0,0:27:21.46,0:27:27.44,Default,,0,0,0,,{\bord14}With my fame at its zenith, \Nhow can I have higher aspirations?
 Dialogue: 0,0:27:28.78,0:27:35.20,Default,,0,0,0,,{\bord14\pos(640,660)}Supposing the Mandate of Heaven is with me,
 Dialogue: 0,0:27:35.20,0:27:41.16,Default,,0,0,0,,{\bord14\pos(640,660)}then let me be King Wen of Zhou.
@@ -322,7 +322,7 @@ Dialogue: 0,0:28:00.08,0:28:01.34,Default,,0,0,0,,Very well.
 Dialogue: 0,0:28:01.94,0:28:07.65,Default,,0,0,0,,I hereby appoint Sun Quan as "General of Fast Cavalry,"
 Dialogue: 0,0:28:07.65,0:28:11.64,Default,,0,0,0,,Marquis of Nanchang, and Lord of Jing Province.
 Dialogue: 0,0:28:11.64,0:28:14.96,Default,,0,0,0,,Tomorrow, send an envoy to Eastern Wu.
-Dialogue: 0,0:28:14.96,0:28:29.62,Default,,0,0,0,,Long live the Prince!
+Dialogue: 0,0:28:14.96,0:28:29.62,Default,,0,0,0,,Long live the King!
 Dialogue: 0,0:28:40.76,0:28:44.82,Default,,0,0,0,,Doctor Hua, it's New Year's Day. Have some wine!
 Dialogue: 0,0:28:45.65,0:28:46.82,Default,,0,0,0,,New Years?
 Dialogue: 0,0:28:48.53,0:28:51.22,Default,,0,0,0,,Happy New Year, Bailiff Wu!

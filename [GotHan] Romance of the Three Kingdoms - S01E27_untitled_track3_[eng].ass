@@ -96,7 +96,7 @@ Dialogue: 0,0:03:25.24,0:03:27.76,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}
 Dialogue: 0,0:03:29.36,0:03:32.46,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}My only hope is your benevolence and righteousness.
 Dialogue: 0,0:03:31.20,0:03:38.00,Note (Potential style?),Liu Bei,0,0,0,,TL: "Noble aspirations form from content and unassuming character;\Nfar destinations are reached by tranquility and quietude."
 Dialogue: 0,0:03:32.46,0:03:37.06,Thinking,Liu Bei,0,0,0,,{\bord12}Were you to muster the talents \Nof Lü Wang and the plans of Zifang,
-Dialogue: 0,0:03:37.06,0:03:41.57,Thinking,Liu Bei,0,0,0,,{\bord12}then the Empire and it's spirits would be fortunate indeed!
+Dialogue: 0,0:03:37.06,0:03:41.57,Thinking,Liu Bei,0,0,0,,{\bord12}then the Empire and its spirits would be fortunate indeed!
 Dialogue: 0,0:03:42.60,0:03:44.38,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Allow me to express myself:
 Dialogue: 0,0:03:44.38,0:03:47.16,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}For my next visit, I will purify myself by fasting.
 Dialogue: 0,0:03:47.16,0:03:51.00,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}I will offer my respects and receive your teachings.
@@ -104,7 +104,7 @@ Dialogue: 0,0:03:54.16,0:03:56.79,Default,Liu Bei,0,0,0,,Give this to your broth
 Dialogue: 0,0:04:06.82,0:04:08.34,Default,Zhuge Jun,0,0,0,,Have a safe return, General.
 Dialogue: 0,0:04:08.34,0:04:11.80,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}The freezing northern wind at night!
 Dialogue: 0,0:04:11.80,0:04:13.27,Default,Zhuge Jun,0,0,0,,The old master has arrived.
-Dialogue: 0,0:04:14.60,0:04:22.50,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}Red clouds thousands of miles long!
+Dialogue: 0,0:04:14.60,0:04:22.50,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}Red clouds thousands of {\i1}li{\i0} long!
 Dialogue: 0,0:04:22.50,0:04:30.03,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}Snow in the vast sky flutters awry!
 Dialogue: 0,0:04:30.03,0:04:38.20,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}The old mountains have changed!
 Dialogue: 0,0:04:38.20,0:04:46.08,Default,Huang Chengyan,0,0,0,,{\bord12\pos(640,660)}I face upward and gaze upon creation!
@@ -174,7 +174,7 @@ Dialogue: 0,0:09:53.56,0:09:55.47,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}h
 Dialogue: 0,0:09:56.66,0:10:00.14,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Sun Quan commands the entire swath of Jiangdong!
 Dialogue: 0,0:10:00.14,0:10:02.70,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}This is due to the talents he has acquired.
 Dialogue: 0,0:10:02.70,0:10:04.49,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}They will surely become hegemons.
-Dialogue: 0,0:10:05.68,0:10:10.00,Default,Liu Bei,0,0,0,,{\bord12}But I still depend on Liu Biao, \Ncondemned to such a puny place as Xinye.
+Dialogue: 0,0:10:05.68,0:10:10.00,Default,Liu Bei,0,0,0,,{\bord12}But I still depend on Liu Biao, \Ncondemned to puny place like Xinye.
 Dialogue: 0,0:10:11.36,0:10:17.14,Default,Liu Bei,0,0,0,,{\bord12}All this because I lack a sage by my side who can administer stratagems and cultivate armies!
 Dialogue: 0,0:10:17.14,0:10:20.02,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}We are sworn brothers, sharing life and death!
 Dialogue: 0,0:10:20.02,0:10:24.08,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}So how can you still be blind to my goal?
@@ -215,7 +215,7 @@ Dialogue: 0,0:14:25.90,0:14:26.80,Default,Page,0,0,0,,General, after...
 Dialogue: 0,0:14:41.14,0:14:43.22,Default,Page,0,0,0,,Why don't you wait inside, General?
 Dialogue: 0,0:14:44.60,0:14:46.91,Default,Liu Bei,0,0,0,,I will wait until your master is awake.
 Dialogue: 0,0:14:59.83,0:15:00.83,Default,Guan Yu,0,0,0,,Third Brother!
-Dialogue: 0,0:15:04.70,0:15:06.45,Default,Zhang Fei,0,0,0,,The hubris of this 'master'!
+Dialogue: 0,0:15:04.70,0:15:06.45,Default,Zhang Fei,0,0,0,,The hubris of this "master"!
 Dialogue: 0,0:15:06.45,0:15:08.66,Default,Zhang Fei,0,0,0,,Elder Brother's at his porch and he naps!
 Dialogue: 0,0:15:08.66,0:15:09.37,Default,Guan Yu,0,0,0,,Third Brother...
 Dialogue: 0,0:15:10.15,0:15:11.98,Default,Zhang Fei,0,0,0,,I'll burn his cottage down,
@@ -260,7 +260,7 @@ Dialogue: 0,0:19:22.32,0:19:25.13,Default,Zhuge Liang,0,0,0,,Decao and Yuanzhi a
 Dialogue: 0,0:19:25.13,0:19:28.44,Default,Zhuge Liang,0,0,0,,I am but a farmer, how could I discuss politics?
 Dialogue: 0,0:19:29.44,0:19:33.59,Default,Zhuge Liang,0,0,0,,Would you throw away fine jade for rough stones?
 Dialogue: 0,0:19:33.59,0:19:35.54,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Sir, you are too modest.
-Dialogue: 0,0:19:35.54,0:19:38.46,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Great men hope to employ the talents of this world.
+Dialogue: 0,0:19:35.54,0:19:38.46,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Great men wish to employ the talents of this world.
 Dialogue: 0,0:19:38.46,0:19:41.28,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}How could I waste my days hiding in the mountains?
 Dialogue: 0,0:19:41.28,0:19:46.74,Default,Liu Bei,0,0,0,,{\bord12}Please think of the commoners in this world and accept this dull pupil.
 Dialogue: 0,0:19:56.76,0:20:00.50,Default,Zhuge Liang,0,0,0,,{\bord12}In that case, \NI shall hear you, General.
@@ -280,13 +280,13 @@ Dialogue: 0,0:21:09.21,0:21:12.61,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,66
 Dialogue: 0,0:21:12.61,0:21:16.74,Default,Zhuge Liang,0,0,0,,{\bord12}With difficult terrain and prosperous people, he can be relied on for support,
 Dialogue: 0,0:21:16.74,0:21:18.84,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}and not to be conspired against.
 Dialogue: 0,0:21:25.25,0:21:28.23,Default,Zhuge Liang,0,0,0,,{\bord12}Jing Province has the Rivers Han and Mian to its north,
-Dialogue: 0,0:21:28.23,0:21:30.54,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}that gives access to the Southern Sea.
+Dialogue: 0,0:21:28.23,0:21:30.54,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}which give access to the Southern Sea.
 Dialogue: 0,0:21:30.54,0:21:32.88,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}With lands of Wu to its east and Shu to its west,
 Dialogue: 0,0:21:32.88,0:21:37.08,Default,Zhuge Liang,0,0,0,,{\bord12}it is a location for military force, \Nyet its lord is incapable of defense.
 Dialogue: 0,0:21:37.08,0:21:39.87,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}This is a land granted you by Heaven, General.
 Dialogue: 0,0:21:41.75,0:21:45.56,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Might you be interested in it, General?
 Dialogue: 0,0:21:48.90,0:21:51.59,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Yi Province is west of Jing Province.
-Dialogue: 0,0:21:51.59,0:21:55.70,Default,Zhuge Liang,0,0,0,,{\bord12}With treacherous roads but fertile earth, a land of the plenty sent by Heaven!
+Dialogue: 0,0:21:51.59,0:21:55.70,Default,Zhuge Liang,0,0,0,,{\bord12}With treacherous roads but fertile earth, \N'tis a land of the plenty sent by Heaven!
 Dialogue: 0,0:21:55.70,0:21:58.42,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}With it did Gaozu accomplish his imperial designs.
 Dialogue: 0,0:21:58.42,0:22:00.34,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Yet Liu Zhang is dim-witted and weak.
 Dialogue: 0,0:22:00.34,0:22:03.78,Default,Zhuge Liang,0,0,0,,{\bord12}Though his land is rich, he does not know how to support his people and army.
@@ -389,7 +389,7 @@ Dialogue: 0,0:27:51.72,0:27:55.86,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:27:55.86,0:27:59.95,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}for that cherished dream I hold;
 Dialogue: 0,0:27:59.95,0:28:10.04,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}To be again a farmer, in my years of old!
 Dialogue: 0,0:28:10.04,0:28:14.34,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}Clear wind,
-Dialogue: 0,0:28:14.34,0:28:18.46,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}Bright moon,
+Dialogue: 0,0:28:14.34,0:28:18.46,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}bright moon,
 Dialogue: 0,0:28:18.46,0:28:34.84,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}embracing me, as apes and cranes hear my zither.
 Dialogue: 0,0:28:34.84,0:28:43.00,Thinking,Singer 2,0,0,0,,{\bord12}Fickle are the ways of heaven, as fates elude from inquiry.
 Dialogue: 0,0:28:43.00,0:28:47.08,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}Guile determines wins and losses,
@@ -403,7 +403,7 @@ Dialogue: 0,0:29:24.04,0:29:28.16,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:29:28.16,0:29:32.18,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}for that cherished dream I hold;
 Dialogue: 0,0:29:32.18,0:29:41.74,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}To be again a farmer, in my years of old!
 Dialogue: 0,0:29:42.32,0:29:46.54,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}Clear wind,
-Dialogue: 0,0:29:46.54,0:29:50.62,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}Bright moon,
+Dialogue: 0,0:29:46.54,0:29:50.62,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}bright moon,
 Dialogue: 0,0:29:50.62,0:30:05.76,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}embracing me, as apes and cranes hear my zither.
 Dialogue: 0,0:31:13.48,0:31:14.34,Default,Zhuge Liang,0,0,0,,Switch formations.
 Dialogue: 0,0:31:14.34,0:31:14.60,Default,Soldier,0,0,0,,Yes!

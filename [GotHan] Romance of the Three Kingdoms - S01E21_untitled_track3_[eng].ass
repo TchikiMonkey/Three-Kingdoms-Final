@@ -42,7 +42,7 @@ Style: That one frame,@FangSong,72,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.68,0:00:08.32,Episode Title,,0,0,0,,{\fade(255,0,255,0,1200,6440,7640)\pos(640,365.4)}Episode 21
-Dialogue: 0,0:00:00.68,0:00:08.32,Episode Title,,0,0,0,,{\fade(255,0,255,0,1200,6440,7640)\pos(640,567.6)}The Battle of Guandu - Part One
+Dialogue: 0,0:00:00.68,0:00:08.32,Episode Title,,0,0,0,,{\fade(255,0,255,0,1200,6440,7640)\pos(640,567.6)}The Battle of Guāndù - Part One
 Dialogue: 0,0:00:31.08,0:00:33.72,Thinking,Narrator,0,0,0,,In the fourth year of the Jian'an era, 200 CE,
 Dialogue: 0,0:00:33.72,0:00:36.39,Thinking,Narrator,0,0,0,,Sun Ce of Eastern Wu passed away.
 Dialogue: 0,0:00:36.39,0:00:39.78,Thinking,Narrator,0,0,0,,His younger brother, Sun Quan, succeeded him.
@@ -126,9 +126,9 @@ Dialogue: 0,0:07:48.97,0:07:56.22,Default,Yuan Shao,0,0,0,Insane; Arrogant,
 Dialogue: 0,0:07:56.64,0:07:57.68,Default,Cao Cao,0,0,0,Stern,Sound the drums!
 Dialogue: 0,0:08:47.53,0:08:48.32,Default,Yuan Shao,0,0,0,,Shoot!
 Dialogue: 0,0:09:25.59,0:09:27.08,Default,Yuan Shao,0,0,0,,Exterminate the traitors!
-Dialogue: 0,0:09:52.26,0:09:54.94,Default,Soldier,0,0,0,,My lord, Cao Cao fled back to his camp at Guāndù !
-Dialogue: 0,0:09:57.38,0:09:58.81,Default,Yuan Shao,0,0,0,,He fled to Guāndù ?
-Dialogue: 0,0:09:59.87,0:10:03.06,Default,Yuan Shao,0,0,0,,Guāndù is the chokepoint to Xǔchāng (Xǔdū).
+Dialogue: 0,0:09:52.26,0:09:54.94,Default,Soldier,0,0,0,,My lord, Cao Cao fled back to his camp at Guāndù!
+Dialogue: 0,0:09:57.38,0:09:58.81,Default,Yuan Shao,0,0,0,,He fled to Guāndù?
+Dialogue: 0,0:09:59.87,0:10:03.06,Default,Yuan Shao,0,0,0,,Guāndù is the chokepoint to Xǔdū.
 Dialogue: 0,0:10:03.06,0:10:06.96,Default,Yuan Shao,0,0,0,,Cao Cao seeks to grab my army's very throat with this move
 Dialogue: 0,0:10:06.96,0:10:09.19,Default,Yuan Shao,0,0,0,,and stop us from advancing to Xǔchāng.
 Dialogue: 0,0:10:10.46,0:10:11.91,Default,Yuan Shao,0,0,0,,How clever.
@@ -170,7 +170,7 @@ Dialogue: 0,0:14:29.84,0:14:32.91,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}S
 Dialogue: 0,0:14:38.54,0:14:41.93,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}What if I were to leave early...
 Dialogue: 0,0:14:42.99,0:14:48.54,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Prepare my army for a proper attack at later day?
 Dialogue: 0,0:14:57.78,0:15:01.80,Default,Cao Cao,0,0,0,,Much has been said from me, so what is with your silence?
-Dialogue: 0,0:15:02.85,0:15:06.84,Default,Liu Ye,0,0,0,,{\bord12}Chancellor, I came here to propose the usage of 'Thunder Mangonels',
+Dialogue: 0,0:15:02.85,0:15:06.84,Default,Liu Ye,0,0,0,,{\bord12}Chancellor, I came here to propose the usage of "Thunder Mangonels,"
 Dialogue: 0,0:15:06.84,0:15:08.84,Default,Liu Ye,0,0,0,,{\bord12\pos(640,660)}but I did not expect you...
 Dialogue: 0,0:15:09.07,0:15:10.20,Default,Cao Cao,0,0,0,,What?
 Dialogue: 0,0:15:11.18,0:15:14.52,Default,Liu Ye,0,0,0,,{\bord12\pos(640,660)}I did not expect Chancellor to think of fleeing.
@@ -184,25 +184,25 @@ Dialogue: 0,0:15:48.42,0:15:50.42,Default,Messenger,0,0,0,,with a letter from Xu
 Dialogue: 0,0:16:02.47,0:16:08.96,Default,Xun Yu,0,0,0,,{\bord12)}"Yuan Shao has assembled his whole army at Guandu, to make a last stand against you."
 Dialogue: 0,0:16:08.96,0:16:14.29,Default,Xun Yu,0,0,0,,{\bord12}"Sire has to match with weak against the strong, "If you cannot outmaneuver him, he will win."
 Dialogue: 0,0:16:14.29,0:16:16.97,Default,Xun Yu,0,0,0,,{\bord12\pos(640,660)}"This moment will decide the fate of all."
-Dialogue: 0,0:16:17.62,0:16:21.05,Default,Xun Yu,0,0,0,,{\bord12}"Though (Yuan) Shao's army is grand, he cannot use it."
+Dialogue: 0,0:16:17.62,0:16:21.05,Default,Xun Yu,0,0,0,,{\bord12}"Though Shao's army is grand, he cannot use it."
 Dialogue: 0,0:16:21.05,0:16:24.70,Default,Xun Yu,0,0,0,,{\bord12)}"With your divine might and wisdom, however will you fail?"
 Dialogue: 0,0:16:25.40,0:16:28.08,Default,Xun Yu,0,0,0,,{\bord12}"Though our army is small, \N we have set our borders.
 Dialogue: 0,0:16:28.08,0:16:30.52,Default,Xun Yu,0,0,0,,{\bord12\pos(640,660)}"Hold onto the chokepoint to stymie the advance"
 Dialogue: 0,0:16:30.52,0:16:32.90,Default,Xun Yu,0,0,0,,{\bord12\pos(640,660)}"Soon, the tide will begin to turn in haste."
 Dialogue: 0,0:16:32.90,0:16:36.32,Default,Xun Yu,0,0,0,,{\bord12\pos(640,660)}"To strike with surprise at this moment is most vital."
-Dialogue: 0,0:16:40.26,0:16:42.57,Thinking,Cao Cao,0,0,0,,{\bord12\pos(640,660)}'We have set our borders...'
-Dialogue: 0,0:16:42.57,0:16:45.39,Thinking,Cao Cao,0,0,0,,{\bord12\pos(640,660)}'Hold onto the chokepoint to stymie their advance?'
-Dialogue: 0,0:16:46.12,0:16:50.12,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}'The tide will begin to turn in haste?'
-Dialogue: 0,0:16:52.15,0:16:55.38,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}'To strike with surprise at this moment is most vital.'
+Dialogue: 0,0:16:40.26,0:16:42.57,Thinking,Cao Cao,0,0,0,,{\bord12\pos(640,660)}"We have set our borders..."
+Dialogue: 0,0:16:42.57,0:16:45.39,Thinking,Cao Cao,0,0,0,,{\bord12\pos(640,660)}"Hold onto the chokepoint to stymie their advance"?
+Dialogue: 0,0:16:46.12,0:16:50.12,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}"The tide will begin to turn in haste"?
+Dialogue: 0,0:16:52.15,0:16:55.38,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}"To strike with surprise at this moment is most vital."
 Dialogue: 0,0:16:56.38,0:16:59.38,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Indeed, the moment is vital!
 Dialogue: 0,0:17:00.16,0:17:03.36,Default,Cao Hong,0,0,0,,Chancellor, what does Xun Yu suggest we do?
 Dialogue: 0,0:17:04.74,0:17:06.07,Default,Cao Cao,0,0,0,,Fortify Guandu.
 Dialogue: 0,0:17:07.47,0:17:10.30,Default,Cao Cao,0,0,0,,Hold onto the chokepoint to stymie their advance.
 Dialogue: 0,0:17:19.33,0:17:22.07,Default,Cao Hong,0,0,0,,But with the conditions before us...
 Dialogue: 0,0:17:27.95,0:17:31.35,Default,Cao Cao,0,0,0,,The stalemate at Guandu has lasted over a month.
-Dialogue: 0,0:17:31.35,0:17:34.10,Default,Cao Cao,0,0,0,,As was said, "the tide will begin to turn".
+Dialogue: 0,0:17:31.35,0:17:34.10,Default,Cao Cao,0,0,0,,As was said, "the tide will begin to turn."
 Dialogue: 0,0:17:35.28,0:17:40.43,Default,Cao Cao,0,0,0,,If we maintain this position and seize every available opportunity,
-Dialogue: 0,0:17:40.43,0:17:45.60,Default,Cao Cao,0,0,0,,then it is just as sir Xun Yu summarized, in four words, "the tide will turn".
+Dialogue: 0,0:17:40.43,0:17:45.60,Default,Cao Cao,0,0,0,,then it is just as sir Xun Yu summarized, in four words, "the tide will turn."
 Dialogue: 0,0:17:46.61,0:17:51.88,Default,Cao Cao,0,0,0,,For now, we must stabilize our army and raise our morale.
 Dialogue: 0,0:17:52.09,0:17:54.96,Default,Cao Cao,0,0,0,,But first, Sir Ziyang has a schematic to show.
 Dialogue: 0,0:17:56.50,0:17:57.56,Default,Cao Cao,0,0,0,,Sir Ziyang?

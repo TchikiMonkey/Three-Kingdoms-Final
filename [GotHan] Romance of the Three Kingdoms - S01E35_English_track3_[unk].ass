@@ -42,18 +42,18 @@ Style: Note (Potential Style),Yu Gothic UI Semibold,31,&H0000FFFF,&H000000FF,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.30,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:01.36,0:00:06.40,Episode Title,,0,0,0,,{\fade(255,0,255,0,700,4260,5280)\pos(635.949,339.407)}Episode 35
-Dialogue: 0,0:00:01.36,0:00:06.40,Episode Title,,0,0,0,,{\fade(255,0,255,0,700,4260,5280)\pos(635.949,535.71)}Self-Injury Ploy
-Dialogue: 0,0:00:06.26,0:00:12.70,Thinking,,0,0,0,,Jiang Gan's message misled Cao Cao into putting \NNaval commanders Cai Mao and Zhang Yun to death,
+Dialogue: 0,0:00:01.36,0:00:06.40,Episode Title,,0,0,0,,{\fade(255,0,255,0,700,4260,5280)\pos(635.949,535.71)}Self-Injury Ruse
+Dialogue: 0,0:00:06.26,0:00:12.70,Thinking,,0,0,0,,Jiang Gan's message misled Cao Cao into putting \NNaval Commanders Cai Mao and Zhang Yun to death,
 Dialogue: 0,0:00:12.70,0:00:17.96,Thinking,NTP,0,0,0,,while Zhuge Liang's "borrowing of arrows" \Ncaused Cao Cao to lose around 150,000 arrows.
 Dialogue: 0,0:00:18.47,0:00:22.90,Thinking,,0,0,0,,These continuous setbacks irritated Cao Cao immensely,
 Dialogue: 0,0:00:22.90,0:00:26.29,Thinking,,0,0,0,,so he accepted Xun You's ploy of a false surrender,
 Dialogue: 0,0:00:26.29,0:00:32.29,Thinking,,0,0,0,,sending Cai Mao's relatives \NCai Zhong and Cai He to Eastern Wu
 Dialogue: 0,0:00:32.29,0:00:35.35,Thinking,,0,0,0,,as sleeper agents to spy out useful information.
 Dialogue: 0,0:00:35.35,0:00:39.56,Default,,0,0,0,,Report! Chief Commander, ships from the north have reached our port!
-Dialogue: 0,0:00:41.64,0:00:45.00,Style Names,,0,0,0,,{\pos(388.475,451.948)\fade(255,0,255,0,400,2800,3180)}Zhōu Yú \NStyled, Gōngjǐn
+Dialogue: 0,0:00:41.64,0:00:45.00,Style Names,,0,0,0,,{\pos(388.475,451.948)\fade(255,0,255,0,400,2800,3180)}Zhōu Yú \NStyled: Gōngjǐn
 Dialogue: 0,0:00:44.01,0:00:45.53,Default,,0,0,0,,Who are among them?
 Dialogue: 0,0:00:45.53,0:00:48.68,Default,,0,0,0,,Cai Zhong and Cai He, along with a few hundred soldiers!
-Dialogue: 0,0:00:49.90,0:00:52.34,Style Names,,0,0,0,,{\pos(322.121,442.596)}Lǔ Sù \NStyled, Zǐjìng
+Dialogue: 0,0:00:49.90,0:00:52.34,Style Names,,0,0,0,,{\pos(322.121,442.596)}Lǔ Sù \NStyled: Zǐjìng
 Dialogue: 0,0:00:51.14,0:00:52.87,Default,,0,0,0,,Have they brought their families?
 Dialogue: 0,0:00:52.85,0:00:53.31,Default,,0,0,0,,No.
 Dialogue: 0,0:01:00.88,0:01:02.06,Default,,0,0,0,,Bring them to me!
@@ -69,7 +69,7 @@ Dialogue: 0,0:01:33.36,0:01:39.66,Default,,0,0,0,,We both swore to avenge our br
 Dialogue: 0,0:01:35.66,0:01:38.48,Style Names,,0,0,0,,{\pos(977.939,419.221)\fade(255,0,255,0,400,2420,2760)}Cài Zhōng
 Dialogue: 0,0:01:40.00,0:01:42.96,Default,,0,0,0,,We wish to serve in the vanguard when you attack!
 Dialogue: 0,0:01:42.96,0:01:45.59,Default,,0,0,0,,Gentlemen, rest assured.
-Dialogue: 0,0:01:45.22,0:01:48.86,Style Names,,0,0,0,,{\pos(954.792,462.468)}Zhūgé Liàng \NStyled, Kǒngmíng
+Dialogue: 0,0:01:45.22,0:01:48.86,Style Names,,0,0,0,,{\pos(954.792,462.468)}Zhūgé Liàng \NStyled: Kǒngmíng
 Dialogue: 0,0:01:45.62,0:01:48.90,Default,,0,0,0,,Save your sorrows, for I shall take revenge for you!
 Dialogue: 0,0:01:48.90,0:01:50.50,Default,,0,0,0,,Thank you, Chief Commander!
 Dialogue: 0,0:01:51.02,0:01:51.86,Default,,0,0,0,,Gan Ning!
@@ -95,7 +95,7 @@ Dialogue: 0,0:03:41.58,0:03:43.30,Default,,0,0,0,,Brother Xingba.
 Dialogue: 0,0:03:44.74,0:03:47.30,Default,,0,0,0,,Chief Commander, please.
 Dialogue: 0,0:03:47.30,0:03:50.30,Default,,0,0,0,,Did you make arrangements for the Cai brothers?
 Dialogue: 0,0:03:51.86,0:03:56.54,Default,,0,0,0,,Observing your expression earlier today, \NI know their surrender is false.
-Dialogue: 0,0:03:52.38,0:03:56.02,Style Names,,0,0,0,,{\pos(930.102,445.714)\fade(255,0,255,0,400,2980,3320)}Gān Níng \NStyled, Xìngbà
+Dialogue: 0,0:03:52.38,0:03:56.02,Style Names,,0,0,0,,{\pos(930.102,445.714)\fade(255,0,255,0,400,2980,3320)}Gān Níng \NStyled: Xìngbà
 Dialogue: 0,0:03:58.58,0:04:02.58,Default,,0,0,0,,But I have not figured out how you wish to deal with them.
 Dialogue: 0,0:04:05.22,0:04:06.58,Default,,0,0,0,,Keep those traitors.
 Dialogue: 0,0:04:07.02,0:04:09.82,Default,,0,0,0,,Let them leak certain information for us.
@@ -103,7 +103,7 @@ Dialogue: 0,0:04:10.26,0:04:12.94,Default,Zhou Yu,0,0,0,,Keep tending to them wi
 Dialogue: 0,0:04:12.94,0:04:15.34,Default,Zhou Yu,0,0,0,,but be wary over their actions.
 Dialogue: 0,0:04:16.30,0:04:17.86,Default,,0,0,0,,You can rest assured!
 Dialogue: 0,0:04:59.86,0:05:00.38,Default,,0,0,0,,Who is it?
-Dialogue: 0,0:05:01.34,0:05:03.94,Style Names,,0,0,0,,{\pos(392.329,326.909)}Huáng Gài\NStyled, Gōngfù
+Dialogue: 0,0:05:01.34,0:05:03.94,Style Names,,0,0,0,,{\pos(392.329,326.909)}Huáng Gài\NStyled: Gōngfù
 Dialogue: 0,0:05:00.42,0:05:03.94,Default,Huang Gai,0,0,0,,Huang Gai; I have brought provisions\N and am here to see you.
 Dialogue: 0,0:05:06.54,0:05:08.66,Default,,0,0,0,,Please.
 Dialogue: 0,0:05:11.94,0:05:12.98,Default,,0,0,0,,Please sit.
@@ -125,9 +125,9 @@ Dialogue: 0,0:06:29.58,0:06:32.62,Default,Zhou Yu,0,0,0,,it will be hard to atta
 Dialogue: 0,0:06:33.66,0:06:37.06,Default,,0,0,0,,That is true. If this were on land, we could mount an ambush
 Dialogue: 0,0:06:37.06,0:06:40.62,Default,,0,0,0,,and if this were in their camps, we could burn them.
 Dialogue: 0,0:06:41.04,0:06:43.22,Default,,0,0,0,,But now, we are fighting on water...
-Dialogue: 0,0:06:43.42,0:06:48.94,Default,NTP,0,0,0,,When fighting on water, how can we sail to their camp in secret and set their ships ablaze?
+Dialogue: 0,0:06:43.42,0:06:48.94,Default,NTP,0,0,0,,How can we sail to their camp in secret \Nand set their ships ablaze?
 Dialogue: 0,0:06:51.50,0:06:57.38,Default,,0,0,0,,Cai Zhong and Cai He feigned their surrender to us...
-Dialogue: 0,0:06:58.58,0:07:01.94,Default,Zhou Yu,0,0,0,,We could send one of our men over to feign surrender also,
+Dialogue: 0,0:06:58.58,0:07:01.94,Default,Zhou Yu,0,0,0,,We also could send one of our men over to feign surrender,
 Dialogue: 0,0:07:01.94,0:07:04.78,Default,Zhou Yu,0,0,0,,setting the enemy ships ablaze \Nwhile they are unaware.
 Dialogue: 0,0:07:05.42,0:07:10.50,Default,,0,0,0,,Only, this person needs to be more appealing than the Cai brothers.
 Dialogue: 0,0:07:11.14,0:07:15.42,Default,,0,0,0,,Otherwise, Cao Cao will not trust them easily.
@@ -145,7 +145,7 @@ Dialogue: 0,0:07:52.78,0:07:55.42,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}Y
 Dialogue: 0,0:07:55.42,0:07:58.58,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}Perhaps Commander does not have faith in me?
 Dialogue: 0,0:07:59.10,0:08:00.10,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}Not at all!
 Dialogue: 0,0:08:00.10,0:08:04.74,Default,,0,0,0,,{\bord12.88}Cao Cao is a deceitful man, \Nand now we must deceive him using a strategy.
-Dialogue: 0,0:08:04.74,0:08:08.58,Default,,0,0,0,,{\bord12.88}If we do not use the "Ruse of Self-Injury", how would he believe us?
+Dialogue: 0,0:08:04.74,0:08:08.58,Default,,0,0,0,,{\bord12.88}If we do not use the "Ruse of Self-Injury," how would he believe us?
 Dialogue: 0,0:08:09.98,0:08:13.66,Default,,0,0,0,,{\bord12.88}Gongfu, you are of old age. Should anything go wrong,
 Dialogue: 0,0:08:13.66,0:08:15.98,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}how could I ever face the elders of Jiangdong?
 Dialogue: 0,0:08:17.46,0:08:18.74,Default,,0,0,0,,Chief Commander.
@@ -176,10 +176,10 @@ Dialogue: 0,0:10:40.34,0:10:44.34,Default,,0,0,0,,Yuan Shao's troops of 100,000 
 Dialogue: 0,0:10:44.98,0:10:48.94,Default,,0,0,0,,Since our forces are vastly inferior to the Cao army's,
 Dialogue: 0,0:10:49.74,0:10:52.94,Default,,0,0,0,,it would be hard to win on the offense, so defense is paramount.
 Dialogue: 0,0:10:53.02,0:10:56.26,Default,,0,0,0,,We will wear down their army through a strategy of attrition.
-Dialogue: 0,0:10:54.82,0:10:57.26,Style Names,,0,0,0,,{\pos(305.148,494.027)}Zhāng Zhāo \NStyled, Zǐbù
+Dialogue: 0,0:10:54.82,0:10:57.26,Style Names,,0,0,0,,{\pos(305.148,494.027)}Zhāng Zhāo \NStyled: Zǐbù
 Dialogue: 0,0:10:57.26,0:11:02.46,Default,,0,0,0,,When they are drained of supplies, \Nthey will collapse without being attacked!
 Dialogue: 0,0:11:04.78,0:11:07.58,Default,,0,0,0,,Based on what you say, not just three months,
-Dialogue: 0,0:11:07.58,0:11:12.34,Default,,0,0,0,,even with thirteen months' worth of provisions, \N will not ease the problem.
+Dialogue: 0,0:11:07.58,0:11:12.34,Default,,0,0,0,,but even thirteen months' worth of provisions \Nwill not ease the problem.
 Dialogue: 0,0:11:12.34,0:11:16.30,Default,,0,0,0,,As I see it, if we can beat Cao Cao this month, \Nthen we should do so!
 Dialogue: 0,0:11:16.30,0:11:18.50,Default,,0,0,0,,If he cannot be taken down this month,
 Dialogue: 0,0:11:20.74,0:11:27.34,Default,,0,0,0,,why not we take Zhang Zibu's advice in \Nlaying down our arms and surrendering to the north?
@@ -323,7 +323,7 @@ Dialogue: 0,0:22:22.78,0:22:25.82,Default,,0,0,0,,Elder General Huang, Officer K
 Dialogue: 0,0:22:27.26,0:22:29.02,Default,,0,0,0,,Invite him in immediately, now.
 Dialogue: 0,0:22:29.02,0:22:29.98,Default,,0,0,0,,Yes.
 Dialogue: 0,0:22:40.90,0:22:42.54,Default,,0,0,0,,Please sit.
-Dialogue: 0,0:22:44.74,0:22:48.66,Style Names,,0,0,0,,{\pos(935.117,480.39)\fade(255,0,255,0,400,3220,3580)}Kǎn Zé \NStyled, Dérùn
+Dialogue: 0,0:22:44.74,0:22:48.66,Style Names,,0,0,0,,{\pos(935.117,480.39)\fade(255,0,255,0,400,3220,3580)}Kǎn Zé \NStyled: Dérùn
 Dialogue: 0,0:22:57.98,0:23:01.10,Default,,0,0,0,,General, have you any enmity \Ntowards Chief Commander Zhou?
 Dialogue: 0,0:23:23.74,0:23:26.18,Default,,0,0,0,,Could it be the Ruse?
 Dialogue: 0,0:23:38.10,0:23:42.46,Default,,0,0,0,,I have received favor from the three lords. \NNothing is enough to repay them.
@@ -345,7 +345,7 @@ Dialogue: 0,0:25:01.00,0:25:05.34,Default,,0,0,0,,I have... already written the 
 Dialogue: 0,0:25:11.34,0:25:12.34,Default,,0,0,0,,This one?
 Dialogue: 0,0:25:17.50,0:25:22.10,Default,,0,0,0,,General, there is no time to lose! I shall cross the river tonight!
 Dialogue: 0,0:25:25.62,0:25:26.62,Default,,0,0,0,,Farewell!
-Dialogue: 0,0:25:35.54,0:25:39.98,Style Names,,0,0,0,,{\pos(921.615,480.39)\fade(255,0,255,0,400,3600,3920)}Cáo Cāo \NStyled, Mèngdé
+Dialogue: 0,0:25:35.54,0:25:39.98,Style Names,,0,0,0,,{\pos(921.615,480.39)\fade(255,0,255,0,400,3600,3920)}Cáo Cāo \NStyled: Mèngdé
 Dialogue: 0,0:25:39.98,0:25:42.90,Default,,0,0,0,,Chancellor, we arrested a fisherman by the river.
 Dialogue: 0,0:25:42.90,0:25:47.70,Default,,0,0,0,,He claims to be Kan Ze, an Adjutant of Eastern Wu, and is carrying classified information.
 Dialogue: 0,0:25:56.58,0:25:57.90,Default,,0,0,0,,Bring him to me.
@@ -407,7 +407,7 @@ Dialogue: 0,0:31:13.90,0:31:16.30,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}C
 Dialogue: 0,0:31:16.30,0:31:19.58,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}"In betraying their liege, the date cannot be set"?
 Dialogue: 0,0:31:20.30,0:31:23.38,Default,,0,0,0,,{\bord12}If a date was arranged \Nwithout the right opportunity,
 Dialogue: 0,0:31:23.38,0:31:26.42,Default,,0,0,0,,{\bord12\pos(640,660)}if you still respond, the plan will be exposed!
-Dialogue: 0,0:31:26.42,0:31:29.06,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}Plots of a grand scale  can only happen as they come
+Dialogue: 0,0:31:26.42,0:31:29.06,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}Plots of a grand scale can only happen as they come
 Dialogue: 0,0:31:29.06,0:31:31.58,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}How can the time be predetermined?
 Dialogue: 0,0:31:32.06,0:31:36.26,Default,,0,0,0,,{\bord12.88}If one does not understand this logic, \Nbut instead kills a good man in error,
 Dialogue: 0,0:31:36.26,0:31:39.70,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}are they not among the illiterate lot?
@@ -454,7 +454,7 @@ Dialogue: 0,0:36:27.06,0:36:29.30,Default,,0,0,0,,Good! Good!
 Dialogue: 0,0:36:48.34,0:36:51.42,Default,,0,0,0,,Brother Derun, why are you visiting me this late?
 Dialogue: 0,0:36:56.02,0:37:01.58,Default,,0,0,0,,When you tried to plead for Gongfu yesterday, you were beaten by Zhou Yu in public.
 Dialogue: 0,0:37:01.58,0:37:03.62,Default,,0,0,0,,I was outraged.
-Dialogue: 0,0:37:09.98,0:37:12.46,Default,,0,0,0,,I had visited Gongfu just now.
+Dialogue: 0,0:37:09.98,0:37:12.46,Default,,0,0,0,,I visited Gongfu just now.
 Dialogue: 0,0:37:14.10,0:37:17.78,Default,,0,0,0,,Why would you need to dress like that when visiting Gongfu?
 Dialogue: 0,0:37:20.34,0:37:25.34,Default,,0,0,0,,Your sleeves are still wet. \NWere you fishing along the banks?
 Dialogue: 0,0:37:26.06,0:37:27.54,Default,,0,0,0,,Brother Xingba!

@@ -133,7 +133,7 @@ Dialogue: 0,0:08:31.51,0:08:35.82,Default,Deserter Officer,0,0,0,,{\bord12}Gener
 Dialogue: 0,0:08:35.82,0:08:37.30,Default,Deserter Officer,0,0,0,,{\bord12\pos(640,660)}The suffering was unbearable!
 Dialogue: 0,0:08:43.68,0:08:45.54,Default,Jiang Wei,0,0,0,,{\bord12\pos(640,660)}Why did you not rush down
 Dialogue: 0,0:08:46.59,0:08:48.04,Default,Jiang Wei,0,0,0,,{\bord12\pos(640,660)}and fight to the death?
-Dialogue: 0,0:08:49.15,0:08:52.11,Default,Deserter,0,0,0,,{\bord12}We fear your crossbows \Nthat can fire ten arrows at once.
+Dialogue: 0,0:08:49.15,0:08:52.11,Default,Deserter,0,0,0,,{\bord12}We fear your crossbows \Nthat can shoot ten arrows at once.
 Dialogue: 0,0:08:52.11,0:08:53.65,Default,Deserter,0,0,0,,{\bord12\pos(640,660)}Would we dare go to our deaths?
 Dialogue: 0,0:08:53.65,0:08:54.54,Default,Soldiers,0,0,0,,Right!
 Dialogue: 0,0:08:58.68,0:09:00.05,Default,Jiang Wei,0,0,0,,{\bord12\pos(640,660)}Settle them carefully.

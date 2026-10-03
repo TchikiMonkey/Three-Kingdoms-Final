@@ -49,10 +49,10 @@ Dialogue: 0,0:02:02.42,0:02:10.74,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\
 Dialogue: 0,0:02:10.82,0:02:18.62,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
 Dialogue: 0,0:02:18.78,0:02:27.18,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
 Dialogue: 0,0:02:27.34,0:02:30.14,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Jiē {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
+Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Dōu {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
 Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
 Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Jiē {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
+Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
 Dialogue: 0,0:01:08.50,0:01:12.96,Title,,0,0,0,,{\move(1550.333,640,85.333,640,200,4500)\clip(162.667,6.667,1118.667,720)}Romance of the Three Kingdoms
 Dialogue: 0,0:01:12.96,0:01:18.52,Title,,0,0,0,,{\move(85.333,640,661.333,468,00,970)\clip(162.667,6.667,1118.667,720)\fade(255,0,255,0,0,4700,5500)}Romance of the Three Kingdoms
 Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}On and on the Great River rolls, racing east.
@@ -71,7 +71,7 @@ Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales 
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:03:10.96,0:03:15.08,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4120)\pos(640,481.6)}Act 1\N\N\N\N\N\N\NDeer-hunt of Heroes
 Dialogue: 0,0:03:15.52,0:03:21.68,Episode Title,,0,0,0,,{\fade(255,0,255,0,1500,4940,6160)\pos(640,368.8)}Episode 1
-Dialogue: 0,0:03:15.52,0:03:21.68,Episode Title,,0,0,0,,{\pos(640,556)\fade(255,0,255,0,1500,4940,6160)}Oath at the Peach Garden
+Dialogue: 0,0:03:15.52,0:03:21.68,Episode Title,,0,0,0,,{\pos(640,556)\fade(255,0,255,0,1500,4940,6160)}Oath of the Peach Garden
 Dialogue: 0,0:03:41.26,0:03:43.22,Thinking,Narrator,0,0,0,,As an ancient adage goes:
 Dialogue: 0,0:03:43.22,0:03:49.47,Thinking,Narrator,0,0,0,,"The world, long divided, must unite; long united, must divide."
 Dialogue: 0,0:03:50.67,0:03:54.03,Thinking,Narrator,0,0,0,,During the Spring and Autumn era,\Nfive hegemons strove for supremacy.
@@ -115,13 +115,13 @@ Dialogue: 0,0:06:10.78,0:06:17.61,Default,Yellow Scarves,0,0,0,,{\bord12\pos(640
 Dialogue: 0,0:06:17.61,0:06:23.68,Default,Yellow Scarves,0,0,0,,{\bord12\pos(640,660)}The Yellow Heaven shall rise!
 Dialogue: 0,0:06:23.67,0:06:29.51,Default,Yellow Scarves,0,0,0,,{\bord12\pos(640,660)}On the year of Jiazi,
 Dialogue: 0,0:06:29.51,0:06:36.08,Default,Yellow Scarves,0,0,0,,{\bord12\pos(640,660)}all shall prosper!
-Dialogue: 0,0:06:44.64,0:06:49.60,Title,,0,0,0,,{\pos(640,553.6)}The Yellow Scarves Uprising
+Dialogue: 0,0:06:44.64,0:06:49.60,Title,,0,0,0,,{\pos(640,553.6)}The Yellow Scarves Rebellion
 Dialogue: 0,0:06:44.17,0:06:48.20,Thinking,Narrator,0,0,0,,Driven to the brink by the government, the people could only rebel.
-Dialogue: 0,0:06:48.20,0:06:51.94,Thinking,Narrator,0,0,0,,Thousands upon thousands of starving people raised their flags high...
-Dialogue: 0,0:06:51.94,0:06:54.21,Thinking,Narrator,0,0,0,,...for one last, desperate push against fate.
+Dialogue: 0,0:06:48.20,0:06:51.94,Thinking,Narrator,0,0,0,,Thousands upon thousands of starving people raised their flags high,
+Dialogue: 0,0:06:51.94,0:06:54.21,Thinking,Narrator,0,0,0,,for one last, desperate push against fate.
 Dialogue: 0,0:06:54.21,0:06:59.44,Thinking,Narrator,0,0,0,,In the first month of the seventh year \Nof the Guanghe era, or January 184 CE,
 Dialogue: 0,0:06:54.21,0:06:59.44,Note (Potential style?),Narrator,0,0,0,,Note: The Jiazi year was the first in the sexagenary year cycle. 184 CE corresponded to it.
-Dialogue: 0,0:06:59.44,0:07:02.69,Thinking,Narrator,0,0,0,,the Yellow Scarves Uprising broke out.
+Dialogue: 0,0:06:59.44,0:07:02.69,Thinking,Narrator,0,0,0,,the Yellow Scarves Rebellion broke out.
 Dialogue: 0,0:07:03.84,0:07:06.34,Thinking,Narrator,0,0,0,,Their army burned government buildings,
 Dialogue: 0,0:07:06.34,0:07:09.17,Thinking,Narrator,0,0,0,,murdered officials, and occupied cities.
 Dialogue: 0,0:07:09.17,0:07:12.17,Thinking,Narrator,0,0,0,,The embers of war spread quickly.
@@ -201,15 +201,15 @@ Dialogue: 0,0:11:09.09,0:11:10.19,Default,Guan Yu,0,0,0,,Give it to everyone.
 Dialogue: 0,0:11:10.94,0:11:12.15,Default,Worker,0,0,0,,Give it out?!
 Dialogue: 0,0:11:12.80,0:11:15.72,Default,Guan Yu,0,0,0,,The meat belongs to me now, do as I say!
 Dialogue: 0,0:11:16.52,0:11:18.94,Default,Worker,0,0,0,,Y-Yes! I'll give it out now!
-Dialogue: 0,0:11:39.97,0:11:41.60,Default,Guan Yu,0,0,0,,Everyone, get some meat.
+Dialogue: 0,0:11:39.97,0:11:41.60,Default,Guan Yu,0,0,0,,Come everyone, get some meat.
 Dialogue: 0,0:11:41.60,0:11:43.25,Default,Guan Yu,0,0,0,,This meat is on me.
 Dialogue: 0,0:11:43.25,0:11:44.75,Default,Guan Yu,0,0,0,,Just take it, please!
 Dialogue: 0,0:11:51.71,0:11:54.36,Default,Buyer,0,0,0,,Go, get me a piece! Go!
 Dialogue: 0,0:11:56.07,0:11:58.40,Default,Guan Yu,0,0,0,,You came to buy meat, so pay up.
 Dialogue: 0,0:12:00.56,0:12:03.03,Default,Buyer Lackey,0,0,0,,The other people are getting it, so why not us?
 Dialogue: 0,0:12:03.03,0:12:03.84,Default,Buyer,0,0,0,,Exactly!
-Dialogue: 0,0:12:06.19,0:12:08.78,Default,Buyer Lackey,0,0,0,,I can't pay! Pass me cash!
-Dialogue: 0,0:12:08.78,0:12:10.86,Default,Buyer Lackey,0,0,0,,Here here here! We'll pay!
+Dialogue: 0,0:12:06.19,0:12:08.78,Default,Buyer Lackey,0,0,0,,I can't pay! Pass me money!
+Dialogue: 0,0:12:08.78,0:12:10.86,Default,Buyer Lackey,0,0,0,,Here, here, here! We'll pay!
 Dialogue: 0,0:13:01.76,0:13:02.56,Default,Zhang Fei,0,0,0,,Where is he?
 Dialogue: 0,0:13:02.56,0:13:02.94,Default,Worker,0,0,0,,There!
 Dialogue: 0,0:13:02.94,0:13:03.50,Default,Zhang Fei,0,0,0,,Where?
@@ -237,8 +237,8 @@ Dialogue: 0,0:16:04.31,0:16:07.86,Default,Liu Bei,0,0,0,,You two fighters displa
 Dialogue: 0,0:16:08.94,0:16:11.00,Default,Liu Bei,0,0,0,,Admirable, very admirable!
 Dialogue: 0,0:16:12.45,0:16:14.00,Default,Guan Yu,0,0,0,,It was nothing.
 Dialogue: 0,0:16:14.24,0:16:16.55,Default,Zhang Fei,0,0,0,,Hey, tough guy!
-Dialogue: 0,0:16:17.53,0:16:20.69,Default,Zhang Fei,0,0,0,,I heard it's you who lifted that millstone.
-Dialogue: 0,0:16:20.69,0:16:23.87,Default,Zhang Fei,0,0,0,,The reason I'm here is to learn from you!
+Dialogue: 0,0:16:17.53,0:16:20.69,Default,Zhang Fei,0,0,0,,I heard you lifted that millstone,
+Dialogue: 0,0:16:20.69,0:16:23.87,Default,Zhang Fei,0,0,0,,so I came to see for myself \Nwhat kind of man you are.
 Dialogue: 0,0:16:25.63,0:16:30.04,Default,Guan Yu,0,0,0,,I thought you came to demand money for the pork.
 Dialogue: 0,0:16:36.85,0:16:39.01,Default,Zhang Fei,0,0,0,,Why mention that little piece of pork?
 Dialogue: 0,0:16:39.01,0:16:39.60,Default,Zhang Fei,0,0,0,,Come on!
@@ -256,7 +256,7 @@ Dialogue: 0,0:17:17.30,0:17:18.76,Default,Zhang Fei,0,0,0,,Hurry, after you!
 Dialogue: 0,0:17:20.17,0:17:21.32,Default,Zhang Fei,0,0,0,,Men, bring wine!
 Dialogue: 0,0:17:24.09,0:17:26.74,Default,Guan Yu,0,0,0,,I am Guan Yu, styled Yunchang,
 Dialogue: 0,0:17:26.74,0:17:28.27,Default,Guan Yu,0,0,0,,of Xieliang in Hedong.
-Dialogue: 0,0:17:33.51,0:17:36.00,Default,Liu Bei,0,0,0,,I am Liu Bei, or Liu Xuande.
+Dialogue: 0,0:17:33.51,0:17:36.00,Default,Liu Bei,0,0,0,,I am Liu Bei, styled Xuande.
 Dialogue: 0,0:17:38.91,0:17:39.36,Default,Liu Bei,0,0,0,,Cheers.
 Dialogue: 0,0:17:41.21,0:17:44.47,Default,Zhang Fei,0,0,0,,We three have met by chance, \Nyet we're just like old friends.
 Dialogue: 0,0:17:44.47,0:17:45.14,Default,Zhang Fei,0,0,0,,Cheers!
@@ -317,7 +317,7 @@ Dialogue: 0,0:21:25.36,0:21:26.55,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:21:27.37,0:21:28.43,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}I know about it!
 Dialogue: 0,0:21:29.16,0:21:31.37,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}A thousand-year-old mulberry tree is there!
 Dialogue: 0,0:21:31.37,0:21:35.54,Default,Zhang Fei,0,0,0,,{\bord12\}Its trunk is tall and its crown is wide,\Nwhich is how Lousang Village got its name.
-Dialogue: 0,0:21:31.37,0:21:35.54,Note (Potential style?),,0,0,0,,Lousang literally means 'towering mulberry tree'.
+Dialogue: 0,0:21:31.37,0:21:35.54,Note (Potential style?),,0,0,0,,Lousang literally means "towering mulberry tree."
 Dialogue: 0,0:21:37.70,0:21:39.88,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}I've heard of a saying.
 Dialogue: 0,0:21:39.88,0:21:43.12,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}"From Luosang village shall a noble man emerge!"
 Dialogue: 0,0:21:44.44,0:21:47.52,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Indeed, I am familiar with that saying.
@@ -395,11 +395,11 @@ Dialogue: 0,0:25:57.81,0:26:00.75,Default,Zhang Fei,0,0,0,,We seek not to be bor
 Dialogue: 0,0:26:00.75,0:26:05.14,Default,Liu Bei,0,0,0,,We seek only to die on the same day \Nof the same month in the same year!
 Dialogue: 0,0:26:06.22,0:26:10.14,Default,All,0,0,0,,We seek only to die on the same day \Nof the same month in the same year!
 Dialogue: 0,0:26:19.26,0:26:23.15,Song,,0,0,0,,{\k58}Zhè {\k149}yī {\k182}bài
-Dialogue: 0,0:26:23.44,0:26:27.64,Song,,0,0,0,,{\k32}Chūn{\k42}fēng{\k20}dé{\k60}yì {\k93}zhī{\k173}yīn,
+Dialogue: 0,0:26:23.44,0:26:27.64,Song,,0,0,0,,{\k32}Chūn{\k42}fēng{\k20}dé{\20}yì {\50}yù{\k173}yīn,
 Dialogue: 0,0:26:27.75,0:26:35.60,Song,,0,0,0,,{\k83}táo{\k103}huā {\k50}yě {\k107}hán{\k132}xiào {\k124}yìng {\k62}jì {\k124}tái.
 Dialogue: 0,0:26:36.26,0:26:40.42,Song,,0,0,0,,{\k52}Zhè {\k175}yī {\k189}bài
-Dialogue: 0,0:26:40.48,0:26:44.62,Song,,0,0,0,,{\k30}Bǎo{\k32}guó {\k26}ān {\k40}bāng {\k53}zhì {\k71}kāng{\k162}kǎi,
-Dialogue: 0,0:26:44.71,0:26:48.84,Song,,0,0,0,,{\k60}jiàn{\k49}guó {\k42}lì{\k55}yè {\k61}zhǎn{\k73}xióng {\k73}cái.
+Dialogue: 0,0:26:40.48,0:26:44.62,Song,,0,0,0,,{\k30}Bào{\k32}guó {\k26}ān {\k40}bāng {\k53}zhì {\k71}kāng{\k162}kǎi,
+Dialogue: 0,0:26:44.71,0:26:48.84,Song,,0,0,0,,{\k60}jiàn{\k49}gōng {\k42}lì{\k55}yè {\k61}zhǎn{\k73}xióng {\k73}cái.
 Dialogue: 0,0:26:49.06,0:26:54.64,Song,,0,0,0,,{\k98}Zhǎn{\k147}xióng {\k313}cái
 Dialogue: 0,0:26:55.28,0:26:59.26,Song,,0,0,0,,{\k76}Zhè {\k160}yī {\k162}bài
 Dialogue: 0,0:26:59.55,0:27:03.51,Song,,0,0,0,,{\k74}Zhōng {\k78}gān {\k89}yì {\k155}dǎn,
@@ -478,7 +478,7 @@ Dialogue: 0,0:33:02.92,0:33:04.35,Default,Liu Bei,0,0,0,,Do not do anything rash
 Dialogue: 0,0:33:05.12,0:33:06.62,Default,Guan Yu,0,0,0,,And that Dong Zhuo!
 Dialogue: 0,0:33:06.62,0:33:09.30,Default,Guan Yu,0,0,0,,He did nothing, yet he was given a county magistrate's rank!
 Dialogue: 0,0:33:09.30,0:33:11.16,Default,Zhang Fei,0,0,0,,All because he allied with the wealthy,
-Dialogue: 0,0:33:11.16,0:33:13.61,Default,Zhang Fei,0,0,0,,he bribed the Ten Attendants for his post!
+Dialogue: 0,0:33:11.16,0:33:13.61,Default,Zhang Fei,0,0,0,,and bribed the Ten Attendants for his post!
 Dialogue: 0,0:33:11.16,0:33:15.44,Note (Potential style?),,0,0,0,,The Ten Attendants are a faction of eunuchs that dominated the court.
 Dialogue: 0,0:33:13.61,0:33:15.44,Default,Zhang Fei,0,0,0,,That day on the battlefield,
 Dialogue: 0,0:33:15.44,0:33:17.15,Default,Zhang Fei,0,0,0,,remember what he was like?
@@ -572,11 +572,11 @@ Dialogue: 0,0:38:25.59,0:38:29.47,Default,Supervisor,0,0,0,,This Liu Bei is very
 Dialogue: 0,0:38:31.35,0:38:33.86,Default,Lackey Official,0,0,0,,Supervisor, as the saying goes,
 Dialogue: 0,0:38:33.86,0:38:37.66,Default,Lackey Official,0,0,0,,"The bite of a thief goes down to the bone."
 Dialogue: 0,0:38:33.86,0:38:39.14,Note (Potential style?),,0,0,0,,Note: This means that false accusations are damaging and hard to refute.
-Dialogue: 0,0:38:41.22,0:38:43.93,Default,Lackey Official,0,0,0,,The Supervisor has this notice for three days!
+Dialogue: 0,0:38:41.22,0:38:43.93,Default,Lackey Official,0,0,0,,The Supervisor is holding open hearings for three days!
 Dialogue: 0,0:38:43.93,0:38:45.53,Default,Lackey Official,0,0,0,,During these three days,
 Dialogue: 0,0:38:45.53,0:38:47.96,Default,Lackey Official,0,0,0,,anyone who is discontent with the commandant,
 Dialogue: 0,0:38:47.96,0:38:50.92,Default,Lackey Official,0,0,0,,has experienced injustice, corruption, or oppression,
-Dialogue: 0,0:38:50.92,0:38:53.14,Default,Lackey Official,0,0,0,,and has evidence of misappropriation
+Dialogue: 0,0:38:50.92,0:38:53.14,Default,Lackey Official,0,0,0,,and has evidence of misappropriation,
 Dialogue: 0,0:38:53.14,0:38:55.75,Default,Lackey Official,0,0,0,,will all be heard out.
 Dialogue: 0,0:38:55.75,0:38:59.30,Default,Lackey Official,0,0,0,,The Supervisor will support you, so do not be afraid.
 Dialogue: 0,0:39:01.39,0:39:02.90,Default,Lackey Official,0,0,0,,Listen to me clearly!
@@ -636,7 +636,7 @@ Dialogue: 0,0:41:46.68,0:41:47.71,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:41:47.71,0:41:48.32,Default,Supervisor,0,0,0,,I...
 Dialogue: 0,0:41:48.32,0:41:50.68,Default,Crowd,0,0,0,,Talk!
 Dialogue: 0,0:41:50.68,0:41:57.16,Default,Supervisor,0,0,0,,Lord Xuande, good sirs, spare my life!
-Dialogue: 0,0:41:59.00,0:42:03.01,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}Elder Brother, you’ve achieved so much.
+Dialogue: 0,0:41:59.00,0:42:03.01,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}Elder Brother, you've achieved so much.
 Dialogue: 0,0:42:03.01,0:42:05.22,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}yet you're only made a county commandant.
 Dialogue: 0,0:42:05.55,0:42:09.17,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}And now, you're slandered by this Supervisor!
 Dialogue: 0,0:42:09.17,0:42:10.48,Default,Supervisor,0,0,0,,Spare my life...

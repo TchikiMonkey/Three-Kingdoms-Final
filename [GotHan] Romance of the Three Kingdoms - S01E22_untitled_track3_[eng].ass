@@ -101,7 +101,7 @@ Dialogue: 0,0:05:10.26,0:05:13.54,Default,,0,0,0,,{\bord12\pos(640,660)}Ziyuan, 
 Dialogue: 0,0:05:13.54,0:05:15.62,Default,,0,0,0,,{\bord12\pos(640,660)}Just say it.
 Dialogue: 0,0:05:22.62,0:05:26.02,Default,,0,0,0,,{\bord12\pos(640,660)}Yuan Shao's provisions for all 700,000 of his army.
 Dialogue: 0,0:05:27.30,0:05:31.62,Default,,0,0,0,,{\bord12}All of it is stored in Wūcháo, that is his critical weakness.
-Dialogue: 0,0:05:35.02,0:05:39.02,Default,,0,0,0,,But if that's the 'throat', then surely\NYuan Shao has placed heavy guard.
+Dialogue: 0,0:05:35.02,0:05:39.02,Default,,0,0,0,,But if that's the "throat," then surely\NYuan Shao has placed heavy guard.
 Dialogue: 0,0:05:39.58,0:05:42.22,Default,,0,0,0,,How could we feasibly strike it?
 Dialogue: 0,0:05:42.98,0:05:46.42,Default,,0,0,0,,This is why I say we can beat Yuan Shao in three days.
 Dialogue: 0,0:05:47.78,0:05:52.42,Default,,0,0,0,,Although Wūcháo is very important,\N Yuan Shao hardly pays notice to it.
@@ -111,7 +111,7 @@ Dialogue: 0,0:05:57.86,0:06:02.18,Default,,0,0,0,,so isn't that like offering W�
 Dialogue: 0,0:06:07.02,0:06:12.06,Default,,0,0,0,,May I ask, Ziyuan, how should our army seize Wūcháo?
 Dialogue: 0,0:06:14.70,0:06:17.42,Default,,0,0,0,,{\bord12}It won't be hard! \NSelect only your elite cavalry,
 Dialogue: 0,0:06:17.42,0:06:20.30,Default,,0,0,0,,{\bord12}disguise one \Nas Yuan Shao's officer Jiǎng Qí,
-Dialogue: 0,0:06:20.30,0:06:25.86,Default,,0,0,0,,{\bord12}and head towards Wūcháo to 'protect' it, \Nusing this chance to burn it's supplies.
+Dialogue: 0,0:06:20.30,0:06:25.86,Default,,0,0,0,,{\bord12}and head towards Wūcháo to "protect" it, \Nusing this chance to burn its supplies.
 Dialogue: 0,0:06:26.10,0:06:33.86,Default,,0,0,0,,{\bord12}Thus in three days, \NYuan's army will be in disarray.
 Dialogue: 0,0:06:40.86,0:06:45.38,Default,,0,0,0,,Good. I'll head to Wūcháo personally!
 Dialogue: 0,0:06:46.66,0:06:50.66,Default,,0,0,0,,Chancellor, seizing supplies is risky! \NYou should not lead the attack!
@@ -121,7 +121,7 @@ Dialogue: 0,0:06:54.74,0:06:56.98,Style Names,,0,0,0,,{\pos(318.65,486.818)\fade
 Dialogue: 0,0:06:54.50,0:06:58.90,Default,,0,0,0,,The validity of Xǔ Yōu's plan is still unknown! \NYou should not be so trusting!
 Dialogue: 0,0:06:59.66,0:07:02.62,Default,,0,0,0,,Wūcháo is Yuan Shao's granary. \NHow could he not defend it?
 Dialogue: 0,0:07:03.30,0:07:05.62,Default,,0,0,0,,Xǔ Yōu may be duplicitous. Do not go.
-Dialogue: 0,0:07:07.30,0:07:11.06,Default,,0,0,0,,Moreover, how could 5,000 men beat\N Chunyu Qiong’s tens of thousands?
+Dialogue: 0,0:07:07.30,0:07:11.06,Default,,0,0,0,,Moreover, how could 5,000 men beat\N Chunyu Qiong's tens of thousands?
 Dialogue: 0,0:07:12.50,0:07:13.70,Default,,0,0,0,,Report!
 Dialogue: 0,0:07:14.50,0:07:18.22,Default,,0,0,0,,Chancellor, 5,000 elite soldiers are ready!
 Dialogue: 0,0:07:18.22,0:07:18.86,Default,,0,0,0,,Excellent.
@@ -131,8 +131,8 @@ Dialogue: 0,0:07:29.10,0:07:33.66,Default,,0,0,0,,{\bord12}Wūcháo is the weak 
 Dialogue: 0,0:07:33.66,0:07:39.10,Default,,0,0,0,,{\bord12}Raiding his supplies is what \Ndetermines our final outcome.
 Dialogue: 0,0:07:40.38,0:07:43.94,Default,,0,0,0,,{\bord12}Xǔ Yōu's defection is Heaven's will helping me defeat Yuan.
 Dialogue: 0,0:07:43.94,0:07:46.66,Default,,0,0,0,,{\bord12)}We cannot remain here\N without supplies.
-Dialogue: 0,0:07:46.86,0:07:50.66,Default,,0,0,0,,{\bord12}To disregard Xǔ Yōu's plan\N  is no different than waiting for death.
-Dialogue: 0,0:07:51.02,0:07:54.30,Default,,0,0,0,,{\bord12}Moreover, raiding the supplies \Nhad occupied my mind for long.
+Dialogue: 0,0:07:46.86,0:07:50.66,Default,,0,0,0,,{\bord12}To disregard Xǔ Yōu's plan\N is no different than waiting for death.
+Dialogue: 0,0:07:51.02,0:07:54.30,Default,,0,0,0,,{\bord12}Moreover, raiding the supplies \Nhas occupied my mind for too long.
 Dialogue: 0,0:07:54.30,0:07:55.66,Default,,0,0,0,,{\bord12\pos(640,660)}Gentlemen, disperse your doubts!
 Dialogue: 0,0:07:57.34,0:08:00.74,Default,,0,0,0,,If you go, I fear Yuan Shao will exploit this feint to attack!
 Dialogue: 0,0:08:01.10,0:08:02.46,Default,,0,0,0,,I've made my decision!
@@ -277,7 +277,7 @@ Dialogue: 0,0:20:24.78,0:20:25.54,Default,,0,0,0,,Farewell!
 Dialogue: 0,0:20:25.98,0:20:27.98,Default,,0,0,0,,Please be careful my generals.
 Dialogue: 0,0:20:29.42,0:20:31.62,Default,,0,0,0,,We fought with all we had,
 Dialogue: 0,0:20:32.14,0:20:33.90,Default,,0,0,0,,yet this is what we get for it!
-Dialogue: 0,0:20:36.26,0:20:38.42,Default,,0,0,0,,Our Lordship's messenger has arrived!
+Dialogue: 0,0:20:36.26,0:20:38.42,Default,,0,0,0,,Our lordship's messenger has arrived!
 Dialogue: 0,0:20:41.50,0:20:43.10,Default,,0,0,0,,Salutations to two generals.
 Dialogue: 0,0:20:43.70,0:20:46.58,Default,,0,0,0,,Generals, our lord has asked you two to return to camp.
 Dialogue: 0,0:20:47.18,0:20:48.74,Default,,0,0,0,,Why has our lord summoned us?
@@ -334,7 +334,7 @@ Dialogue: 0,0:26:49.38,0:26:50.06,Default,,0,0,0,,Here!
 Dialogue: 0,0:26:50.82,0:26:54.78,Default,,0,0,0,,Have this ill-tongued bastard taken away!
 Dialogue: 0,0:26:55.66,0:26:57.58,Default,,0,0,0,,And flog him 300 times!
 Dialogue: 0,0:26:57.58,0:26:58.26,Default,,0,0,0,,Yes!
-Dialogue: 0,0:26:58.26,0:27:00.38,Default,,0,0,0,,My lord! My lord! Spare–
+Dialogue: 0,0:26:58.26,0:27:00.38,Default,,0,0,0,,My lord! My lord! Spare—
 Dialogue: 0,0:27:00.38,0:27:02.34,Default,,0,0,0,,Afterwards, ask him who died!
 Dialogue: 0,0:27:01.90,0:27:02.34,Default,,0,0,0,,Father!
 Dialogue: 0,0:27:03.34,0:27:06.74,Default,,0,0,0,,Scum! I want him beaten!
@@ -410,7 +410,7 @@ Dialogue: 0,0:36:32.50,0:36:35.90,Default,,0,0,0,,I would enjoy your tutelage.
 Dialogue: 0,0:36:59.62,0:37:04.78,Default,,0,0,0,,Build a tomb for Master Ju \Non the banks of the Yellow River.
 Dialogue: 0,0:37:24.90,0:37:25.90,Default,,0,0,0,,Chancellor, look!
 Dialogue: 0,0:37:25.90,0:37:27.66,Default,,0,0,0,,What are you so rattled about?
-Dialogue: 0,0:37:28.70,0:37:32.50,Default,,0,0,0,,{\bord12}Chancellor, people within Xǔdū had sent secret messages to Yuan Shao.
+Dialogue: 0,0:37:28.70,0:37:32.50,Default,,0,0,0,,{\bord12}Chancellor, people within Xǔdū have sent secret messages to Yuan Shao.
 Dialogue: 0,0:37:33.06,0:37:36.50,Default,,0,0,0,,{\bord12}The letters were written \Nin most sycophantic words.
 Dialogue: 0,0:37:37.38,0:37:38.78,Default,,0,0,0,,Really?
 Dialogue: 0,0:37:51.58,0:37:52.78,Default,,0,0,0,,{\bord12}Chancellor,
@@ -425,7 +425,7 @@ Dialogue: 0,0:38:45.70,0:38:46.38,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:38:49.06,0:38:51.86,Default,,0,0,0,,These elders have come to offer wine to the Chancellor!
 Dialogue: 0,0:38:54.66,0:38:56.22,Default,,0,0,0,,Chancellor!
 Dialogue: 0,0:38:58.26,0:39:01.66,Default,,0,0,0,,{\bord12\pos(640,660)}Chancellor, during the reign of Emperor Huán,
-Dialogue: 0,0:38:58.30,0:39:01.66,Note (Potential style?),,0,0,0,,Emperor Huán of Hàn, 132 – 168 AD.
+Dialogue: 0,0:38:58.30,0:39:01.66,Note (Potential style?),,0,0,0,,Emperor Huán of Hàn, 132 – 168 CE.
 Dialogue: 0,0:39:01.66,0:39:05.50,Default,,0,0,0,,{\bord12}there were people who predicted that after fifty years,
 Dialogue: 0,0:39:05.50,0:39:08.90,Default,,0,0,0,,{\bord12\pos(640,660)}a certain benevolent man would find his way here.
 Dialogue: 0,0:39:09.14,0:39:13.78,Default,,0,0,0,,{\bord12\pos(640,660)}Fifty years have come to pass since then!

@@ -127,7 +127,7 @@ Dialogue: 0,0:07:33.30,0:07:36.11,Default,NTP,0,0,0,,yet I faced 830,000 troops\
 Dialogue: 0,0:07:36.11,0:07:39.05,Default,,0,0,0,,And now, I have an army and generals.\N What is there to fear?
 Dialogue: 0,0:07:39.98,0:07:43.48,Default,,0,0,0,,Dismantle the camp banners, do not ring the bells, and ready the archers.
 Dialogue: 0,0:07:43.48,0:07:44.22,Default,,0,0,0,,Yes!
-Dialogue: 0,0:08:14.09,0:08:17.08,Default,,0,0,0,,My Lord, should the camp be attacked?
+Dialogue: 0,0:08:14.09,0:08:17.08,Default,,0,0,0,,My lord, should the camp be attacked?
 Dialogue: 0,0:08:23.69,0:08:26.20,Default,,0,0,0,,{\bord11}What may be false is real; \Nwhat may be real is false.
 Dialogue: 0,0:08:26.20,0:08:27.53,Default,,0,0,0,,{\bord11\pos(640,672)}This is a war strategy.
 Dialogue: 0,0:08:27.53,0:08:29.42,Default,,0,0,0,,{\bord11\pos(640,672)}Zhao Yun is displaying an empty camp,
@@ -139,11 +139,11 @@ Dialogue: 0,0:09:18.82,0:09:22.65,Default,,0,0,0,,The entire camp would be incap
 Dialogue: 0,0:09:23.04,0:09:26.49,Default,,0,0,0,,Zilong is full of guts.
 Dialogue: 0,0:09:26.49,0:09:28.96,Default,,0,0,0,,Indeed, he is a general with a tiger's prowess.
 Dialogue: 0,0:09:30.33,0:09:33.40,Default,,0,0,0,,You, sir, are correct: he is a general with a tiger's prowess.
-Dialogue: 0,0:09:33.40,0:09:34.73,Default,,0,0,0,,My Lord, Strategos!
+Dialogue: 0,0:09:33.40,0:09:34.73,Default,,0,0,0,,My lord, Strategos!
 Dialogue: 0,0:09:34.96,0:09:37.48,Default,,0,0,0,,Cao Cao's advancing through \NXiegu road to take the Han river.
 Dialogue: 0,0:09:37.48,0:09:40.78,Default,NTP,0,0,0,,Xu Huang is his Vanguard and \NWang Ping is his Deputy Vanguard!
-Dialogue: 0,0:09:45.48,0:09:49.93,Default,,0,0,0,,My Lord, Cao Cao is powerless now.
-Dialogue: 0,0:09:51.29,0:09:54.20,Default,NTP,0,0,0,,My Lord, you should make camp at the western bank.
+Dialogue: 0,0:09:45.48,0:09:49.93,Default,,0,0,0,,My lord, Cao Cao is powerless now.
+Dialogue: 0,0:09:51.29,0:09:54.20,Default,NTP,0,0,0,,My lord, you should make camp at the western bank.
 Dialogue: 0,0:09:54.20,0:09:58.69,Default,NTP,0,0,0,,That being so, I would have a stratagem to take the Han river.
 Dialogue: 0,0:10:03.96,0:10:07.18,Thinking,,0,0,0,,After Cao Cao was defeated at the northern mountain,
 Dialogue: 0,0:10:07.18,0:10:10.27,Thinking,,0,0,0,,he led a great army\Nto take the Han river.
@@ -172,7 +172,7 @@ Dialogue: 0,0:12:33.69,0:12:35.78,Default,,0,0,0,,Beat the drums and yell!
 Dialogue: 0,0:12:40.31,0:12:41.83,Default,,0,0,0,,The Shu army is here!
 Dialogue: 0,0:12:50.64,0:12:51.72,Default,,0,0,0,,Hurry, hurry!
 Dialogue: 0,0:12:56.73,0:12:58.11,Default,,0,0,0,,Where's the Shu army?
-Dialogue: 0,0:13:10.32,0:13:13.92,Default,,0,0,0,,My Lord, there is not a single man. \NThe Shu army has not come to raid us.
+Dialogue: 0,0:13:10.32,0:13:13.92,Default,,0,0,0,,My lord, there is not a single man. \NThe Shu army has not come to raid us.
 Dialogue: 0,0:13:21.56,0:13:24.53,Default,,0,0,0,,Command the entire camp\N to go back to the tents and rest.
 Dialogue: 0,0:13:25.19,0:13:25.73,Default,,0,0,0,,Yes!
 Dialogue: 0,0:13:27.01,0:13:35.59,Default,,0,0,0,,All soldiers, return to the tents and rest!
@@ -190,7 +190,7 @@ Dialogue: 0,0:15:00.20,0:15:02.81,Default,NTP,0,0,0,,Should only one true action
 Dialogue: 0,0:15:02.81,0:15:04.88,Default,NTP,0,0,0,,would I not be \Ngiving myself up for dead?!
 Dialogue: 0,0:15:04.88,0:15:05.44,Default,NTP,0,0,0,,Yes...
 Dialogue: 0,0:15:05.95,0:15:07.21,Default,,0,0,0,,Why are you not leaving?
-Dialogue: 0,0:15:07.66,0:15:09.25,Default,,0,0,0,,My Lord, what now?
+Dialogue: 0,0:15:07.66,0:15:09.25,Default,,0,0,0,,My lord, what now?
 Dialogue: 0,0:15:13.44,0:15:16.18,Default,,0,0,0,,Command the camp \Nto change and sleep.
 Dialogue: 0,0:15:16.18,0:15:16.72,Default,,0,0,0,,Yes.
 Dialogue: 0,0:15:16.72,0:15:17.38,Default,,0,0,0,,Wait.
@@ -200,7 +200,7 @@ Dialogue: 0,0:15:29.21,0:15:32.52,Default,,0,0,0,,Do not rush! Let us give \NCao
 Dialogue: 0,0:15:51.81,0:15:55.74,Default,,0,0,0,,Being so on guard, how could \NCao Cao not fall back in three days?
 Dialogue: 0,0:15:57.35,0:16:01.24,Default,,0,0,0,,If I was the one being tortured,\N I would quit in two days, not three!
 Dialogue: 0,0:16:02.25,0:16:02.98,Default,,0,0,0,,Come, come, come.
-Dialogue: 0,0:16:09.17,0:16:13.46,Default,,0,0,0,,My Lord, the night is deep. \NPlease go back to your tent and rest.
+Dialogue: 0,0:16:09.17,0:16:13.46,Default,,0,0,0,,My lord, the night is deep. \NPlease go back to your tent and rest.
 Dialogue: 0,0:16:15.57,0:16:18.02,Default,,0,0,0,,Good, I will go rest.
 Dialogue: 0,0:16:18.68,0:16:22.45,Default,,0,0,0,,Strategos, do not overwork yourself.
 Dialogue: 0,0:16:23.12,0:16:24.40,Default,,0,0,0,,Thank you, my Lord.
@@ -217,7 +217,7 @@ Dialogue: 0,0:17:40.69,0:17:43.06,Thinking,NTP,0,0,0,,Cao Cao wished to return t
 Dialogue: 0,0:17:43.06,0:17:48.15,Thinking,NTP,0,0,0,,but, to his surprise, Zhang Fei \Nand Wei Yan had seized Hanzhong.
 Dialogue: 0,0:17:49.69,0:17:55.85,Thinking,,0,0,0,,He had to lead an army of more\N than 100,000 back to Yangping pass.
 Dialogue: 0,0:17:55.85,0:18:00.47,Thinking,,0,0,0,,He also sent Xu Zhu to escort\N supplies to support the whole army.
-Dialogue: 0,0:18:02.80,0:18:06.24,Default,,0,0,0,,My Lord, the supplies\N were stolen by Zhang Fei!
+Dialogue: 0,0:18:02.80,0:18:06.24,Default,,0,0,0,,My lord, the supplies\N were stolen by Zhang Fei!
 Dialogue: 0,0:18:06.24,0:18:12.55,Default,,0,0,0,,I have violated orders and sullied war\N prestige. I deserve ten thousand deaths!
 Dialogue: 0,0:18:17.29,0:18:19.87,Default,,0,0,0,,Zhongkang, come, get up, get up.
 Dialogue: 0,0:18:21.46,0:18:25.30,Default,,0,0,0,,Victories and defeats\N often happen in war.
@@ -227,7 +227,7 @@ Dialogue: 0,0:18:36.23,0:18:40.04,Default,,0,0,0,,Do go back to your tent to rec
 Dialogue: 0,0:18:41.56,0:18:42.66,Default,,0,0,0,,Thank you, my Lord!
 Dialogue: 0,0:18:42.66,0:18:43.23,Default,,0,0,0,,Go now.
 Dialogue: 0,0:18:56.62,0:19:01.74,Style Names,,0,0,0,,{\fade(255,0,255,0,355,4620,5100)\pos(939.333,484.667)}Xú Huǎng\NStyled: Gōngmíng
-Dialogue: 0,0:18:57.19,0:19:00.22,Default,,0,0,0,,Our Lord has spent \Nhalf of his life in the army
+Dialogue: 0,0:18:57.19,0:19:00.22,Default,,0,0,0,,Our lord has spent \Nhalf of his life in the army
 Dialogue: 0,0:19:00.22,0:19:02.69,Default,,0,0,0,,and has deep knowledge\N of military strategy.
 Dialogue: 0,0:19:03.40,0:19:07.37,Default,,0,0,0,,Yet, when he met Kongming at the \NHan river, he suffered multiple defeats.
 Dialogue: 0,0:19:08.02,0:19:11.35,Default,,0,0,0,,Sir, what do you \Nsuppose the reason to be?
@@ -236,7 +236,7 @@ Dialogue: 0,0:19:17.63,0:19:20.43,Default,,0,0,0,,Sir, do you not trust me?
 Dialogue: 0,0:19:22.56,0:19:26.18,Default,,0,0,0,,General Gongming,\N forgive my rudeness.
 Dialogue: 0,0:19:27.01,0:19:27.88,Default,,0,0,0,,Please stay.
 Dialogue: 0,0:19:31.22,0:19:35.22,Default,,0,0,0,,{\bord11\pos(640,672)}When it comes to military expertise,
-Dialogue: 0,0:19:35.22,0:19:39.12,Default,,0,0,0,,{\bord11)}our Lord should not be \Ninferior to Kongming.
+Dialogue: 0,0:19:35.22,0:19:39.12,Default,,0,0,0,,{\bord11)}our lord should not be \Ninferior to Kongming.
 Dialogue: 0,0:19:39.12,0:19:46.54,Default,,0,0,0,,{\bord11}However, he is too suspicious, \Nwhich is undesirable in warfare.
 Dialogue: 0,0:19:47.23,0:19:51.48,Default,,0,0,0,,{\bord11}This made Kongming's strategy of \Nusing decoy troops succeed every time.
 Dialogue: 0,0:19:53.34,0:19:56.71,Default,,0,0,0,,{\bord11\pos(640,672)}His defeat was not due to tactical error,
@@ -244,37 +244,37 @@ Dialogue: 0,0:19:57.41,0:19:59.95,Default,,0,0,0,,{\bord11\pos(640,672)}but beca
 Dialogue: 0,0:20:02.49,0:20:06.09,Default,,0,0,0,,{\bord11\pos(640,672)}Sir, your words have enlightened me.
 Dialogue: 0,0:20:07.91,0:20:10.86,Default,,0,0,0,,{\bord11)}Why not express your \Ndisapproval right now
 Dialogue: 0,0:20:10.86,0:20:13.30,Default,,0,0,0,,{\bord11\pos(640,672)}so that his errors can be corrected?
-Dialogue: 0,0:20:29.50,0:20:34.33,Default,,0,0,0,,My Lord, please lie down and rest.
-Dialogue: 0,0:21:20.15,0:21:21.27,Default,,0,0,0,,My Lord.
+Dialogue: 0,0:20:29.50,0:20:34.33,Default,,0,0,0,,My lord, please lie down and rest.
+Dialogue: 0,0:21:20.15,0:21:21.27,Default,,0,0,0,,My lord.
 Dialogue: 0,0:21:23.77,0:21:25.62,Default,,0,0,0,,Who is that?
 Dialogue: 0,0:21:26.92,0:21:28.15,Default,,0,0,0,,Where is Li Hu?
-Dialogue: 0,0:21:28.15,0:21:31.48,Default,,0,0,0,,My Lord, Li Hu suddenly fell ill today.
+Dialogue: 0,0:21:28.15,0:21:31.48,Default,,0,0,0,,My lord, Li Hu suddenly fell ill today.
 Dialogue: 0,0:21:31.48,0:21:35.80,Default,,0,0,0,,This new man is beloved by General Xu. \NHe was thus sent to guard you, my Lord.
 Dialogue: 0,0:21:35.80,0:21:38.99,Default,,0,0,0,,My name is Zhang Gou.\NIt is a privilege to serve you, my Lord.
 Dialogue: 0,0:21:47.17,0:21:49.74,Default,NTP,0,0,0,,I like to slay people in my dreams.
 Dialogue: 1,0:21:50.52,0:21:54.80,Default,NTP,0,0,0,,Once I fall asleep, you \Nbetter not approach me.
 Dialogue: 0,0:21:54.80,0:21:56.76,Default,,0,0,0,,Yes, I understand.
 Dialogue: 0,0:22:05.88,0:22:08.48,Default,,0,0,0,,Was he joking or not?
-Dialogue: 0,0:22:09.40,0:22:12.01,Default,NTP,0,0,0,,I hear our Lord give such orders often.
+Dialogue: 0,0:22:09.40,0:22:12.01,Default,NTP,0,0,0,,I hear our lord give such orders often.
 Dialogue: 0,0:22:12.01,0:22:16.02,Default,NTP,0,0,0,,Whether or not that's true,\N I don't know either.
 Dialogue: 0,0:22:17.36,0:22:19.10,Default,,0,0,0,,Why haven't I heard of that before?
 Dialogue: 0,0:22:19.10,0:22:22.00,Default,,0,0,0,,It's not just you. I don't know either.
 Dialogue: 0,0:22:24.10,0:22:27.22,Default,,0,0,0,,What were you two murmuring about?
-Dialogue: 0,0:22:28.00,0:22:29.46,Default,,0,0,0,,About our Lord's blanket...
+Dialogue: 0,0:22:28.00,0:22:29.46,Default,,0,0,0,,About our lord's blanket...
 Dialogue: 0,0:22:29.46,0:22:30.67,Default,,0,0,0,,What about the blanket?
-Dialogue: 0,0:22:33.99,0:22:37.52,Default,NTP,0,0,0,,Are you dead men? Our Lord's body is priceless.
+Dialogue: 0,0:22:33.99,0:22:37.52,Default,NTP,0,0,0,,Are you dead men? Our lord's body is priceless.
 Dialogue: 0,0:22:37.52,0:22:40.55,Default,NTP,0,0,0,,Should he get a cold, \Ncould you bear the crime?
 Dialogue: 0,0:22:41.99,0:22:44.52,Default,,0,0,0,,How heartless!
 Dialogue: 0,0:22:54.25,0:22:55.20,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:22:55.42,0:22:58.97,Default,,0,0,0,,I... my Lord... I was going to...
 Dialogue: 0,0:22:59.67,0:23:00.85,Default,,0,0,0,,You!
-Dialogue: 0,0:23:02.82,0:23:05.97,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:23:02.82,0:23:05.97,Default,,0,0,0,,My lord!
 Dialogue: 0,0:23:06.17,0:23:08.00,Default,,0,0,0,,I'm just here to bring your blanket!
-Dialogue: 0,0:23:08.00,0:23:10.97,Default,,0,0,0,,My Lord, my Lord, spare me! My lord!
+Dialogue: 0,0:23:08.00,0:23:10.97,Default,,0,0,0,,My lord, my Lord, spare me! My lord!
 Dialogue: 0,0:23:27.37,0:23:28.80,Default,,0,0,0,,General...
-Dialogue: 0,0:23:37.75,0:23:39.57,Default,,0,0,0,,-My Lord.\N-My Lord.
+Dialogue: 0,0:23:37.75,0:23:39.57,Default,,0,0,0,,-My lord.\N-My lord.
 Dialogue: 0,0:23:41.35,0:23:43.07,Default,,0,0,0,,What is it?
-Dialogue: 0,0:23:49.05,0:23:51.87,Default,,0,0,0,,My Lord, this is...
+Dialogue: 0,0:23:49.05,0:23:51.87,Default,,0,0,0,,My lord, this is...
 Dialogue: 0,0:23:58.37,0:24:00.70,Default,,0,0,0,,Who murdered my attendant?
 Dialogue: 0,0:24:09.92,0:24:15.24,Default,,0,0,0,,Could it be that I murdered him \Nwhile I was dreaming?
 Dialogue: 0,0:24:21.33,0:24:29.32,Default,,0,0,0,,He served me for three years, \Nalways being diligent and careful.
@@ -291,12 +291,12 @@ Dialogue: 0,0:25:28.98,0:25:31.96,Default,NTP,0,0,0,,Sir, this campaign will \Nn
 Dialogue: 0,0:25:31.96,0:25:35.68,Default,NTP,0,0,0,,Should someone return to Xudu to fetch winter clothes for you?
 Dialogue: 0,0:25:37.25,0:25:38.73,Default,,0,0,0,,Wait for a couple days.
 Dialogue: 0,0:25:39.49,0:25:41.24,Default,,0,0,0,,How much longer will we stay here?
-Dialogue: 0,0:25:45.46,0:25:49.33,Default,NTP,0,0,0,,Our Lord has long thought of withdrawal,
+Dialogue: 0,0:25:45.46,0:25:49.33,Default,NTP,0,0,0,,Our lord has long thought of withdrawal,
 Dialogue: 0,0:25:49.33,0:25:53.71,Default,NTP,0,0,0,,but this expedition has \Ngained little while costing much.
 Dialogue: 0,0:25:55.56,0:25:59.50,Default,,0,0,0,,A withdrawal would be\N ridiculed by the Shu army.
 Dialogue: 0,0:25:59.50,0:26:02.65,Default,,0,0,0,,For this reason, he remains hesitant.
-Dialogue: 0,0:26:05.47,0:26:07.50,Default,,0,0,0,,My Lord, please eat.
-Dialogue: 0,0:26:29.76,0:26:30.55,Default,,0,0,0,,My Lord?
+Dialogue: 0,0:26:05.47,0:26:07.50,Default,,0,0,0,,My lord, please eat.
+Dialogue: 0,0:26:29.76,0:26:30.55,Default,,0,0,0,,My lord?
 Dialogue: 0,0:26:31.17,0:26:33.30,Default,,0,0,0,,What is the watchword for the camp tonight?
 Dialogue: 0,0:26:31.06,0:26:33.18,Style Names,,0,0,0,,{\pos(305.333,466)}Xiàhóu Dūn\NStyled: Yuánràng
 Dialogue: 0,0:26:41.30,0:26:43.10,Default,,0,0,0,,{\bord11\pos(640,672)}Chicken rib.
@@ -304,29 +304,29 @@ Dialogue: 0,0:26:45.40,0:26:46.62,Default,,0,0,0,,{\bord11\pos(640,672)}Chicken 
 Dialogue: 0,0:26:46.62,0:26:48.15,Default,,0,0,0,,{\bord11\pos(640,672)}Chicken rib.
 Dialogue: 0,0:26:48.15,0:26:49.22,Default,,0,0,0,,Aye.
 Dialogue: 0,0:26:51.05,0:26:52.94,Default,,0,0,0,,Master Yang,
-Dialogue: 0,0:26:52.94,0:26:57.15,Default,,0,0,0,,Our Lord has ordered that the \Nwatchword is "chicken rib" for tonight.
+Dialogue: 0,0:26:52.94,0:26:57.15,Default,,0,0,0,,Our lord has ordered that the \Nwatchword is "chicken rib" for tonight.
 Dialogue: 0,0:27:01.15,0:27:02.55,Default,,0,0,0,,"Chicken rib"?
 Dialogue: 0,0:27:05.33,0:27:07.24,Default,,0,0,0,,No need to fetch the winter clothes.
-Dialogue: 0,0:27:08.72,0:27:11.50,Default,,0,0,0,,Our Lord will withdraw soon.
+Dialogue: 0,0:27:08.72,0:27:11.50,Default,,0,0,0,,Our lord will withdraw soon.
 Dialogue: 0,0:27:14.32,0:27:16.96,Default,NTP,0,0,0,,You should pack up right now
-Dialogue: 0,0:27:16.96,0:27:20.76,Default,NTP,0,0,0,,lest you be unprepared when\N our Lord issues the order to withdraw.
+Dialogue: 0,0:27:16.96,0:27:20.76,Default,NTP,0,0,0,,lest you be unprepared when\N our lord issues the order to withdraw.
 Dialogue: 0,0:27:21.06,0:27:21.62,Default,,0,0,0,,Yes.
 Dialogue: 0,0:27:43.35,0:27:44.48,Default,,0,0,0,,Registrar Yang!
 Dialogue: 0,0:27:45.76,0:27:46.97,Default,,0,0,0,,General Xiahou!
 Dialogue: 0,0:27:49.56,0:27:53.04,Default,,0,0,0,,There is but one vague\N matter that I come...
 Dialogue: 0,0:27:55.55,0:27:58.12,Default,,0,0,0,,Sir, what is the meaning of this?
-Dialogue: 0,0:27:59.40,0:28:05.00,Default,,0,0,0,,I am packing up so I am not unprepared by our Lord's order to withdraw.
-Dialogue: 0,0:28:06.28,0:28:08.02,Default,,0,0,0,,Our Lord is withdrawing?
+Dialogue: 0,0:27:59.40,0:28:05.00,Default,,0,0,0,,I am packing up so I am not unprepared by our lord's order to withdraw.
+Dialogue: 0,0:28:06.28,0:28:08.02,Default,,0,0,0,,Our lord is withdrawing?
 Dialogue: 0,0:28:08.93,0:28:10.65,Default,,0,0,0,,How do you know, sir?
 Dialogue: 0,0:28:11.28,0:28:14.05,Default,,0,0,0,,I found out from tonight's watchword.
 Dialogue: 0,0:28:15.31,0:28:18.35,Default,,0,0,0,,That is the matter\N that I come here for, sir.
-Dialogue: 0,0:28:18.65,0:28:21.34,Default,,0,0,0,,When our Lord made the \N"chicken rib" watchword,
+Dialogue: 0,0:28:18.65,0:28:21.34,Default,,0,0,0,,When our lord made the \N"chicken rib" watchword,
 Dialogue: 0,0:28:23.13,0:28:24.90,Default,,0,0,0,,what did he mean by that?
 Dialogue: 0,0:28:27.85,0:28:31.27,Default,,0,0,0,,{\bord11\pos(640,672)}A chicken rib has no meat,
 Dialogue: 0,0:28:31.27,0:28:33.50,Default,,0,0,0,,{\bord11}but to discard it\N is to do away with its taste.
 Dialogue: 0,0:28:33.50,0:28:37.59,Default,,0,0,0,,{\bord11}Now that an advance would be futile \Nwhile a retreat would draw ridicule,
 Dialogue: 0,0:28:37.59,0:28:40.80,Default,,0,0,0,,{\bord11}there is nothing better\N but to withdraw now.
-Dialogue: 0,0:28:41.81,0:28:45.32,Default,,0,0,0,,{\bord11}Soon, our Lord will \Nrecall the army back to court.
+Dialogue: 0,0:28:41.81,0:28:45.32,Default,,0,0,0,,{\bord11}Soon, our lord will \Nrecall the army back to court.
 Dialogue: 0,0:28:45.83,0:28:48.34,Default,,0,0,0,,{\bord11}Therefore, I started \Nto pack up my belongings
 Dialogue: 0,0:28:48.34,0:28:50.38,Default,,0,0,0,,{\bord11\pos(640,672)}lest I panic before the trip.
 Dialogue: 0,0:28:54.24,0:28:56.50,Default,,0,0,0,,You truly know his intentions, sir!
@@ -349,7 +349,7 @@ Dialogue: 0,0:30:30.24,0:30:34.06,Default,,0,0,0,,He... he guessed that you \Nha
 Dialogue: 0,0:30:34.56,0:30:35.76,Default,,0,0,0,,Him again!
 Dialogue: 0,0:30:42.40,0:30:44.68,Default,,0,0,0,,Bring Yang Xiu here now!
 Dialogue: 0,0:30:44.68,0:30:45.33,Default,,0,0,0,,Yes.
-Dialogue: 0,0:31:06.41,0:31:07.06,Default,,0,0,0,,My Lord.
+Dialogue: 0,0:31:06.41,0:31:07.06,Default,,0,0,0,,My lord.
 Dialogue: 0,0:31:09.70,0:31:14.80,Default,NTP,0,0,0,,It was you who dared to guess that I wanted to withdraw
 Dialogue: 0,0:31:14.80,0:31:17.30,Default,NTP,0,0,0,,and have the men \Npack their belongings?
 Dialogue: 0,0:31:17.30,0:31:18.15,Default,,0,0,0,,Indeed.
@@ -361,7 +361,7 @@ Dialogue: 0,0:31:46.20,0:31:50.75,Default,,0,0,0,,You dare... you dare make lies
 Dialogue: 0,0:31:57.82,0:31:59.82,Default,,0,0,0,,-Men!\N-Here!
 Dialogue: 0,0:32:06.90,0:32:11.62,Default,NTP,0,0,0,,I knew well that such \Na fate would befall me.
 Dialogue: 0,0:32:13.07,0:32:16.37,Default,NTP,0,0,0,,I only wished it would come a bit later.
-Dialogue: 0,0:32:18.77,0:32:23.10,Default,,0,0,0,,My Lord, do not linger for in Hanzhong.
+Dialogue: 0,0:32:18.77,0:32:23.10,Default,,0,0,0,,My lord, do not linger for in Hanzhong.
 Dialogue: 0,0:32:23.10,0:32:26.07,Default,,0,0,0,,It is better to withdraw soon.
 Dialogue: 0,0:32:27.05,0:32:34.30,Default,,0,0,0,,After I depart, I hope that\N you will take care of yourself.
 Dialogue: 0,0:32:55.50,0:32:56.82,Default,,0,0,0,,Execute him!
@@ -371,7 +371,7 @@ Dialogue: 0,0:33:18.86,0:33:19.57,Default,,0,0,0,,Here.
 Dialogue: 0,0:33:20.00,0:33:23.14,Default,NTP,0,0,0,,You are a senior general! \NWhy did you believe the rumors?
 Dialogue: 0,0:33:23.14,0:33:24.55,Default,NTP,0,0,0,,Morale has declined!
 Dialogue: 0,0:33:24.55,0:33:25.77,Default,NTP,0,0,0,,You should be executed!
-Dialogue: 0,0:33:27.60,0:33:31.30,Default,,0,0,0,,My Lord, my Lord!
+Dialogue: 0,0:33:27.60,0:33:31.30,Default,,0,0,0,,My lord, my Lord!
 Dialogue: 0,0:33:31.30,0:33:37.27,Default,,0,0,0,,Please quell your anger, my Lord!
 Dialogue: 0,0:33:39.45,0:33:43.15,Default,,0,0,0,,Your capital offense is waived for now.
 Dialogue: 0,0:33:43.15,0:33:48.02,Default,,0,0,0,,Anyone who dares guess my intent or murmur about withdrawal
@@ -392,7 +392,7 @@ Dialogue: 0,0:35:08.40,0:35:11.50,Default,,0,0,0,,{\bord11}Whoever captures Liu 
 Dialogue: 0,0:35:25.85,0:35:27.86,Default,,0,0,0,,Hurry, abandon the horses and retreat!
 Dialogue: 0,0:35:27.86,0:35:28.61,Default,,0,0,0,,Yes!
 Dialogue: 0,0:35:59.98,0:36:01.29,Default,,0,0,0,,Ring the bell to retreat!
-Dialogue: 0,0:36:07.66,0:36:11.89,Default,,0,0,0,,My Lord, we are about to capture Liu Bei alive. Why ring the bell?
+Dialogue: 0,0:36:07.66,0:36:11.89,Default,,0,0,0,,My lord, we are about to capture Liu Bei alive. Why ring the bell?
 Dialogue: 0,0:36:12.59,0:36:16.80,Default,,0,0,0,,{\bord11}The Shu army is abandoning their horses and arms. Suspicious!
 Dialogue: 0,0:36:16.89,0:36:19.22,Default,,0,0,0,,{\bord11\pos(640,672)}Relay my orders: withdraw at once!
 Dialogue: 0,0:36:19.22,0:36:22.54,Default,,0,0,0,,{\bord11}Execute anyone who takes\N the horses, arms, and clothing!

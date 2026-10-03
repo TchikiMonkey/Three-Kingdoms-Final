@@ -66,7 +66,7 @@ Dialogue: 0,0:03:11.26,0:03:15.10,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180
 Dialogue: 0,0:03:15.74,0:03:21.22,Episode Title,,0,0,0,,{\fade(255,0,255,50,500,4970,5240)\pos(640.155,425.455)}Episode 55\N\N\N\N\NThe Struggle for Succession
 Dialogue: 0,0:03:21.74,0:03:22.46,Thinking,,0,0,0,,Who is that?
 Dialogue: 0,0:03:22.78,0:03:24.42,Thinking,,0,0,0,,Cao Zhi, the Marquis of Lingzi,
-Dialogue: 0,0:03:24.42,0:03:26.34,Thinking,,0,0,0,,and son of Cao Cao, the Prince of Wei.
+Dialogue: 0,0:03:24.42,0:03:26.34,Thinking,,0,0,0,,and son of Cao Cao, the King of Wei.
 Dialogue: 0,0:03:26.62,0:03:30.38,Thinking,,0,0,0,,Oh? Cao Zijian, the man they call "The Savant of the World"?
 Dialogue: 0,0:03:30.44,0:03:31.54,Thinking,,0,0,0,,Indeed.
 Dialogue: 0,0:03:33.34,0:03:40.50,Note (Potential style?),,0,0,0,,{\i1}Dǒu{\i0}（斗） and {\i1}dàn{\i0}（石）: Chinese units of volume. 1 {\i1}dǒu{\i0} = 10 {\i1}dàn{\i0} ≈ 104 liters.
@@ -82,7 +82,7 @@ Dialogue: 0,0:04:06.36,0:04:14.06,Thinking,,0,0,0,,{\bord12}With sword in hand I
 Dialogue: 0,0:04:18.08,0:04:20.90,Default,,0,0,0,,Good, good. Excellent.
 Dialogue: 0,0:04:20.14,0:04:28.54,Style Names,,0,0,0,,{\pos(297.673,478.582)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:04:21.06,0:04:24.30,Default,,0,0,0,,Your Highness, this is the new poem sent by Third Master.
-Dialogue: 0,0:04:29.82,0:04:35.22,Default,,0,0,0,,Has the Prince of Wei raised the matter of appointing an heir?
+Dialogue: 0,0:04:29.82,0:04:35.22,Default,,0,0,0,,Has the King of Wei raised the matter of appointing an heir?
 Dialogue: 0,0:04:32.54,0:04:36.98,Style Names,,0,0,0,,{\pos(993.382,489.436)}Cáo Zhí\NStyled: Zǐjiàn
 Dialogue: 0,0:04:40.66,0:04:42.30,Default,,0,0,0,,Noble Childe, dare I to ask,
 Dialogue: 0,0:04:42.98,0:04:46.86,Default,,0,0,0,,upon accession to the throne someday, what his ambitions may be?
@@ -161,7 +161,7 @@ Dialogue: 0,0:10:07.96,0:10:10.46,Default,,0,0,0,,Please have a taste, Your High
 Dialogue: 0,0:10:06.10,0:10:10.46,Note (Potential style?),,0,0,0,,Note: Sū or Sou (酥) is a type of Chinese flaky pastry.
 Dialogue: 0,0:10:29.74,0:10:31.42,Default,,0,0,0,,Who sent this?
 Dialogue: 0,0:10:31.58,0:10:35.26,Default,,0,0,0,,General of the Household for All Purposes searched for capable artisans,
-Dialogue: 0,0:10:35.28,0:10:39.16,Default,,0,0,0,,to make this like those from the North of the Great Wall, as a gift to Your Highness.
+Dialogue: 0,0:10:35.28,0:10:39.16,Default,,0,0,0,,to make this like those from the north of the Great Wall, as a gift to Your Highness.
 Dialogue: 0,0:10:41.84,0:10:45.06,Default,,0,0,0,,Not only General of the Household earnestly respects sire,
 Dialogue: 0,0:10:45.08,0:10:49.98,Default,NTP,0,0,0,,even we servants receive great care from him.
 Dialogue: 0,0:10:50.26,0:10:52.46,Default,,0,0,0,,Truly befitting of your scion, Your Highness.
@@ -289,7 +289,7 @@ Dialogue: 0,0:21:39.74,0:21:43.34,Default,,0,0,0,,{\bord12\pos(640,663)}If he is
 Dialogue: 0,0:21:44.02,0:21:46.62,Default,,0,0,0,,{\bord12\pos(640,663)}then success can be guaranteed!
 Dialogue: 0,0:21:50.74,0:21:52.00,Default,,0,0,0,,{\bord12\pos(640,663)}Jia Xu...
 Dialogue: 0,0:21:57.64,0:22:04.50,Default,,0,0,0,,{\bord12}An esteemed guest today may become a prisoner tomorrow.
-Dialogue: 0,0:22:06.60,0:22:10.08,Default,,0,0,0,,{\bord12}Though I am not one of \NPrince of Wei most veteran subordinates,
+Dialogue: 0,0:22:06.60,0:22:10.08,Default,,0,0,0,,{\bord12}Though I am not one of \NKing of Wei's most veteran subordinates,
 Dialogue: 0,0:22:10.94,0:22:14.34,Default,,0,0,0,,{\bord12\pos(640,663)}I accompany His Highness often, nevertheless.
 Dialogue: 0,0:22:14.48,0:22:18.24,Default,,0,0,0,,{\bord12}His Highness heeds my words, and I have been held in regard.
 Dialogue: 0,0:22:19.70,0:22:22.26,Default,,0,0,0,,{\bord12\pos(640,663)}This has attracted envy and hatred.
@@ -459,14 +459,14 @@ Dialogue: 0,0:36:27.14,0:36:28.34,Default,,0,0,0,,You...
 Dialogue: 0,0:36:28.42,0:36:32.10,Default,,0,0,0,,... truly are a man of deep thought and cunning!
 Dialogue: 0,0:37:06.10,0:37:10.54,Thinking,,0,0,0,,In the 22nd year of the Jian'an era (217 CE),
 Dialogue: 0,0:37:10.90,0:37:13.34,Thinking,,0,0,0,,Cao Pi had finally defeated Cao Zhi,
-Dialogue: 0,0:37:13.44,0:37:16.28,Thinking,,0,0,0,,and was made the heir apparent to the Prince of Wei.
+Dialogue: 0,0:37:13.44,0:37:16.28,Thinking,,0,0,0,,and was made the heir apparent to the King of Wei.
 Dialogue: 0,0:37:21.82,0:37:26.14,Thinking,,0,0,0,,Wakou Pass was the only way of passage when conquering Hanzhong,
 Dialogue: 0,0:37:26.52,0:37:30.22,Thinking,,0,0,0,,and is also the location of the supply depot of Xiahou Dun of the Cao army.
 Dialogue: 0,0:37:31.02,0:37:35.98,Thinking,,0,0,0,,On Liu Bei's orders, Zhang Fei garrisoned in Baxi, \Nin order to advance onto Hanzhong.
 Dialogue: 0,0:37:36.50,0:37:38.66,Thinking,,0,0,0,,If Wakou Pass was conquered,
 Dialogue: 0,0:37:38.86,0:37:42.58,Thinking,,0,0,0,,then the Cao army could not gain a foothold in Hanzhong.
 Dialogue: 0,0:37:55.66,0:37:57.68,Default,,0,0,0,,Strategos is correct.
-Dialogue: 0,0:37:58.98,0:38:00.42,Default,,0,0,0,,My Lord, Strategos.
+Dialogue: 0,0:37:58.98,0:38:00.42,Default,,0,0,0,,My lord, Strategos.
 Dialogue: 0,0:38:01.40,0:38:06.32,Default,,0,0,0,,Zhang He is leading fifteen thousand troops to attack Baxi, traveling day and night.
 Dialogue: 0,0:38:11.86,0:38:13.22,Default,,0,0,0,,Understood. Go.
 Dialogue: 0,0:38:13.34,0:38:14.42,Default,,0,0,0,,Yes, sir.
@@ -508,7 +508,7 @@ Dialogue: 0,0:41:18.02,0:41:20.78,Default,,0,0,0,,We can send someone there with
 Dialogue: 0,0:41:20.94,0:41:24.06,Default,,0,0,0,,so that General Zhang may drink to his heart's content.
 Dialogue: 0,0:41:24.30,0:41:26.52,Default,,0,0,0,,My brother has blundered much by drinking.
 Dialogue: 0,0:41:26.62,0:41:28.94,Default,,0,0,0,,Why do you gift wine to him, Strategos?
-Dialogue: 0,0:41:30.10,0:41:32.74,Default,,0,0,0,,My Lord and Yide have been brothers for so long.
+Dialogue: 0,0:41:30.10,0:41:32.74,Default,,0,0,0,,My lord and Yide have been brothers for so long.
 Dialogue: 0,0:41:34.12,0:41:35.90,Default,,0,0,0,,How do you not know his character?
 Dialogue: 0,0:41:38.18,0:41:42.70,Default,,0,0,0,,Yide is staunch in nature, but when entering the Western Riverlands,
 Dialogue: 0,0:41:42.90,0:41:46.74,Default,,0,0,0,,he had abstained from alcohol and justly released Yan Yan.

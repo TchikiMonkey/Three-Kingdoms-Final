@@ -41,10 +41,10 @@ Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:06.10,Header,,0,0,0,, This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.42,0:00:05.66,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,3980,5220)\pos(637.074,478.633)}Episode 18 \N\N\N\N\NLone Journey of a Thousand Miles
-Dialogue: 0,0:00:27.98,0:00:29.62,Default,,0,0,0,,Yúnchǎng, halt!
-Dialogue: 0,0:00:38.86,0:00:40.70,Style Names,,0,0,0,,{\pos(328.069,470.455)\fade(255,0,255,0,380,1540,1820)}Guān Yǔ\NStyled: Yúnchǎng
+Dialogue: 0,0:00:27.98,0:00:29.62,Default,,0,0,0,,Yúncháng, halt!
+Dialogue: 0,0:00:38.86,0:00:40.70,Style Names,,0,0,0,,{\pos(328.069,470.455)\fade(255,0,255,0,380,1540,1820)}Guān Yǔ\NStyled: Yúncháng
 Dialogue: 0,0:00:41.38,0:00:43.30,Style Names,,0,0,0,,{\pos(328.069,470.455)\fade(255,0,255,0,340,1620,1900)}Cáo Cāo\NStyled: Mèngdé
-Dialogue: 0,0:00:47.22,0:00:51.10,Default,,0,0,0,,Yúnchǎng, why are you in such a rush?
+Dialogue: 0,0:00:47.22,0:00:51.10,Default,,0,0,0,,Yúncháng, why are you in such a rush?
 Dialogue: 0,0:00:53.78,0:00:56.42,Default,,0,0,0,,{\bord12\pos(640,660)}In the past, I submitted myself to you, Chancellor.
 Dialogue: 0,0:00:59.74,0:01:01.58,Default,,0,0,0,,{\bord12\pos(640,660)}Now that I know my liege is at Héběi,
 Dialogue: 0,0:01:01.82,0:01:03.78,Default,,0,0,0,,{\bord12\pos(640,660)}how could I not think of going back?
@@ -60,22 +60,22 @@ Dialogue: 0,0:01:55.62,0:01:58.90,Default,,0,0,0,,Chancellor has been generous, 
 Dialogue: 0,0:01:58.98,0:02:01.50,Default,,0,0,0,,Please give this gold to the soldiers instead.
 Dialogue: 0,0:02:03.22,0:02:11.18,Default,,0,0,0,,Such a meager gift is poor \Ncompensation for thy peerless service!
 Dialogue: 0,0:02:12.62,0:02:15.14,Default,,0,0,0,,Such service is not worth mentioning.
-Dialogue: 0,0:02:21.02,0:02:25.26,Default,,0,0,0,,Yúnchǎng, you are a righteous man within the realm.
+Dialogue: 0,0:02:21.02,0:02:25.26,Default,,0,0,0,,Yúncháng, you are a righteous man within the realm.
 Dialogue: 0,0:02:27.74,0:02:30.78,Default,,0,0,0,,It is my misfortune that I can't keep you.
 Dialogue: 0,0:02:33.86,0:02:38.26,Default,,0,0,0,,Please accept this silk cloak as a token of my sincerity!
 Dialogue: 0,0:03:07.70,0:03:08.42,Default,,0,0,0,,Chancellor!
 Dialogue: 0,0:03:17.34,0:03:19.34,Default,,0,0,0,,Many thanks, sire, for this cloak!
 Dialogue: 0,0:03:27.58,0:03:29.58,Style Names,,0,0,0,,{\pos(937.869,470.455)\fade(255,0,255,0,340,1620,1980)}Xǔ Chǔ\NStyled: Zhòngkāng
 Dialogue: 0,0:03:27.78,0:03:30.22,Default,,0,0,0,,Such an arrogant man! \NWhy can't we seize him?
-Dialogue: 0,0:03:32.26,0:03:36.10,Default,,0,0,0,,Yúnchǎng is but one man on one horse, while we are of many!
+Dialogue: 0,0:03:32.26,0:03:36.10,Default,,0,0,0,,Yúncháng is but one man on one horse, while we are of many!
 Dialogue: 0,0:03:36.54,0:03:38.18,Default,,0,0,0,,Why wouldn't he be suspicious?
 Dialogue: 0,0:03:39.30,0:03:42.90,Default,,0,0,0,,I have spoken. We will not pursue.
-Dialogue: 0,0:04:04.50,0:04:09.02,Default,,0,0,0,,How Yúnchǎng fades away...
+Dialogue: 0,0:04:04.50,0:04:09.02,Default,,0,0,0,,How Yúncháng fades away...
 Dialogue: 0,0:05:03.66,0:05:04.58,Default,,0,0,0,,General Guān!
 Dialogue: 0,0:05:06.54,0:05:09.42,Default,,0,0,0,,Who are you? Please tell me your name.
-Dialogue: 0,0:05:10.06,0:05:14.18,Default,,0,0,0,,I am from Xiāngyáng. My name is{\i1} Liào Huà{\i0}, styled {\i1}Yuánjiǎn!
-Dialogue: 0,0:05:14.38,0:05:17.46,Default,,0,0,0,,Through these troubled times I've roamed as a drifter
-Dialogue: 0,0:05:17.66,0:05:19.66,Default,,0,0,0,,I had to rob people to survive.
+Dialogue: 0,0:05:10.06,0:05:14.18,Default,,0,0,0,,I am from Xiāngyáng. My name is{\i1} Liào Huà,{\i0} styled {\i1}Yuánjiǎn!
+Dialogue: 0,0:05:14.38,0:05:17.46,Default,,0,0,0,,Through these troubled times I've roamed as a drifter.
+Dialogue: 0,0:05:17.66,0:05:19.66,Default,,0,0,0,,I had to rob people just to survive.
 Dialogue: 0,0:05:19.70,0:05:22.98,Default,,0,0,0,,Just now, my companion {\i1}Dù Yuǎn{\i0} \Nwent down the mountain to patrol.
 Dialogue: 0,0:05:21.78,0:05:24.26,Style Names,,0,0,0,,{\pos(371.534,470.455)\fade(255,0,255,0,340,2180,2460)}Liào Huà\NStyled: Yuánjiǎn
 Dialogue: 0,0:05:22.98,0:05:26.26,Default,,0,0,0,,We mistakenly kidnapped\N the two mistresses up the mountain.
@@ -97,7 +97,7 @@ Dialogue: 0,0:06:46.30,0:06:51.22,Default,,0,0,0,,If you are willing to, I \Nwou
 Dialogue: 0,0:06:59.22,0:07:01.50,Default,,0,0,0,,You have proven yourself a righteous man.
 Dialogue: 0,0:07:02.14,0:07:03.62,Default,,0,0,0,,I am lucky to meet you today.
 Dialogue: 0,0:07:04.22,0:07:06.66,Default,,0,0,0,,I will repay you for sure in the future.
-Dialogue: 0,0:07:07.98,0:07:11.30,Default,,0,0,0,,But if I must seek my lord across a thousand lǐ,
+Dialogue: 0,0:07:07.98,0:07:11.30,Default,,0,0,0,,But if I must seek my lord across a thousand {\i1}lǐ,{\i0}
 Dialogue: 0,0:07:11.74,0:07:13.22,Default,,0,0,0,,roaming without end,
 Dialogue: 0,0:07:14.06,0:07:19.94,Default,,0,0,0,,I wish to escort the two mistresses' carriage alone.
 Dialogue: 0,0:07:26.50,0:07:30.66,Default,,0,0,0,,If you say such, then I, Liào Huà, must bid farewell.
@@ -147,7 +147,7 @@ Dialogue: 0,0:13:57.18,0:13:59.18,Default,,0,0,0,,It is an emergency, I couldn't
 Dialogue: 0,0:13:59.78,0:14:02.58,Default,,0,0,0,,I, on the Chancellor's orders, am guarding this place,
 Dialogue: 0,0:14:02.86,0:14:04.74,Default,,0,0,0,,especially to investigate spies.
 Dialogue: 0,0:14:04.90,0:14:07.90,Default,,0,0,0,,If you don't have the documents, then you must be a deserter!
-Dialogue: 0,0:14:09.94,0:14:12.90,Default,,0,0,0,,I live by the honour of my word.
+Dialogue: 0,0:14:09.94,0:14:12.90,Default,,0,0,0,,I live by the honor of my word.
 Dialogue: 0,0:14:13.94,0:14:20.22,Default,,0,0,0,,I am escorting the Imperial Uncle's two wives and followers only about ten or so.
 Dialogue: 0,0:14:21.30,0:14:25.14,Default,,0,0,0,,Please reconsider, Administrator, and allow us passage.
 Dialogue: 0,0:14:25.90,0:14:30.54,Default,,0,0,0,,If not, blades may be drawn.
@@ -178,11 +178,11 @@ Dialogue: 0,0:18:23.10,0:18:24.82,Default,,0,0,0,,You were justified!
 Dialogue: 0,0:18:25.54,0:18:29.46,Default,,0,0,0,,If I see the Chancellor, I'll be sure to exonerate you in front of him.
 Dialogue: 0,0:18:38.14,0:18:43.98,Default,,0,0,0,,General Biàn, you are generous and just. I thank you.
 Dialogue: 0,0:18:44.54,0:18:46.18,Default,,0,0,0,,You praise me too highly!
-Dialogue: 0,0:18:46.18,0:18:51.66,Note (Potential style?),,0,0,0,,Note: Emperor Míng of Hàn, 28 CE to 75 CE
+Dialogue: 0,0:18:46.18,0:18:51.66,Note (Potential style?),,0,0,0,,Note: Emperor Míng of Hàn, 28-75 CE
 Dialogue: 0,0:18:46.86,0:18:51.66,Default,,0,0,0,,General, this place, since Emperor Míng's reign, was called the {\i1}Fragrant Flame Garden.
 Dialogue: 0,0:18:52.34,0:18:56.46,Default,,0,0,0,,During Dǒng Zhuó's rule, it was abandoned, but the Chancellor had it rebuilt.
 Dialogue: 0,0:18:58.34,0:19:01.90,Default,,0,0,0,,You must be tired from escorting the two mistresses.
-Dialogue: 0,0:19:02.30,0:19:05.30,Default,,0,0,0,,This place is one where you can find peace and quiet.
+Dialogue: 0,0:19:02.30,0:19:05.30,Default,,0,0,0,,This place is a sanctuary of peace and quiet.
 Dialogue: 0,0:19:05.82,0:19:07.42,Default,,0,0,0,,General, please?
 Dialogue: 0,0:19:08.62,0:19:09.62,Default,,0,0,0,,Please.
 Dialogue: 0,0:19:10.94,0:19:13.38,Default,,0,0,0,,I have already prepared a banquet for you.
@@ -202,8 +202,8 @@ Dialogue: 0,0:20:22.70,0:20:26.02,Default,,0,0,0,,Bring tea for the Imperial Unc
 Dialogue: 0,0:20:26.10,0:20:26.66,Default,,0,0,0,,Yes!
 Dialogue: 0,0:20:31.54,0:20:33.10,Default,,0,0,0,,General, cheers?
 Dialogue: 0,0:20:34.26,0:20:34.90,Default,,0,0,0,,Cheers.
-Dialogue: 0,0:20:47.86,0:20:50.54,Default,,0,0,0,,What you, sir, have said just now, is that
-Dialogue: 0,0:20:51.54,0:20:55.38,Default,,0,0,0,,I, having left for many years, can no longer recognize you.
+Dialogue: 0,0:20:47.86,0:20:50.54,Default,,0,0,0,,What you, sir, have said just now, is that I,
+Dialogue: 0,0:20:51.54,0:20:55.38,Default,,0,0,0,,having left for many years, can no longer recognize you.
 Dialogue: 0,0:20:55.62,0:20:57.22,Default,,0,0,0,,Indeed! Indeed!
 Dialogue: 0,0:20:59.98,0:21:06.82,Default,,0,0,0,,General, my old home was directly across the river from yours.
 Dialogue: 0,0:21:10.22,0:21:13.70,Default,,0,0,0,,I wish to dine with the General alone, why are you here blabbering!?
@@ -258,11 +258,11 @@ Dialogue: 0,0:27:30.10,0:27:32.78,Style Names,,0,0,0,,{\pos(893.125,443.181)\fad
 Dialogue: 0,0:27:34.38,0:27:37.30,Default,,0,0,0,,Hurry! There, there!
 Dialogue: 0,0:27:37.86,0:27:39.62,Default,,0,0,0,,Hurry! Hurry up!
 Dialogue: 0,0:27:40.46,0:27:42.38,Default,,0,0,0,,Hurry! Hurry up!
-Dialogue: 0,0:27:49.30,0:27:53.34,Thinking,,0,0,0,,I've long heard of Guān Yúnchǎng's fame,\Nbut never knew what he looked like.
+Dialogue: 0,0:27:49.30,0:27:53.34,Thinking,,0,0,0,,I've long heard of Guān Yúncháng's fame,\Nbut never knew what he looked like.
 Dialogue: 0,0:27:54.82,0:27:56.78,Thinking,,0,0,0,,I must have a look at him.
 Dialogue: 0,0:28:09.50,0:28:11.42,Default,,0,0,0,,Truly a man of divinity!
 Dialogue: 0,0:28:12.82,0:28:13.90,Default,,0,0,0,,Who is outside?
-Dialogue: 0,0:28:19.90,0:28:22.98,Default,,0,0,0,,The subordinate to the administrator of Xíngyáng, {\i1}Hú Bān.\N
+Dialogue: 0,0:28:19.90,0:28:22.98,Default,,0,0,0,,The subordinate to the administrator of Xíngyáng, {\i1}Hú Bān.
 Dialogue: 0,0:28:26.30,0:28:30.58,Default,,0,0,0,,Are you not the son of Lord{\i1} Hú Huá?
 Dialogue: 0,0:28:31.78,0:28:32.74,Default,,0,0,0,,Indeed.
 Dialogue: 0,0:28:40.02,0:28:44.90,Default,,0,0,0,,Along the road, your father received me with kindness!
@@ -279,7 +279,7 @@ Dialogue: 0,0:29:26.58,0:29:29.94,Default,,0,0,0,,Such vileness... Must be answe
 Dialogue: 0,0:29:30.10,0:29:33.02,Default,,0,0,0,,General! General, Wáng Zhí has made preparations!
 Dialogue: 0,0:29:33.06,0:29:34.66,Default,,0,0,0,,He has laid an ambush!
 Dialogue: 0,0:29:34.66,0:29:40.42,Default,,0,0,0,,Though the general is a match for a thousand men, the carriage you escort may come to harm.
-Dialogue: 0,0:29:41.06,0:29:44.26,Default,,0,0,0,,Better to quickly stow the baggage. I’ll go open the gates.
+Dialogue: 0,0:29:41.06,0:29:44.26,Default,,0,0,0,,Better to quickly stow the baggage. I'll go open the gates.
 Dialogue: 0,0:29:44.54,0:29:46.26,Default,,0,0,0,,Let the General leave the city.
 Dialogue: 0,0:29:48.34,0:29:49.26,Default,,0,0,0,,Indeed.
 Dialogue: 0,0:29:50.82,0:29:53.62,Default,,0,0,0,,General, don't delay!
@@ -294,7 +294,7 @@ Dialogue: 0,0:30:38.78,0:30:39.58,Default,,0,0,0,,General Guān!
 Dialogue: 0,0:30:44.66,0:30:47.54,Default,,0,0,0,,I promise to repay you in the future!
 Dialogue: 0,0:30:48.14,0:30:51.58,Default,,0,0,0,,General, you need not say more! \NPlease leave now, and take care!
 Dialogue: 0,0:30:57.74,0:30:59.58,Default,,0,0,0,,I don't deserve such grace!
-Dialogue: 0,0:30:59.86,0:31:01.70,Default,,0,0,0,,Please General, you have to be quick.
+Dialogue: 0,0:30:59.86,0:31:01.70,Default,,0,0,0,,Please General, you have to be quick!
 Dialogue: 0,0:31:02.06,0:31:03.90,Default,,0,0,0,,I must go back to light the fire!
 Dialogue: 0,0:31:04.06,0:31:05.58,Default,,0,0,0,,General, please leave now!
 Dialogue: 0,0:31:06.50,0:31:07.62,Default,,0,0,0,,Mount your horse!
@@ -328,21 +328,21 @@ Dialogue: 0,0:36:13.62,0:36:17.26,Style Names,,0,0,0,,{\pos(432.897,537.273)\fad
 Dialogue: 0,0:36:45.22,0:36:48.66,Default,,0,0,0,,General Guān, Liú Xuándé is currently with Yuán Shào,
 Dialogue: 0,0:36:49.06,0:36:51.14,Default,,0,0,0,,and Yuán Shào is the Chancellor's rival.
 Dialogue: 0,0:36:51.82,0:36:55.46,Default,,0,0,0,,How could the Chancellor let you go there?
-Dialogue: 0,0:36:56.46,0:36:58.82,Default,,0,0,0,,Back then, the Chancellor and I made a promise
-Dialogue: 0,0:36:58.82,0:37:02.86,Default,,0,0,0,,If I got news of my elder brother,\N I would join him without hesitation.
+Dialogue: 0,0:36:56.46,0:36:58.82,Default,,0,0,0,,Back then, the Chancellor and I made a promise:
+Dialogue: 0,0:36:58.82,0:37:02.86,Default,,0,0,0,,if I got news of my elder brother,\N I would join him without hesitation.
 Dialogue: 0,0:37:04.10,0:37:07.86,Default,,0,0,0,,What you have said is what I shall believe.
 Dialogue: 0,0:37:06.98,0:37:09.86,Style Names,,0,0,0,,{\pos(775.511,379.091)\fade(255,0,255,0,750,2180,2860)}Liú Yán
 Dialogue: 0,0:37:07.98,0:37:13.34,Default,,0,0,0,,There is a checkpoint at the Yellow River, but it's guarded by Xiàhóu Dūn's subordinate, {\i1}Qín Qí.
 Dialogue: 0,0:37:13.70,0:37:17.78,Default,,0,0,0,,Without the Chancellor's documents, \NI'm afraid they won't allow you to ferry.
 Dialogue: 0,0:37:20.54,0:37:23.78,Default,,0,0,0,,Perhaps sir could come and prepare the boats for me?
-Dialogue: 0,0:37:24.74,0:37:29.86,Default,,0,0,0,,I won't stop you, but, even if I had the ships, I fear the Chancellor would punish me.
+Dialogue: 0,0:37:24.74,0:37:29.86,Default,,0,0,0,,I won't stop you, but even if I had the ships, I fear the Chancellor would punish me.
 Dialogue: 0,0:37:29.94,0:37:31.46,Default,,0,0,0,,I wouldn't dare oppose him.
 Dialogue: 0,0:37:32.30,0:37:34.98,Default,,0,0,0,,I happened to save you from danger once.
 Dialogue: 0,0:37:35.70,0:37:38.78,Default,,0,0,0,,Now I ask to ferry the river, yet you refuse. Why is that?
-Dialogue: 0,0:37:38.86,0:37:43.30,Default,,0,0,0,,Sir may not know this, but General Xiàhóu is among the most favoured by the Chancellor.
+Dialogue: 0,0:37:38.86,0:37:43.30,Default,,0,0,0,,Sir may not know this, but General Xiàhóu is among the most favored by the Chancellor.
 Dialogue: 0,0:37:43.42,0:37:46.58,Default,,0,0,0,,If he knew of this, I will be convicted.
 Dialogue: 0,0:37:47.50,0:37:49.26,Default,,0,0,0,,So I cannot pass?
-Dialogue: 0,0:37:50.14,0:37:54.90,Default,,0,0,0,,I cannot be of assistance.\N My utmost apologies, Yúnchǎng.
+Dialogue: 0,0:37:50.14,0:37:54.90,Default,,0,0,0,,I cannot be of assistance.\N My utmost apologies, Yúncháng.
 Dialogue: 0,0:37:57.66,0:38:00.54,Default,,0,0,0,,If your predicament is such, I can only go alone.
 Dialogue: 0,0:38:01.38,0:38:01.82,Default,,0,0,0,,Go!
 Dialogue: 0,0:38:08.26,0:38:10.50,Default,,0,0,0,,General, take good care along the way!
@@ -350,15 +350,15 @@ Dialogue: 0,0:38:29.50,0:38:30.50,Default,,0,0,0,,Who approaches?
 Dialogue: 0,0:38:31.78,0:38:33.70,Default,,0,0,0,,Marquis of Hànshòu District, Guān Yǔ!
 Dialogue: 0,0:38:34.18,0:38:35.46,Default,,0,0,0,,What's your destination?
 Dialogue: 0,0:38:36.62,0:38:40.10,Default,,0,0,0,,I wish to borrow your boats to search for my elder brother in Héběi.
-Dialogue: 0,0:38:40.74,0:38:42.42,Default,,0,0,0,,Héběi is in Yuán Shào’s lands.
+Dialogue: 0,0:38:40.74,0:38:42.42,Default,,0,0,0,,Héběi is in Yuán Shào's lands.
 Dialogue: 0,0:38:40.82,0:38:44.50,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3420,3700)\pos(332.248,475.697)}Qín Qí
 Dialogue: 0,0:38:42.54,0:38:44.66,Default,,0,0,0,,Where are the Chancellor's documents?
 Dialogue: 0,0:38:45.50,0:38:47.06,Default,,0,0,0,,I am no longer under his rule.
 Dialogue: 0,0:38:47.66,0:38:48.66,Default,,0,0,0,,Why would I need it?
 Dialogue: 0,0:38:49.54,0:38:53.38,Default,,0,0,0,,Under General Xiàhóu's orders, I am guarding this pass!
-Dialogue: 0,0:38:53.38,0:38:57.10,Default,,0,0,0,,Without orders from the Chancellor, your shall not pass!
+Dialogue: 0,0:38:53.38,0:38:57.10,Default,,0,0,0,,Without orders from the Chancellor, you shall not pass!
 Dialogue: 0,0:38:57.34,0:39:00.44,Default,,0,0,0,,Are you aware of what fate befalls those who try and stop me?
-Dialogue: 0,0:39:01.02,0:39:02.06,Default,,0,0,0,,Yes I have!
+Dialogue: 0,0:39:01.02,0:39:02.06,Default,,0,0,0,,Yes I am!
 Dialogue: 0,0:39:03.18,0:39:05.82,Default,,0,0,0,,If you do know, why do you insist on stopping me?
 Dialogue: 0,0:39:06.30,0:39:08.38,Default,,0,0,0,,All those killed are but meager rabble!
 Dialogue: 0,0:39:09.34,0:39:10.90,Default,,0,0,0,,Do you dare to challenge me?

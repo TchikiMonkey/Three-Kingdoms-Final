@@ -105,7 +105,7 @@ Dialogue: 0,0:07:19.43,0:07:20.49,Default,Guan Yu,0,0,0,,Many thanks, Chancellor
 Dialogue: 0,0:07:22.23,0:07:26.98,Default,Cao Cao,0,0,0,,I gave you a silk cloak, and yet you did not kneel.
 Dialogue: 0,0:07:26.98,0:07:31.14,Default,Cao Cao,0,0,0,,Yet now I give you a horse, and you kneel in joy?
 Dialogue: 0,0:07:32.25,0:07:34.78,Default,Cao Cao,0,0,0,,Why do you value beasts over men?
-Dialogue: 0,0:07:37.18,0:07:41.77,Default,Guan Yu,0,0,0,,Chancellor, this horse can travel thousands of miles in a day!
+Dialogue: 0,0:07:37.18,0:07:41.77,Default,Guan Yu,0,0,0,,Chancellor, this horse can travel thousands of {\i1}li{\i0} in a day!
 Dialogue: 0,0:07:41.77,0:07:43.72,Default,Guan Yu,0,0,0,,I am blessed to have it!
 Dialogue: 0,0:07:43.90,0:07:47.96,Default,Guan Yu,0,0,0,,Once I know where my elder brother is,\N I can be with him in one day.
 Dialogue: 0,0:07:55.27,0:07:57.58,Default,Cao Cao,0,0,0,,I treat you with generosity.
@@ -228,7 +228,7 @@ Dialogue: 0,0:17:35.50,0:17:38.00,Default,Guan Yu,0,0,0,,seize his head, and pre
 Dialogue: 0,0:17:38.00,0:17:41.16,Default,Zhang Liao,0,0,0,,There are no jests in times of war! Yunchang, don't be reckless!
 Dialogue: 0,0:17:50.46,0:17:51.44,Default,Cao Cao,0,0,0,,Sound the drums!
 Dialogue: 0,0:18:19.33,0:18:25.04,Thinking,Narrator,0,0,0,,For his slaying of Yan Liang, \NCao Cao valued Guan Yu even more.
-Dialogue: 0,0:18:25.04,0:18:31.18,Thinking,Narrator,0,0,0,,He had Emperor Xian name Deputy General Guan Yu \Nas the 'Marquis of Hanshou District',
+Dialogue: 0,0:18:25.04,0:18:31.18,Thinking,Narrator,0,0,0,,He had Emperor Xian name Deputy General Guan Yu \Nas the Marquis of Hanshou District,"
 Dialogue: 0,0:18:31.18,0:18:33.61,Thinking,Narrator,0,0,0,,giving him the seal and ribbon.
 Dialogue: 0,0:18:39.78,0:18:41.46,Default,Scout,0,0,0,,My lord, my lord!
 Dialogue: 0,0:18:41.46,0:18:43.84,Default,Scout,0,0,0,,Vanguard general, Yan Liang, has fallen!
@@ -297,7 +297,7 @@ Dialogue: 0,0:22:25.82,0:22:28.84,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}L
 Dialogue: 0,0:22:33.48,0:22:34.28,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Wise liege.
 Dialogue: 0,0:22:37.66,0:22:38.53,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Gentlemen.
 Dialogue: 0,0:22:39.96,0:22:43.12,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Cao Cao always viewed me with suspicion.
-Dialogue: 0,0:22:43.12,0:22:46.70,Default,Liu Bei,0,0,0,,{\bord12}Now he's learned of me residing at Sire's side, he fears our alliance.
+Dialogue: 0,0:22:43.12,0:22:46.70,Default,Liu Bei,0,0,0,,{\bord12}Now he's learned of my residing at Sire's side, he fears our alliance.
 Dialogue: 0,0:22:46.70,0:22:49.12,Default,Liu Bei,0,0,0,,{\bord12}That's why he had Yunchang \N kill the two generals.
 Dialogue: 0,0:22:49.12,0:22:55.74,Default,Liu Bei,0,0,0,,{\bord12}to enrage you, sire, and to make me \Nthe enemy of the noble men of Hebei.
 Dialogue: 0,0:22:55.74,0:22:59.44,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}He is twisting your hands to kill me!
@@ -358,7 +358,7 @@ Dialogue: 0,0:27:52.55,0:27:54.12,Default,Guan Yu,0,0,0,,How could I remain here
 Dialogue: 0,0:27:54.93,0:27:59.55,Default,Chen Zhen,0,0,0,,Sir, you should write a reply to reassure Lord Liu.
 Dialogue: 0,0:28:13.16,0:28:16.38,Thinking,Guan Yu,0,0,0,,{\bord12\pos(640,660)}Men who are righteous will not betray;
 Dialogue: 0,0:28:16.38,0:28:18.98,Thinking,Guan Yu,0,0,0,,{\bord12\pos(640,660)}men who are loyal do not fear death.
-Dialogue: 0,0:28:18.98,0:28:24.14,Thinking,Guan Yu,0,0,0,,{\bord12)}Since youth, I've learned honour and integrity from books,
+Dialogue: 0,0:28:18.98,0:28:24.14,Thinking,Guan Yu,0,0,0,,{\bord12)}Since youth, I've learned honor and integrity from books,
 Dialogue: 0,0:28:24.14,0:28:27.70,Thinking,Guan Yu,0,0,0,,{\bord12}from stories such as that of \NYangjue Ai and Zuo Botao,
 Dialogue: 0,0:28:27.70,0:28:31.76,Thinking,Guan Yu,0,0,0,,{\bord12\pos(640,660)}to which I always gasped and wept.
 Dialogue: 0,0:28:24.14,0:28:31.80,Note (Potential style?),,0,0,0,,Note: Yang Jue'ai and Zuo Botao were sworn brothers. During a freezing blizzard, Zuo Botao gave all his clothes and food to Yang Jue'ai, sacrificing his life.

@@ -50,10 +50,10 @@ Dialogue: 0,0:02:02.42,0:02:10.74,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\
 Dialogue: 0,0:02:10.82,0:02:18.62,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
 Dialogue: 0,0:02:18.78,0:02:27.18,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
 Dialogue: 0,0:02:27.34,0:02:30.14,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Jiē {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
+Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Dōu {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
 Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
 Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Jiē {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
+Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
 Dialogue: 0,0:01:08.50,0:01:13.24,Title,,0,0,0,,{\move(1550.333,640,85.333,640,600,4800)\clip(162.667,6.667,1118.667,720)}Romance of the Three Kingdoms
 Dialogue: 0,0:01:13.24,0:01:18.52,Title,,0,0,0,,{\move(85.333,640,661.333,468,00,970)\clip(162.667,6.667,1118.667,720)\fade(255,0,255,0,0,4700,5500)}Romance of the Three Kingdoms
 Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}On and on the Great River rolls, racing east.
@@ -79,9 +79,9 @@ Dialogue: 0,0:04:46.56,0:04:48.82,Thinking,,0,0,0,,I will be able to see my elde
 Dialogue: 0,0:04:50.27,0:04:52.82,Thinking,,0,0,0,,Who could but reflect in longing.
 Dialogue: 0,0:05:07.99,0:05:11.34,Thinking,,0,0,0,,Bidding farewell to Xǔchāng, \Nhanging my seal and locking away the gold.
 Dialogue: 0,0:05:11.75,0:05:15.90,Thinking,,0,0,0,,Cutting down the warriors of the pass, in order to look for my elder brother.
-Dialogue: 0,0:05:16.46,0:05:22.30,Thinking,,0,0,0,,To see my elder brother's face, I, Guān Yúnchǎng, would die many times over without regret!
-Dialogue: 0,0:05:50.31,0:05:52.38,Default,,0,0,0,,Yúnchǎng, slow down!
-Dialogue: 0,0:05:53.34,0:05:54.94,Default,,0,0,0,,Yúnchǎng, slow down!
+Dialogue: 0,0:05:16.46,0:05:22.30,Thinking,,0,0,0,,To see my elder brother's face, I, Guān Yúncháng, would die many times over without regret!
+Dialogue: 0,0:05:50.31,0:05:52.38,Default,,0,0,0,,Yúncháng, slow down!
+Dialogue: 0,0:05:53.34,0:05:54.94,Default,,0,0,0,,Yúncháng, slow down!
 Dialogue: 0,0:05:58.30,0:06:00.42,Style Names,,0,0,0,,{\pos(949.244,497.727)\fade(255,0,255,0,400,1720,2080)}Sūn Qián\NStyled: Gōngyòu
 Dialogue: 0,0:05:58.78,0:05:59.78,Default,,0,0,0,,General Guān!
 Dialogue: 0,0:06:02.83,0:06:03.54,Default,,0,0,0,,Gōngyòu!
@@ -95,9 +95,9 @@ Dialogue: 0,0:06:17.19,0:06:19.26,Default,,0,0,0,,I wandered around Rǔnán!
 Dialogue: 0,0:06:21.23,0:06:22.02,Default,,0,0,0,,Gōngyòu!
 Dialogue: 0,0:06:23.31,0:06:24.30,Default,,0,0,0,,General!
 Dialogue: 0,0:06:26.99,0:06:30.66,Default,,0,0,0,,Ever since I fled from Xú Province, I wandered Rǔnán.
-Dialogue: 0,0:06:31.59,0:06:33.86,Default,,0,0,0,,I luckily met {\i1}Liú Pì{\i0}, who gave me shelter.
+Dialogue: 0,0:06:31.59,0:06:33.86,Default,,0,0,0,,I luckily met {\i1}Liú Pì,{\i0} who gave me shelter.
 Dialogue: 0,0:06:34.26,0:06:37.18,Default,,0,0,0,,He sent me to Héběi to ally with Yuán Shào,
-Dialogue: 0,0:06:37.79,0:06:40.70,Default,,0,0,0,,and invite Xuándé to help defeat Cáo (Cāo).
+Dialogue: 0,0:06:37.79,0:06:40.70,Default,,0,0,0,,and invite Xuándé to help defeat Cáo.
 Dialogue: 0,0:06:41.18,0:06:45.94,Default,,0,0,0,,But Yuán Shào's strategists resent each other and fight for influence.
 Dialogue: 0,0:06:46.59,0:06:49.18,Default,,0,0,0,,Yuán Shào himself is suspicious and indecisive.
 Dialogue: 0,0:06:49.63,0:06:52.73,Default,,0,0,0,,The Imperial Uncle and I decided to find a way to escape.
@@ -132,7 +132,7 @@ Dialogue: 0,0:09:40.58,0:09:42.86,Default,,0,0,0,,{\bord12\pos(640,660)}I had to
 Dialogue: 0,0:09:42.86,0:09:45.06,Thinking,,0,0,0,,{\bord12\pos(640,660)}Had it been any other officer, there'd be no quarrel.
 Dialogue: 0,0:09:45.06,0:09:47.78,Thinking,,0,0,0,,{\bord12}But Qín Qí was my subordinate, \Nand my friend Cài Yáng's nephew.
 Dialogue: 0,0:09:47.78,0:09:49.06,Thinking,,0,0,0,,{\bord12\pos(640,660)}How can I back down?!
-Dialogue: 0,0:09:50.91,0:09:53.34,Default,,0,0,0,,General, you cannot fight with Yúnchǎng!
+Dialogue: 0,0:09:50.91,0:09:53.34,Default,,0,0,0,,General, you cannot fight with Yúncháng!
 Dialogue: 0,0:09:57.00,0:10:01.18,Default,,0,0,0,,The Chancellor admires General Guān's virtue, but he was stopped by the gate guards,
 Dialogue: 0,0:10:01.18,0:10:04.54,Default,,0,0,0,,so he commanded me to relay the order to everyone.
 Dialogue: 0,0:10:04.54,0:10:08.46,Default,,0,0,0,,Guān Yǔ killed those gate officers to trespass!\NDoes the Chancellor know that?!
@@ -158,26 +158,26 @@ Dialogue: 0,0:11:23.34,0:11:25.56,Default,,0,0,0,,Are you are here to resolve th
 Dialogue: 0,0:11:25.56,0:11:26.86,Default,,0,0,0,,And what of it!?
 Dialogue: 0,0:11:28.18,0:11:33.78,Default,,0,0,0,,If so, I will not hesitate killing\N the Chancellor's trusted officer.
 Dialogue: 0,0:11:34.71,0:11:36.18,Default,,0,0,0,,It will be thus.
-Dialogue: 0,0:11:43.67,0:11:45.26,Default,,0,0,0,,Yúnchǎng, stop this!
-Dialogue: 0,0:11:45.71,0:11:47.30,Default,,0,0,0,,Yúnchǎng, stop this!
-Dialogue: 0,0:11:48.35,0:11:49.82,Default,,0,0,0,,Yúnchǎng, stop this!
+Dialogue: 0,0:11:43.67,0:11:45.26,Default,,0,0,0,,Yúncháng, stop this!
+Dialogue: 0,0:11:45.71,0:11:47.30,Default,,0,0,0,,Yúncháng, stop this!
+Dialogue: 0,0:11:48.35,0:11:49.82,Default,,0,0,0,,Yúncháng, stop this!
 Dialogue: 0,0:11:52.46,0:11:54.26,Style Names,,0,0,0,,{\pos(974.79,470.454)\fade(255,0,255,0,460,1420,1780)}Zhāng Liáo \NStyled: Wényuǎn
-Dialogue: 0,0:11:52.19,0:11:56.34,Default,,0,0,0,,By the Chancellor's orders! He heard of Yúnchǎng's battles, and feared the passes would still halt him,
+Dialogue: 0,0:11:52.19,0:11:56.34,Default,,0,0,0,,By the Chancellor's orders! He heard of Yúncháng's battles, and feared the passes would still halt him,
 Dialogue: 0,0:11:56.34,0:11:59.38,Default,,0,0,0,,so he sent me throughout \Nthe gate passes to grant him passage!
 Dialogue: 0,0:12:03.91,0:12:07.54,Default,,0,0,0,,Qín Qí is Cài Yáng's nephew, he entrusted him to me.
 Dialogue: 0,0:12:08.79,0:12:11.94,Default,,0,0,0,,Now that Guān Yǔ killed him, how could I ever rest?
 Dialogue: 0,0:12:12.79,0:12:15.18,Default,,0,0,0,,General Cài will have to resolve it himself,
-Dialogue: 0,0:12:15.87,0:12:20.98,Default,,0,0,0,,but by the Chancellor's generosity, Yúnchǎng has passage. We cannot disobey that order!
+Dialogue: 0,0:12:15.87,0:12:20.98,Default,,0,0,0,,but by the Chancellor's generosity, Yúncháng has passage. We cannot disobey that order!
 Dialogue: 0,0:12:26.31,0:12:29.82,Default,,0,0,0,,Someday, we shall meet again on the battlefield!
-Dialogue: 0,0:12:43.31,0:12:46.62,Default,,0,0,0,,Yúnchǎng, where are you going now?
+Dialogue: 0,0:12:43.31,0:12:46.62,Default,,0,0,0,,Yúncháng, where are you going now?
 Dialogue: 0,0:12:48.50,0:12:50.50,Default,,0,0,0,,I don't know where my elder brother is.
 Dialogue: 0,0:12:50.50,0:12:55.50,Default,,0,0,0,,If you don't know where Xuándé is,\Nwould you like to join the Chancellor again?
 Dialogue: 0,0:12:56.15,0:12:58.42,Default,,0,0,0,,How would that make sense?
 Dialogue: 0,0:13:01.99,0:13:02.70,Default,,0,0,0,,Wényuǎn,
 Dialogue: 0,0:13:04.23,0:13:06.52,Default,,0,0,0,,Along the way, I committed many misdeeds.
 Dialogue: 0,0:13:06.52,0:13:14.26,Default,,0,0,0,,When you go back, please tell the Chancellor I ask for his forgiveness.
-Dialogue: 0,0:13:29.31,0:13:30.14,Default,,0,0,0,,Yúnchǎng.
-Dialogue: 0,0:13:35.99,0:13:36.86,Default,,0,0,0,,Yúnchǎng!
+Dialogue: 0,0:13:29.31,0:13:30.14,Default,,0,0,0,,Yúncháng.
+Dialogue: 0,0:13:35.99,0:13:36.86,Default,,0,0,0,,Yúncháng!
 Dialogue: 0,0:14:22.66,0:14:25.66,Default,,0,0,0,,Attack!
 Dialogue: 0,0:14:28.38,0:14:29.02,Default,,0,0,0,,Stop!
 Dialogue: 0,0:14:29.91,0:14:30.66,Default,,0,0,0,,Stop!
@@ -188,7 +188,7 @@ Dialogue: 0,0:14:45.23,0:14:47.86,Default,,0,0,0,,So, just a bunch of petty hors
 Dialogue: 0,0:14:48.51,0:14:50.26,Default,,0,0,0,,Shut up! Men, kill him!
 Dialogue: 0,0:14:50.58,0:14:52.79,Default,,0,0,0,,{\i1}Die!
 Dialogue: 0,0:14:52.79,0:14:55.10,Default,,0,0,0,,Dismount! Leave your weapons behind!
-Dialogue: 0,0:14:56.27,0:15:02.63,Default,,0,0,0,,(Péi) Yuánshào, stop! \NWe are making a huge mistake!
+Dialogue: 0,0:14:56.27,0:15:02.63,Default,,0,0,0,,Yuánshào, stop! \NWe are making a huge mistake!
 Dialogue: 0,0:15:02.63,0:15:03.46,Default,,0,0,0,,What are you-
 Dialogue: 0,0:15:09.91,0:15:12.46,Default,,0,0,0,,Zhōu Cāng pays his respects to General Guān!
 Dialogue: 0,0:15:20.03,0:15:20.94,Default,,0,0,0,,General Guān!
@@ -196,7 +196,7 @@ Dialogue: 0,0:15:24.55,0:15:25.70,Default,,0,0,0,,Where are you going?
 Dialogue: 0,0:15:29.95,0:15:33.95,Default,,0,0,0,,This man had reported that there was someone riding a fast steed.
 Dialogue: 0,0:15:33.95,0:15:38.42,Default,,0,0,0,,We stayed over at his family's house and he invited us to steal such a steed.
 Dialogue: 0,0:15:38.94,0:15:41.22,Default,,0,0,0,,We never knew it was yours...
-Dialogue: 0,0:15:44.35,0:15:46.23,Default,,0,0,0,,The hero, Guān Yúnchǎng!
+Dialogue: 0,0:15:44.35,0:15:46.23,Default,,0,0,0,,The hero, Guān Yúncháng!
 Dialogue: 0,0:15:46.23,0:15:49.86,Default,,0,0,0,,We are fortunate to meet with you!
 Dialogue: 0,0:15:49.86,0:15:53.09,Default,,0,0,0,,General Guān!
 Dialogue: 0,0:15:53.09,0:15:56.58,Default,,0,0,0,,We have never met before, how did you know of me?
@@ -207,7 +207,7 @@ Dialogue: 0,0:16:10.58,0:16:15.22,Default,,0,0,0,,I have always been eager to se
 Dialogue: 0,0:16:19.99,0:16:21.98,Default,,0,0,0,,Gentlemen, you may all stand up.
 Dialogue: 0,0:16:22.67,0:16:24.98,Default,,0,0,0,,Thank you, General Guān!
 Dialogue: 0,0:16:25.98,0:16:26.94,Default,,0,0,0,,Not you!
-Dialogue: 0,0:16:31.79,0:16:35.78,Default,,0,0,0,,I have traveled a thousand {\i1}lǐ{\i0}, escorting my\Nsisters-in-law to find my elder brother,
+Dialogue: 0,0:16:31.79,0:16:35.78,Default,,0,0,0,,I have traveled a thousand {\i1}lǐ,{\i0} escorting my\Nsisters-in-law to find my elder brother,
 Dialogue: 0,0:16:36.00,0:16:37.18,Default,,0,0,0,,all on this horse!
 Dialogue: 0,0:16:38.35,0:16:41.74,Default,,0,0,0,,Who do you think you are, having the gall to plot against me!
 Dialogue: 0,0:16:45.26,0:16:45.74,Default,,0,0,0,,Halt!
@@ -228,7 +228,7 @@ Dialogue: 0,0:17:26.28,0:17:31.26,Default,,0,0,0,,I will lead your carriage and 
 Dialogue: 0,0:17:32.99,0:17:33.62,Default,,0,0,0,,General!
 Dialogue: 0,0:17:40.43,0:17:43.06,Default,,0,0,0,,Sir, please rise.
 Dialogue: 0,0:17:44.27,0:17:46.14,Default,,0,0,0,,General Guān, please mount your horse!
-Dialogue: 0,0:17:51.62,0:17:52.90,Default,,0,0,0,,'Mount your horse'?
+Dialogue: 0,0:17:51.62,0:17:52.90,Default,,0,0,0,,"Mount your horse"?
 Dialogue: 0,0:17:55.35,0:17:57.38,Default,,0,0,0,,General Guān, please mount your horse!
 Dialogue: 0,0:18:00.46,0:18:03.58,Default,,0,0,0,,General Guān, please mount your horse!
 Dialogue: 0,0:18:22.91,0:18:25.74,Default,,0,0,0,,Hurry up! Hurry up!
@@ -267,8 +267,8 @@ Dialogue: 0,0:21:31.46,0:21:32.46,Default,,0,0,0,,Gōngyòu!
 Dialogue: 0,0:21:32.64,0:21:36.50,Default,,0,0,0,,It is Yìdé! Yìdé!
 Dialogue: 0,0:21:36.99,0:21:38.82,Default,,0,0,0,,Mr. Sūn!
 Dialogue: 0,0:21:44.94,0:21:47.94,Default,,0,0,0,,Mr. Sūn, any news of my Elder Brother?
-Dialogue: 0,0:21:48.55,0:21:51.94,Default,,0,0,0,,Of our Imperial Uncle, we can discuss later in detail
-Dialogue: 0,0:21:52.91,0:21:57.78,Default,,0,0,0,,Now Yúnchǎng is escorting your\Ntwo sisters-in-law to Gǔchéng!
+Dialogue: 0,0:21:48.55,0:21:51.94,Default,,0,0,0,,Of our Imperial Uncle, we can discuss later in detail.
+Dialogue: 0,0:21:52.91,0:21:57.78,Default,,0,0,0,,Now Yúncháng is escorting your\Ntwo sisters-in-law to Gǔchéng!
 Dialogue: 0,0:21:58.38,0:22:01.14,Default,,0,0,0,,Yìdé, are you not happy to welcome him?
 Dialogue: 0,0:22:01.32,0:22:02.14,Default,,0,0,0,,What?
 Dialogue: 0,0:22:06.62,0:22:08.18,Default,,0,0,0,,Give me my weapon!
@@ -287,10 +287,10 @@ Dialogue: 0,0:23:12.30,0:23:13.06,Default,,0,0,0,,Third Brother!
 Dialogue: 0,0:23:16.42,0:23:17.26,Default,,0,0,0,,Third Brother!
 Dialogue: 0,0:23:22.55,0:23:23.34,Default,,0,0,0,,Third Brother,
 Dialogue: 0,0:23:24.63,0:23:26.10,Default,,0,0,0,,I'm Guān Yǔ!
-Dialogue: 0,0:23:26.10,0:23:30.02,Default,,0,0,0,,I know you are Guān Yǔ, \Nbut today it is Guān Yǔ  who will die!
+Dialogue: 0,0:23:26.10,0:23:30.02,Default,,0,0,0,,I know you are Guān Yǔ, \Nbut today it is Guān Yǔ who will die!
 Dialogue: 0,0:23:32.67,0:23:33.30,Default,,0,0,0,,Third Brother!
 Dialogue: 0,0:23:33.30,0:23:36.14,Default,,0,0,0,,Have you forgotten our Oath in the Peach Garden?
-Dialogue: 0,0:23:36.14,0:23:41.18,Default,,0,0,0,,You have have no shame! How dare you meet with me face to face?!
+Dialogue: 0,0:23:36.14,0:23:41.18,Default,,0,0,0,,You have no shame! How dare you meet with me face to face?!
 Dialogue: 0,0:23:42.11,0:23:43.22,Default,,0,0,0,,How have I no shame?!
 Dialogue: 0,0:23:43.38,0:23:46.50,Default,,0,0,0,,You betrayed my elder brother, you surrendered to Cáo Cāo,
 Dialogue: 0,0:23:46.50,0:23:50.18,Default,,0,0,0,,and even accepted a marquis title, \Nand now you've come to deceive me!
@@ -307,15 +307,15 @@ Dialogue: 0,0:24:24.31,0:24:26.54,Default,,0,0,0,,he had to reside at Cáo's cam
 Dialogue: 0,0:24:28.14,0:24:30.14,Default,,0,0,0,,But now that Imperial Uncle is in Runan,
 Dialogue: 0,0:24:30.47,0:24:33.02,Default,,0,0,0,,he escorted us the whole way, past all obstacles.
 Dialogue: 0,0:24:33.47,0:24:35.66,Default,,0,0,0,,Don't blame him, Third brother-in-law.
-Dialogue: 0,0:24:37.14,0:24:38.78,Default,,0,0,0,,Don't be fooled
-Dialogue: 0,0:24:42.87,0:24:45.90,Default,,0,0,0,,A loyal man would rather die than surrender!
+Dialogue: 0,0:24:37.14,0:24:38.78,Default,,0,0,0,,Don't be fooled!
+Dialogue: 0,0:24:42.87,0:24:45.90,Default,,0,0,0,,A loyal man would rather die than surrender.
 Dialogue: 0,0:24:47.47,0:24:51.14,Default,,0,0,0,,What kind of man would serve two?!
-Dialogue: 0,0:24:58.15,0:24:59.78,Default,,0,0,0,,Brother
+Dialogue: 0,0:24:58.15,0:24:59.78,Default,,0,0,0,,Brother...
 Dialogue: 0,0:25:01.78,0:25:04.06,Default,,0,0,0,,Why do you accuse me so?
 Dialogue: 0,0:25:16.67,0:25:17.94,Default,,0,0,0,,Yìdé!
 Dialogue: 0,0:25:19.35,0:25:20.42,Default,,0,0,0,,Yìdé!
 Dialogue: 0,0:25:22.62,0:25:24.34,Default,,0,0,0,,Yìdé!
-Dialogue: 0,0:25:26.43,0:25:28.82,Default,,0,0,0,,Yúnchǎng came back for you.
+Dialogue: 0,0:25:26.43,0:25:28.82,Default,,0,0,0,,Yúncháng came back for you.
 Dialogue: 0,0:25:29.31,0:25:31.10,Default,,0,0,0,,Now you lie to me too?!
 Dialogue: 0,0:25:31.87,0:25:33.30,Default,,0,0,0,,How can he come for me?
 Dialogue: 0,0:25:34.63,0:25:36.39,Default,,0,0,0,,He clearly came to capture me.
@@ -328,7 +328,7 @@ Dialogue: 0,0:26:13.63,0:26:15.26,Default,,0,0,0,,Bring the drum.
 Dialogue: 0,0:27:22.19,0:27:24.26,Default,,0,0,0,,-Second Brother!\N-Third brother!
 Dialogue: 0,0:27:24.26,0:27:26.02,Default,,0,0,0,,Brother!
 Dialogue: 0,0:27:26.02,0:27:27.58,Default,,0,0,0,,My Brother!
-Dialogue: 0,0:27:29.06,0:27:30.78,Default,,0,0,0,,Second Brother
+Dialogue: 0,0:27:29.06,0:27:30.78,Default,,0,0,0,,Second Brother!
 Dialogue: 0,0:27:33.63,0:27:35.02,Default,,0,0,0,,My good brother!
 Dialogue: 0,0:27:36.02,0:27:37.78,Default,,0,0,0,,I missed you, my Brother!
 Dialogue: 0,0:27:38.74,0:27:40.10,Default,,0,0,0,,Third Brother
@@ -337,12 +337,12 @@ Dialogue: 0,0:27:51.02,0:27:52.94,Default,,0,0,0,,Brother!
 Dialogue: 0,0:28:22.59,0:28:25.10,Default,,0,0,0,,General Guān is still as strong as ever.
 Dialogue: 0,0:28:25.51,0:28:27.50,Default,,0,0,0,,No need, no need.
 Dialogue: 0,0:28:27.83,0:28:29.10,Default,,0,0,0,,Please.
-Dialogue: 0,0:28:34.67,0:28:37.90,Default,,0,0,0,,Everyday, General Zhāng misses the Imperial Uncle and you.
+Dialogue: 0,0:28:34.67,0:28:37.90,Default,,0,0,0,,Every day, General Zhāng misses the Imperial Uncle and you.
 Dialogue: 0,0:28:37.90,0:28:40.58,Default,,0,0,0,,He often wakes up screaming your names.
 Dialogue: 0,0:28:42.67,0:28:46.82,Default,,0,0,0,,You met today and yet he almost killed you!
 Dialogue: 0,0:28:49.67,0:28:50.42,Default,NTP,0,0,0,,That is no lie.
 Dialogue: 0,0:28:50.58,0:28:53.62,Default,NTP,0,0,0,,Usually General Zhāng doesn't allow us to speak of General Guān.
-Dialogue: 0,0:28:53.62,0:28:56.58,Default,,0,0,0,,If we do, General would get violently angry.
+Dialogue: 0,0:28:53.62,0:28:56.58,Default,,0,0,0,,If we do, General will get violently angry.
 Dialogue: 0,0:28:59.20,0:29:02.10,Default,,0,0,0,,Yìdé is very honest, he detests the evil and the unjust.
 Dialogue: 0,0:29:03.63,0:29:06.38,Default,,0,0,0,,Admirable!
 Dialogue: 0,0:29:07.92,0:29:10.10,Style Names,,0,0,0,,{\pos(980.168,414.423)}Lady Mí
@@ -356,7 +356,7 @@ Dialogue: 0,0:29:28.98,0:29:31.98,Default,,0,0,0,,Today we've reunited, the only
 Dialogue: 0,0:29:32.63,0:29:35.26,Default,,0,0,0,,Tomorrow, I will go look for him in Runan.
 Dialogue: 0,0:29:37.71,0:29:41.82,Default,,0,0,0,,When we came here, we heard my lord, seeing Liu Pì and Gōng Dū were low on manpower,
 Dialogue: 0,0:29:41.82,0:29:44.82,Default,,0,0,0,,has gone to negotiate with Yuán Shào.
-Dialogue: 0,0:30:01.46,0:30:02.46,Default,,0,0,0,,-Zhou Cang\N-Yes, sir.
+Dialogue: 0,0:30:01.46,0:30:02.46,Default,,0,0,0,,-Zhou Cang.\N-Yes, sir.
 Dialogue: 0,0:30:03.47,0:30:05.14,Default,,0,0,0,,How many serve under Pei Yuanshao?
 Dialogue: 0,0:30:05.47,0:30:07.34,Default,,0,0,0,,About four or five hundred.
 Dialogue: 0,0:30:08.70,0:30:11.34,Default,,0,0,0,,I will take a shortcut to look for Elder Brother.
@@ -374,14 +374,14 @@ Dialogue: 0,0:31:29.63,0:31:32.62,Default,,0,0,0,,wait for me to meet with Imper
 Dialogue: 0,0:31:34.66,0:31:39.34,Default,,0,0,0,,Gongyou, please be quick.
 Dialogue: 0,0:31:39.58,0:31:40.78,Default,,0,0,0,,Understood.
 Dialogue: 0,0:32:09.59,0:32:11.10,Default,,0,0,0,,My lord.
-Dialogue: 0,0:32:16.47,0:32:19.28,Default,,0,0,0,,My Lord, if you are so eager to see Yúnchǎng,
+Dialogue: 0,0:32:16.47,0:32:19.28,Default,,0,0,0,,My lord, if you are so eager to see Yúncháng,
 Dialogue: 0,0:32:19.28,0:32:21.91,Default,,0,0,0,,why won't you see Yuán Shào tomorrow?
 Dialogue: 0,0:32:21.91,0:32:26.25,Default,,0,0,0,,Tell him you will go to Jīng Province to\Npersuade Liú Biǎo in allying against Cáo Cāo,
 Dialogue: 0,0:32:26.25,0:32:30.06,Default,,0,0,0,,Yuán Shào agreed. My lord, you can seize this opportunity to escape.
 Dialogue: 0,0:32:31.63,0:32:36.94,Default,,0,0,0,,It is a good plan, but I wonder if\Nyou, Lord Jiǎn, can accompany me.
-Dialogue: 0,0:32:41.55,0:32:45.50,Default,,0,0,0,,My Lord, no need to be worried! \NI, Jiǎn Yōng, will find a way to escape.
+Dialogue: 0,0:32:41.55,0:32:45.50,Default,,0,0,0,,My lord, no need to be worried! \NI, Jiǎn Yōng, will find a way to escape.
 Dialogue: 0,0:32:58.30,0:33:03.06,Default,,0,0,0,,Another long and painful night.
-Dialogue: 0,0:33:19.47,0:33:25.70,Default,,0,0,0,,Liú Jǐngshēng has the nine commanderies of the Jīng Province. We can join together against Cáo Cāo.
+Dialogue: 0,0:33:19.47,0:33:25.70,Default,,0,0,0,,Liú Jǐngshēng has the nine commanderies of Jīng Province. We can join together against Cáo Cāo.
 Dialogue: 0,0:33:27.27,0:33:29.98,Default,,0,0,0,,I already sent someone for such a purpose.
 Dialogue: 0,0:33:30.98,0:33:34.98,Default,,0,0,0,,That useless Liú Biǎo refused an alliance!
 Dialogue: 0,0:33:36.31,0:33:38.74,Default,,0,0,0,,We share the same family ties.
@@ -391,7 +391,7 @@ Dialogue: 0,0:33:49.99,0:33:52.02,Default,,0,0,0,,But he did defeat Liú Pì sev
 Dialogue: 0,0:33:53.02,0:33:55.70,Default,,0,0,0,,Lord Xuándé, you can go negotiate with him.
 Dialogue: 0,0:33:56.27,0:33:58.70,Default,,0,0,0,,If so, I shall go immediately.
 Dialogue: 0,0:34:00.22,0:34:03.58,Style Names,,0,0,0,,{\pos(973.565,458.507)\fade(255,0,255,0,400,1720,2080)}Yuán Shào\N Styled: Běnchū
-Dialogue: 0,0:34:04.22,0:34:11.62,Default,,0,0,0,,I heard recently that Yúnchǎng has left Cáo Cāo and intends to come to Héběi.
+Dialogue: 0,0:34:04.22,0:34:11.62,Default,,0,0,0,,I heard recently that Yúncháng has left Cáo Cāo and intends to come to Héběi.
 Dialogue: 0,0:34:12.43,0:34:17.34,Default,,0,0,0,,I will kill him, to avenge Yán Liáng and Wén Chǒu!
 Dialogue: 0,0:34:21.27,0:34:27.54,Default,,0,0,0,,{\bord12}Sire once said you wanted Yúncháng by your side, so I sent him a letter. Why do you want to kill him?
 Dialogue: 0,0:34:27.98,0:34:31.82,Default,,0,0,0,,{\bord12}Besides, Yán Liáng and Wén Chǒu are but two deers, while Yúncháng is a tiger.
@@ -420,8 +420,8 @@ Dialogue: 0,0:36:09.15,0:36:15.42,Default,,0,0,0,,Elder Brother, we've been apar
 Dialogue: 0,0:36:24.86,0:36:28.02,Default,,0,0,0,,Píng'er, come! Come meet with your uncle.
 Dialogue: 0,0:36:27.26,0:36:28.54,Style Names,,0,0,0,,{\pos(303.068,439.254)}Guān Píng
 Dialogue: 0,0:36:31.87,0:36:33.34,Default,,0,0,0,,Who is he?
-Dialogue: 0,0:36:33.34,0:36:37.34,Default,,0,0,0,,Elder brother, this is my son {\i1}Guān Píng{\i0}. \NI adopted him in Guanding village.
-Dialogue: 0,0:36:42.47,0:36:45.14,Default,,0,0,0,,This one greet you, Uncle.
+Dialogue: 0,0:36:33.34,0:36:37.34,Default,,0,0,0,,Elder brother, this is my son {\i1}Guān Píng.{\i0} \NI adopted him in Guanding village.
+Dialogue: 0,0:36:42.47,0:36:45.14,Default,,0,0,0,,This one greets you, Uncle.
 Dialogue: 0,0:36:50.27,0:36:51.66,Default,,0,0,0,,Uncle.
 Dialogue: 0,0:36:58.95,0:37:00.74,Default,,0,0,0,,Good.
 Dialogue: 0,0:37:17.82,0:37:25.30,Default,,0,0,0,,General Guan!
@@ -435,7 +435,7 @@ Dialogue: 0,0:37:56.91,0:37:59.18,Default,,0,0,0,,only these few dared to come o
 Dialogue: 0,0:38:00.15,0:38:02.98,Default,,0,0,0,,The rest were too afraid to leave.
 Dialogue: 0,0:38:03.99,0:38:05.62,Default,,0,0,0,,I challenged that warrior,
 Dialogue: 0,0:38:05.62,0:38:09.78,Default,,0,0,0,,but lost to him, injured by his spear three times.
-Dialogue: 0,0:38:11.26,0:38:13.82,Default,,0,0,0,,Who is this man? What does he look like
+Dialogue: 0,0:38:11.26,0:38:13.82,Default,,0,0,0,,Who is this man? What does he look like?
 Dialogue: 0,0:38:15.23,0:38:17.50,Default,,0,0,0,,He is mighty, but I don't know his name.
 Dialogue: 0,0:38:19.79,0:38:21.66,Default,,0,0,0,,So, there's someone this powerful.
 Dialogue: 0,0:38:21.66,0:38:23.86,Default,,0,0,0,,Lead the way, I will meet with him.
@@ -453,7 +453,7 @@ Dialogue: 0,0:39:35.34,0:39:37.34,Default,,0,0,0,,Ever since I bid magister fare
 Dialogue: 0,0:39:37.34,0:39:42.82,Default,,0,0,0,,Gongsun Zan became callous, \Nand brought everyone go down with him.
 Dialogue: 0,0:39:42.82,0:39:45.26,Default,,0,0,0,,Yuán Shào called on me many times,
 Dialogue: 0,0:39:45.26,0:39:46.84,Default,,0,0,0,,but I refused to serve him.
-Dialogue: 0,0:39:46.84,0:39:49.02,Default,,0,0,0,,Only when I heard you were at Yuán Shào's side,
+Dialogue: 0,0:39:46.84,0:39:49.02,Default,,0,0,0,,Only when I heard you were at Yuán Shào's side
 Dialogue: 0,0:39:49.02,0:39:51.86,Default,,0,0,0,,did I want to come, but I didn't want to meet with Yuán Shào.
 Dialogue: 0,0:39:51.86,0:39:54.86,Default,,0,0,0,,That's why I was scattered with the wind. \NYet when I was passing by,
 Dialogue: 0,0:39:55.10,0:39:59.50,Default,,0,0,0,,that Pei Yuanshao came down to rob my horse, I killed him in self-defense, and took refuge.

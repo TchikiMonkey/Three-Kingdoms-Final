@@ -41,7 +41,7 @@ Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,0,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:00.30,0:00:05.06,Episode Title,,0,0,0,0,{\fade(255,0,255,0,1000,3900,4740)\pos(640,441.333)}Episode 82  \N\N\N\N\NNine campaigns on the Central Plains
+Dialogue: 0,0:00:00.30,0:00:05.06,Episode Title,,0,0,0,0,{\fade(255,0,255,0,1000,3900,4740)\pos(640,441.333)}Episode 82 \N\N\N\N\NNine campaigns on the Central Plains
 Dialogue: 0,0:00:01.51,0:00:06.49,Thinking,Narrator,0,0,0,,In the winter of 262, Jiang Wei assembled an army,
 Dialogue: 0,0:00:06.49,0:00:10.82,Thinking,Narrator,0,0,0,,petitioning to the Latter Lord\N to invade the central plains a ninth time.
 Dialogue: 0,0:00:11.69,0:00:16.23,Thinking,Narrator,0,0,0,,This time, Jiang Wei learned from the previous eight expeditions.
@@ -224,7 +224,7 @@ Dialogue: 0,0:20:14.96,0:20:18.55,Default,Xì Zhèng,0,0,0,,{\bord12}No one coul
 Dialogue: 0,0:20:18.55,0:20:22.69,Default,Xì Zhèng,0,0,0,,{\bord12}This is the plan that will protect this nation and yourself.
 Dialogue: 0,0:20:22.69,0:20:24.61,Default,Xì Zhèng,0,0,0,,{\bord12\pos(640,670)}Make your move soon.
 Dialogue: 0,0:20:27.42,0:20:29.21,Default,Jiāng Wéi,0,0,0,,A good plan, a good plan!
-Dialogue: 0,0:20:31.24,0:20:35.47,Default,Jiāng Wéi,0,0,0,,Your words are alike gold and jade.
+Dialogue: 0,0:20:31.24,0:20:35.47,Default,Jiāng Wéi,0,0,0,,Your words are like gold and jade.
 Dialogue: 0,0:20:46.08,0:20:51.90,Thinking,Narrator,0,0,0,,Jiang Wei garrisoned fields to avoid trouble, setting up over forty tents at Tazhong.
 Dialogue: 0,0:20:51.90,0:20:55.63,Thinking,Narrator,0,0,0,,There was no disruption in communication; they were like a long serpent.
 Dialogue: 0,0:20:56.99,0:21:01.90,Thinking,Narrator,0,0,0,,When a major general of Wei, \NDeng Ai, heard of this, he drafted plans.

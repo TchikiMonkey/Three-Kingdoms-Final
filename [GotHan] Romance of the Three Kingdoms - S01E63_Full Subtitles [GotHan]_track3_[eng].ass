@@ -64,11 +64,11 @@ Dialogue: 0,0:01:26.58,0:01:28.26,Default,,0,0,0,,My lord.
 Dialogue: 0,0:01:28.26,0:01:31.67,Default,NTP,0,0,0,,Liu Bei refused to make peace and\N swore to avenge his brothers.
 Dialogue: 0,0:01:31.67,0:01:34.64,Default,NTP,0,0,0,,He wishes to destroy Wu first, then Wei.
 Dialogue: 0,0:01:34.64,0:01:39.92,Default,,0,0,0,,His officials remonstrated against this, \Nbut Liu Bei did not listen. What should be done?
-Dialogue: 0,0:01:40.81,0:01:46.45,Default,,0,0,0,,My Lord, Wu is in peril. Please make a decision.
+Dialogue: 0,0:01:40.81,0:01:46.45,Default,,0,0,0,,My lord, Wu is in peril. Please make a decision.
 Dialogue: 0,0:01:46.82,0:01:48.22,Default,,0,0,0,,A decision must be made.
 Dialogue: 0,0:01:48.22,0:01:53.02,Default,,0,0,0,,Is sitting and waiting for death the only option for us?
 Dialogue: 0,0:01:57.52,0:02:00.98,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3280,3440)\pos(967.619,480)}Kàn Zé\NStyled: Dérùn
-Dialogue: 0,0:02:02.06,0:02:06.65,Default,,0,0,0,,{\bord13.746}My Lord, there is a sky-holding\N pillar by your side. Why not use him?
+Dialogue: 0,0:02:02.06,0:02:06.65,Default,,0,0,0,,{\bord13.746}My lord, there is a sky-holding\N pillar by your side. Why not use him?
 Dialogue: 0,0:02:06.65,0:02:08.95,Default,,0,0,0,,{\bord13.746\pos(640,666)}Oh? Who do you speak of?
 Dialogue: 0,0:02:08.95,0:02:11.50,Default,,0,0,0,,{\bord13.746\pos(640,666)}Lu Xun, Lu Boyan.
 Dialogue: 0,0:02:14.16,0:02:17.09,Default,,0,0,0,,{\bord13.746}In the past, everything was \Ndelegated to Zhou the Youth.
@@ -95,7 +95,7 @@ Dialogue: 0,0:04:00.67,0:04:03.00,Default,,0,0,0,,{\bord13.746\pos(640,666)}I he
 Dialogue: 0,0:04:03.00,0:04:05.22,Default,,0,0,0,,{\bord13.746}Right Protector-General, and\N General who Guards the West.
 Dialogue: 0,0:04:05.22,0:04:07.82,Default,,0,0,0,,{\bord13.746}He is given the title of Marquis of Lou, \N a sword, seal, and ribbon.
 Dialogue: 0,0:04:07.82,0:04:12.28,Default,,0,0,0,,{\bord13.746}He shall command the troops of the \Nsix commanderies as well as those of Jingchu.
-Dialogue: 0,0:04:14.28,0:04:15.30,Default,,0,0,0,,My Lord.
+Dialogue: 0,0:04:14.28,0:04:15.30,Default,,0,0,0,,My lord.
 Dialogue: 0,0:04:20.29,0:04:24.15,Default,,0,0,0,,{\bord13.746\pos(640,666)}Within city walls shall I lead;
 Dialogue: 0,0:04:24.15,0:04:28.48,Default,,0,0,0,,{\bord13.746\pos(640,666)}outside them shall you take command.
 Dialogue: 0,0:04:46.18,0:04:50.02,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3500,3820)\pos(318.991,464)}Hán Dāng\NStyled: Yìgōng

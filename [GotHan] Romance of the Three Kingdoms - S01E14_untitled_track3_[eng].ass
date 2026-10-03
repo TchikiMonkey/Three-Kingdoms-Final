@@ -41,11 +41,11 @@ Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.97,0:00:05.84,Episode Title,,0,0,0,,{\pos(640,356)\fade(255,0,255,0,1240,3560,4880)}Episode 14
-Dialogue: 0,0:00:00.96,0:00:05.84,Episode Title,,0,0,0,,{\pos(640,536)\fade(255,0,255,0,1240,3560,4880)}Discussing Heroes over Wine
+Dialogue: 0,0:00:00.96,0:00:05.84,Episode Title,,0,0,0,,{\pos(640,536)\fade(255,0,255,0,1240,3560,4880)}Discussing Heroes Over Wine
 Dialogue: 0,0:00:07.12,0:00:12.35,Thinking,Narrator,0,0,0,,In the third year of the Jian'an era, 198 CE,
 Dialogue: 0,0:00:12.35,0:00:14.90,Thinking,Narrator,0,0,0,,Cao Cao, with the help of Liu Bei,
 Dialogue: 0,0:00:14.90,0:00:18.33,Thinking,Narrator,0,0,0,,conquered Xu Province and Xiapi.
-Dialogue: 0,0:00:18.33,0:00:21.98,Thinking,Narrator,0,0,0,,At White Gate Tower, he Lü Bu hanged
+Dialogue: 0,0:00:18.33,0:00:21.98,Thinking,Narrator,0,0,0,,At White Gate Tower, he had Lü Bu hanged
 Dialogue: 0,0:00:21.98,0:00:25.26,Thinking,Narrator,0,0,0,,and received the surrender of the great Zhang Liao.
 Dialogue: 0,0:00:25.26,0:00:28.71,Thinking,Narrator,0,0,0,,He thus wiped out the trouble in his heart.
 Dialogue: 0,0:00:31.01,0:00:34.52,Default,Liu Xie,0,0,0,,Ministers who have achievements shall be rewarded.
@@ -108,11 +108,11 @@ Dialogue: 0,0:04:29.01,0:04:31.24,Default,Xun You,0,0,0,,This may be problematic
 Dialogue: 0,0:04:32.77,0:04:36.01,Default,Cao Cao,0,0,0,,Liu Bei may act as the Imperial Uncle,
 Dialogue: 0,0:04:36.01,0:04:38.94,Default,Cao Cao,0,0,0,,yet I am the one issuing the decrees in the Emperor's name.
 Dialogue: 0,0:04:38.94,0:04:40.53,Default,Cao Cao,0,0,0,,How could he not obey them?
-Dialogue: 0,0:04:43.14,0:04:46.37,Default,Cao Cao,0,0,0,,Besides, if I keep Liu Bei here in Xudu (Xuchang),
+Dialogue: 0,0:04:43.14,0:04:46.37,Default,Cao Cao,0,0,0,,Besides, if I keep Liu Bei here in Xudu,
 Dialogue: 0,0:04:46.37,0:04:50.31,Default,Cao Cao,0,0,0,,his bond with the Emperor only places him deeper within my grasp.
 Dialogue: 0,0:04:54.11,0:04:55.91,Default,Cao Cao,0,0,0,,Why should I fear him?
 Dialogue: 0,0:04:56.61,0:05:00.82,Default,Xun You,0,0,0,,Chancellor, your might and prestige increases by the day.
-Dialogue: 0,0:05:00.82,0:05:03.80,Default,Xun You,0,0,0,,Why not conduct yourself alike to a hegemon?
+Dialogue: 0,0:05:00.82,0:05:03.80,Default,Xun You,0,0,0,,Why not conduct yourself like a hegemon?
 Dialogue: 0,0:05:14.08,0:05:17.16,Default,Cao Cao,0,0,0,,Before that, let us raise a toast.
 Dialogue: 0,0:05:18.14,0:05:18.67,Default,Xun You,0,0,0,,Yes.
 Dialogue: 0,0:05:23.08,0:05:27.52,Default,Cao Cao,0,0,0,,The imperial family has many supporters and must not be underestimated.
@@ -130,7 +130,7 @@ Dialogue: 0,0:06:24.35,0:06:26.94,Default,Liu Bei,0,0,0,,Brothers, you cannot ma
 Dialogue: 0,0:06:30.74,0:06:33.34,Default,Guan Yu,0,0,0,,This is our courtyard. What's it to them?
 Dialogue: 0,0:06:35.56,0:06:38.77,Default,Zhang Fei,0,0,0,,Brother, why are you neglecting your duties for the nation?
 Dialogue: 0,0:06:36.24,0:06:39.12,Style Names,,0,0,0,,{\pos(281.143,461.7147)\fade(255,0,255,0,400,2580,2880)}Zhāng Fēi\NStyled: Yìdé
-Dialogue: 0,0:06:38.77,0:06:40.96,Default,Zhang Fei,0,0,0,,You only grow vegetables everyday!
+Dialogue: 0,0:06:38.77,0:06:40.96,Default,Zhang Fei,0,0,0,,You only grow vegetables every day!
 Dialogue: 0,0:06:46.16,0:06:48.37,Default,Liu Bei,0,0,0,,The Son of Heaven called me Imperial Uncle,
 Dialogue: 0,0:06:48.37,0:06:51.16,Default,Liu Bei,0,0,0,,so everyone is keeping an eye on me.
 Dialogue: 0,0:06:51.16,0:06:54.95,Default,Liu Bei,0,0,0,,We must be cautious in our manners and words.
@@ -216,7 +216,7 @@ Dialogue: 0,0:19:04.07,0:19:05.44,Default,Cao Cao,0,0,0,,What for?
 Dialogue: 0,0:19:06.32,0:19:10.58,Default,Dong Cheng,0,0,0,,His Majesty summoned me to give me a brocade robe and a belt.
 Dialogue: 0,0:19:12.09,0:19:13.90,Default,Cao Cao,0,0,0,,Today of all days?
 Dialogue: 0,0:19:15.39,0:19:18.30,Default,Cao Cao,0,0,0,,Why the generosity from His Majesty?
-Dialogue: 0,0:19:18.68,0:19:22.02,Default,NTP,0,0,0,,His Majesty recalled when I rescued him in the Western Capital (Cháng'ān).
+Dialogue: 0,0:19:18.68,0:19:22.02,Default,NTP,0,0,0,,His Majesty recalled when I rescued him in the Western Capital.
 Dialogue: 0,0:19:22.02,0:19:25.35,Default,Dong Cheng,0,0,0,,He summoned me to discuss\N the past and gave me this present.
 Dialogue: 0,0:19:40.71,0:19:41.81,Default,Cao Cao,0,0,0,,Let me see the belt.
 Dialogue: 0,0:19:48.67,0:19:49.80,Default,Cao Cao,0,0,0,,Seize it from him!
@@ -243,7 +243,7 @@ Dialogue: 0,0:23:37.68,0:23:43.48,Default,Liu Xie,0,0,0,,{\bord12}"At all times,
 Dialogue: 0,0:23:43.95,0:23:49.66,Default,Liu Xie,0,0,0,,{\bord12}"You are a grand minister of \Nthe nation and a dearest relative of Ours."
 Dialogue: 0,0:23:51.54,0:23:54.78,Default,Dong Cheng,0,0,0,,{\bord12}"Remember the struggle met by our First Emperor Gaozu."
 Dialogue: 0,0:23:54.78,0:23:59.25,Default,Dong Cheng,0,0,0,,{\bord12}"Gather loyal and righteous heroes \Nto purge villains."
-Dialogue: 0,0:23:59.25,0:24:02.45,Default,Dong Cheng,0,0,0,,{\bord12}"To revive the imperium, and honour the spirit of the nation and our ancestors."
+Dialogue: 0,0:23:59.25,0:24:02.45,Default,Dong Cheng,0,0,0,,{\bord12}"To revive the imperium, and honor the spirit of the nation and our ancestors."
 Dialogue: 0,0:24:02.45,0:24:07.17,Default,Dong Cheng,0,0,0,,{\bord12}"We entrust you this edict, written with the blood of Our finger."
 Dialogue: 0,0:24:07.17,0:24:13.56,Default,Dong Cheng,0,0,0,,{\bord12}"Consider this carefully, \Ndo not forsake Our wishes."
 Dialogue: 0,0:24:18.37,0:24:19.81,Default,Wang Zifu,0,0,0,,The impudence!
@@ -326,7 +326,7 @@ Dialogue: 0,0:32:05.90,0:32:08.48,Default,Liu Bei,0,0,0,,A truly admirable sight
 Dialogue: 0,0:32:12.12,0:32:15.84,Default,Cao Cao,0,0,0,,Sir, do you understand the many forms of dragons?
 Dialogue: 0,0:32:15.84,0:32:18.20,Default,Liu Bei,0,0,0,,I do not know, please explain.
 Dialogue: 0,0:32:19.89,0:32:27.24,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Dragons can be large or small. They can soar or hide.
-Dialogue: 0,0:32:27.24,0:32:29.63,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}The large ones birth clouds and breath mist.
+Dialogue: 0,0:32:27.24,0:32:29.63,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}The large ones birth clouds and breathe mist.
 Dialogue: 0,0:32:29.63,0:32:32.80,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}The small ones conceal themselves from sight.
 Dialogue: 0,0:32:32.80,0:32:35.69,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Those that fly soar across creation,
 Dialogue: 0,0:32:35.69,0:32:39.48,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}those that hide dwell within great waves.
@@ -350,7 +350,7 @@ Dialogue: 0,0:34:04.64,0:34:07.14,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}w
 Dialogue: 0,0:34:09.82,0:34:11.94,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}He is a withering skeleton in a grave!
 Dialogue: 0,0:34:11.94,0:34:13.64,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}His defeat by me is inevitable.
 Dialogue: 0,0:34:18.98,0:34:22.08,Default,,0,0,0,,{\bord12\}Yuan Shao of Hebei, scion of four generations of Excellencies.
-Dialogue: 0,0:34:22.08,0:34:24.12,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}He awaits in Ji Province alike to a tiger,
+Dialogue: 0,0:34:22.08,0:34:24.12,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}He awaits in Ji Province like a tiger,
 Dialogue: 0,0:34:24.12,0:34:27.81,Default,Liu Bei,0,0,0,,{\bord12}With many capable men under his command, is he a hero?
 Dialogue: 0,0:34:30.32,0:34:33.28,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Yuan Shao appears fierce, but has no guts!
 Dialogue: 0,0:34:33.66,0:34:35.48,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}He schemes, but lacks decisiveness!
@@ -358,7 +358,7 @@ Dialogue: 0,0:34:35.48,0:34:39.16,Default,Cao Cao,0,0,0,,{\bord12}Conservative, 
 Dialogue: 0,0:34:39.16,0:34:41.25,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}He is no hero!
 Dialogue: 0,0:34:48.00,0:34:53.96,Default,Liu Bei,0,0,0,,{\bord12}Liu Jingsheng, famed as one of the Eight Talents across the Nine Provinces, can he be a hero?
 Dialogue: 0,0:34:54.64,0:34:57.77,Default,Cao Cao,0,0,0,,{\bord12}Liu Biao has nothing behind his reputation. He is no hero.
-Dialogue: 0,0:35:03.36,0:35:06.04,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}There's a man of valour who rules over Jiangdong;
+Dialogue: 0,0:35:03.36,0:35:06.04,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}There's a man of valor who rules over Jiangdong;
 Dialogue: 0,0:35:06.04,0:35:08.74,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}surely Sun Bofu is a hero!
 Dialogue: 0,0:35:08.74,0:35:11.44,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Sun Ce rides on his father's name, he is no hero!
 Dialogue: 0,0:35:11.44,0:35:13.63,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}What of Liu Jiyu of Yi Province, is he a hero?
@@ -412,7 +412,7 @@ Dialogue: 0,0:39:14.13,0:39:16.05,Default,Soldier,0,0,0,,The Chancellor's men ha
 Dialogue: 0,0:39:31.98,0:39:34.32,Default,Liu Bei,0,0,0,,General Xu Chu, why are you here?
 Dialogue: 0,0:39:35.00,0:39:37.00,Style Names,,0,0,0,,{\pos(945.143,445.714)\fade(255,0,255,0,400,1500,2000)}Xǔ Chǔ\NStyled: Zhòngkāng
 Dialogue: 0,0:39:34.96,0:39:37.58,Default,Xu Chu,0,0,0,,The Chancellor ordered me to escort you back!
-Dialogue: 0,0:39:37.58,0:39:38.76,Default,Xu Chu,0,0,0,,That is all to it!
+Dialogue: 0,0:39:37.58,0:39:38.76,Default,Xu Chu,0,0,0,,That's all there is to it!
 Dialogue: 0,0:39:39.46,0:39:43.12,Default,Liu Bei,0,0,0,,Once the general is on the field, he does not have to accept the Sovereign's orders.
 Dialogue: 0,0:39:43.12,0:39:47.32,Default,Liu Bei,0,0,0,,With the Chancellor's consent, \NI took my leave before the Emperor. That is all.
 Dialogue: 0,0:39:47.81,0:39:49.28,Default,Liu Bei,0,0,0,,You should leave.

@@ -137,8 +137,8 @@ Dialogue: 0,0:09:09.33,0:09:11.18,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}I
 Dialogue: 0,0:09:11.18,0:09:13.74,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}that I can enter his mansion whenever I please.
 Dialogue: 0,0:09:14.19,0:09:18.79,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Give me your dagger and I shall kill him next time!
 Dialogue: 0,0:09:19.33,0:09:21.16,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Success will be guaranteed!
-Dialogue: 0,0:09:37.69,0:09:39.51,Default,Wang Yun,0,0,0,,Mengde, if your heart is like that,
-Dialogue: 0,0:09:40.22,0:09:42.99,Default,Wang Yun,0,0,0,,then the empire is very blessed!
+Dialogue: 0,0:09:37.69,0:09:39.51,Default,Wang Yun,0,0,0,,Mengde, if your heart is set,
+Dialogue: 0,0:09:40.22,0:09:42.99,Default,Wang Yun,0,0,0,,then the empire is blessed!
 Dialogue: 0,0:09:43.57,0:09:46.67,Default,Wang Yun,0,0,0,,Please accept my respects!
 Dialogue: 0,0:09:56.73,0:09:58.59,Default,Cao Cao,0,0,0,,August Heaven and Mother Earth,
 Dialogue: 0,0:09:58.59,0:10:01.37,Default,Cao Cao,0,0,0,,your Colonel of Agile Cavalry, Cao Cao,
@@ -170,7 +170,7 @@ Dialogue: 0,0:12:26.11,0:12:28.73,Default,Dong Zhuo,0,0,0,,Why didn't you tell m
 Dialogue: 0,0:12:29.12,0:12:32.21,Default,Dong Zhuo,0,0,0,,How can an officer not have a good horse?
 Dialogue: 0,0:12:35.22,0:12:36.09,Default,Dong Zhuo,0,0,0,,Fengxian!
 Dialogue: 0,0:12:38.22,0:12:40.48,Default,Dong Zhuo,0,0,0,,Go pick a good horse from Xiliang.
-Dialogue: 0,0:12:38.28,0:12:40.92,Style Names,,0,0,0,,{\pos(976,466.909)\fade(255,0,255,0,400,2320,2680)}Lǚ Bù\NStyled: Fèngxiān
+Dialogue: 0,0:12:38.28,0:12:40.92,Style Names,,0,0,0,,{\pos(976,466.909)\fade(255,0,255,0,400,2320,2680)}Lü Bù\NStyled: Fèngxiān
 Dialogue: 0,0:12:40.48,0:12:44.29,Default,Dong Zhuo,0,0,0,,You'll be gifting it to Mengde.
 Dialogue: 0,0:12:45.04,0:12:45.49,Default,Lü Bu,0,0,0,,Yes.
 Dialogue: 0,0:12:52.78,0:12:54.00,Default,Cao Cao,0,0,0,,Thank you, Premier!
@@ -444,7 +444,7 @@ Dialogue: 0,0:39:18.32,0:39:21.00,Default,Chen Gong,0,0,0,,Until now, I followed
 Dialogue: 0,0:39:21.00,0:39:23.06,Default,Chen Gong,0,0,0,,For that, I cannot kill him,
 Dialogue: 0,0:39:23.06,0:39:24.76,Default,Chen Gong,0,0,0,,but I will not stand with him.
 Dialogue: 0,0:39:28.20,0:39:29.45,Default,Chen Gong,0,0,0,,I will leave now.
-Dialogue: 0,0:39:30.22,0:39:32.24,Default,Chen Gong,0,0,0,,You go ahead with your great cause.
+Dialogue: 0,0:39:30.22,0:39:32.24,Default,Chen Gong,0,0,0,,You go ahead with your "great cause."
 Dialogue: 0,0:39:56.76,0:40:00.37,Thinking,Narrator,0,0,0,,Cao Cao went back to Chenliu.
 Dialogue: 0,0:40:00.37,0:40:03.94,Thinking,Narrator,0,0,0,,He spent all his family wealth to recruit an army.
 Dialogue: 0,0:40:04.77,0:40:10.46,Thinking,Narrator,0,0,0,,He contacted Yuan Shao to send out \Ndeclarations everywhere to fight Dong Zhuo.

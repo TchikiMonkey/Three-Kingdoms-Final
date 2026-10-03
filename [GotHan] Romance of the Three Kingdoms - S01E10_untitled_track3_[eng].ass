@@ -41,8 +41,8 @@ Dialogue: 0,0:00:11.10,0:00:13.62,Thinking,,0,0,0,,Meanwhile, Cáo Cāo welcomed
 Dialogue: 0,0:00:13.62,0:00:15.14,Thinking,,0,0,0,,and moved the capital to Xǔchāng.
 Dialogue: 0,0:00:15.14,0:00:19.30,Thinking,,0,0,0,,He appointed himself Grand General \Nand Marquis of Wǔpíng, monopolizing authority.
 Dialogue: 0,0:00:19.30,0:00:23.90,Thinking,,0,0,0,,By detaining the Emperor, Cáo Cāo gained the power to command all others in his name.
-Dialogue: 0,0:00:26.14,0:00:30.94,Default,,0,0,0,,Then, Liú Bèi has garrisoned his troops at Xú-Province and oversees their matters.
-Dialogue: 0,0:00:32.42,0:00:35.38,Default,,0,0,0,,Lǚ Bù, recently defeated, \N has joined them.
+Dialogue: 0,0:00:26.14,0:00:30.94,Default,,0,0,0,,Then, Liú Bèi garrisoned his troops at Xú Province and oversees their matters.
+Dialogue: 0,0:00:32.42,0:00:35.38,Default,,0,0,0,,Lü Bù, recently defeated, \N has joined them.
 Dialogue: 0,0:00:35.74,0:00:38.18,Default,,0,0,0,,Liú Bèi had him settle at Xiǎopèi.
 Dialogue: 0,0:00:40.78,0:00:43.62,Default,,0,0,0,,If they were to collaborate \Nand invade me together,
 Dialogue: 0,0:00:43.62,0:00:45.78,Default,,0,0,0,,they will surely threaten my position.
@@ -58,20 +58,20 @@ Dialogue: 0,0:01:09.86,0:01:14.14,Default,,0,0,0,,We just established a new capi
 Dialogue: 0,0:01:15.14,0:01:16.46,Default,,0,0,0,,I have a plan.
 Dialogue: 0,0:01:17.38,0:01:21.14,Default,,0,0,0,,Without using a single man, we will end up in a more favorable position.
 Dialogue: 0,0:01:24.10,0:01:25.46,Default,,0,0,0,,Wénruò, please explain.
-Dialogue: 0,0:01:26.78,0:01:31.30,Default,,0,0,0,,{\bord12}Although Liú Bèi governs Xú-Province now,\Nhe hasn't been appointed through an edict.
-Dialogue: 0,0:01:32.14,0:01:37.62,Default,,0,0,0,,{\bord12}My Lord, you can petition the Emperor to appoint Liú Bèi as Governor of Xú-Province.
-Dialogue: 0,0:01:38.86,0:01:44.02,Default,,0,0,0,,{\bord12}Then, send Liú Bèi a secret message,\N instructing him to kill Lǚ Bù for justice.
+Dialogue: 0,0:01:26.78,0:01:31.30,Default,,0,0,0,,{\bord12}Although Liú Bèi governs Xú Province now,\Nhe hasn't been appointed through an edict.
+Dialogue: 0,0:01:32.14,0:01:37.62,Default,,0,0,0,,{\bord12}My lord, you can petition the Emperor to appoint Liú Bèi as Governor of Xú Province.
+Dialogue: 0,0:01:38.86,0:01:44.02,Default,,0,0,0,,{\bord12}Then, send Liú Bèi a secret message,\N instructing him to kill Lü Bù for justice.
 Dialogue: 0,0:01:44.94,0:01:46.06,Default,,0,0,0,,{\bord12}If he succeeds,
-Dialogue: 0,0:01:47.50,0:01:51.74,Default,,0,0,0,,{\bord12\pos(640,660)}then Liú Bèi no longer has Lǚ Bù to scheme with,
+Dialogue: 0,0:01:47.50,0:01:51.74,Default,,0,0,0,,{\bord12\pos(640,660)}then Liú Bèi no longer has Lü Bù to scheme with,
 Dialogue: 0,0:01:52.26,0:01:54.06,Default,,0,0,0,,{\bord12\pos(640,660)}and thus our plan will be a success.
 Dialogue: 0,0:01:54.98,0:01:56.22,Default,,0,0,0,,{\bord12\pos(640,660)}If he doesn't succeed,
-Dialogue: 0,0:01:56.70,0:01:59.38,Default,,0,0,0,,{\bord12\pos(640,660)}then Lǚ Bù will retaliate and eliminate Liú Bèi!
-Dialogue: 0,0:01:59.90,0:02:03.58,Default,,0,0,0,,{\bord12}This is the strategem of {\i1}'two tigers competing for food'{\i0}.
+Dialogue: 0,0:01:56.70,0:01:59.38,Default,,0,0,0,,{\bord12\pos(640,660)}then Lü Bù will retaliate and eliminate Liú Bèi!
+Dialogue: 0,0:01:59.90,0:02:03.58,Default,,0,0,0,,{\bord12}This is the strategem of {\i1}"two tigers competing for food."{\i0}
 Dialogue: 0,0:02:09.06,0:02:09.94,Default,,0,0,0,,Brilliant plan!
 Dialogue: 0,0:02:11.34,0:02:14.02,Default,,0,0,0,,Tomorrow, I will memorialize\N the Son of Heaven.
 Dialogue: 0,0:02:11.34,0:02:14.52,Note (Potential style?),,0,0,0,,Note: "Memorial to the throne" (奏疏/章表) is the official method of communication from an official to the Emperor.
 Dialogue: 0,0:02:22.46,0:02:23.26,Default,,0,0,0,,Lord Xuándé!
-Dialogue: 0,0:02:40.66,0:02:42.66,Style Names,,0,0,0,,{\pos(333.181,484.091)\fade(255,0,255,0,360,1760,2080)}Lǚ Bù,\NStyled - Fèngxiān
+Dialogue: 0,0:02:40.66,0:02:42.66,Style Names,,0,0,0,,{\pos(333.181,484.091)\fade(255,0,255,0,360,1760,2080)}Lü Bù,\NStyled - Fèngxiān
 Dialogue: 0,0:02:37.46,0:02:41.50,Default,,0,0,0,,I heard that you have received an appointment from the imperial court!
 Dialogue: 0,0:02:41.50,0:02:43.62,Default,,0,0,0,,I, Fèngxiān, have come to pay his respects!
 Dialogue: 0,0:02:43.62,0:02:45.94,Default,,0,0,0,,I wouldn't dare. I wouldn't dare. Please.
@@ -92,20 +92,20 @@ Dialogue: 0,0:03:47.06,0:03:48.82,Default,,0,0,0,,he wants us to be at odds!
 Dialogue: 0,0:03:51.82,0:03:53.18,Default,,0,0,0,,Have no worries, brother.
 Dialogue: 0,0:03:55.02,0:03:57.58,Default,,0,0,0,,I vowed to never commit an act of injustice.
 Dialogue: 0,0:04:11.30,0:04:12.54,Default,,0,0,0,,Virtuous brother!
-Dialogue: 0,0:04:17.06,0:04:21.42,Default,,0,0,0,,Wénruò, your 'two tigers competing \Nfor food' stratagem failed.
-Dialogue: 0,0:04:25.86,0:04:29.38,Default,,0,0,0,,I have another plan, \Nto "drive the tiger to devour the wolf".
+Dialogue: 0,0:04:17.06,0:04:21.42,Default,,0,0,0,,Wénruò, your "two tigers competing \Nfor food" stratagem failed.
+Dialogue: 0,0:04:25.86,0:04:29.38,Default,,0,0,0,,I have another plan, \Nto "drive the tiger to devour the wolf."
 Dialogue: 0,0:04:29.50,0:04:31.66,Default,,0,0,0,,Oh, how does this one work?
-Dialogue: 0,0:04:33.02,0:04:39.42,Default,,0,0,0,,My Lord, you may secretly send an envoy to Yuán Shù with a message.
+Dialogue: 0,0:04:33.02,0:04:39.42,Default,,0,0,0,,My lord, you may secretly send an envoy to Yuán Shù with a message.
 Dialogue: 0,0:04:40.74,0:04:45.46,Default,,0,0,0,,You only need to tell him that \NLiú Bèi petitioned the imperial court,
 Dialogue: 0,0:04:45.46,0:04:49.42,Default,,0,0,0,,wanting to annex the\N southern commanderies.
 Dialogue: 0,0:04:50.50,0:04:55.54,Default,,0,0,0,,Once Yuán Gōnglù hears of this,\Nhe will surely be enraged and attack Liú Bèi.
-Dialogue: 0,0:04:57.02,0:04:59.50,Default,,0,0,0,,My Lord, you need to then forge an edict
+Dialogue: 0,0:04:57.02,0:04:59.50,Default,,0,0,0,,My lord, you need to then forge an edict
 Dialogue: 0,0:04:59.98,0:05:01.90,Default,,0,0,0,,ordering Liú Bèi to attack Yuán Shù.
 Dialogue: 0,0:05:02.34,0:05:06.38,Default,,0,0,0,,This way, once both Yuán and Liú\Nstart attacking each other,
-Dialogue: 0,0:05:06.70,0:05:09.26,Default,,0,0,0,,Lǚ Bù will start planning sedition.
-Dialogue: 0,0:05:09.78,0:05:14.86,Default,,0,0,0,,That is the plan of\N'driving the tiger to devour the wolf.'
-Dialogue: 0,0:05:18.02,0:05:18.82,Default,,0,0,0,,Great
-Dialogue: 0,0:05:20.06,0:05:23.06,Default,,0,0,0,,Lǚ Bù on one side; Yuán Shù on the other.
+Dialogue: 0,0:05:06.70,0:05:09.26,Default,,0,0,0,,Lü Bù will start planning sedition.
+Dialogue: 0,0:05:09.78,0:05:14.86,Default,,0,0,0,,That is the plan of\N"driving the tiger to devour the wolf."
+Dialogue: 0,0:05:18.02,0:05:18.82,Default,,0,0,0,,Very good.
+Dialogue: 0,0:05:20.06,0:05:23.06,Default,,0,0,0,,Lü Bù on one side; Yuán Shù on the other.
 Dialogue: 0,0:05:23.98,0:05:27.62,Default,,0,0,0,,This time, I will observe \Nhow Liú Bèi reacts.
 Dialogue: 0,0:05:36.66,0:05:41.10,Default,,0,0,0,,Prepare the soldiers and set a date to march against Yuán Shù.
 Dialogue: 0,0:05:39.18,0:05:44.82,Style Names,,0,0,0,,{\pos(324.232,470.455)}Sūn Qián,\NStyled- Gōngyòu
@@ -124,7 +124,7 @@ Dialogue: 0,0:06:04.86,0:06:08.50,Default,,0,0,0,,Prepare 30,000 troops\N to mar
 Dialogue: 0,0:06:09.50,0:06:10.66,Default,,0,0,0,,We leave tomorrow.
 Dialogue: 0,0:06:11.46,0:06:12.02,Default,,0,0,0,,Yes!
 Dialogue: 0,0:06:19.98,0:06:21.02,Default,,0,0,0,,Liú Bèi?
-Dialogue: 0,0:06:25.22,0:06:27.98,Default,,0,0,0,,He is but a mat-weaver\N and sandal maker.
+Dialogue: 0,0:06:25.22,0:06:27.98,Default,,0,0,0,,He is but a mat weaver\N and sandal maker.
 Dialogue: 0,0:06:28.66,0:06:33.58,Default,,0,0,0,,Now he dares lay claim to a major commandery as if he were one of the noble lords.
 Dialogue: 0,0:06:29.50,0:06:32.06,Style Names,,0,0,0,,{\pos(331.904,458.181)\fade(255,0,255,0,440,2260,2580)}Yuán Shù,\NStyled- Gōnglù
 Dialogue: 0,0:06:43.74,0:06:47.14,Default,,0,0,0,,I was going to attack him, \Nand now he plots against me.
@@ -132,14 +132,14 @@ Dialogue: 0,0:06:47.62,0:06:48.82,Default,,0,0,0,,How I despise him!
 Dialogue: 0,0:06:49.67,0:06:51.42,Style Names,,0,0,0,,{\pos(958.324,477.272)\fade(255,0,255,0,420,1060,1420)}Jì Líng
 Dialogue: 0,0:06:49.22,0:06:50.06,Default,,0,0,0,,Jì Líng!
 Dialogue: 0,0:06:51.34,0:06:51.74,Default,,0,0,0,,Here!
-Dialogue: 0,0:06:52.70,0:06:55.62,Default,,0,0,0,,Dispatch 100,000 troops to Xú-Province.
+Dialogue: 0,0:06:52.70,0:06:55.62,Default,,0,0,0,,Dispatch 100,000 troops to Xú Province.
 Dialogue: 0,0:06:56.10,0:06:57.74,Default,,0,0,0,,Teach that bumpkin Liú Bèi...
 Dialogue: 0,0:06:59.70,0:07:01.10,Default,,0,0,0,,that there is no turning back!
 Dialogue: 0,0:07:01.26,0:07:01.58,Default,,0,0,0,,Yes!
-Dialogue: 0,0:07:18.82,0:07:20.78,Default,,0,0,0,,First ordered to kill Lǚ Bù,
+Dialogue: 0,0:07:18.82,0:07:20.78,Default,,0,0,0,,First ordered to kill Lü Bù,
 Dialogue: 0,0:07:22.38,0:07:24.18,Default,,0,0,0,,now ordered to attack Yuán Shù!
 Dialogue: 0,0:07:25.62,0:07:27.06,Default,,0,0,0,,That Cáo Cāo...
-Dialogue: 0,0:07:29.18,0:07:33.90,Default,,0,0,0,,He let my Elder Brother be Lord of Xú-Province, but causes trouble for him!
+Dialogue: 0,0:07:29.18,0:07:33.90,Default,,0,0,0,,He let my Elder Brother be Lord of Xú Province, but causes trouble for him!
 Dialogue: 0,0:07:56.50,0:07:59.98,Default,,0,0,0,,Before my Elder Brother left, he instructed me to drink less wine.
 Dialogue: 0,0:08:00.26,0:08:01.90,Default,,0,0,0,,He fears I will mess matters up.
 Dialogue: 0,0:08:02.26,0:08:06.06,Default,,0,0,0,,Today, I hold this banquet for you fellows to take an oath.
@@ -151,7 +151,7 @@ Dialogue: 0,0:08:25.18,0:08:27.34,Default,,0,0,0,,Tonight, you men better drink!
 Dialogue: 0,0:08:44.99,0:08:46.38,Style Names,,0,0,0,,{\pos(317.841,480)\fade(255,0,255,0,420,1221,1221)}Cáo Bào
 Dialogue: 0,0:09:07.46,0:09:12.34,Default,,0,0,0,,General Zhāng, you may drink, but you can't be so sulky.
 Dialogue: 0,0:09:12.62,0:09:13.18,Default,,0,0,0,,Right!
-Dialogue: 0,0:09:14.42,0:09:16.66,Default,,0,0,0,,We were told to kill Lǚ Bù, so let's kill Lǚ Bù!
+Dialogue: 0,0:09:14.42,0:09:16.66,Default,,0,0,0,,We were told to kill Lü Bù, so let's kill Lü Bù!
 Dialogue: 0,0:09:17.62,0:09:20.02,Default,,0,0,0,,We were told to fight Yuán Shù, \Nso let's fight Yuán Shù!
 Dialogue: 0,0:09:20.06,0:09:22.70,Default,,0,0,0,,Maybe it would be better \Nto beat up that Cáo Āhmán!
 Dialogue: 0,0:09:19.90,0:09:24.98,Note (Potential style?),,0,0,0,,Note: It was very disrespectful for one to call others by their baby name if they were now an adult.
@@ -160,7 +160,7 @@ Dialogue: 0,0:09:32.86,0:09:35.94,Default,,0,0,0,,And he wouldn't be leading my\
 Dialogue: 0,0:09:38.66,0:09:41.46,Default,,0,0,0,,Come on, drink it.
 Dialogue: 0,0:09:42.42,0:09:44.82,Default,,0,0,0,,General, I don't drink.
 Dialogue: 0,0:09:45.46,0:09:46.70,Default,,0,0,0,,You don't drink?
-Dialogue: 0,0:09:47.18,0:09:50.22,Default,,0,0,0,,I never drink alcohol — \NI have a natural aversion to it.
+Dialogue: 0,0:09:47.18,0:09:50.22,Default,,0,0,0,,I never drink alcohol— \NI have a natural aversion to it.
 Dialogue: 0,0:09:50.58,0:09:52.26,Default,,0,0,0,,I hope you let this rest.
 Dialogue: 0,0:09:53.26,0:09:56.18,Default,,0,0,0,,A natural aversion? \NA natural aversion!
 Dialogue: 0,0:10:01.70,0:10:03.62,Default,,0,0,0,,How does a soldier not drink wine?
@@ -187,9 +187,9 @@ Dialogue: 0,0:11:44.58,0:11:45.42,Default,,0,0,0,,General Zhāng?
 Dialogue: 0,0:11:47.74,0:11:52.42,Default,,0,0,0,,Lord Yìdé, please forgive me, if only for son-in-law.
 Dialogue: 0,0:11:54.90,0:11:55.90,Default,,0,0,0,,Your son-in-law?
 Dialogue: 0,0:11:58.86,0:12:00.22,Default,,0,0,0,,Who is he?
-Dialogue: 0,0:12:00.42,0:12:02.18,Default,,0,0,0,,He's... Lǚ Bù.
-Dialogue: 0,0:12:06.18,0:12:08.54,Default,,0,0,0,,I didn't want to beat you
-Dialogue: 0,0:12:09.34,0:12:12.18,Default,,0,0,0,,but now you bring up \NLǚ Bù to scare me?
+Dialogue: 0,0:12:00.42,0:12:02.18,Default,,0,0,0,,He's... Lü Bù.
+Dialogue: 0,0:12:06.18,0:12:08.54,Default,,0,0,0,,I didn't want to beat you,
+Dialogue: 0,0:12:09.34,0:12:12.18,Default,,0,0,0,,but now you bring up \NLü Bù to scare me?
 Dialogue: 0,0:12:12.70,0:12:14.46,Default,,0,0,0,,Now I will beat you!
 Dialogue: 0,0:12:15.70,0:12:17.34,Default,,0,0,0,,Beat him!
 Dialogue: 0,0:12:18.18,0:12:23.82,Default,,0,0,0,,Lord Yìdé, you can't beat me! Lord Yìdé, you can't beat me!
@@ -197,18 +197,18 @@ Dialogue: 0,0:12:24.22,0:12:24.82,Default,,0,0,0,,General Zhāng!
 Dialogue: 0,0:12:25.38,0:12:26.10,Default,,0,0,0,,General Zhāng!
 Dialogue: 0,0:12:26.42,0:12:29.38,Default,,0,0,0,,If it weren't for your bastard son-in-law,
 Dialogue: 0,0:12:29.94,0:12:34.62,Default,,0,0,0,,my Elder Brother wouldn't have had so much trouble!
-Dialogue: 0,0:12:36.54,0:12:42.62,Default,,0,0,0,,Beat him! Beat him... as if you were beating Lǚ Bù... beat him!
+Dialogue: 0,0:12:36.54,0:12:42.62,Default,,0,0,0,,Beat him! Beat him... as if you were beating Lü Bù... beat him!
 Dialogue: 0,0:12:45.50,0:12:48.42,Default,,0,0,0,,Bug-eyed brute! He's \Ngone too far this time!
 Dialogue: 0,0:12:49.07,0:12:51.38,Style Names,,0,0,0,,{\pos(941.705,456.819)\fade(255,0,255,0,380,1780,2140)}Chén Gōng,\NStyled - Gōngtái
 Dialogue: 0,0:12:52.14,0:12:54.58,Default,,0,0,0,,General, we better go at \Nonce and aid Master Cáo!
 Dialogue: 0,0:12:55.66,0:12:57.58,Default,,0,0,0,,Gōngtái! What do you think?
 Dialogue: 0,0:12:58.10,0:13:02.06,Default,,0,0,0,,Originally, Xiǎopèi was only a place to occupy temporarily.
 Dialogue: 0,0:13:04.98,0:13:07.18,Default,,0,0,0,,Now that Liú Bèi has left for Huáinán,
-Dialogue: 0,0:13:07.90,0:13:10.52,Default,,0,0,0,,you should seize Xú-Province while you can.
+Dialogue: 0,0:13:07.90,0:13:10.52,Default,,0,0,0,,you should seize Xú Province while you can.
 Dialogue: 0,0:13:11.10,0:13:13.94,Default,,0,0,0,,If you fail to seize it, it will be\N too late for regrets.
 Dialogue: 0,0:13:20.70,0:13:21.50,Default,,0,0,0,,Good!
 Dialogue: 0,0:13:22.54,0:13:23.72,Default,,0,0,0,,Reply to my father-in-law!
-Dialogue: 0,0:13:23.78,0:13:27.20,Default,,0,0,0,,Tell him that tonight I will seize Xú-Province and let him coordinate within!
+Dialogue: 0,0:13:23.78,0:13:27.20,Default,,0,0,0,,Tell him that tonight I will seize Xú Province and let him coordinate within!
 Dialogue: 0,0:13:27.22,0:13:27.74,Default,,0,0,0,,Yes!
 Dialogue: 0,0:13:32.50,0:13:35.06,Default,,0,0,0,,This time, I want to see how
 Dialogue: 0,0:13:35.66,0:13:40.22,Default,,0,0,0,,that bug-eyed brute will \Nexplain his loss to Liú Bèi.
@@ -220,17 +220,17 @@ Dialogue: 0,0:14:29.98,0:14:30.78,Default,,0,0,0,,My Third Brother!
 Dialogue: 0,0:14:35.78,0:14:36.34,Default,,0,0,0,,Third Brother?
 Dialogue: 0,0:14:46.18,0:14:47.02,Default,,0,0,0,,Elder Brother!
 Dialogue: 0,0:14:47.30,0:14:47.86,Default,,0,0,0,,Third Brother.
-Dialogue: 0,0:14:51.58,0:14:54.14,Default,,0,0,0,,Why aren't you defending Xú-Province? Why have you come here?
-Dialogue: 0,0:14:54.98,0:14:57.30,Default,,0,0,0,,Elder Brother... Xú-Province...
+Dialogue: 0,0:14:51.58,0:14:54.14,Default,,0,0,0,,Why aren't you defending Xú Province? Why have you come here?
+Dialogue: 0,0:14:54.98,0:14:57.30,Default,,0,0,0,,Elder Brother... Xú Province...
 Dialogue: 0,0:14:58.22,0:14:59.06,Default,,0,0,0,,What happened?
-Dialogue: 0,0:15:00.14,0:15:01.62,Default,,0,0,0,,What happened to Xú-Province?
-Dialogue: 0,0:15:06.34,0:15:08.70,Default,,0,0,0,,I lost Xú-Province!
+Dialogue: 0,0:15:00.14,0:15:01.62,Default,,0,0,0,,What happened to Xú Province?
+Dialogue: 0,0:15:06.34,0:15:08.70,Default,,0,0,0,,I lost Xú Province!
 Dialogue: 0,0:15:10.42,0:15:10.90,Default,,0,0,0,,What?
 Dialogue: 0,0:15:12.10,0:15:13.50,Default,,0,0,0,,You...! You...!
 Dialogue: 0,0:15:15.90,0:15:19.70,Default,,0,0,0,,Elder Brother, because you told me to follow the decree against my will,
 Dialogue: 0,0:15:20.94,0:15:25.10,Default,,0,0,0,,the more I thought about it, the grumpier I got.\NWithout realizing it, I got drunk.
-Dialogue: 0,0:15:25.90,0:15:27.90,Default,,0,0,0,,I beat up Lǚ Bù's father-in-law, Cáo Bào,
-Dialogue: 0,0:15:28.26,0:15:30.46,Default,,0,0,0,,and he and Lǚ Bù \Ncoordinated from within.
+Dialogue: 0,0:15:25.90,0:15:27.90,Default,,0,0,0,,I beat up Lü Bù's father-in-law, Cáo Bào,
+Dialogue: 0,0:15:28.26,0:15:30.46,Default,,0,0,0,,and he and Lü Bù \Ncoordinated from within.
 Dialogue: 0,0:15:30.50,0:15:30.82,Default,,0,0,0,,I...
 Dialogue: 0,0:15:31.50,0:15:31.78,Default,,0,0,0,,I...
 Dialogue: 0,0:15:36.86,0:15:40.30,Default,,0,0,0,,Elder Brother, just punish me according to military law!
@@ -241,7 +241,7 @@ Dialogue: 0,0:15:58.94,0:15:59.70,Default,,0,0,0,,What!
 Dialogue: 0,0:16:00.26,0:16:02.22,Default,,0,0,0,,You! Third Brother! Third Brother!
 Dialogue: 0,0:16:03.00,0:16:05.62,Default,,0,0,0,,What did you promise when you wanted to defend the city?
 Dialogue: 0,0:16:05.68,0:16:08.78,Default,,0,0,0,,What did Elder Brother warn you about?
-Dialogue: 0,0:16:09.74,0:16:12.54,Default,,0,0,0,,Now the city was lost and \Nwith it our sisters-in-laws!
+Dialogue: 0,0:16:09.74,0:16:12.54,Default,,0,0,0,,Now the city was lost and \Nwith it our sisters-in-law!
 Dialogue: 0,0:16:12.86,0:16:14.38,Default,,0,0,0,,How is this good!
 Dialogue: 0,0:16:20.94,0:16:21.46,Default,,0,0,0,,Third Brother!
 Dialogue: 0,0:16:22.66,0:16:23.34,Default,,0,0,0,,Third Brother!
@@ -256,12 +256,12 @@ Dialogue: 0,0:17:22.34,0:17:24.50,Default,,0,0,0,,Even though we weren't\N born 
 Dialogue: 0,0:17:27.91,0:17:30.58,Style Names,,0,0,0,,{\pos(343.409,456.819)\fade(255,0,255,0,420,1820,2140)}Guān Yǔ,\NStyled - Yúncháng
 Dialogue: 0,0:17:28.10,0:17:29.78,Default,,0,0,0,,we only ask to die on the same day.
 Dialogue: 0,0:17:31.82,0:17:32.78,Default,,0,0,0,,Elder Brother,
-Dialogue: 0,0:17:34.94,0:17:37.38,Default,,0,0,0,,Although you lost the city \Nand my family today,
+Dialogue: 0,0:17:34.94,0:17:37.38,Default,,0,0,0,,although you lost the city \Nand my family today,
 Dialogue: 0,0:17:39.22,0:17:42.46,Default,,0,0,0,,how could I find peace if I let my Younger Brother die early?
 Dialogue: 0,0:17:44.82,0:17:45.70,Default,,0,0,0,,Besides,
-Dialogue: 0,0:17:47.22,0:17:49.06,Default,,0,0,0,,Xú-Province wasn't mine anyways.
+Dialogue: 0,0:17:47.22,0:17:49.06,Default,,0,0,0,,Xú Province wasn't mine anyways.
 Dialogue: 0,0:17:50.42,0:17:55.10,Default,,0,0,0,,When I got it, I wasn't glad. \NNow that I have lost it, I won't be upset.
-Dialogue: 0,0:17:58.34,0:18:03.10,Default,,0,0,0,,Although my family remains within the city,\NLǚ Bù won't harm them.
+Dialogue: 0,0:17:58.34,0:18:03.10,Default,,0,0,0,,Although my family remains within the city,\NLü Bù won't harm them.
 Dialogue: 0,0:18:04.10,0:18:06.26,Default,,0,0,0,,We can still negotiate for their return.
 Dialogue: 0,0:18:09.26,0:18:11.22,Default,,0,0,0,,Virtuous brother, you made a mistake,
 Dialogue: 0,0:18:13.10,0:18:15.82,Default,,0,0,0,,but is it one deserving of death?
@@ -269,15 +269,15 @@ Dialogue: 0,0:18:20.54,0:18:21.78,Default,,0,0,0,,Elder Brother!
 Dialogue: 0,0:18:39.23,0:18:41.78,Thinking,,0,0,0,,Not long afterwards, Liú Bèi's camp
 Dialogue: 0,0:18:41.78,0:18:45.10,Thinking,,0,0,0,,was raided by Yuán Shù,\N losing most of his army.
 Dialogue: 0,0:18:45.66,0:18:49.54,Thinking,,0,0,0,,After leaving Xūyí, Liú Bèi wandered like a vagrant with no home to return to.
-Dialogue: 0,0:18:50.35,0:18:53.14,Thinking,,0,0,0,,At this time, Chén Gōng offered a plan to Lǚ Bù:
-Dialogue: 0,0:18:53.14,0:18:57.58,Thinking,,0,0,0,,Let Liú Bèi return and reside in Xiǎopèi to guard Lǚ Bù from all sides.
+Dialogue: 0,0:18:50.35,0:18:53.14,Thinking,,0,0,0,,At this time, Chén Gōng offered a plan to Lü Bù:
+Dialogue: 0,0:18:53.14,0:18:57.58,Thinking,,0,0,0,,Let Liú Bèi return and reside in Xiǎopèi to guard Lü Bù from all sides.
 Dialogue: 0,0:18:57.58,0:19:00.66,Thinking,,0,0,0,,That way they could make\NLiú Bèi their vanguard in the future.
 Dialogue: 0,0:19:00.70,0:19:05.66,Thinking,,0,0,0,,They would conquer Yuán Shù, then Yuán Shào,\Nsweeping through the realm with ease.
-Dialogue: 0,0:19:06.91,0:19:09.62,Thinking,,0,0,0,,Lǚ Bù was worried that \NLiú Bèi would be suspicious,
+Dialogue: 0,0:19:06.91,0:19:09.62,Thinking,,0,0,0,,Lü Bù was worried that \NLiú Bèi would be suspicious,
 Dialogue: 0,0:19:09.62,0:19:13.90,Thinking,,0,0,0,,so he first sent someone to return Ladies Gān and Mí back to Liú Bèi.
 Dialogue: 0,0:19:14.27,0:19:15.82,Thinking,,0,0,0,,He was very relieved.
-Dialogue: 0,0:19:15.82,0:19:20.30,Thinking,,0,0,0,,Liú Bèi, with his brothers, \Nled his men back to Xú-Province.
-Dialogue: 0,0:19:23.22,0:19:25.62,Style Names,,0,0,0,,{\pos(941.705,451.364)}Xú-Province
+Dialogue: 0,0:19:15.82,0:19:20.30,Thinking,,0,0,0,,Liú Bèi, with his brothers, \Nled his men back to Xú Province.
+Dialogue: 0,0:19:23.22,0:19:25.62,Style Names,,0,0,0,,{\pos(941.705,451.364)}Xú Province
 Dialogue: 0,0:19:23.70,0:19:27.18,Default,,0,0,0,,Elder Brother, I will escort the sisters-in-law back to Xiǎopèi!
 Dialogue: 0,0:19:27.74,0:19:28.54,Default,,0,0,0,,Alright.
 Dialogue: 0,0:19:29.26,0:19:31.94,Default,,0,0,0,,Help them settle down first.
@@ -290,13 +290,13 @@ Dialogue: 0,0:20:16.66,0:20:19.06,Default,,0,0,0,,Hey. Where's your little sibli
 Dialogue: 0,0:20:19.56,0:20:21.22,Default,,0,0,0,,Third Brother didn't want to come here,
 Dialogue: 0,0:20:21.32,0:20:24.64,Default,,0,0,0,,so he took our two sisters-in-law to help them settle down in Xiǎopèi.
 Dialogue: 0,0:20:30.42,0:20:31.50,Default,,0,0,0,,Lord Xuándé,
-Dialogue: 0,0:20:32.90,0:20:36.02,Default,,0,0,0,,it's not that I wanted to take over Xú-Province—
+Dialogue: 0,0:20:32.90,0:20:36.02,Default,,0,0,0,,it's not that I wanted to take over Xú Province—
 Dialogue: 0,0:20:36.06,0:20:36.82,Default,,0,0,0,,It's alright!
 Dialogue: 0,0:20:36.90,0:20:40.14,Default,,0,0,0,,It's only that your little brother got drunk\Nand would hurt someone.
 Dialogue: 0,0:20:40.20,0:20:43.58,Default,,0,0,0,,I feared he would delay important matters, so I rushed to defend the city.
 Dialogue: 0,0:20:44.38,0:20:47.86,Default,,0,0,0,,Now that you've returned,\Nyou deserve to have it back.
 Dialogue: 0,0:20:47.94,0:20:49.06,Default,,0,0,0,,It's okay, it's okay.
-Dialogue: 0,0:20:49.86,0:20:53.26,Default,,0,0,0,,I've long intended to give Xú-Province to you.
+Dialogue: 0,0:20:49.86,0:20:53.26,Default,,0,0,0,,I've long intended to give Xú Province to you.
 Dialogue: 0,0:20:53.42,0:20:55.58,Default,,0,0,0,,Now is the right time I did it.
 Dialogue: 0,0:20:55.74,0:20:57.18,Default,,0,0,0,,Better that it's you.
 Dialogue: 0,0:20:57.62,0:20:58.10,Default,,0,0,0,,No.
@@ -311,7 +311,7 @@ Dialogue: 0,0:21:34.22,0:21:36.38,Default,,0,0,0,,{\bord12\pos(640,660)}He didn'
 Dialogue: 0,0:21:36.62,0:21:39.10,Default,,0,0,0,,{\bord12\pos(640,660)}but demands I must return the Jade Seal.
 Dialogue: 0,0:21:39.58,0:21:40.82,Default,,0,0,0,,{\bord12\pos(640,660)}This is very detestable!
 Dialogue: 0,0:21:41.62,0:21:43.98,Default,,0,0,0,,{\bord12\pos(640,660)}What plans should I make to deal with him?
-Dialogue: 0,0:21:53.86,0:21:58.02,Default,,0,0,0,,{\bord12}My Lord, Sūn Cè has the\Nnatural barrier of the Yángzǐ River;
+Dialogue: 0,0:21:53.86,0:21:58.02,Default,,0,0,0,,{\bord12}My lord, Sūn Cè has the\Nnatural barrier of the Yángzǐ River;
 Dialogue: 0,0:21:58.06,0:21:59.90,Default,,0,0,0,,{\bord12\pos(640,660)}his soldiers are experienced and supplied.
 Dialogue: 0,0:21:59.94,0:22:03.34,Default,,0,0,0,,{\bord12}Due to this situation,\Nit is hard to find a suitable plan.
 Dialogue: 0,0:22:03.58,0:22:06.06,Default,,0,0,0,,{\bord12\pos(640,660)}Hm? What advice do you have then?
@@ -321,22 +321,22 @@ Dialogue: 0,0:22:13.02,0:22:16.50,Default,,0,0,0,,{\bord12}Once we deal with Li�
 Dialogue: 0,0:22:16.74,0:22:17.58,Default,,0,0,0,,{\bord12\pos(640,660)}Liú Bèi?
 Dialogue: 0,0:22:18.74,0:22:21.46,Default,,0,0,0,,{\bord12}Jì Líng defeated him just now. How could he fight back?
 Dialogue: 0,0:22:23.34,0:22:25.42,Default,,0,0,0,,{\bord12\pos(640,660)}Although Liú Bèi has been defeated,
-Dialogue: 0,0:22:25.74,0:22:27.86,Default,,0,0,0,,{\bord12\pos(640,660)}he and Lǚ Bù have reconciled.
-Dialogue: 0,0:22:28.38,0:22:32.42,Default,,0,0,0,,{\bord12}In addition, Lǚ Bù looms over Xú-Province. He'll certainly bring trouble in the end.
-Dialogue: 0,0:22:32.90,0:22:35.06,Default,,0,0,0,,{\bord12\pos(640,660)}My Lord, please consider these three reasons.
+Dialogue: 0,0:22:25.74,0:22:27.86,Default,,0,0,0,,{\bord12\pos(640,660)}he and Lü Bù have reconciled.
+Dialogue: 0,0:22:28.38,0:22:32.42,Default,,0,0,0,,{\bord12}In addition, Lü Bù looms over Xú Province. He'll certainly bring trouble in the end.
+Dialogue: 0,0:22:32.90,0:22:35.06,Default,,0,0,0,,{\bord12\pos(640,660)}My lord, please consider these three reasons.
 Dialogue: 0,0:22:38.66,0:22:41.94,Default,,0,0,0,,{\bord12}I will first deal with Liú Bèi. \NWhat brilliant plans do you have?
-Dialogue: 0,0:22:42.66,0:22:46.62,Default,,0,0,0,,{\bord12}My Lord, you may present Lǚ Bù with gifts of gold, silk, and provisions.
+Dialogue: 0,0:22:42.66,0:22:46.62,Default,,0,0,0,,{\bord12}My lord, you may present Lü Bù with gifts of gold, silk, and provisions.
 Dialogue: 0,0:22:47.26,0:22:49.02,Default,,0,0,0,,{\bord12\pos(640,660)}This way, he'll have a change of heart,
 Dialogue: 0,0:22:49.06,0:22:53.38,Default,,0,0,0,,{\bord12}dissuading him from deploying his troops and allowing Liú Bèi to be captured.
-Dialogue: 0,0:22:53.74,0:22:57.22,Default,,0,0,0,,{\bord12}My Lord, first get rid of Liú Bèi,\Nthen act against Lǚ Bù afterwards.
-Dialogue: 0,0:22:57.22,0:23:00.66,Default,,0,0,0,,{\bord12}Now this will make taking Xú-Province a really easy task?
-Dialogue: 0,0:23:04.62,0:23:10.90,Default,,0,0,0,,{\bord12}Not bad... if we first take Xú-Province and then plot to take Jiāngdōng,
-Dialogue: 0,0:23:11.54,0:23:13.66,Default,,0,0,0,,{\bord12\pos(640,660)}Then is it not that the Jade Seal will be...?
+Dialogue: 0,0:22:53.74,0:22:57.22,Default,,0,0,0,,{\bord12}My lord, first get rid of Liú Bèi,\Nthen act against Lü Bù afterwards.
+Dialogue: 0,0:22:57.22,0:23:00.66,Default,,0,0,0,,{\bord12}Now this will make taking Xú Province a really easy task?
+Dialogue: 0,0:23:04.62,0:23:10.90,Default,,0,0,0,,{\bord12}Not bad... if we first take Xú Province and then plot to take Jiāngdōng,
+Dialogue: 0,0:23:11.54,0:23:13.66,Default,,0,0,0,,{\bord12\pos(640,660)}then is it not that the Jade Seal will be...?
 Dialogue: 0,0:23:18.86,0:23:19.94,Default,,0,0,0,,{\bord12\pos(640,660)}Good.
 Dialogue: 0,0:23:20.94,0:23:21.90,Default,,0,0,0,,{\bord12\pos(640,660)}Good!
 Dialogue: 0,0:23:22.70,0:23:23.54,Default,,0,0,0,,{\bord12\pos(640,660)}Hán Yìn.
 Dialogue: 0,0:23:24.42,0:23:24.94,Default,,0,0,0,,Here.
-Dialogue: 0,0:23:25.18,0:23:28.18,Default,,0,0,0,,{\bord12\pos(640,660)}I order you to send 200,000 carts of millet to Lǚ Bù.
+Dialogue: 0,0:23:25.18,0:23:28.18,Default,,0,0,0,,{\bord12\pos(640,660)}I order you to send 200,000 carts of millet to Lü Bù.
 Dialogue: 0,0:23:28.18,0:23:31.98,Default,,0,0,0,,{\bord12}Then I will write to him, \Ntelling him not to help Liú Bèi.
 Dialogue: 0,0:23:33.74,0:23:34.38,Default,,0,0,0,,Jì Líng!
 Dialogue: 0,0:23:35.18,0:23:35.62,Default,,0,0,0,,Here!
@@ -364,7 +364,7 @@ Dialogue: 0,0:24:36.06,0:24:39.50,Default,,0,0,0,,Just send your little brother 
 Dialogue: 0,0:24:39.50,0:24:41.22,Default,,0,0,0,,After that we can talk!
 Dialogue: 0,0:24:41.39,0:24:43.63,Default,,0,0,0,,Brother Zhāng, don't be rash.
 Dialogue: 0,0:24:45.99,0:24:50.59,Default,,0,0,0,,Xiǎopèi's low supplies and few soldiers\Ncan't resist the enemy.
-Dialogue: 0,0:24:52.15,0:24:56.18,Default,,0,0,0,,I think you, my Lord, should write a plea for help to Lǚ Bù.
+Dialogue: 0,0:24:52.15,0:24:56.18,Default,,0,0,0,,I think you, my Lord, should write a plea for help to Lü Bù.
 Dialogue: 0,0:24:56.43,0:24:58.18,Default,,0,0,0,,How is he going to agree?
 Dialogue: 0,0:25:00.67,0:25:03.95,Default,,0,0,0,,Gōngyòu's advice is on point. \NI'll write a letter.
 Dialogue: 0,0:25:06.11,0:25:10.39,Default,,0,0,0,,{\bord12}Yuán Shù sent me lots of grain with a letter \Ntelling me not to help Liú Bèi.
@@ -375,7 +375,7 @@ Dialogue: 0,0:25:28.23,0:25:32.66,Default,,0,0,0,,{\bord12\pos(640,660)}Liú Bè
 Dialogue: 0,0:25:33.43,0:25:34.43,Default,,0,0,0,,{\bord12\pos(640,660)}But if...
 Dialogue: 0,0:25:35.91,0:25:38.39,Default,,0,0,0,,{\bord12\pos(640,660)}if Yuán Shù overcomes Liú Bèi
 Dialogue: 0,0:25:38.83,0:25:41.35,Default,,0,0,0,,{\bord12\pos(640,660)}and comes to an understanding\Nwith the other lords,
-Dialogue: 0,0:25:42.66,0:25:46.46,Default,,0,0,0,,{\bord12}we won't be able to ensure \Nthe safety of Xú-Province.
+Dialogue: 0,0:25:42.66,0:25:46.46,Default,,0,0,0,,{\bord12}we won't be able to ensure \Nthe safety of Xú Province.
 Dialogue: 0,0:25:47.46,0:25:49.46,Default,,0,0,0,,{\bord12\pos(640,660)}What you're worried about is true.
 Dialogue: 0,0:25:50.79,0:25:53.46,Default,,0,0,0,,{\bord12\pos(640,660)}But if you dispatch troops to save Liú Bèi,
 Dialogue: 0,0:25:54.46,0:25:58.03,Default,,0,0,0,,{\bord12\pos(640,660)}you can't account for it before Yuán Shù.
@@ -393,7 +393,7 @@ Dialogue: 0,0:27:00.07,0:27:01.06,Default,,0,0,0,,Please?
 Dialogue: 0,0:27:13.87,0:27:16.38,Default,,0,0,0,,Today, I've asked you, sir, to come here
 Dialogue: 0,0:27:17.11,0:27:19.86,Default,,0,0,0,,to relieve the danger \Nof you being besieged.
 Dialogue: 0,0:27:23.63,0:27:27.82,Default,,0,0,0,,When you achieve your ambitions some day,\Nplease remember me.
-Dialogue: 0,0:27:29.82,0:27:30.50,Default,,0,0,0,,Well let's —
+Dialogue: 0,0:27:29.82,0:27:30.50,Default,,0,0,0,,Well let's—
 Dialogue: 0,0:27:30.50,0:27:32.82,Default,,0,0,0,,General Jì Líng has arrived!
 Dialogue: 0,0:27:33.47,0:27:34.59,Default,,0,0,0,,Jì Líng?
 Dialogue: 0,0:27:35.51,0:27:36.87,Default,,0,0,0,,General, what-
@@ -415,7 +415,7 @@ Dialogue: 0,0:28:35.26,0:28:37.26,Default,,0,0,0,,I've never been a man of war,
 Dialogue: 0,0:28:38.26,0:28:40.26,Default,,0,0,0,,but I've always been a mediator.
 Dialogue: 0,0:28:40.59,0:28:44.78,Default,,0,0,0,,I want to meditate peace between you two.
 Dialogue: 0,0:28:51.23,0:28:54.63,Default,,0,0,0,,Excuse me, General, but may I ask how?
-Dialogue: 0,0:28:56.62,0:28:59.39,Default,,0,0,0,,I have a way—it will\N be settled by Heaven!
+Dialogue: 0,0:28:56.62,0:28:59.39,Default,,0,0,0,,I have a way— it will\N be settled by Heaven!
 Dialogue: 0,0:28:59.79,0:29:01.06,Default,,0,0,0,,You'll soon understand!
 Dialogue: 0,0:29:01.06,0:29:03.62,Default,,0,0,0,,Come, take a seat!
 Dialogue: 0,0:29:14.47,0:29:16.42,Default,,0,0,0,,General Lǚ, what are you intending to do?
@@ -454,7 +454,7 @@ Dialogue: 0,0:31:26.31,0:31:27.75,Default,,0,0,0,,Bring my halberd!
 Dialogue: 0,0:31:36.10,0:31:38.10,Default,,0,0,0,,I told you two not to fight!
 Dialogue: 0,0:31:38.59,0:31:40.39,Default,,0,0,0,,Now accept Heaven's will!
 Dialogue: 0,0:31:56.63,0:31:57.35,Default,,0,0,0,,Good!
-Dialogue: 0,0:32:02.27,0:32:05.22,Default,,0,0,0,,{\bord12\pos(640,660)}The gate is 150 paces away from us:
+Dialogue: 0,0:32:02.27,0:32:05.22,Default,,0,0,0,,{\bord12\pos(640,660)}The gate is 150 paces away from us.
 Dialogue: 0,0:32:07.74,0:32:10.75,Default,,0,0,0,,{\bord12}If I shoot my arrow through the center of the halberd-head,
 Dialogue: 0,0:32:11.35,0:32:13.67,Default,,0,0,0,,{\bord12\pos(640,660)}you both shall withdraw your troops!
 Dialogue: 0,0:32:15.10,0:32:16.67,Default,,0,0,0,,{\bord12\pos(640,660)}If I miss...
@@ -472,22 +472,22 @@ Dialogue: 0,0:33:36.31,0:33:37.27,Default,,0,0,0,,Come!
 Dialogue: 0,0:33:39.67,0:33:40.98,Default,,0,0,0,,Serve wine!
 Dialogue: 0,0:33:44.31,0:33:46.98,Default,,0,0,0,,It's reconciling wine! Cheers!
 Dialogue: 0,0:33:53.19,0:33:55.91,Default,,0,0,0,,General, I dare not disobey your words,
-Dialogue: 0,0:33:56.39,0:34:02.10,Default,,0,0,0,,but if I were to withdraw,\Nwill My Lord believe this event?
+Dialogue: 0,0:33:56.39,0:34:02.10,Default,,0,0,0,,but if I were to withdraw,\Nwill my lord believe this event?
 Dialogue: 0,0:34:03.10,0:34:06.10,Default,,0,0,0,,How hard is that? I'll just write a letter to him;
 Dialogue: 0,0:34:06.31,0:34:08.10,Default,,0,0,0,,you just simply withdraw.
 Dialogue: 0,0:34:08.79,0:34:11.18,Default,,0,0,0,,I, Liú Bèi, am most grateful to you, General.
 Dialogue: 0,0:34:13.55,0:34:17.39,Default,,0,0,0,,Without me, you'd be in danger!
 Dialogue: 0,0:34:26.19,0:34:27.31,Default,,0,0,0,,You fool!
-Dialogue: 0,0:34:28.87,0:34:31.18,Default,,0,0,0,,I can't believe you fell for Lǚ Bù's trap!
-Dialogue: 0,0:34:33.18,0:34:35.18,Default,,0,0,0,,Lǚ Bù received lots of grain from me.
+Dialogue: 0,0:34:28.87,0:34:31.18,Default,,0,0,0,,I can't believe you fell for Lü Bù's trap!
+Dialogue: 0,0:34:33.18,0:34:35.18,Default,,0,0,0,,Lü Bù received lots of grain from me.
 Dialogue: 0,0:34:35.18,0:34:38.59,Default,,0,0,0,,Instead, this farce of a child\Nwas made to suck up to Liú Bèi!
-Dialogue: 0,0:34:39.23,0:34:43.58,Default,,0,0,0,,I'll personally lead a grand army to conquer Liú Bèi and Lǚ Bù!
-Dialogue: 0,0:34:43.58,0:34:45.31,Default,,0,0,0,,My Lord, don't!
-Dialogue: 0,0:34:45.75,0:34:50.02,Default,,0,0,0,,That Lǚ Bù is one of the most valiant among men, and he has the domain of Xú-Province!
-Dialogue: 0,0:34:50.02,0:34:53.10,Default,,0,0,0,,If Lǚ Bù allies with\N Liú Bèi from end to end,
+Dialogue: 0,0:34:39.23,0:34:43.58,Default,,0,0,0,,I'll personally lead a grand army to conquer Liú Bèi and Lü Bù!
+Dialogue: 0,0:34:43.58,0:34:45.31,Default,,0,0,0,,My lord, don't!
+Dialogue: 0,0:34:45.75,0:34:50.02,Default,,0,0,0,,That Lü Bù is one of the most valiant among men, and he has the domain of Xú Province!
+Dialogue: 0,0:34:50.02,0:34:53.10,Default,,0,0,0,,If Lü Bù allies with\N Liú Bèi from end to end,
 Dialogue: 0,0:34:53.26,0:34:55.07,Default,,0,0,0,,it'll be hard to beat them both!
 Dialogue: 0,0:34:56.15,0:34:58.03,Default,,0,0,0,,But we can't let them off easily!
-Dialogue: 0,0:34:58.51,0:34:59.50,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:34:58.51,0:34:59.50,Default,,0,0,0,,My lord!
 Dialogue: 0,0:35:03.23,0:35:04.63,Default,,0,0,0,,I have an idea.
 Dialogue: 0,0:35:05.30,0:35:06.30,Default,,0,0,0,,Speak!
 Dialogue: 0,0:35:22.99,0:35:25.82,Default,,0,0,0,,The other day, you, sir, \Nsent me some provisions.
@@ -495,28 +495,28 @@ Dialogue: 0,0:35:26.31,0:35:28.82,Default,,0,0,0,,Now today, you came\N to give 
 Dialogue: 0,0:35:29.43,0:35:30.82,Default,,0,0,0,,I wonder why?
 Dialogue: 0,0:35:31.99,0:35:37.51,Default,,0,0,0,,{\bord12\pos(640,660)}General, my Lord has heard that you have a daughter,
 Dialogue: 0,0:35:37.98,0:35:41.98,Default,,0,0,0,,{\bord12\pos(640,660)}and that she is of a similar age to his own son.
-Dialogue: 0,0:35:42.71,0:35:50.54,Default,,0,0,0,,{\bord12}My Lord has admired you for a long time and would like a to propose a marriage.
+Dialogue: 0,0:35:42.71,0:35:50.54,Default,,0,0,0,,{\bord12}My lord has admired you for a long time and would like a to propose a marriage.
 Dialogue: 0,0:35:50.54,0:35:54.11,Default,,0,0,0,,{\bord12\pos(640,660)}He wants to form a lifelong alliance,
 Dialogue: 0,0:35:54.51,0:35:58.34,Default,,0,0,0,,{\bord12\pos(640,660)}and has sent me here to be the matchmaker.
 Dialogue: 0,0:35:59.34,0:36:02.99,Default,,0,0,0,,{\bord12\pos(640,660)}What do you think about it?
-Dialogue: 0,0:36:08.86,0:36:13.89,Default,,0,0,0,,Sir, please go to the guest room to rest.\NLet me counsel with my advisers. Then we'll talk.
+Dialogue: 0,0:36:08.86,0:36:13.89,Default,,0,0,0,,Sir, please go to the guest room to rest.\NLet me counsel with my advisors. Then we'll talk.
 Dialogue: 0,0:36:13.89,0:36:14.93,Default,,0,0,0,,Thank you, General.
 Dialogue: 0,0:36:14.93,0:36:17.22,Default,,0,0,0,,Hán Yìn takes his leave.
 Dialogue: 0,0:36:21.03,0:36:23.07,Default,,0,0,0,,You must be really bold.
-Dialogue: 0,0:36:24.34,0:36:26.90,Default,,0,0,0,,Do you think we're all fools in Xú-Province?
+Dialogue: 0,0:36:24.34,0:36:26.90,Default,,0,0,0,,Do you think we're all fools in Xú Province?
 Dialogue: 0,0:36:27.27,0:36:28.63,Default,,0,0,0,,I wouldn't dare!
 Dialogue: 0,0:36:29.47,0:36:32.23,Default,,0,0,0,,{\bord12\pos(640,660)}Who proposed this lousy trick to Your Lord?
 Dialogue: 0,0:36:33.94,0:36:36.67,Default,,0,0,0,,{\bord12\pos(640,660)}By allying Yuán Shù with Fèngxiān via marriage,
 Dialogue: 0,0:36:37.11,0:36:40.86,Default,,0,0,0,,{\bord12}the real purpose is nothing more than to take Liú Xuándé's head, is it?
-Dialogue: 0,0:36:40.86,0:36:41.86,Default,,0,0,0,,Gōngtái-
+Dialogue: 0,0:36:40.86,0:36:41.86,Default,,0,0,0,,Gōngtái-!
 Dialogue: 0,0:36:45.35,0:36:48.86,Default,,0,0,0,,How could a simple trick\N ever get past you, Gōngtái?
 Dialogue: 0,0:36:48.86,0:36:52.10,Default,,0,0,0,,I ask you keep it secret, Gōngtái.
 Dialogue: 0,0:37:05.31,0:37:08.10,Default,,0,0,0,,Xuándé is an ambitious \Nhero of this generation,
-Dialogue: 0,0:37:08.55,0:37:11.11,Default,,0,0,0,,But his feathers have not fully grown yet.
+Dialogue: 0,0:37:08.55,0:37:11.11,Default,,0,0,0,,but his feathers have not fully grown yet.
 Dialogue: 0,0:37:12.10,0:37:15.54,Default,,0,0,0,,Gōngtái, do you intend to keep a tiger at Xiǎopèi?
 Dialogue: 0,0:37:15.54,0:37:19.11,Default,,0,0,0,,Don't worry, sir. I won't let it leak out.
 Dialogue: 0,0:37:19.75,0:37:26.19,Default,,0,0,0,,I'm only afraid that delaying action\Nwill make the scheme obvious to others.
-Dialogue: 0,0:37:26.95,0:37:30.26,Default,,0,0,0,,Gōngtái whom are \Nyou referring to by 'others'?
+Dialogue: 0,0:37:26.95,0:37:30.26,Default,,0,0,0,,Gōngtái whom are \Nyou referring to by "others"?
 Dialogue: 0,0:37:32.79,0:37:36.67,Default,,0,0,0,,What's that for? I implore you,\N Gōngtái, do tell me.
 Dialogue: 0,0:37:38.51,0:37:40.26,Default,,0,0,0,,I'll go to Fèngxiān
 Dialogue: 0,0:37:40.71,0:37:45.98,Default,,0,0,0,,and persuade him to wed his daughter at once. How about it?

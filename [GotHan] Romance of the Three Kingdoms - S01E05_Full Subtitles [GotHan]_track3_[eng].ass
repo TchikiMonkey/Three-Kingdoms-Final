@@ -42,7 +42,7 @@ Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn
 Dialogue: 0,0:00:00.90,0:00:06.28,Episode Title,,0,0,0,,{\pos(640,346)\fade(255,0,255,0,1300,4140,5380)}Episode 5
 Dialogue: 0,0:00:00.90,0:00:06.28,Episode Title,,0,0,0,,{\pos(640,525)\fade(255,0,255,0,1300,4140,5380)}Three Heroes Duel Lü Bu
 Dialogue: 0,0:01:12.30,0:01:17.10,Thinking,Narrator,0,0,0,,In the first month of the first year \Nof the Chuping era, 190 CE,
-Dialogue: 0,0:01:17.10,0:01:20.68,Thinking,Narrator,0,0,0,,eighteen lords formed an coalition to help the Han,
+Dialogue: 0,0:01:17.10,0:01:20.68,Thinking,Narrator,0,0,0,,eighteen lords formed a coalition to help the Han,
 Dialogue: 0,0:01:20.68,0:01:22.27,Thinking,Narrator,0,0,0,,swearing a blood oath.
 Dialogue: 0,0:01:22.81,0:01:25.73,Thinking,Narrator,0,0,0,,They elected Yuan Shao as the leader of the alliance
 Dialogue: 0,0:01:25.73,0:01:29.69,Thinking,Narrator,0,0,0,,and declared war against Dong Zhuo.
@@ -72,7 +72,7 @@ Dialogue: 0,0:03:56.32,0:03:59.08,Style Names,,0,0,0,,{\pos(320.333,504)\fade(25
 Dialogue: 0,0:04:00.47,0:04:01.88,Default,Dong Zhuo,0,0,0,,How will we deal with them?
 Dialogue: 0,0:04:07.79,0:04:09.02,Default,Lü Bu,0,0,0,,Father, do not worry.
 Dialogue: 0,0:04:11.62,0:04:15.48,Default,Lü Bu,0,0,0,,Those lords outside are but rank grass.
-Dialogue: 0,0:04:12.40,0:04:15.24,Style Names,,0,0,0,,{\pos(325.333,502.667)\fade(255,0,255,0,400,2500,2840)}Lǚ Bù\NStyled: Fèngxiān
+Dialogue: 0,0:04:12.40,0:04:15.24,Style Names,,0,0,0,,{\pos(325.333,502.667)\fade(255,0,255,0,400,2500,2840)}Lü Bù\NStyled: Fèngxiān
 Dialogue: 0,0:04:17.32,0:04:22.01,Default,Lü Bu,0,0,0,,I can lead our fiercest men and \Nhang their heads at the capital gates!
 Dialogue: 0,0:04:25.34,0:04:30.12,Default,Dong Zhuo,0,0,0,,With you, Fengxian, this old man can rest carefree!
 Dialogue: 0,0:04:35.25,0:04:36.07,Default,Hua Xiong,0,0,0,,Premier!
@@ -110,7 +110,7 @@ Dialogue: 0,0:06:51.38,0:06:51.92,Default,Hua Xiong,0,0,0,,Cheers?
 Dialogue: 0,0:06:53.01,0:06:54.39,Default,Generals,0,0,0,,Cheers!
 Dialogue: 0,0:06:59.47,0:07:00.04,Default,Hua Xiong,0,0,0,,Cheers?
 Dialogue: 0,0:07:02.64,0:07:05.20,Default,Li Su,0,0,0,,General Hua, victorious from your first battle!
-Dialogue: 0,0:07:05.26,0:07:09.14,Default,Li Su,0,0,0,,Within one round and that Bao Zhong was left without a head!
+Dialogue: 0,0:07:05.26,0:07:09.14,Default,Li Su,0,0,0,,Within one round that Bao Zhong was left without a head!
 Dialogue: 0,0:07:11.55,0:07:14.40,Default,Li Su,0,0,0,,Perhaps he did not realise this even as he died!
 Dialogue: 0,0:07:19.14,0:07:23.46,Default,Hua Xiong,0,0,0,,The eighteen lords are nothing but a motley gang!
 Dialogue: 0,0:07:24.62,0:07:25.30,Default,Hua Xiong,0,0,0,,Drink!
@@ -164,7 +164,7 @@ Dialogue: 0,0:10:37.21,0:10:39.00,Default,Yuan Shu,0,0,0,,That makes sense.
 Dialogue: 0,0:10:41.06,0:10:41.72,Default,Li Su,0,0,0,,Commander!
 Dialogue: 0,0:10:43.19,0:10:44.00,Default,Li Su,0,0,0,,Commander!
 Dialogue: 0,0:10:44.34,0:10:47.37,Default,Li Su,0,0,0,,Reports say Yuan Shu refused to supply Sun Jian.
-Dialogue: 0,0:10:47.37,0:10:50.20,Default,Li Su,0,0,0,,Sūn Jiān's camp is in utter dissaray!
+Dialogue: 0,0:10:47.37,0:10:50.20,Default,Li Su,0,0,0,,Sūn Jiān's camp is in utter disarray!
 Dialogue: 0,0:10:52.43,0:10:55.57,Default,Hua Xiong,0,0,0,,As I expected, they are nothing but a motley gang!
 Dialogue: 0,0:10:56.02,0:11:00.24,Default,Hua Xiong,0,0,0,,Yuan Shu fears Sun Jian will win top honors, so he didn't supply him!
 Dialogue: 0,0:11:00.51,0:11:03.37,Default,Hua Xiong,0,0,0,,With such squabbles, what use is their coalition?
@@ -204,7 +204,7 @@ Dialogue: 0,0:15:31.73,0:15:34.44,Default,Reporter,0,0,0,,Report! Report!
 Dialogue: 0,0:15:35.16,0:15:35.94,Default,Reporter,0,0,0,,Report, sir!
 Dialogue: 0,0:15:35.94,0:15:39.17,Default,Reporter,0,0,0,,Hua Xiong has led heavy cavalry \Nhere with Sun Jian's helmet!
 Dialogue: 0,0:15:39.17,0:15:40.77,Default,Reporter,0,0,0,,He demands a challenge from us!
-Dialogue: 0,0:15:40.52,0:15:42.60,Style Names,,0,0,0,,{\pos(964,466.667)\fade(255,0,255,0,400,1750,2080)}Guān Yǔ\NStyled: Yúnchǎng
+Dialogue: 0,0:15:40.52,0:15:42.60,Style Names,,0,0,0,,{\pos(964,466.667)\fade(255,0,255,0,400,1750,2080)}Guān Yǔ\NStyled: Yúncháng
 Dialogue: 0,0:15:49.00,0:15:49.81,Default,Yuan Shao,0,0,0,,Who will go?
 Dialogue: 0,0:15:51.31,0:15:52.44,Default,Yu She,0,0,0,,I'll go!
 Dialogue: 0,0:15:52.44,0:15:52.97,Default,Yuan Shao,0,0,0,,Alright!
@@ -325,7 +325,7 @@ Dialogue: 0,0:30:39.72,0:30:41.57,Default,Dong Zhuo,0,0,0,,Shut the gates now!
 Dialogue: 0,0:30:56.19,0:30:57.18,Default,Zhang Fei,0,0,0,,Fantastic!
 Dialogue: 0,0:31:00.22,0:31:01.16,Default,Yuan Shao,0,0,0,,Withdraw!
 Dialogue: 0,0:31:10.84,0:31:12.71,Default,Zhang Fei,0,0,0,,Elder Brother, this is so fantastic!
-Dialogue: 0,0:31:16.50,0:31:17.38,Default,Liu Bei,0,0,0,,Awesome.
+Dialogue: 0,0:31:16.50,0:31:17.38,Default,Liu Bei,0,0,0,,Incredible.
 Dialogue: 0,0:31:31.69,0:31:35.68,Default,Sun Jian,0,0,0,,Before Hulao Pass, we eight lords \Nfought a major battle with Lü Bu.
 Dialogue: 0,0:31:36.22,0:31:38.01,Default,Sun Jian,0,0,0,,We won, but withdrew.
 Dialogue: 0,0:31:40.13,0:31:44.24,Default,Sun Jian,0,0,0,,Now the leader wants us to march into Sishui Pass.
@@ -407,7 +407,7 @@ Dialogue: 0,0:36:53.84,0:36:59.86,Default,Li Ru,0,0,0,,It also has Tong Pass and
 Dialogue: 0,0:36:59.86,0:37:02.52,Default,Li Ru,0,0,0,,It will be easy to defend from them.
 Dialogue: 0,0:37:05.60,0:37:09.60,Default,Li Ru,0,0,0,,My lord, have you not heard\N of this children's folk rhyme?
 Dialogue: 0,0:37:10.04,0:37:11.45,Default,Dong Zhuo,0,0,0,,What children's rhyme?
-Dialogue: 0,0:37:13.29,0:37:17.53,Default,Li Ru,0,0,0,,{\bord12}"A Han in the west", \N"a Han in the east."
+Dialogue: 0,0:37:13.29,0:37:17.53,Default,Li Ru,0,0,0,,{\bord12}"A Han in the west," \N"a Han in the east."
 Dialogue: 0,0:37:18.12,0:37:23.94,Default,Li Ru,0,0,0,,{\bord12}"The deer within Cháng'ān \Nwill worry the least."
 Dialogue: 0,0:37:25.99,0:37:27.57,Default,Dong Zhuo,0,0,0,,What does this mean?
 Dialogue: 0,0:37:30.16,0:37:35.62,Note (Potential style?),,0,0,0,,Hàn Gāozǔ AKA. Liú Bāng, first emperor of the Western Han.

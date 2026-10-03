@@ -194,12 +194,12 @@ Dialogue: 0,0:17:09.08,0:17:12.37,Default,,0,0,0,,Boji, why are you laughing?
 Dialogue: 0,0:17:12.37,0:17:16.38,Default,,0,0,0,,This is not the divine will of the Son of Heaven, but the view of Sima Zhongda.
 Dialogue: 0,0:17:16.38,0:17:17.86,Default,,0,0,0,,What view?
 Dialogue: 0,0:17:18.41,0:17:22.80,Default,,0,0,0,,It is said that he is familiar with the military tactics Zhuge Liang uses.
-Dialogue: 0,0:17:25.73,0:17:28.40,Default,,0,0,0,,Sima Zhongda is thousands of miles away from us,
+Dialogue: 0,0:17:25.73,0:17:28.40,Default,,0,0,0,,Sima Zhongda is thousands of {\i1}li{\i0} away from us,
 Dialogue: 0,0:17:28.40,0:17:32.13,Default,,0,0,0,,yet he was able to calculate the situation Zhuge Liang is facing.
 Dialogue: 0,0:17:32.13,0:17:36.41,Default,,0,0,0,,He must certainly be the person who will resist Shu invasions in the future.
 Dialogue: 0,0:17:33.82,0:17:38.62,Style Names,,0,0,0,,{\fade(255,0,255,0,360,4420,4780)\pos(289.143,492.571)}Guō Huái\NStyled: Bójì
 Dialogue: 0,0:17:42.26,0:17:44.70,Default,,0,0,0,,Sima Yi is arrogant about his talent!
-Dialogue: 0,0:17:44.70,0:17:47.72,Default,,0,0,0,,He thinks he can place me\N under his bidding from miles away!
+Dialogue: 0,0:17:44.70,0:17:47.72,Default,,0,0,0,,He thinks he can place me\N under his bidding from many {\i1}li{\i0} away!
 Dialogue: 0,0:17:47.72,0:17:50.77,Default,NTP,0,0,0,,And to use the Son of Heaven as a way to convey his wishes,
 Dialogue: 0,0:17:50.77,0:17:53.53,Default,NTP,0,0,0,,he really is coercing people!
 Dialogue: 0,0:17:55.00,0:17:58.92,Default,,0,0,0,,Commander, he was just joking.
@@ -301,7 +301,7 @@ Dialogue: 0,0:25:10.16,0:25:13.78,Default,,0,0,0,,He said, "If our army wins, \N
 Dialogue: 0,0:25:13.78,0:25:16.21,Default,,0,0,0,,"If our army loses, the Shu army will withdraw."
 Dialogue: 0,0:25:16.21,0:25:21.37,Default,,0,0,0,,Now that our army lost, I wonder if you have \Nfound out about the movements of the Shu army.
 Dialogue: 0,0:25:24.74,0:25:29.98,Default,,0,0,0,,Sima Zhongda makes up these crazy guesses, speaking wildly without thinking.
-Dialogue: 0,0:25:29.98,0:25:33.00,Default,,0,0,0,,How could he win a decisive battle thousands of miles away?
+Dialogue: 0,0:25:29.98,0:25:33.00,Default,,0,0,0,,How could he win a decisive battle thousands of {\i1}li{\i0} away?
 Dialogue: 0,0:25:35.88,0:25:38.92,Default,NTP,0,0,0,,Two days ago, Zhongda advised you to defend.
 Dialogue: 0,0:25:38.92,0:25:41.66,Default,NTP,0,0,0,,You did not listen, and fell into a trap.
 Dialogue: 0,0:25:41.66,0:25:45.75,Default,,0,0,0,,There is no harm in sending a person ahead to verify my words.
@@ -390,7 +390,7 @@ Dialogue: 0,0:32:41.42,0:32:44.38,Default,,0,0,0,,Thus, I shall take the seal fo
 Dialogue: 0,0:32:44.38,0:32:48.16,Default,,0,0,0,,When you recover, I will return the title.
 Dialogue: 0,0:32:53.00,0:32:57.03,Default,,0,0,0,,I shall not disappoint the vast \Nkindness of the Son of Heaven!
 Dialogue: 0,0:32:57.03,0:32:58.70,Default,,0,0,0,,I shall drive back the Shu army!
-Dialogue: 0,0:33:17.18,0:33:20.69,Default,,0,0,0,,Zhuge Liang has led his army \Nfrom thousands of miles away.
+Dialogue: 0,0:33:17.18,0:33:20.69,Default,,0,0,0,,Zhuge Liang has led his army \Nfrom thousands of {\i1}li{\i0} away.
 Dialogue: 0,0:33:20.69,0:33:22.78,Default,,0,0,0,,He would have fought quickly.
 Dialogue: 0,0:33:22.78,0:33:27.76,Default,,0,0,0,,Yet, now that he is refraining his army from acting, he must have a plan.
 Dialogue: 0,0:33:30.44,0:33:33.26,Default,,0,0,0,,Any news on the commanderies of Longxi?

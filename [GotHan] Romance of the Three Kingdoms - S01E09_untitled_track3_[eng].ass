@@ -45,7 +45,7 @@ Dialogue: 0,0:00:00.00,0:00:06.10,Header,,0,0,0,,This is a Gentlemen of the Hàn
 Dialogue: 0,0:00:01.38,0:00:07.42,Episode Title,,0,0,0,,{\fade(255,0,255,0,2525,4940,6020)\pos(637.273,354.891)}Episode 9
 Dialogue: 0,0:00:01.38,0:00:07.42,Episode Title,,0,0,0,,{\pos(642.727,542.727)\fade(255,0,255,0,2525,4940,6020)}Sūn Cè's Founding
 Dialogue: 0,0:00:05.66,0:00:07.97,Default,,0,0,0,,Charge!
-Dialogue: 0,0:00:08.75,0:00:11.99,Thinking,,0,0,0,,When Cáo Cāo and Lǚ Bù fought\Neach other at the borders of Shāndōng,
+Dialogue: 0,0:00:08.75,0:00:11.99,Thinking,,0,0,0,,When Cáo Cāo and Lü Bù fought\Neach other at the borders of Shāndōng,
 Dialogue: 0,0:00:12.48,0:00:15.88,Thinking,,0,0,0,,Sūn Cè, reduced to a lower rank, was quietly building up his power in Jiāngdōng.
 Dialogue: 0,0:00:15.98,0:00:20.11,Thinking,,0,0,0,,After his father Sūn Jiān had died,\NSūn Cè started planning his grand undertaking.
 Dialogue: 0,0:00:20.55,0:00:24.00,Thinking,,0,0,0,,First, he escorted his mother and \Nother family members to Qū'ē,
@@ -112,7 +112,7 @@ Dialogue: 0,0:07:35.55,0:07:36.30,Default,,0,0,0,,{\bord12\pos(640,660)}Don't!
 Dialogue: 0,0:07:36.38,0:07:38.30,Style Names,,0,0,0,,{\pos(989.091,460.909)\fade(255,0,255,0,330,1550,1900)}Huáng Gài\NStyled: Gōngfù
 Dialogue: 0,0:07:37.22,0:07:39.61,Default,,0,0,0,,{\bord12\pos(640,660)}Yuán Shù desires the Jade Seal.
 Dialogue: 0,0:07:40.25,0:07:43.73,Default,,0,0,0,,{\bord12\pos(640,660)}Your father, esteemed general Sūn Jiān,
-Dialogue: 0,0:07:44.15,0:07:48.44,Default,,0,0,0,,{\bord12}for this very Jade Seal had the grudges of all the other lords cast upon him.
+Dialogue: 0,0:07:44.15,0:07:48.44,Default,,0,0,0,,{\bord12}had the grudges of all the other lords cast upon him for this very Jade Seal.
 Dialogue: 0,0:07:49.31,0:07:52.76,Default,,0,0,0,,{\bord12\pos(640,660)}Thus he was shot dead by Liú Biǎo's soldiers.
 Dialogue: 0,0:07:53.80,0:07:56.80,Default,,0,0,0,,{\bord12\pos(640,660)}The life of your father in exchange for the Jade Seal.
 Dialogue: 0,0:07:57.05,0:08:00.30,Default,,0,0,0,,{\bord12\pos(640,660)}How could you gift it to Yuán Shù?
@@ -125,7 +125,7 @@ Dialogue: 0,0:08:21.20,0:08:24.78,Default,,0,0,0,,Bófú has the courage and \Ns
 Dialogue: 0,0:08:25.45,0:08:26.92,Default,,0,0,0,,He will succeed!
 Dialogue: 0,0:08:37.71,0:08:38.60,Default,,0,0,0,,Bring us wine!
 Dialogue: 0,0:08:39.58,0:08:40.16,Default,,0,0,0,,Yes!
-Dialogue: 0,0:09:40.68,0:09:42.80,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:09:40.68,0:09:42.80,Default,,0,0,0,,My lord!
 Dialogue: 0,0:09:48.72,0:09:52.95,Default,,0,0,0,,Bófú, if you have something to say, \NI will support you.
 Dialogue: 0,0:09:59.83,0:10:02.95,Default,,0,0,0,,I... I always think about avenging my late father...
 Dialogue: 0,0:10:04.00,0:10:09.08,Default,,0,0,0,,and now my old mother and younger siblings\Nare all at Qū'ē, in imminent danger!
@@ -136,15 +136,15 @@ Dialogue: 0,0:10:27.25,0:10:32.00,Default,,0,0,0,,Sir, please let me lead a few 
 Dialogue: 0,0:10:35.30,0:10:36.95,Default,,0,0,0,,Let's not be impatient!
 Dialogue: 0,0:10:37.00,0:10:40.72,Default,,0,0,0,,When I have spare soldiers, \NI'll naturally let you lead them.
 Dialogue: 0,0:10:40.74,0:10:43.44,Default,,0,0,0,,Of course, lending soldiers...
-Dialogue: 0,0:10:49.41,0:10:54.24,Default,,0,0,0,,My Lord, right now, I have the\NHeirloom Seal my father once had.
-Dialogue: 0,0:10:56.68,0:11:00.72,Default,,0,0,0,,My Lord, if you lend me the troops,\NI would gladly give it to you.
+Dialogue: 0,0:10:49.41,0:10:54.24,Default,,0,0,0,,My lord, right now, I have the\NHeirloom Seal my father once had.
+Dialogue: 0,0:10:56.68,0:11:00.72,Default,,0,0,0,,My lord, if you lend me the troops,\NI would gladly give it to you.
 Dialogue: 0,0:11:00.72,0:11:03.55,Default,,0,0,0,,Bófú, are you serious about this?
-Dialogue: 0,0:11:16.50,0:11:17.05,Default,,0,0,0,,My Lord?
+Dialogue: 0,0:11:16.50,0:11:17.05,Default,,0,0,0,,My lord?
 Dialogue: 0,0:11:21.51,0:11:24.95,Default,,0,0,0,,Fine. I will lend you\N3,000 soldiers and 500 horses.
 Dialogue: 0,0:11:32.32,0:11:35.85,Default,,0,0,0,,With your modest status, it is difficult to hold any power.
-Dialogue: 0,0:11:36.46,0:11:41.03,Default,,0,0,0,,Ok! I will appoint you as {\i1}Colonel of Assault{\i0},\N and {\i1}General of Bandit-Fighting{\i0}.
+Dialogue: 0,0:11:36.46,0:11:41.03,Default,,0,0,0,,Ok! I will appoint you as {\i1}Colonel of Assault,{\i0}\N and {\i1}General of Bandit-Fighting{\i0}.
 Dialogue: 0,0:11:46.10,0:11:50.76,Default,,0,0,0,,Tomorrow, you can march to Jiāngdōng. How's that?
-Dialogue: 0,0:11:53.81,0:11:54.99,Default,,0,0,0,,Thank you, My Lord!
+Dialogue: 0,0:11:53.81,0:11:54.99,Default,,0,0,0,,Thank you, my lord!
 Dialogue: 0,0:12:24.54,0:12:26.01,Default,,0,0,0,,Could that person be Zhōu the Youth?
 Dialogue: 0,0:12:27.98,0:12:28.95,Default,Zhōu Yú,0,0,0,,Brother Bófú!
 Dialogue: 0,0:12:29.61,0:12:31.24,Default,,0,0,0,,Hah! It really is Zhōu the Youth!
@@ -174,7 +174,7 @@ Dialogue: 0,0:14:06.77,0:14:08.21,Default,,0,0,0,,Borrowed?
 Dialogue: 0,0:14:09.18,0:14:11.11,Default,,0,0,0,,Yuán Shù gave me soldiers and horses
 Dialogue: 0,0:14:11.88,0:14:14.78,Default,,0,0,0,,in exchange for the Heirloom Seal.
 Dialogue: 0,0:14:15.92,0:14:17.58,Default,Zhōu Yú,0,0,0,,The Jade Seal?
-Dialogue: 0,0:14:18.79,0:14:22.54,Default,Zhōu Yú,0,0,0,,You mean, the one from when the Luòyáng palace was burning?
+Dialogue: 0,0:14:18.79,0:14:22.54,Default,Zhōu Yú,0,0,0,,You mean, the one from when Luòyáng Palace was burning?
 Dialogue: 0,0:14:22.72,0:14:26.69,Default,Zhōu Yú,0,0,0,,The seal your father found inside that well?
 Dialogue: 0,0:14:27.73,0:14:29.13,Default,Sūn Cè,0,0,0,,That is correct.
 Dialogue: 0,0:14:29.43,0:14:31.99,Default,Zhōu Yú,0,0,0,,Damn it, that won't do!
@@ -206,7 +206,7 @@ Dialogue: 0,0:16:14.00,0:16:16.79,Default,,0,0,0,,You need the aid of Jiāngdōn
 Dialogue: 0,0:16:18.44,0:16:21.40,Default,,0,0,0,,Elder Brother, do you know the two Zhāngs of Jiāngdōng?
 Dialogue: 0,0:16:22.41,0:16:23.84,Default,,0,0,0,,The two Zhāngs?
 Dialogue: 0,0:16:24.55,0:16:29.60,Default,,0,0,0,,One of them is Zhāng Zhāo\Nof Péngchéng, styled Zǐbù,
-Dialogue: 0,0:16:30.15,0:16:34.32,Default,,0,0,0,,And the other is Zhāng Hóng\N from Guǎnglíng, styled Zǐgāng.
+Dialogue: 0,0:16:30.15,0:16:34.32,Default,,0,0,0,,and the other is Zhāng Hóng\N from Guǎnglíng, styled Zǐgāng.
 Dialogue: 0,0:16:35.09,0:16:39.08,Default,,0,0,0,,Both of them possess the talent to\N shake and uphold heaven and earth.
 Dialogue: 0,0:16:39.26,0:16:41.82,Default,,0,0,0,,They live here in seclusion to avoid chaos.
 Dialogue: 0,0:16:42.33,0:16:45.86,Default,,0,0,0,,Why not recruit them?
@@ -243,9 +243,9 @@ Dialogue: 0,0:20:02.66,0:20:04.65,Default,,0,0,0,,I won't fear even with the bot
 Dialogue: 0,0:20:28.39,0:20:29.76,Default,,0,0,0,,Only a coward flees!
 Dialogue: 0,0:21:52.67,0:21:56.29,Default,,0,0,0,,General Tàishǐ Cí! Lord Liú Yáo has come to your rescue!
 Dialogue: 0,0:21:57.65,0:22:01.56,Default,,0,0,0,,General Sūn Cè! Gōngjǐn is here!
-Dialogue: 0,0:22:32.35,0:22:32.99,Default,,0,0,0,,My Lord?
-Dialogue: 0,0:22:37.85,0:22:38.55,Default,,0,0,0,,My Lord?
-Dialogue: 0,0:23:02.34,0:23:04.69,Default,,0,0,0,,My Lord, today was dangerous!
+Dialogue: 0,0:22:32.35,0:22:32.99,Default,,0,0,0,,My lord?
+Dialogue: 0,0:22:37.85,0:22:38.55,Default,,0,0,0,,My lord?
+Dialogue: 0,0:23:02.34,0:23:04.69,Default,,0,0,0,,My lord, today was dangerous!
 Dialogue: 0,0:23:05.01,0:23:08.11,Default,,0,0,0,,If it weren't for Zhōu Gōngjǐn's \Ntroops, you would have been...
 Dialogue: 0,0:23:08.95,0:23:12.24,Default,,0,0,0,,Tàishǐ Cí is a true warriors!
 Dialogue: 0,0:23:13.45,0:23:18.00,Default,,0,0,0,,Tàishǐ Cí dueled my Lord for\N many bouts, matching every move!
@@ -277,17 +277,17 @@ Dialogue: 0,0:25:39.56,0:25:41.35,Default,,0,0,0,,I will capture Tàishǐ Cí!
 Dialogue: 0,0:25:53.86,0:25:57.42,Default,NTP,0,0,0,,I heard Tàishǐ Cí has recruited \Nable-bodied men from Jīng County!
 Dialogue: 0,0:25:57.86,0:25:59.68,Default,NTP,0,0,0,,Now he has over 2,000 men!
 Dialogue: 0,0:26:00.00,0:26:02.52,Default,,0,0,0,,He claims vengeance for Liú Yáo!
-Dialogue: 0,0:26:04.80,0:26:08.32,Default,,0,0,0,,All he have recruited in his haste are savages.
+Dialogue: 0,0:26:04.80,0:26:08.32,Default,,0,0,0,,All he has recruited in his haste are savages.
 Dialogue: 0,0:26:08.58,0:26:10.34,Style Names,,0,0,0,,{\pos(950.909,463.637)\fade(255,0,255,0,350,1240,1720)}Zhāng Zhāo\NStyled: Zǐbù
 Dialogue: 0,0:26:08.73,0:26:11.20,Default,,0,0,0,,Unseasoned and vulnerable.
 Dialogue: 0,0:26:12.23,0:26:14.00,Default,,0,0,0,,I want to capture Tàishǐ Cí!
 Dialogue: 0,0:26:17.50,0:26:20.11,Default,,0,0,0,,Gentlemen, what are your suggestions?
 Dialogue: 0,0:26:23.10,0:26:23.86,Default,,0,0,0,,It's easy.
 Dialogue: 0,0:26:24.95,0:26:27.94,Default,,0,0,0,,We can divide our army along three routes,
-Dialogue: 0,0:26:28.05,0:26:30.72,Default,,0,0,0,,From West, North, and South,
-Dialogue: 0,0:26:30.80,0:26:33.15,Default,,0,0,0,,Attack Jīng County from three sides.
-Dialogue: 0,0:26:33.38,0:26:35.50,Default,,0,0,0,,Leave only the East gate for passage
-Dialogue: 0,0:26:37.25,0:26:41.20,Default,,0,0,0,,then lay an ambush about \Ntwenty-five lǐ from the East gate.
+Dialogue: 0,0:26:28.05,0:26:30.72,Default,,0,0,0,,From west, north, and south,
+Dialogue: 0,0:26:30.80,0:26:33.15,Default,,0,0,0,,attack Jīng County from three sides.
+Dialogue: 0,0:26:33.38,0:26:35.50,Default,,0,0,0,,Leave only the east gate for passage
+Dialogue: 0,0:26:37.25,0:26:41.20,Default,,0,0,0,,then lay an ambush about \Ntwenty-five {\i1}lǐ{\i0} from the east gate.
 Dialogue: 0,0:26:41.56,0:26:46.09,Default,,0,0,0,,Tàishǐ Cí will be there, exhausted, and ripe for capture!
 Dialogue: 0,0:26:50.43,0:26:51.48,Default,,0,0,0,,A good plan!
 Dialogue: 0,0:26:51.97,0:26:52.43,Default,,0,0,0,,Zhōu Tài!
@@ -313,7 +313,7 @@ Dialogue: 0,0:30:58.52,0:31:02.00,Default,,0,0,0,,My apologies for the discourte
 Dialogue: 0,0:31:10.75,0:31:11.25,Default,,0,0,0,,Please.
 Dialogue: 0,0:31:21.04,0:31:25.24,Default,,0,0,0,,I've longed to have your cooperation\N like good rain after a drought.
 Dialogue: 0,0:31:26.91,0:31:29.45,Default,,0,0,0,,I know you're a true fighter.
-Dialogue: 0,0:31:30.15,0:31:35.00,Default,,0,0,0,,Liú Yáo is a pissant, unable to make use of your skills, thus he was defeated!
+Dialogue: 0,0:31:30.15,0:31:35.00,Default,,0,0,0,,Liú Yáo is a pissant unable to make use of your skills, thus he was defeated!
 Dialogue: 0,0:31:36.00,0:31:38.78,Default,,0,0,0,,It must have been suffocating for you, great general.
 Dialogue: 0,0:31:41.13,0:31:44.17,Default,,0,0,0,,If my subordinates have offended you,
 Dialogue: 0,0:31:44.30,0:31:47.10,Default,,0,0,0,,I would ask for you to forgive me as their superior.
@@ -358,7 +358,7 @@ Dialogue: 0,0:35:40.23,0:35:41.04,Default,,0,0,0,,What is this?
 Dialogue: 0,0:35:43.24,0:35:46.58,Default,,0,0,0,,Sire, of old, when Shāng Yāng was enacting his reforms,
 Dialogue: 0,0:35:46.58,0:35:48.44,Default,,0,0,0,,he put a log as a symbol of trust.
 Dialogue: 0,0:35:45.22,0:35:58.04,Note (Potential style?),,0,0,0,,Note: Shāng Yāng was a Legalist scholar during the Warring States era \Nwho reformed and strengthened the state of Qin.
-Dialogue: 0,0:35:48.58,0:35:53.64,Default,,0,0,0,,We are following his example,\N and set up this pole as a symbol of trust too
+Dialogue: 0,0:35:48.58,0:35:53.64,Default,,0,0,0,,We followed his example \Nand set up this pole as a symbol of trust, too,
 Dialogue: 0,0:35:53.78,0:35:59.25,Default,,0,0,0,,to indicate if it's noon,\Nand see if Tàishǐ Cí would come!
 Dialogue: 0,0:36:07.99,0:36:11.12,Default,,0,0,0,,{\bord12\pos(640,660)}To build a legacy, you must first employ the able.
 Dialogue: 0,0:36:11.55,0:36:14.02,Default,,0,0,0,,{\bord12\pos(640,660)}To employ the able, you must never suspect them.
@@ -371,8 +371,8 @@ Dialogue: 0,0:36:40.25,0:36:43.72,Default,,0,0,0,,{\bord12\pos(640,660)}Today, t
 Dialogue: 0,0:36:44.52,0:36:47.88,Default,,0,0,0,,{\bord12\pos(640,660)}I, Sūn Cè, employ people, not suspect them!
 Dialogue: 0,0:36:48.85,0:36:51.32,Default,,0,0,0,,{\bord12\pos(640,660)}I believe Zǐyì is a man of his words!
 Dialogue: 0,0:36:52.55,0:36:54.80,Default,,0,0,0,,{\bord12\pos(640,660)}By noon, Zǐyì will return!
-Dialogue: 0,0:37:20.33,0:37:23.83,Default,,0,0,0,,My Lord! It's almost noon already, \Nand Tàishǐ Cí hasn't come!
-Dialogue: 0,0:37:24.84,0:37:26.45,Default,,0,0,0,,You  shouldn't have let him go!
+Dialogue: 0,0:37:20.33,0:37:23.83,Default,,0,0,0,,My lord! It's almost noon already, \Nand Tàishǐ Cí hasn't come!
+Dialogue: 0,0:37:24.84,0:37:26.45,Default,,0,0,0,,You shouldn't have let him go!
 Dialogue: 0,0:37:28.45,0:37:30.75,Default,,0,0,0,,You shouldn't have trusted that knave!
 Dialogue: 0,0:37:30.81,0:37:33.95,Default,,0,0,0,,It is already noon, yet there is no sight of him!
 Dialogue: 0,0:37:34.38,0:37:35.75,Default,,0,0,0,,He fled!

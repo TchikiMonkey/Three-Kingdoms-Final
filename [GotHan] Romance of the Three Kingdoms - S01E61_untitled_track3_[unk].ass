@@ -35,8 +35,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.78,0:00:05.70,Episode Title,,0,0,0,,{\fade(255,0,255,0,450,4580,4900)\pos(653.755,324.455)}Episode 61
 Dialogue: 0,0:00:00.78,0:00:05.70,Episode Title,,0,0,0,,{\fade(255,0,255,0,450,4580,4900)\pos(653.755,524.455)}Cáo Pī Usurps the Hàn
-Dialogue: 0,0:00:15.20,0:00:20.32,Thinking,,0,0,0,,After Prince Cao Cao of Wei died, \NHua Xin and other officials
-Dialogue: 0,0:00:20.32,0:00:27.66,Thinking,,0,0,0,,made Cao Pi the new Prince of Wei,\N Chancellor, and Governor of Ji Province.
+Dialogue: 0,0:00:15.20,0:00:20.32,Thinking,,0,0,0,,After King Cao Cao of Wei died, \NHua Xin and other officials
+Dialogue: 0,0:00:20.32,0:00:27.66,Thinking,,0,0,0,,made Cao Pi the new King of Wei,\N Chancellor, and Governor of Ji Province.
 Dialogue: 0,0:00:29.90,0:00:31.94,Style Names,,0,0,0,,{\fade(255,0,255,0,500,1700,2020)\pos(342,514)}Cáo Pī\NStyled: Zǐhuán
 Dialogue: 0,0:00:33.94,0:00:36.49,Default,,0,0,0,,Congratulations, Your Highness!
 Dialogue: 0,0:00:36.49,0:00:38.56,Default,,0,0,0,,Gentlemen, please! Please!
@@ -54,9 +54,9 @@ Dialogue: 0,0:01:20.56,0:01:24.93,Default,,0,0,0,,Your Highness, this crisis can
 Dialogue: 0,0:01:27.83,0:01:30.36,Default,,0,0,0,,Sir, please go immediately.
 Dialogue: 0,0:01:30.37,0:01:32.77,Default,,0,0,0,,Your Highness, please rest assured.
 Dialogue: 0,0:01:43.52,0:01:45.85,Default,,0,0,0,,I, Jia Kui, welcome the Marquis of Yanling.
-Dialogue: 0,0:01:46.59,0:01:49.05,Default,,0,0,0,,Where is the late Prince's jade seal?
+Dialogue: 0,0:01:46.59,0:01:49.05,Default,,0,0,0,,Where is the late King's jade seal?
 Dialogue: 0,0:01:49.38,0:01:52.19,Default,,0,0,0,,A home has an eldest son; \Na state has an heir.
-Dialogue: 0,0:01:52.19,0:01:56.62,Default,,0,0,0,,The late Prince's jade seal is not for you to inquire about.
+Dialogue: 0,0:01:52.19,0:01:56.62,Default,,0,0,0,,The late King's jade seal is not for you to inquire about.
 Dialogue: 0,0:01:54.58,0:01:56.58,Style Names,,0,0,0,,{\fade(255,0,255,0,400,1420,1980)\pos(950.4,464)}Cáo Zhāng\NStyled: Zǐwén
 Dialogue: 0,0:02:05.84,0:02:06.67,Default,,0,0,0,,Enter the city!
 Dialogue: 0,0:02:07.12,0:02:09.31,Default,,0,0,0,,-Welcome, Your Highness!\N-Your Highness!
@@ -79,10 +79,10 @@ Dialogue: 0,0:03:18.58,0:03:21.40,Thinking,,0,0,0,,Cao Zhi, the Marquis of Linzi
 Dialogue: 0,0:03:21.40,0:03:25.44,Thinking,,0,0,0,,This infuriated Cao Pi, who sent an envoy to condemn him.
 Dialogue: 0,0:03:29.39,0:03:31.05,Default,,0,0,0,,Come, drink!
 Dialogue: 0,0:03:31.33,0:03:32.15,Default,,0,0,0,,Your Lordship!
-Dialogue: 0,0:03:33.11,0:03:34.96,Default,,0,0,0,,The envoy of the Prince of Wei is here!
+Dialogue: 0,0:03:33.11,0:03:34.96,Default,,0,0,0,,The envoy of the King of Wei is here!
 Dialogue: 0,0:03:38.56,0:03:39.06,Default,,0,0,0,,Drink!
 Dialogue: 0,0:03:39.86,0:03:41.73,Default,,0,0,0,,Come! Drink!
-Dialogue: 0,0:03:46.67,0:03:49.00,Default,,0,0,0,,Your Lordship, the Prince of Wei...
+Dialogue: 0,0:03:46.67,0:03:49.00,Default,,0,0,0,,Your Lordship, the King of Wei...
 Dialogue: 0,0:03:49.37,0:03:53.08,Default,,0,0,0,,I was born in a troubled world and grew up in the army.
 Dialogue: 0,0:03:50.30,0:03:56.86,Style Names,,0,0,0,,{\fade(255,0,255,0,400,6180,6540)\pos(308.8,484.8)}Cáo Zhí\NStyled: Zǐjiàn
 Dialogue: 0,0:04:01.84,0:04:11.20,Note (Potential style?),,0,0,0,,Excerpt from {\i1}White Horse{\i0} (白馬篇), a historical poem by Cao Zhi.
@@ -94,12 +94,12 @@ Dialogue: 0,0:04:39.84,0:04:42.85,Default,,0,0,0,,Excellent!
 Dialogue: 0,0:04:43.19,0:05:02.89,Thinking,,0,0,0,,{\bord14}\NFor he is in the annals of the bold; \NFor no selfish whims can him sway or hold
 Dialogue: 0,0:05:02.89,0:05:19.65,Thinking,,0,0,0,,{\bord14}His life he gives to relieve the nation;\Nand look on death akin a journey home.
 Dialogue: 0,0:05:34.59,0:05:38.50,Default,,0,0,0,,Your Lordship!
-Dialogue: 0,0:05:39.33,0:05:41.67,Default,,0,0,0,,The Prince of Wei is admonishing you!
+Dialogue: 0,0:05:39.33,0:05:41.67,Default,,0,0,0,,The King of Wei is admonishing you!
 Dialogue: 0,0:05:41.67,0:05:44.88,Default,,0,0,0,,After your father's death, why did you not go to his funeral?
-Dialogue: 0,0:05:47.42,0:05:51.81,Default,,0,0,0,,The late Prince intended to pass the throne to my master,
+Dialogue: 0,0:05:47.42,0:05:51.81,Default,,0,0,0,,The late King intended to pass the throne to my master,
 Dialogue: 0,0:05:49.34,0:05:51.42,Style Names,,0,0,0,,{\fade(255,0,255,0,400,1700,2060)\pos(316.8,486.4)}Dīng Yí\NStyled: Zhènglǐ
 Dialogue: 0,0:05:51.81,0:05:54.48,Default,,0,0,0,,but was hindered by slandering officials!
-Dialogue: 0,0:05:54.48,0:05:58.97,Default,,0,0,0,,Admonishing kin just after the passing of the late Prince...
+Dialogue: 0,0:05:54.48,0:05:58.97,Default,,0,0,0,,Admonishing kin just after the passing of the late King...
 Dialogue: 0,0:05:58.97,0:06:02.05,Default,,0,0,0,,Where is the reason in that?!
 Dialogue: 0,0:06:02.63,0:06:05.91,Default,,0,0,0,,My master is gifted beyond measure. \NHe should have the throne,
 Dialogue: 0,0:06:05.91,0:06:07.27,Default,,0,0,0,,and yet he does not.
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:10.81,0:09:14.29,Default,,0,0,0,,This can stop the mouths of th
 Dialogue: 0,0:09:24.26,0:09:28.18,Default,,0,0,0,,I, Cao Zhi, have come to apologize for my crimes.
 Dialogue: 0,0:09:31.52,0:09:38.10,Default,,0,0,0,,You and I are brothers in affection, but lord and subject in justice.
 Dialogue: 0,0:09:38.10,0:09:43.05,Default,,0,0,0,,How dare you be arrogant and unreasonable?
-Dialogue: 0,0:09:50.04,0:09:56.88,Default,,0,0,0,,When the former Prince was alive, you frequently boasted with your poetry and writing.
+Dialogue: 0,0:09:50.04,0:09:56.88,Default,,0,0,0,,When the former King was alive, you frequently boasted with your poetry and writing.
 Dialogue: 0,0:09:56.88,0:10:00.29,Default,,0,0,0,,I suspect someone else wrote for you.
 Dialogue: 0,0:10:00.29,0:10:04.45,Default,,0,0,0,,Today, I demand that you think of a poem in seven steps.
 Dialogue: 0,0:10:04.45,0:10:07.96,Default,,0,0,0,,If you can do this, your life shall be spared.
@@ -186,12 +186,12 @@ Dialogue: 0,0:13:46.58,0:13:54.36,Thinking,,0,0,0,,{\bord14\pos(640,660)}Beansta
 Dialogue: 0,0:13:54.36,0:14:02.07,Thinking,,0,0,0,,{\bord14\pos(640,660)}From that pot the beans would tear;
 Dialogue: 0,0:14:02.07,0:14:08.74,Thinking,,0,0,0,,{\bord14\pos(640,660)}"Born we are from selfsame root,"
 Dialogue: 0,0:14:08.74,0:14:16.48,Thinking,,0,0,0,,{\bord14\pos(640,660)}"Why wish to see the other sear?”
-Dialogue: 0,0:14:35.39,0:14:37.70,Default,,0,0,0,,Since the Prince of Wei ascended to the throne,
+Dialogue: 0,0:14:35.39,0:14:37.70,Default,,0,0,0,,Since the King of Wei ascended to the throne,
 Dialogue: 0,0:14:37.70,0:14:42.63,Default,,0,0,0,,his virtue has spread far and wide, \Nsurpassing the past and exceeding the present.
 Dialogue: 0,0:14:42.63,0:14:44.96,Default,,0,0,0,,Not even Tang and Yu could compare to him!
 Dialogue: 0,0:14:44.96,0:14:49.88,Default,,0,0,0,,The court has come to an agreement, the fate of the Han Dynasty is sealed.
 Dialogue: 0,0:14:49.88,0:14:52.64,Default,,0,0,0,,We hope you will emulate the way of Yao and Shun
-Dialogue: 0,0:14:52.64,0:14:57.50,Default,,0,0,0,,by abdicating your throne and domain in favor of the Prince of Wei.
+Dialogue: 0,0:14:52.64,0:14:57.50,Default,,0,0,0,,by abdicating your throne and domain in favor of the King of Wei.
 Dialogue: 0,0:14:57.50,0:15:03.03,Default,,0,0,0,,This way, the will of Heaven above and\N the will of people below shall be satiated.
 Dialogue: 0,0:15:03.03,0:15:07.81,Default,,0,0,0,,Your Majesty can also enjoy the fortune of leisure.
 Dialogue: 0,0:15:07.81,0:15:13.28,Default,,0,0,0,,Your ancestors shall be fortunate, all those alive shall be fortunate.
@@ -207,7 +207,7 @@ Dialogue: 0,0:16:12.91,0:16:18.30,Default,,0,0,0,,Though We are not able, We hav
 Dialogue: 0,0:16:18.30,0:16:24.59,Default,,0,0,0,,How could We dare abandon Our ancestors' foundations?
 Dialogue: 0,0:16:36.74,0:16:45.21,Default,,0,0,0,,You need to discuss this matter again! Again!
 Dialogue: 0,0:16:47.49,0:16:52.40,Default,,0,0,0,,If Your Majesty is unaware of the will of Heaven, you may ask these two men.
-Dialogue: 0,0:16:56.05,0:16:59.16,Default,,0,0,0,,When the Prince of Wei came to power, a {\i1}Qilin{\i0} was born,
+Dialogue: 0,0:16:56.05,0:16:59.16,Default,,0,0,0,,When the King of Wei came to power, a {\i1}Qilin{\i0} was born,
 Dialogue: 0,0:16:59.16,0:17:01.64,Default,,0,0,0,,a phoenix came, and a golden dragon appeared.
 Dialogue: 0,0:17:01.64,0:17:06.80,Default,,0,0,0,,These are auspicious signs from Heaven meaning that Wei shall succeed Han.
 Dialogue: 0,0:17:07.52,0:17:10.18,Default,,0,0,0,,I am in charge of observing the Heavens.
@@ -266,7 +266,7 @@ Dialogue: 0,0:20:47.94,0:20:51.84,Default,,0,0,0,,It is not us being disloyal!
 Dialogue: 0,0:20:57.18,0:20:59.11,Default,,0,0,0,,Who dares to murder me?
 Dialogue: 0,0:21:01.21,0:21:05.59,Default,,0,0,0,,Everyone in the world knows that you lack the blessings of being a ruler,
 Dialogue: 0,0:21:05.59,0:21:07.39,Default,,0,0,0,,hence the rampant chaos!
-Dialogue: 0,0:21:07.39,0:21:08.95,Default,,0,0,0,,If not for the Prince of Wei,
+Dialogue: 0,0:21:07.39,0:21:08.95,Default,,0,0,0,,If not for the King of Wei,
 Dialogue: 0,0:21:08.95,0:21:12.32,Default,,0,0,0,,many would dare kill you!
 Dialogue: 0,0:21:15.45,0:21:20.32,Default,,0,0,0,,Yet, Your Majesty does not repay his kindness.
 Dialogue: 0,0:21:20.32,0:21:23.90,Default,,0,0,0,,Could it be that you want everyone to attack you?!
@@ -289,9 +289,9 @@ Dialogue: 0,0:21:59.49,0:22:02.16,Default,,0,0,0,,Traitor!
 Dialogue: 0,0:22:02.16,0:22:05.08,Default,,0,0,0,,Traitors! Craven animals, all of you!
 Dialogue: 0,0:22:12.49,0:22:15.28,Default,,0,0,0,,Are you abdicating or not? Speak!
 Dialogue: 0,0:22:15.28,0:22:19.51,Default,,0,0,0,,Speak! Speak!
-Dialogue: 0,0:22:28.03,0:22:33.46,Default,,0,0,0,,I wish to abdicate in favor of the Prince of Wei.
+Dialogue: 0,0:22:28.03,0:22:33.46,Default,,0,0,0,,I wish to abdicate in favor of the King of Wei.
 Dialogue: 0,0:22:34.10,0:22:37.27,Default,,0,0,0,,Good, good.
-Dialogue: 0,0:22:40.60,0:22:43.71,Default,,0,0,0,,The Prince of Wei will not fail Your Majesty.
+Dialogue: 0,0:22:40.60,0:22:43.71,Default,,0,0,0,,The King of Wei will not fail Your Majesty.
 Dialogue: 0,0:22:43.94,0:22:49.08,Default,,0,0,0,,Issue an edict now to reassure the people.
 Dialogue: 0,0:22:54.26,0:23:02.00,Default,,0,0,0,,I thank that my last gasp is spared,
 Dialogue: 0,0:23:04.23,0:23:11.49,Default,,0,0,0,,that I may live out my life in peace!
@@ -303,7 +303,7 @@ Dialogue: 0,0:23:23.50,0:23:26.32,Default,,0,0,0,,{\bord14}The Sage has saith: W
 Dialogue: 0,0:23:26.32,0:23:28.32,Default,,0,0,0,,{\bord14}The selfless Emperor Yao chose not his sons,
 Dialogue: 0,0:23:28.32,0:23:30.12,Default,,0,0,0,,{\bord14\pos(640,660)}thus his name has passed down in perpetuity.
 Dialogue: 0,0:23:30.12,0:23:33.52,Default,,0,0,0,,{\bord14}We have long envied and admired the way of Yao, \Nwhich We now choose to follow
-Dialogue: 0,0:23:33.56,0:23:37.04,Default,,0,0,0,,{\bord14}by abdicating the throne to our chancellor, the Prince of Wei.
+Dialogue: 0,0:23:33.56,0:23:37.04,Default,,0,0,0,,{\bord14}by abdicating the throne to our chancellor, the King of Wei.
 Dialogue: 0,0:23:42.80,0:23:44.13,Default,,0,0,0,,Your Highness.
 Dialogue: 0,0:23:45.67,0:23:50.66,Style Names,,0,0,0,,{\fade(255,0,255,0,400,4730,4970)\pos(311.2,472)}Sīmǎ Yí\NStyled: Zhòngdá
 Dialogue: 0,0:23:45.90,0:23:46.93,Default,,0,0,0,,Do not.
@@ -316,11 +316,11 @@ Dialogue: 0,0:24:09.30,0:24:10.32,Default,,0,0,0,,Here!
 Dialogue: 0,0:24:10.32,0:24:13.63,Default,,0,0,0,,Have Wang Lang write a petition for me, saying I lack virtue
 Dialogue: 0,0:24:13.63,0:24:15.57,Default,,0,0,0,,and ask to find a worthy man to succeed.
 Dialogue: 0,0:24:15.57,0:24:16.02,Default,,0,0,0,,Yes sir!
-Dialogue: 0,0:24:17.16,0:24:20.34,Default,,0,0,0,,The Prince of Wei refused the throne.
+Dialogue: 0,0:24:17.16,0:24:20.34,Default,,0,0,0,,The King of Wei refused the throne.
 Dialogue: 0,0:24:20.34,0:24:22.29,Default,,0,0,0,,What can we do?
-Dialogue: 0,0:24:23.27,0:24:28.53,Default,,0,0,0,,When Prince Wu of Wei accepted the title,
+Dialogue: 0,0:24:23.27,0:24:28.53,Default,,0,0,0,,When King Wu of Wei accepted the title,
 Dialogue: 0,0:24:28.53,0:24:33.56,Default,,0,0,0,,he declined thrice before accepting once an edict prohibited such acts.
-Dialogue: 0,0:24:33.56,0:24:40.75,Default,,0,0,0,,Today, you can issue the edict again. \NThe Prince of Wei will naturally accept it.
+Dialogue: 0,0:24:33.56,0:24:40.75,Default,,0,0,0,,Today, you can issue the edict again. \NThe King of Wei will naturally accept it.
 Dialogue: 0,0:24:43.49,0:24:48.27,Default,,0,0,0,,If that is the case, We shall issue another edict.
 Dialogue: 0,0:24:49.14,0:24:53.60,Default,,0,0,0,,Your Majesty is wise in this matter.
 Dialogue: 0,0:25:05.58,0:25:07.48,Default,,0,0,0,,Greetings, Your Majesty!
@@ -344,7 +344,7 @@ Dialogue: 0,0:26:58.31,0:27:00.60,Default,,0,0,0,,The Edict of Abdication!
 Dialogue: 0,0:27:09.04,0:27:13.31,Default,,0,0,0,,{\bord14\pos(640,660)}The way of Han is failing, with the world losing order.
 Dialogue: 0,0:27:13.31,0:27:16.99,Default,,0,0,0,,{\bord14\pos(640,660)}When I inherited it, great chaos was rampant.
 Dialogue: 0,0:27:16.99,0:27:20.50,Default,,0,0,0,,{\bord14\pos(640,660)}Warlords ran amok and the realm was in turmoil.
-Dialogue: 0,0:27:20.50,0:27:24.40,Default,,0,0,0,,{\bord14}Due to the divine strength of Prince Wu of Wei, \Nthe land was saved from calamity.
+Dialogue: 0,0:27:20.50,0:27:24.40,Default,,0,0,0,,{\bord14}Due to the divine strength of King Wu of Wei, \Nthe land was saved from calamity.
 Dialogue: 0,0:27:20.50,0:27:22.44,Note (Potential style?),,0,0,0,,Note: referring to Cao Cao.
 Dialogue: 0,0:27:24.40,0:27:27.68,Default,,0,0,0,,{\bord14}Many regions were pacified \Nand my ancestral temples were protected.
 Dialogue: 0,0:27:27.68,0:27:29.38,Default,,0,0,0,,{\bord14\pos(640,660)}How could I have been capable?
@@ -362,7 +362,7 @@ Dialogue: 0,0:29:14.06,0:29:16.28,Default,,0,0,0,,The entire realm shall be pard
 Dialogue: 0,0:29:17.10,0:29:22.06,Default,,0,0,0,,The first year of the Yankang era shall\N be changed to the first year of the Huangchu era.
 Dialogue: 0,0:29:17.10,0:29:22.06,Note (Potential style?),,0,0,0,,Huángchū (黃初)
 Dialogue: 0,0:29:22.06,0:29:25.71,Default,,0,0,0,,The name of the empire shall now be "Great Wei"!
-Dialogue: 0,0:29:25.71,0:29:30.15,Default,,0,0,0,,The former Prince shall be known as "Tàizǔ Emperor Wu"!
+Dialogue: 0,0:29:25.71,0:29:30.15,Default,,0,0,0,,The former King shall be known as "Tàizǔ Emperor Wu"!
 Dialogue: 0,0:29:25.71,0:29:30.15,Note (Potential style?),,0,0,0,,Note: Tàizǔ (太祖) = (Great) Ancestor
 Dialogue: 0,0:29:30.15,0:29:36.95,Default,,0,0,0,,Long live!
 Dialogue: 0,0:29:39.19,0:29:45.60,Default,,0,0,0,,Your Majesty! The sky cannot have two suns; the people cannot have two monarchs.
@@ -468,7 +468,7 @@ Dialogue: 0,0:39:48.45,0:39:51.42,Default,,0,0,0,,Dear liegeman, why are you aga
 Dialogue: 0,0:39:52.31,0:39:54.85,Default,,0,0,0,,The enmity against the traitors of Han is public,
 Dialogue: 0,0:39:54.85,0:39:56.93,Default,,0,0,0,,but the enmity for brothers is personal.
 Dialogue: 0,0:39:57.81,0:40:00.95,Default,,0,0,0,,I hope that Your Majesty will prioritize the empire.
-Dialogue: 0,0:40:00.95,0:40:08.98,Default,,0,0,0,,If we cannot avenge my younger brother,\N then what value do thousands of miles have?
+Dialogue: 0,0:40:00.95,0:40:08.98,Default,,0,0,0,,If we cannot avenge my younger brother,\N then what value do thousands of {\i1}li{\i0} have?
 Dialogue: 0,0:40:09.30,0:40:10.00,Default,,0,0,0,,That...
 Dialogue: 0,0:40:13.79,0:40:20.26,Default,,0,0,0,,Your Majesty, please ruminate over\N what Zilong said before taking action!
 Dialogue: 0,0:40:20.26,0:40:21.98,Default,,0,0,0,,My mind is set.

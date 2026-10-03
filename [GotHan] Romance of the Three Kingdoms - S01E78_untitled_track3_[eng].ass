@@ -107,7 +107,7 @@ Dialogue: 0,0:05:36.90,0:05:39.54,Default,Zhāng Dāng,0,0,0,,All of it shall fi
 Dialogue: 0,0:06:11.46,0:06:13.86,Default,Cao Shuang,0,0,0,,{\bord11\pos(640, 660)}Bronze mirrors with designs are commonplace.
 Dialogue: 0,0:06:13.86,0:06:16.58,Default,Cao Shuang,0,0,0,,{\bord11\pos(640, 660)}Send them away to the palace.
 Dialogue: 0,0:06:16.58,0:06:20.54,Default,Zhāng Dāng,0,0,0,,{\bord11}This mirror is unique \Nwith its Zhou-era inscription.
-Dialogue: 0,0:06:20.54,0:06:23.46,Default,Zhāng Dāng,0,0,0,,{\bord11}"The 'azure canopy' created this at the submission of all barbarians;"
+Dialogue: 0,0:06:20.54,0:06:23.46,Default,Zhāng Dāng,0,0,0,,{\bord11}"The "azure canopy" created this at the submission of all barbarians;"
 Dialogue: 0,0:06:23.46,0:06:27.26,Default,Zhāng Dāng,0,0,0,,{\bord11}"many felicitations to the people of the middle-kingdom for their fortune."
 Dialogue: 0,0:06:28.54,0:06:32.58,Default,Cao Shuang,0,0,0,,The words "people of the middle-kingdom" are indeed unique!
 Dialogue: 0,0:06:35.26,0:06:37.98,Default,Cao Shuang,0,0,0,,You and the treasure-deliverers shall keep them here.
@@ -413,7 +413,7 @@ Dialogue: 0,0:32:06.66,0:32:10.70,Default,Sima Yi,0,0,0,,{\bord11}"He who has th
 Dialogue: 0,0:32:10.70,0:32:18.50,Default,Sima Yi,0,0,0,,{\bord11}How would you two win over the hearts of the people?
 Dialogue: 0,0:32:18.50,0:32:22.46,Default,Sima Zhao,0,0,0,,{\bord11}The hearts of those in the \NCentral Plains can be won over.
 Dialogue: 0,0:32:22.46,0:32:29.26,Default,Sima Shi,0,0,0,,{\bord11}We can certainly make the people of the three kingdoms act in our interest.
-Dialogue: 0,0:32:30.94,0:32:35.02,Default,Sima Yi,0,0,0,,{\bord11}If that is so, then the thousands of miles of rivers and mountains
+Dialogue: 0,0:32:30.94,0:32:35.02,Default,Sima Yi,0,0,0,,{\bord11}If that is so, then the thousands of {\i1}li{\i0} of rivers and mountains
 Dialogue: 0,0:32:35.02,0:32:37.74,Default,Sima Yi,0,0,0,,{\bord11\pos(640, 660)}will be controlled by the Sima clan!
 Dialogue: 0,0:32:39.34,0:32:40.34,Default,Sima Yi,0,0,0,,{\bord11\pos(640, 660)}Remember...
 Dialogue: 0,0:32:42.06,0:32:49.66,Default,Sima Yi,0,0,0,,{\bord11}Winning over the hearts of the people will unite the world under one banner.

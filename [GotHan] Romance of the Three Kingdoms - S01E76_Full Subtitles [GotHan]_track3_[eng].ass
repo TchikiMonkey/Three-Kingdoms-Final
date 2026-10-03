@@ -248,7 +248,7 @@ Dialogue: 0,0:21:38.00,0:21:45.31,Default,,0,0,0,,He said, Chancellor works long
 Dialogue: 0,0:22:03.48,0:22:04.83,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:22:15.84,0:22:19.72,Default,,0,0,0,,{\bord13}I, your servant, modest of merit yet held in high office,
 Dialogue: 0,0:22:19.96,0:22:24.30,Default,,0,0,0,,{\bord13}have fortified and stalled until Shu falls apart by itself, as Your Majesty has commanded.
-Dialogue: 0,0:22:24.48,0:22:30.89,Default,,0,0,0,,{\bord13}Yet now Zhuge Liang regards me as alike womenfolk and brought me a woman's dress.
+Dialogue: 0,0:22:24.48,0:22:30.89,Default,,0,0,0,,{\bord13}Yet now Zhuge Liang regards me as like womenfolk and brought me a woman's dress.
 Dialogue: 0,0:22:31.17,0:22:37.66,Default,,0,0,0,,{\bord13}Thus I wish Your Majesty may grant me a chance to war, in gratitude for the court's grace
 Dialogue: 0,0:22:37.76,0:22:40.12,Default,,0,0,0,,{\bord13\pos(640,661)}and to avenge this insult upon our army.
 Dialogue: 0,0:22:40.16,0:22:43.65,Default,,0,0,0,,{\bord13}Your servant will be deeply grateful if my wish can be taken by Your Majesty.
@@ -318,7 +318,7 @@ Dialogue: 0,0:29:34.28,0:29:35.12,Default,,0,0,0,,Boyue.
 Dialogue: 0,0:29:35.24,0:29:35.87,Default,,0,0,0,,Chancellor?
 Dialogue: 0,0:29:46.48,0:29:50.91,Default,,0,0,0,,The Eight Trigrams Formation I taught you... Have you practiced it?
 Dialogue: 0,0:29:53.24,0:29:56.41,Default,,0,0,0,,I have practiced it, yet have not learned to grasp it.
-Dialogue: 0,0:30:01.64,0:30:09.40,Default,,0,0,0,,{\bord13}This formation only appears as alike the {\i1}Bāguà{\i0}, yet can change into multitudes.
+Dialogue: 0,0:30:01.64,0:30:09.40,Default,,0,0,0,,{\bord13}This formation only appears like the {\i1}Bāguà,{\i0} yet can change into multitudes.
 Dialogue: 0,0:30:16.38,0:30:20.40,Default,,0,0,0,,{\bord13}The eight variations of its forms can add up to sixty-four in total.
 Dialogue: 0,0:30:23.52,0:30:26.81,Default,,0,0,0,,{\bord13}The formation has eight gates, with corresponding colors of flags.
 Dialogue: 0,0:30:27.72,0:30:30.75,Default,,0,0,0,,{\bord13}Each unit and flag are \Ndependent on the other.

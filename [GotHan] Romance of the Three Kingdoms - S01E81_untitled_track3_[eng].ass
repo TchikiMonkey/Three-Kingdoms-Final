@@ -177,7 +177,7 @@ Dialogue: 0,0:11:16.97,0:11:19.60,Default,Jia Chong,0,0,0,,Allow me to take my l
 Dialogue: 0,0:11:36.83,0:11:37.90,Default,Jia Chong,0,0,0,,My lord!
 Dialogue: 0,0:11:38.75,0:11:39.81,Default,Jia Chong,0,0,0,,My lord!
 Dialogue: 0,0:11:42.78,0:11:43.96,Default,Jia Chong,0,0,0,,Please look.
-Dialogue: 0,0:11:48.00,0:11:50.62,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)\i1}The Poem of the Lying Dragon{\i0}?
+Dialogue: 0,0:11:48.00,0:11:50.62,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)\i1}The Poem of the Lying Dragon?{\i0}
 Dialogue: 0,0:11:51.38,0:11:52.86,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}Who wrote this?
 Dialogue: 0,0:11:52.86,0:11:57.65,Default,Jia Chong,0,0,0,,{\bord12}Last year, a yellow dragon was\N sighted inside a well at Ningling.
 Dialogue: 0,0:11:57.65,0:11:59.89,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}Court officials petitioned to celebrate,
@@ -186,7 +186,7 @@ Dialogue: 0,0:12:03.53,0:12:05.55,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:12:05.55,0:12:09.05,Default,Jia Chong,0,0,0,,{\bord12}As this one was not in the \Nsky above or the fields below,
 Dialogue: 0,0:12:09.05,0:12:11.37,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}instead limiting its majesty inside a well,
 Dialogue: 0,0:12:11.37,0:12:13.49,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}he thought it was a sign of him being trapped.
-Dialogue: 0,0:12:13.49,0:12:16.02,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}Hence, he wrote the {\i1}The Poem of the Lying Dragon{\i0}.
+Dialogue: 0,0:12:13.49,0:12:16.02,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}Hence, he wrote the {\i1}The Poem of the Lying Dragon.{\i0}
 Dialogue: 0,0:12:16.02,0:12:20.20,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}The poem obviously references you, my lord,
 Dialogue: 0,0:12:20.20,0:12:23.07,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}so how have you not noticed this yet?
 Dialogue: 0,0:12:25.90,0:12:28.42,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}"How weak the dragon is to be trapped!"

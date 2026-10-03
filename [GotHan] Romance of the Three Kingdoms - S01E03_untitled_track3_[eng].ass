@@ -47,7 +47,7 @@ Dialogue: 0,0:00:18.14,0:00:22.12,Default,Dong Zhuo,0,0,0,,Today, you saw how he
 Dialogue: 0,0:00:22.12,0:00:25.13,Default,Dong Zhuo,0,0,0,,Such majesty is rare in a boy his age.
 Dialogue: 0,0:00:25.49,0:00:26.90,Default,Li Ru,0,0,0,,I agree with you.
 Dialogue: 0,0:00:37.67,0:00:39.10,Default,Dong Zhuo,0,0,0,,Do you think that...
-Dialogue: 0,0:00:39.10,0:00:42.74,Default,Dong Zhuo,0,0,0,,if I were to depose the Emperor \Nand enthrone the Prince of Chenliu,
+Dialogue: 0,0:00:39.10,0:00:42.74,Default,Dong Zhuo,0,0,0,,if I sought to depose the Emperor \Nand enthrone the Prince of Chenliu,
 Dialogue: 0,0:00:42.74,0:00:44.72,Default,Dong Zhuo,0,0,0,,would it be possible?
 Dialogue: 0,0:00:38.76,0:00:41.20,Style Names,,0,0,0,,{\pos(979.898,496.957)\fade(255,0,255,0,400,2080,2440)}Dǒng Zhuó\NStyled: Zhòngyǐng
 Dialogue: 0,0:00:44.72,0:00:47.52,Style Names,,0,0,0,,{\pos(276.616,499.565)\fade(255,0,255,0,420,2520,2800)}Lǐ Rú
@@ -56,7 +56,7 @@ Dialogue: 0,0:00:59.76,0:01:01.29,Default,Li Ru,0,0,0,,then you have a splendid 
 Dialogue: 0,0:01:02.77,0:01:04.93,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}I have defended Xiliang for a long time.
 Dialogue: 0,0:01:04.93,0:01:06.91,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}As for court matters,
 Dialogue: 0,0:01:07.82,0:01:12.43,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}how can I establish my authority in just a few days?
-Dialogue: 0,0:01:13.33,0:01:15.58,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}I think there is nothing better than...
+Dialogue: 0,0:01:13.33,0:01:15.58,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}I think there is nothing better than
 Dialogue: 0,0:01:15.58,0:01:19.40,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}deposing the old emperor and enthroning a new lord!
 Dialogue: 0,0:01:20.91,0:01:22.81,Default,Li Ru,0,0,0,,Deposing the old and crowning a new...
 Dialogue: 0,0:01:25.16,0:01:26.23,Default,Li Ru,0,0,0,,That would be good.
@@ -83,7 +83,7 @@ Dialogue: 0,0:02:13.08,0:02:16.97,Default,Dong Zhuo,0,0,0,,You truly are my sour
 Dialogue: 0,0:02:16.97,0:02:19.79,Default,Dong Zhuo,0,0,0,,With these two boons, why shouldn't I act now?
 Dialogue: 0,0:02:22.26,0:02:25.68,Default,Li Ru,0,0,0,,Despite these boons, there is still a problem.
 Dialogue: 0,0:02:26.98,0:02:28.74,Default,Dong Zhuo,0,0,0,,A problem?
-Dialogue: 0,0:02:28.74,0:02:29.78,Default,Li Ru,0,0,0,,Speak about it.
+Dialogue: 0,0:02:28.74,0:02:29.78,Default,Dong Zhuo,0,0,0,,Tell me more.
 Dialogue: 0,0:02:32.68,0:02:35.86,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Ever since the ascension of Emperors Zhang and He,
 Dialogue: 0,0:02:35.86,0:02:38.44,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}whoever controlled court authority,
 Dialogue: 0,0:02:38.44,0:02:43.11,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}including Dou Xian, Deng Zhi, Yan Xian, Chen Fan,
@@ -120,7 +120,7 @@ Dialogue: 0,0:05:33.14,0:05:37.00,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}E
 Dialogue: 0,0:05:37.00,0:05:39.82,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}They say that he masks treachery behind kindness,
 Dialogue: 0,0:05:39.82,0:05:42.42,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}that once he enters the palace, disaster will follow.
 Dialogue: 0,0:05:42.42,0:05:44.59,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}Their concerns are proved to be true.
-Dialogue: 0,0:05:44.59,0:05:47.84,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}I sense that Dong Zhuo harbours selfish ambitions.
+Dialogue: 0,0:05:44.59,0:05:47.84,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}I sense that Dong Zhuo harbors selfish ambitions.
 Dialogue: 0,0:05:48.02,0:05:49.80,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}We should eliminate him now!
 Dialogue: 0,0:05:53.13,0:05:55.44,Default,Bao Xin,0,0,0,,{\bord12\pos(640,660)}What do you two think? Speak up!
 Dialogue: 0,0:05:56.05,0:05:58.60,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Colonel Bao, how could I not know this?
@@ -142,7 +142,7 @@ Dialogue: 0,0:07:13.36,0:07:15.28,Style Names,,0,0,0,,{\pos(951.193,495.652)\fad
 Dialogue: 0,0:07:13.58,0:07:15.07,Thinking,Officials,0,0,0,,Why is Lord Dong...?
 Dialogue: 0,0:07:22.13,0:07:23.05,Thinking,Officials,0,0,0,,So you came too.
 Dialogue: 0,0:07:28.63,0:07:29.37,Default,Cao Cao,0,0,0,,Benchu.
-Dialogue: 0,0:07:35.88,0:07:37.20,Style Names,,0,0,0,,{\pos(945.974,498.261)\fade(255,0,255,0,500,2420,2820)}Lǚ Bù\NStyled: Fèngxiān
+Dialogue: 0,0:07:35.88,0:07:37.20,Style Names,,0,0,0,,{\pos(945.974,498.261)\fade(255,0,255,0,500,2420,2820)}Lü Bù\NStyled: Fèngxiān
 Dialogue: 0,0:07:51.80,0:07:53.24,Default,Caller,0,0,0,,Lord Dong arrives!
 Dialogue: 0,0:07:57.87,0:07:59.67,Default,Dong Zhuo,0,0,0,,I am late.
 Dialogue: 0,0:07:59.67,0:08:01.18,Default,Dong Zhuo,0,0,0,,Forgive me, forgive me.
@@ -205,7 +205,7 @@ Dialogue: 0,0:12:26.50,0:12:31.14,Default,Lu Zhi,0,0,0,,{\bord12}You, sir, are b
 Dialogue: 0,0:12:31.60,0:12:34.81,Default,Lu Zhi,0,0,0,,{\bord12\pos(640,660)}You lack the talent of Yi Yin and Huo Guang.
 Dialogue: 0,0:12:34.81,0:12:38.17,Default,Lu Zhi,0,0,0,,{\bord12\pos(640,660)}How could you speak of deposition so lightly?
 Dialogue: 0,0:12:40.62,0:12:45.02,Default,Lu Zhi,0,0,0,,{\bord12\pos(640,660)}Sages have said, "Allowed are those with Yī Yǐn's will,"
-Dialogue: 0,0:12:45.47,0:12:48.60,Default,Lu Zhi,0,0,0,,{\bord12\pos(640,660)}"usurpers are those without Yī Yǐn's will!"
+Dialogue: 0,0:12:45.47,0:12:48.60,Default,Lu Zhi,0,0,0,,{\bord12\pos(640,660)}"usurpers are those without Yī Yǐn's will"!
 Dialogue: 0,0:12:49.37,0:12:51.04,Default,Dong Zhuo,0,0,0,,I will kill you first, villain!
 Dialogue: 0,0:12:52.12,0:12:53.56,Style Names,,0,0,0,,{\pos(969.143,481.143)}Lú Zhí\NStyled: Zǐgàn
 Dialogue: 0,0:12:52.46,0:12:53.98,Default,Officials,0,0,0,,Lord Dong, calm down!
@@ -251,22 +251,22 @@ Dialogue: 0,0:16:09.77,0:16:15.90,Default,Dong Zhuo,0,0,0,,Could you convince hi
 Dialogue: 0,0:16:16.56,0:16:17.40,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}My lord.
 Dialogue: 0,0:16:18.16,0:16:20.71,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}Lü Bu is a ferocious warrior.
 Dialogue: 0,0:16:21.13,0:16:22.71,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}Among what warriors value,
-Dialogue: 0,0:16:22.71,0:16:25.97,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}they love weapons most, then horses, and armour.
+Dialogue: 0,0:16:22.71,0:16:25.97,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}they love weapons most, then horses, and armor.
 Dialogue: 0,0:16:25.97,0:16:29.63,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}These are the three things that a warrior needs to excel.
 Dialogue: 0,0:16:30.42,0:16:34.81,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}I think that if Lü Bu is content with a mere warhorse,
 Dialogue: 0,0:16:34.81,0:16:37.56,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}how could he not desire a fine steed?
 Dialogue: 0,0:16:38.88,0:16:42.08,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}Red Hare is a precious steed, but to you,
 Dialogue: 0,0:16:42.08,0:16:43.88,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}it is nothing but a pet.
 Dialogue: 0,0:16:43.88,0:16:49.88,Default,Li Su,0,0,0,,{\bord12}To generals who risk their lives on the battlefield, {\bord12}it is as important as their lives.
-Dialogue: 0,0:16:50.53,0:16:55.41,Default,Li Su,0,0,0,,{\bord12}Lü Bu already wields the Sky Piercing Halberd {\bord12}and wears an exquisite suit of armor.
+Dialogue: 0,0:16:50.53,0:16:55.41,Default,Li Su,0,0,0,,{\bord12}Lü Bu already wields the Sky-Piercing Halberd {\bord12}and wears an exquisite suit of armor.
 Dialogue: 0,0:16:55.41,0:16:56.93,Default,Li Su,0,0,0,,{\bord12}Those are no ordinary things.
 Dialogue: 0,0:16:56.93,0:16:59.52,Default,Li Su,0,0,0,,{\bord12}He only lacks a good steed he can mount.
-Dialogue: 0,0:16:59.90,0:17:03.18,Default,Li Su,0,0,0,,{\bord12}To give him the Red Hare \Nis like giving a tiger wings
+Dialogue: 0,0:16:59.90,0:17:03.18,Default,Li Su,0,0,0,,{\bord12}To give him the Red Hare \Nis like giving a tiger wings.
 Dialogue: 0,0:17:04.58,0:17:08.17,Default,Li Su,0,0,0,,{\bord12}My lord, if you want Lü Bu on your side, here is what I suggest:
-Dialogue: 0,0:17:08.17,0:17:13.77,Default,Li Su,0,0,0,,{\bord12}Any horse but Red Hare will not sway his heart, nor show Your Lordship's sincerity.
+Dialogue: 0,0:17:08.17,0:17:13.77,Default,Li Su,0,0,0,,{\bord12}any horse but Red Hare will not sway his heart, nor show Your Lordship's sincerity.
 Dialogue: 0,0:17:13.77,0:17:16.66,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}My lord, are you willing to give up the horse?
 Dialogue: 0,0:17:42.86,0:17:46.66,Default,Li Su,0,0,0,,{\bord12}If he accepts the horse, gift him treasures to sway him further.
-Dialogue: 0,0:17:46.66,0:17:48.86,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}I can win him over by explaining his gains.
+Dialogue: 0,0:17:46.66,0:17:48.86,Default,Li Su,0,0,0,,{\bord12\pos(640,660)}I can win him over by explaining the benefits.
 Dialogue: 0,0:17:48.86,0:17:52.83,Default,Li Su,0,0,0,,{\bord12)}I am certain Lü Bu will betray Ding Yuan, and serve you, my lord.
 Dialogue: 0,0:17:58.42,0:18:02.13,Default,Li Ru,0,0,0,,{\bord12}My lord, if you want to seize the realm, why fret over one horse?
 Dialogue: 0,0:18:16.88,0:18:18.32,Style Names,,0,0,0,,{\pos(305.321,276.522)}Lǐ Sù
@@ -287,9 +287,9 @@ Dialogue: 0,0:19:17.02,0:19:19.72,Song,,0,0,0,,{\k42}qí {\k41}jì {\k25}yǒu {\
 Dialogue: 0,0:19:19.85,0:19:22.35,Song,,0,0,0,,{\k30}bǎo{\k36}mǎ {\k35}dài {\k39}yīng{\k110}xióng
 Dialogue: 0,0:19:22.47,0:19:25.12,Song,,0,0,0,,{\k112}cháng{\k31}qū {\k23}jí {\k47}rú {\k52}diàn
 Dialogue: 0,0:19:25.20,0:19:28.92,Song,,0,0,0,,{\k39}zhēn {\k34}kān {\k34}tuō {\k18}sǐ{\k247}shēng
-Dialogue: 0,0:19:29.26,0:19:32.00,Song,,0,0,0,,{\k78}iú{\k68}xiá {\k29}jì {\k40}zhuàng{\k59}zhì
+Dialogue: 0,0:19:29.26,0:19:32.00,Song,,0,0,0,,{\k78}Liú{\k68}xiá {\k29}jì {\k40}zhuàng{\k59}zhì
 Dialogue: 0,0:19:32.06,0:19:34.62,Song,,0,0,0,,{\k37}cāng{\k31}hǎi {\k36}shū {\k40}háo{\k112}qíng
-Dialogue: 0,0:19:34.80,0:19:37.35,Song,,0,0,0,,{\k64}míng {\k34}cháo {\k55}fèn {\k36}pǐ {\k66}tí
+Dialogue: 0,0:19:34.80,0:19:37.35,Song,,0,0,0,,{\k64}míng {\k34}zhāo {\k55}fèn {\k36}sì {\k66}tí
 Dialogue: 0,0:19:37.48,0:19:40.02,Song,,0,0,0,,{\k36}dí{\k41}zhèn {\k22}lì {\k43}dà{\k112}gōng
 Dialogue: 0,0:19:40.15,0:19:42.90,Song,,0,0,0,,{\k77}liú{\k68}xiá {\k35}jì {\k37}zhuàng{\k58}zhì
 Dialogue: 0,0:19:42.90,0:19:45.50,Song,,0,0,0,,{\k41}cāng{\k34}hǎi {\k36}shū {\k34}háo{\k115}qíng
@@ -363,8 +363,8 @@ Dialogue: 0,0:23:22.69,0:23:25.04,Default,Li Su,0,0,0,,Who among the Four Seas w
 Dialogue: 0,0:23:25.04,0:23:29.56,Default,Li Su,0,0,0,,For you, seizing glory is like\N seizing something from a pocket.
 Dialogue: 0,0:23:29.56,0:23:34.64,Default,Li Su,0,0,0,,So why say that you have no other choice?
 Dialogue: 0,0:23:36.96,0:23:39.07,Default,Li Su,0,0,0,,Brother, have you not heard?
-Dialogue: 0,0:23:39.07,0:23:41.90,Default,Li Su,0,0,0,,"A fine bird chooses a tree to perch on;"
-Dialogue: 0,0:23:41.90,0:23:44.59,Default,Li Su,0,0,0,,"a virtuous subject chooses a lord to serve."
+Dialogue: 0,0:23:39.07,0:23:41.90,Default,Li Su,0,0,0,,"A fine bird chooses a strong branch to perch on;"
+Dialogue: 0,0:23:41.90,0:23:44.59,Default,Li Su,0,0,0,,"a virtuous subject chooses a worthy lord to serve."
 Dialogue: 0,0:23:48.58,0:23:52.81,Default,Li Su,0,0,0,,Nowadays, there are many heroes with great talent!
 Dialogue: 0,0:23:53.58,0:23:56.86,Default,Li Su,0,0,0,,Brother, if you continue to follow Ding Jianyang,
 Dialogue: 0,0:23:57.87,0:24:00.10,Default,Li Su,0,0,0,,how can you build a glorious career?
@@ -416,7 +416,7 @@ Dialogue: 0,0:26:59.84,0:27:03.84,Default,Li Su,0,0,0,,The Prince and Emperor ar
 Dialogue: 0,0:27:03.84,0:27:09.94,Default,Li Su,0,0,0,,If he assists the Prince in taking the throne, how can be called treacherous?
 Dialogue: 0,0:27:09.94,0:27:11.15,Default,Li Su,0,0,0,,That is the first point.
 Dialogue: 0,0:27:11.15,0:27:12.33,Default,Li Su,0,0,0,,Now for the second.
-Dialogue: 0,0:27:12.33,0:27:16.27,Default,Li Su,0,0,0,,When the late emperor reigned, he favored the Prince.
+Dialogue: 0,0:27:12.33,0:27:16.27,Default,Li Su,0,0,0,,when the late emperor reigned, he favored the Prince.
 Dialogue: 0,0:27:16.27,0:27:18.93,Default,Li Su,0,0,0,,He intended to have him succeed him.
 Dialogue: 0,0:27:18.93,0:27:21.58,Default,Li Su,0,0,0,,However, Empress He and\N He Jin chose his successor.
 Dialogue: 0,0:27:21.58,0:27:23.36,Default,Li Su,0,0,0,,This proved to be a major mistake.
@@ -429,7 +429,7 @@ Dialogue: 0,0:27:54.21,0:27:59.06,Default,Li Su,0,0,0,,Brother, you must not hes
 Dialogue: 0,0:27:59.06,0:28:00.55,Default,Li Su,0,0,0,,If I, someone without talent,
 Dialogue: 0,0:28:00.55,0:28:03.94,Default,Li Su,0,0,0,,can be Household-General \Nof the Rapid Tigers under Lord Dong,
 Dialogue: 0,0:28:03.94,0:28:06.60,Default,Li Su,0,0,0,,then you, with your great courage and skill,
-Dialogue: 0,0:28:06.60,0:28:11.54,Default,Li Su,0,0,0,,are sure to have a rise to the clouds, to greater power if you serve Lord Dong!
+Dialogue: 0,0:28:06.60,0:28:11.54,Default,Li Su,0,0,0,,are sure to rise to the clouds, to greater power if you serve Lord Dong!
 Dialogue: 0,0:28:11.54,0:28:14.09,Default,Li Su,0,0,0,,Your rewards would be beyond imagination!
 Dialogue: 0,0:28:16.01,0:28:18.37,Default,Lü Bu,0,0,0,,I want to serve him.
 Dialogue: 0,0:28:20.35,0:28:21.52,Default,Lü Bu,0,0,0,,But...
@@ -438,7 +438,7 @@ Dialogue: 0,0:28:29.60,0:28:30.56,Default,Li Su,0,0,0,,Brother.
 Dialogue: 0,0:28:32.03,0:28:33.37,Default,Li Su,0,0,0,,Please look.
 Dialogue: 0,0:28:33.37,0:28:34.25,Default,Lü Bu,0,0,0,,This is?
 Dialogue: 0,0:28:35.98,0:28:39.31,Default,Li Su,0,0,0,,Lord Dong has long admired your reputation.
-Dialogue: 0,0:28:39.31,0:28:41.80,Default,Li Su,0,0,0,,He wants to befriend with you.
+Dialogue: 0,0:28:39.31,0:28:41.80,Default,Li Su,0,0,0,,He wants to befriend you.
 Dialogue: 0,0:28:41.80,0:28:44.40,Default,Li Su,0,0,0,,This is what he specifically told me to gift to you.
 Dialogue: 0,0:28:46.42,0:28:50.28,Default,Li Su,0,0,0,,That precious Red Hare was his favorite mount.
 Dialogue: 0,0:28:51.29,0:28:54.32,Default,Lü Bu,0,0,0,,Consider it another gift from Lord Dong.
@@ -446,7 +446,7 @@ Dialogue: 0,0:29:19.20,0:29:20.66,Default,Lü Bu,0,0,0,,Lord Dong treats me...
 Dialogue: 0,0:29:22.84,0:29:24.82,Default,Lü Bu,0,0,0,,with this much kindness.
 Dialogue: 0,0:29:27.32,0:29:32.17,Default,Li Su,0,0,0,,Your great reputation has always been on his mind.
 Dialogue: 0,0:29:37.73,0:29:40.17,Default,Lü Bu,0,0,0,,Lord Dong shows me this much favor,
-Dialogue: 0,0:29:41.04,0:29:44.40,Default,Lü Bu,0,0,0,,but I am upset that I have no success.
+Dialogue: 0,0:29:41.04,0:29:44.40,Default,Lü Bu,0,0,0,,but I regret that I have done nothing in return.
 Dialogue: 0,0:29:45.16,0:29:47.18,Default,Lü Bu,0,0,0,,I have nothing to offer when I meet him!
 Dialogue: 0,0:29:47.18,0:29:53.00,Default,Li Su,0,0,0,,Brother, success is as easy as turning your hand.
 Dialogue: 0,0:29:56.04,0:29:57.86,Default,Li Su,0,0,0,,Who does Lord Dong want dead?
@@ -459,7 +459,7 @@ Dialogue: 0,0:30:43.17,0:30:44.66,Default,Lü Bu,0,0,0,,I am a strong and true m
 Dialogue: 0,0:30:45.14,0:30:46.89,Default,Lü Bu,0,0,0,,How could I be your son?
 Dialogue: 0,0:30:47.66,0:30:49.52,Default,Ding Yuan,0,0,0,,Fengxian, why have you turned on me?!
 Dialogue: 0,0:30:49.52,0:30:49.88,Default,Ding Yuan,0,0,0,,You-
-Dialogue: 0,0:31:19.23,0:31:24.26,Default,Dong Zhuo,0,0,0,,Obtaining you, general, is like a dry seedling consuming sweet dew!
+Dialogue: 0,0:31:19.23,0:31:24.26,Default,Dong Zhuo,0,0,0,,Obtaining you, general, is like a dry seedling finding sweet dew!
 Dialogue: 0,0:31:25.67,0:31:27.26,Default,Lü Bu,0,0,0,,Lord Dong, please get up!
 Dialogue: 0,0:31:27.72,0:31:29.48,Default,Lü Bu,0,0,0,,Lord Dong, please sit!
 Dialogue: 0,0:31:35.72,0:31:38.92,Default,Lü Bu,0,0,0,,I have been wandering for half of my life.
@@ -518,7 +518,7 @@ Dialogue: 0,0:36:29.63,0:36:31.58,Default,Dong Zhuo,0,0,0,,Who told you to assas
 Dialogue: 0,0:36:34.77,0:36:37.29,Default,Dong Zhuo,0,0,0,,You dare conspire against me?
 Dialogue: 0,0:36:37.76,0:36:39.60,Style Names,,0,0,0,,{\pos(328.807,477.391}Wǔ Fú\NStyled: Déyú
 Dialogue: 0,0:36:39.12,0:36:42.16,Default,Wu Fu,0,0,0,,{\bord12\pos(640,660)}You are not my lord; I am not your subject.
-Dialogue: 0,0:36:42.16,0:36:43.62,Default,Wu Fu,0,0,0,,{\bord12\pos(640,660)}Wht is there to conspire?!
+Dialogue: 0,0:36:42.16,0:36:43.62,Default,Wu Fu,0,0,0,,{\bord12\pos(640,660)}What is there to conspire?!
 Dialogue: 0,0:36:44.26,0:36:45.77,Default,Wu Fu,0,0,0,,{\bord12\pos(640,660)}Your evil reaches the very Heavens!
 Dialogue: 0,0:36:45.77,0:36:47.48,Default,Wu Fu,0,0,0,,{\bord12\pos(640,660)}Everyone wants to see you dead!
 Dialogue: 0,0:36:47.80,0:36:51.70,Default,Wu Fu,0,0,0,,{\bord12)}I regret not being able to \Ncut you apart to appease all under Heaven!
@@ -538,7 +538,7 @@ Dialogue: 0,0:38:09.09,0:38:11.47,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"ca
 Dialogue: 0,0:38:11.47,0:38:16.00,Default,Li Ru,0,0,0,,{\bord12}"The sudden death of Empress Dowager Dong has aroused public rumors."
 Dialogue: 0,0:38:16.00,0:38:19.30,Default,Li Ru,0,0,0,,{\bord12}"As for the three bonds and\N the ties of the heavens and earth,"
 Dialogue: 0,0:38:16.00,0:38:21.50,Note (Potential style?),Li Ru,0,0,0,,The three bonds consist of the lord and subject bond,\Nthe father and son bond, and the husband and wife bond.
-Dialogue: 0,0:38:19.30,0:38:21.50,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"are they not with gaps?"
+Dialogue: 0,0:38:19.30,0:38:21.50,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"have they not been violated?"
 Dialogue: 0,0:38:21.50,0:38:24.72,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"The Prince of Chenliu has wisdom and majesty."
 Dialogue: 0,0:38:24.72,0:38:27.15,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"He is lawful and respectful."
 Dialogue: 0,0:38:27.15,0:38:28.94,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"During mourning, he grieved."

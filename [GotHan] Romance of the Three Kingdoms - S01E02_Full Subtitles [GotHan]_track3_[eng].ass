@@ -50,8 +50,8 @@ Dialogue: 0,0:01:05.37,0:01:10.08,Default,Duan Gui,0,0,0,,Do you think Empress H
 Dialogue: 0,0:01:05.80,0:01:08.52,Style Names,,0,0,0,,{\pos(285.714,405.714)\fade(255,0,255,0,400,2400,2720)}Duàn Guī
 Dialogue: 0,0:01:11.02,0:01:16.34,Default,Cheng Kuang,0,0,0,,Our current plan is to eliminate He Jin. \NWhen he dies, Empress He-
 Dialogue: 0,0:01:16.34,0:01:18.89,Default,Zhang Rang,0,0,0,,How could she be where she is without us?
-Dialogue: 0,0:01:21.01,0:01:21.87,Default,Duan Gui,0,0,0,,Who is there?
-Dialogue: 0,0:01:25.68,0:01:28.69,Default,Snitch,0,0,0,,{\i1}Zhang Rang and others were plotting.\NTell the Empress Dowager now.
+Dialogue: 0,0:01:21.01,0:01:21.87,Default,Duan Gui,0,0,0,,Who's there?
+Dialogue: 0,0:01:25.68,0:01:28.69,Default,Snitch,0,0,0,,{\i1}Zhang Rang and others were plotting.\NTell the Empress Dowager.
 Dialogue: 0,0:01:29.44,0:01:29.84,Default,Snitch,0,0,0,,Go now.
 Dialogue: 0,0:01:30.44,0:01:32.32,Style Names,,0,0,0,,{\pos(338.286,358.857)\fade(255,0,255,0,400,1540,1880)}Empress Dowager Dǒng
 Dialogue: 0,0:01:30.35,0:01:35.16,Default,Empress Dowager Dong,0,0,0,,O divine spirits, please bless His Majesty for an expedient recovery.
@@ -63,7 +63,7 @@ Dialogue: 0,0:01:52.14,0:01:54.08,Default,Liu Xie,0,0,0,,I will definitely be a 
 Dialogue: 0,0:01:54.52,0:01:56.16,Default,Empress Dowager Dong,0,0,0,,O divine spirits, please bless His Majesty.
 Dialogue: 0,0:02:01.20,0:02:03.32,Style Names,,0,0,0,,{\pos(977.333,473.333)\fade(255,0,255,0,500,1780,2120)}Empress Hé
 Dialogue: 0,0:02:07.00,0:02:09.44,Style Names,,0,0,0,,{\pos(941.333,461.333)\fade(255,0,255,0,400,2050,2440)}Liú Biàn
-Dialogue: 0,0:02:22.16,0:02:24.60,Default,,0,0,0,,-My respects, Empress Dowager Dong.\N- My respects, Empress He.
+Dialogue: 0,0:02:22.16,0:02:24.60,Default,,0,0,0,,-My respects, Empress Dowager Dong.\N-My respects, Empress He.
 Dialogue: 0,0:02:26.02,0:02:26.68,Default,Empress Dowager Dong,0,0,0,,Rise.
 Dialogue: 0,0:02:28.66,0:02:29.40,Default,Empress He,0,0,0,,Rise.
 Dialogue: 0,0:02:40.72,0:02:41.69,Default,Empress Dowager Dong,0,0,0,,Grandson.
@@ -398,8 +398,8 @@ Dialogue: 0,0:31:00.50,0:31:05.81,Default,Minister,0,0,0,,Fortunately, Huangfu S
 Dialogue: 0,0:31:05.81,0:31:10.06,Default,Minister,0,0,0,,Otherwise, Zigan, how could you be here today?
 Dialogue: 0,0:31:22.79,0:31:23.97,Default,He Jin,0,0,0,,Well?
 Dialogue: 0,0:31:26.11,0:31:29.04,Default,He Jin,0,0,0,,Dong Zhuo is coming with 200,000 armored troops.
-Dialogue: 0,0:31:29.34,0:31:32.74,Default,He Jin,0,0,0,,We will purge the eunuchs as if turning our hands!
-Dialogue: 0,0:31:34.34,0:31:37.24,Default,Zheng Tai,0,0,0,,Grand General, Dong Zhuo is alike a rabid wolf!
+Dialogue: 0,0:31:29.34,0:31:32.74,Default,He Jin,0,0,0,,We will purge the eunuchs with a wave of the hand!
+Dialogue: 0,0:31:34.34,0:31:37.24,Default,Zheng Tai,0,0,0,,Grand General, Dong Zhuo is like a rabid wolf!
 Dialogue: 0,0:31:34.72,0:31:37.20,Style Names,,0,0,0,,{\pos(361.143,265.143)\fade(255,0,255,0,415,2150,2480)}Zhèng Tài
 Dialogue: 0,0:31:37.24,0:31:39.88,Default,Zheng Tai,0,0,0,,Let him in the capital, and he will eat the people.
 Dialogue: 0,0:31:40.14,0:31:44.12,Default,He Jin,0,0,0,,You are too suspicious! \NUnfit to council.
@@ -481,10 +481,10 @@ Dialogue: 0,0:37:48.87,0:37:50.74,Default,Empress He,0,0,0,,No, what are you doi
 Dialogue: 0,0:37:51.80,0:37:52.91,Default,Zhang Rang,0,0,0,,Hurry up!
 Dialogue: 0,0:37:53.40,0:37:56.85,Default,Empress He,0,0,0,,I'm not going anywhere! \NLet go of me! Someone, help me!
 Dialogue: 0,0:37:57.68,0:38:01.03,Default,Zhang Rang,0,0,0,,Quick, this way, this way! Quick!
-Dialogue: 0,0:38:05.50,0:38:06.40,Default,Cao Cao,0,0,0,,Empress Dowager?
+Dialogue: 0,0:38:05.50,0:38:06.40,Default,Cao Cao,0,0,0,,Empress Dowager!
 Dialogue: 0,0:38:08.48,0:38:09.36,Default,Cao Cao,0,0,0,,Empress Dowager?
 Dialogue: 0,0:38:10.48,0:38:11.53,Default,Cao Cao,0,0,0,,Empress Dowager.
-Dialogue: 0,0:38:12.84,0:38:13.78,Default,Cao Cao,0,0,0,,Empress Dowager.
+Dialogue: 0,0:38:12.84,0:38:13.78,Default,Cao Cao,0,0,0,,Empress Dowager?
 Dialogue: 0,0:38:16.10,0:38:17.11,Default,Cao Cao,0,0,0,,Empress Dowager!
 Dialogue: 0,0:38:36.19,0:38:38.57,Default,Cao Cao,0,0,0,,Please, Empress Dowager.
 Dialogue: 0,0:38:39.97,0:38:41.92,Default,Cao Cao,0,0,0,,We await your orders.

@@ -83,7 +83,7 @@ Dialogue: 0,0:02:15.44,0:02:17.40,Default,,0,0,0,,{\bord11\pos(640,672)}to be se
 Dialogue: 0,0:02:22.18,0:02:25.14,Style Names,,0,0,0,,{\fade(255,0,255,0,360,2545,2940)\pos(941.333,442.667)}Sūn Quán\NStyled: Zhòngmóu
 Dialogue: 0,0:02:25.05,0:02:28.48,Default,,0,0,0,,{\bord11}Marquis of Wu, \NWu and Wei have no conflict,
 Dialogue: 0,0:02:28.48,0:02:33.42,Default,,0,0,0,,{\bord11}and only the tension between us \Nhas been instigated by Liu Bei.
-Dialogue: 0,0:02:33.42,0:02:36.13,Default,,0,0,0,,{\bord11\pos(640,672)}The Prince of Wei sent me here
+Dialogue: 0,0:02:33.42,0:02:36.13,Default,,0,0,0,,{\bord11\pos(640,672)}The King of Wei sent me here
 Dialogue: 0,0:02:36.13,0:02:39.08,Default,,0,0,0,,{\bord11}to arrange an attack on\N Jing Province with you, General.
 Dialogue: 0,0:02:39.08,0:02:41.78,Default,,0,0,0,,{\bord11}He will march on\N Hanzhong and the Riverlands
 Dialogue: 0,0:02:41.78,0:02:43.86,Default,,0,0,0,,{\bord11\pos(640,672)}in order to make a pincer attack.
@@ -110,7 +110,7 @@ Dialogue: 0,0:03:59.91,0:04:03.14,Default,,0,0,0,,and sent him to Fancheng to di
 Dialogue: 0,0:04:03.14,0:04:05.76,Default,,0,0,0,,He also colluded with\N Sun Quan to gain naval support.
 Dialogue: 0,0:04:05.76,0:04:06.79,Default,,0,0,0,,They will take Jing.
 Dialogue: 0,0:04:06.79,0:04:09.05,Default,,0,0,0,,How should this be handled?
-Dialogue: 0,0:04:09.89,0:04:14.08,Default,,0,0,0,,My Lord, I expected that Cao Cao would have such a plot.
+Dialogue: 0,0:04:09.89,0:04:14.08,Default,,0,0,0,,My lord, I expected that Cao Cao would have such a plot.
 Dialogue: 0,0:04:14.08,0:04:17.79,Default,,0,0,0,,However, Wu has many strategists and Sun Quan is cautious,
 Dialogue: 0,0:04:17.79,0:04:20.80,Default,,0,0,0,,he wants Cao Cao to order \NCao Ren to raise the army first.
 Dialogue: 0,0:04:20.80,0:04:23.16,Default,,0,0,0,,What should we do in that case?
@@ -156,11 +156,11 @@ Dialogue: 0,0:07:04.04,0:07:05.66,Default,,0,0,0,,{\bord11\pos(640,672)}It will 
 Dialogue: 0,0:07:07.01,0:07:10.26,Default,,0,0,0,,We swear to follow General Pang to fight Guan Yu to the death!
 Dialogue: 0,0:07:11.17,0:07:12.74,Default,,0,0,0,,Carry the coffin and march out!
 Dialogue: 0,0:07:23.95,0:07:25.08,Default,,0,0,0,,Report!
-Dialogue: 0,0:07:29.63,0:07:32.34,Default,,0,0,0,,Orders from the Prince, Guan Yu is both wise and brave, be vigilant.
+Dialogue: 0,0:07:29.63,0:07:32.34,Default,,0,0,0,,Orders from the King, Guan Yu is both wise and brave, be vigilant.
 Dialogue: 0,0:07:32.34,0:07:35.43,Default,,0,0,0,,If you can attack, attack, \Nbut if not, then defend carefully.
 Dialogue: 0,0:07:35.43,0:07:38.13,Default,,0,0,0,,Why does his Highness\N see Guan Yu as important?
 Dialogue: 0,0:07:38.13,0:07:41.90,Default,,0,0,0,,When I advance against him,\N I will puncture his reputation!
-Dialogue: 0,0:07:43.25,0:07:46.17,Default,,0,0,0,,The words of the Prince must be obeyed.
+Dialogue: 0,0:07:43.25,0:07:46.17,Default,,0,0,0,,The words of the King must be obeyed.
 Dialogue: 0,0:07:47.78,0:07:49.54,Default,,0,0,0,,Men, beat the drums and march!
 Dialogue: 0,0:07:49.54,0:07:52.78,Default,,0,0,0,,Let us quickly advance to \NFancheng and fight Guan Yu!
 Dialogue: 0,0:07:54.22,0:07:58.10,Default,NTP,0,0,0,,General, Cao Cao has sent Yu Jin \Nwith seven columns of elite soldiers
@@ -170,14 +170,14 @@ Dialogue: 0,0:08:01.50,0:08:04.33,Default,,0,0,0,,challenging you to a fight to 
 Dialogue: 0,0:08:06.60,0:08:09.28,Default,,0,0,0,,The front army is only\N thirty {\i1}li{\i0} away from here.
 Dialogue: 0,0:08:09.28,0:08:10.50,Default,,0,0,0,,Keep scouting.
 Dialogue: 0,0:08:10.50,0:08:11.33,Default,,0,0,0,,Yes!
-Dialogue: 0,0:08:15.00,0:08:19.28,Default,,0,0,0,,By orders of the Prince of Wei, I am here to take your head.
+Dialogue: 0,0:08:15.00,0:08:19.28,Default,,0,0,0,,By orders of the King of Wei, I am here to take your head.
 Dialogue: 0,0:08:19.28,0:08:21.73,Default,,0,0,0,,If you do not believe me, \Nyour coffin is here.
 Dialogue: 0,0:08:21.73,0:08:25.08,Default,,0,0,0,,If you fear death, then submit right now!
 Dialogue: 0,0:08:28.24,0:08:31.48,Default,,0,0,0,,What ability do you, a common brute, have?
 Dialogue: 0,0:08:31.48,0:08:34.02,Default,,0,0,0,,What a pity that my \NGreen Dragon Crescent Blade
 Dialogue: 0,0:08:34.02,0:08:36.08,Default,,0,0,0,,has to cut down an\N unworthy rat like you.
 Dialogue: 0,0:09:02.68,0:09:03.76,Default,,0,0,0,,Ring the bell.
-Dialogue: 0,0:09:07.15,0:09:14.57,Default,,0,0,0,,General Yu, the Prince made you\N the main general over the seven armies.
+Dialogue: 0,0:09:07.15,0:09:14.57,Default,,0,0,0,,General Yu, the King made you\N the main general over the seven armies.
 Dialogue: 0,0:09:15.15,0:09:18.68,Default,,0,0,0,,Why are you so timid\N on the battlefield, General?
 Dialogue: 0,0:09:20.80,0:09:26.61,Default,,0,0,0,,Tomorrow, I will battle Guan Yu\N to the death. I vow not to retreat.
 Dialogue: 0,0:09:32.15,0:09:35.00,Default,NTP,0,0,0,,Pang De's skill with the glaive\N is refined and flawless.
@@ -299,7 +299,7 @@ Dialogue: 0,0:19:30.96,0:19:35.76,Default,,0,0,0,,Guan Yu, you lout, come up to 
 Dialogue: 0,0:19:35.76,0:19:36.52,Default,,0,0,0,,Loose!
 Dialogue: 0,0:19:44.59,0:19:46.62,Default,NTP,0,0,0,,General Pang, we have\N too many casualties!
 Dialogue: 0,0:19:46.62,0:19:50.65,Default,NTP,0,0,0,,With nowhere to go,\N why not surrender?
-Dialogue: 0,0:19:51.60,0:19:54.92,Default,,0,0,0,,I have received favor from the Prince!\N How can I be servile to others?
+Dialogue: 0,0:19:51.60,0:19:54.92,Default,,0,0,0,,I have received favor from the King!\N How can I be servile to others?
 Dialogue: 0,0:20:30.67,0:20:33.34,Default,,0,0,0,,{\bord11\pos(640,672)}A brave general is not afraid to die,
 Dialogue: 0,0:20:33.34,0:20:35.62,Default,,0,0,0,,{\bord11\pos(640,672)}a fighter will not sully his morals to live!
 Dialogue: 0,0:20:35.62,0:20:38.72,Default,,0,0,0,,{\bord11}I hope you will continue \Nfighting by my side!
@@ -498,7 +498,7 @@ Dialogue: 0,0:39:21.45,0:39:26.22,Default,,0,0,0,,General Lu sent me to bring pa
 Dialogue: 0,0:39:27.01,0:39:30.89,Default,,0,0,0,,I only know that Lu Xun \Nis the son-in-law of Sun Ce.
 Dialogue: 0,0:39:30.89,0:39:36.21,Default,,0,0,0,,I have not heard about any \Naccomplishments of his in the military.
 Dialogue: 0,0:39:37.54,0:39:41.69,Default,,0,0,0,,Sun Quan is shortsighted to use such a child as a general.
-Dialogue: 0,0:39:43.98,0:39:47.37,Default,,0,0,0,,General Lu has a letter for tour Lordship.
+Dialogue: 0,0:39:43.98,0:39:47.37,Default,,0,0,0,,General Lu has a letter for your Lordship.
 Dialogue: 0,0:39:47.37,0:39:49.94,Default,,0,0,0,,Firstly, it expresses\N his congratulations to you,
 Dialogue: 0,0:39:49.94,0:39:52.50,Default,,0,0,0,,and secondly, it asks\N for peace between our two realms.
 Dialogue: 0,0:40:00.70,0:40:04.30,Default,,0,0,0,,{\bord11}I, Lu Xun, respectfully present\N this letter to the Marquis of Hanshou,

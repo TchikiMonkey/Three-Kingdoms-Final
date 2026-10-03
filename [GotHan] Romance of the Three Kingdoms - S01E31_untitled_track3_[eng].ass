@@ -55,10 +55,10 @@ Dialogue: 0,0:02:02.42,0:02:10.74,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\
 Dialogue: 0,0:02:10.82,0:02:18.62,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
 Dialogue: 0,0:02:18.78,0:02:27.18,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
 Dialogue: 0,0:02:27.34,0:02:30.14,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Jiē {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
+Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Dōu {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
 Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
 Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Jiē {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
+Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
 Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}The rolling Long River flows eastward,
 Dialogue: 0,0:01:26.28,0:01:35.13,Thinking,,0,0,0,,{\bord12}the spindrifts sweeping heroes.
 Dialogue: 0,0:01:35.50,0:01:38.77,Thinking,,0,0,0,,{\bord12}Their rights and wrongs, their victories and defeats,
@@ -77,7 +77,7 @@ Dialogue: 0,0:02:45.40,0:02:49.55,Thinking,,0,0,0,,{\bord12}they merrily assembl
 Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The major and minor events of present and past
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(633.81,321.182)}Act 2
-Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(630.051,548.64)}The Battle of Red Cliff
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(630.051,548.64)}The Battle of Red Cliffs
 Dialogue: 0,0:03:15.94,0:03:23.46,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1300,4200,5100)\pos(626,339.86)}Episode 31
 Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1300,4200,5100)\pos(622.029,529.269)}Riling of Zhōu Yú
@@ -86,13 +86,13 @@ Dialogue: 0,0:03:52.31,0:03:55.45,Default,,0,0,0,,I have long heard of Zǐjìng 
 Dialogue: 0,0:03:56.08,0:03:59.72,Default,,0,0,0,,I'm honored to meet you today and wanted to ask your advice face to face.
 Dialogue: 0,0:04:00.34,0:04:03.76,Style Names,,0,0,0,,{\fade(255,0,255,0,500,3300,4000)\pos(978.081,501.867)}Zhūgě Liàng\NStyled: Kǒngmíng
 Dialogue: 0,0:04:00.85,0:04:03.92,Default,,0,0,0,,I am only of modest ability, \Nplease forgive my boorishness.
-Dialogue: 0,0:04:04.56,0:04:08.96,Default,,0,0,0,,Since you, sir, have been assisting \NLiú of Yù-Province, battling Cáo Cāo at Xinye.
+Dialogue: 0,0:04:04.56,0:04:08.96,Default,,0,0,0,,Since you, sir, have been assisting \NLiú of Yù Province, battling Cáo Cāo at Xinye.
 Dialogue: 0,0:04:05.30,0:04:08.76,Style Names,,0,0,0,,{\pos(946.24,474.389)}Sūn Quán \NStyled: Zhòngmóu
 Dialogue: 0,0:04:10.13,0:04:12.72,Default,,0,0,0,,Surely you must know of Cáo Cāo's actual strength.
 Dialogue: 0,0:04:13.27,0:04:17.37,Default,,0,0,0,,Do you not know how many troops the Cao army has altogether?
 Dialogue: 0,0:04:20.91,0:04:25.68,Default,,0,0,0,,With cavalry, infantry, and naval troops combined: more than a million.
 Dialogue: 0,0:04:33.15,0:04:35.65,Default,,0,0,0,,Are you sure it's not a trick?
-Dialogue: 0,0:04:36.79,0:04:41.22,Default,,0,0,0,,It is no trick. Cáo Cāo initially had 200,000 Qing-Province troops.
+Dialogue: 0,0:04:36.79,0:04:41.22,Default,,0,0,0,,It is no trick. Cáo Cāo initially had 200,000 Qing Province troops.
 Dialogue: 0,0:04:41.93,0:04:44.72,Default,,0,0,0,,He gained 500,000 or 600,000 by defeating Yuan Shao,
 Dialogue: 0,0:04:44.72,0:04:47.43,Default,,0,0,0,,300,000 or 400,000 \Nvia recruiting in the Central Plains,
 Dialogue: 0,0:04:47.43,0:04:50.68,Default,,0,0,0,,and 200,000 and 300,000 via surrendered soldiers from Jing Province.
@@ -111,20 +111,20 @@ Dialogue: 0,0:05:42.99,0:05:47.63,Default,,0,0,0,,War, or peace? \NWhy not, sir,
 Dialogue: 0,0:05:52.77,0:05:57.40,Default,,0,0,0,,Chaos abounds in the world, \Nand lords contest for their place,
 Dialogue: 0,0:05:57.40,0:06:01.60,Default,,0,0,0,,And today's Cáo Cāo's reputation is mighty and his strength seems invincible.
 Dialogue: 0,0:06:02.98,0:06:07.44,Default,,0,0,0,,Although Lord Líu Bèi continues to struggle, he's been defeated repeatedly.
-Dialogue: 0,0:06:09.88,0:06:12.92,Default,,0,0,0,,I would suggest the General to measure first ,
-Dialogue: 0,0:06:12.99,0:06:16.25,Default,NTP,0,0,0,,If with the peoples of Wú and Yue, you can contend with Cáo Cāo ,
+Dialogue: 0,0:06:09.88,0:06:12.92,Default,,0,0,0,,I would suggest the General to measure first,
+Dialogue: 0,0:06:12.99,0:06:16.25,Default,NTP,0,0,0,,If with the peoples of Wú and Yue, you can contend with Cáo Cāo,
 Dialogue: 0,0:06:16.25,0:06:18.71,Default,NTP,0,0,0,,then might as well break off ties now.
-Dialogue: 0,0:06:20.36,0:06:22.64,Default,NTP,0,0,0,,If you feel your foundations are weak ,
+Dialogue: 0,0:06:20.36,0:06:22.64,Default,NTP,0,0,0,,If you feel your foundations are weak,
 Dialogue: 0,0:06:22.64,0:06:26.98,Default,NTP,0,0,0,,Why not kneel to his rule and avoid slaughter?
 Dialogue: 0,0:06:30.90,0:06:33.54,Default,,0,0,0,,This morning, I said this to the men of Jiangdong.
 Dialogue: 0,0:06:33.94,0:06:36.64,Style Names,,0,0,0,,{\pos(325.333,485.333)}Zhāng Zhāo\NStyled: Zǐbù
 Dialogue: 0,0:06:34.27,0:06:37.24,Default,,0,0,0,,Everyone seems quite willing to surrender to Cáo Cāo,
 Dialogue: 0,0:06:40.18,0:06:46.75,Default,,0,0,0,,General, why not follow Heaven's will and the people's wishes, and seek peace and ease?
 Dialogue: 0,0:06:59.37,0:07:02.86,Default,,0,0,0,,If it is indeed as you say, why does Líu Xuande not surrender?
-Dialogue: 0,0:07:09.22,0:07:11.08,Default,NTP,0,0,0,,In history, when Qí-State's Tían Hēng ,
-Dialogue: 0,0:07:09.31,0:07:17.48,Note (Potential style?),NTP,0,0,0,,Note: Tían Hēng was one of many leaders of the rebellions against the late \NQin Dynasty in 209-207 BCE, and was a member of the Qí-State's royal family.
+Dialogue: 0,0:07:09.22,0:07:11.08,Default,NTP,0,0,0,,In history, when Qí-State's Tían Hēng,
+Dialogue: 0,0:07:09.31,0:07:17.48,Note (Potential style?),NTP,0,0,0,,Note: Tían Hēng was one of many leaders of the rebellions against the late \NQin Dynasty in 209-207 BCE, and was a member of the Qí State's royal family.
 Dialogue: 0,0:07:11.08,0:07:14.64,Default,NTP,0,0,0,,led five hundred warriors to an island, and swore never to surrender,
-Dialogue: 0,0:07:15.31,0:07:17.88,Default,,0,0,0,,All five hundred heroically kept their oaths.
+Dialogue: 0,0:07:15.31,0:07:17.88,Default,,0,0,0,,all five hundred heroically kept their oaths.
 Dialogue: 0,0:07:18.22,0:07:21.02,Default,,0,0,0,,The Imperial Uncle Líu is of imperial lineage!
 Dialogue: 0,0:07:21.12,0:07:26.12,Default,,0,0,0,,His talent is unparalleled, he is admired by all. If he is defeated, then it is the will of Heaven.
 Dialogue: 0,0:07:27.00,0:07:29.18,Default,NTP,0,0,0,,Rather be as Tían Hēng and break like jade,
@@ -147,46 +147,46 @@ Dialogue: 0,0:09:02.65,0:09:06.42,Default,,0,0,0,,It seems that Kǒngmíng alrea
 Dialogue: 0,0:09:07.23,0:09:11.00,Default,,0,0,0,,He would not say this lightly, so my lord, why not seek to learn this from him?
 Dialogue: 0,0:09:16.14,0:09:20.36,Default,,0,0,0,,So Kǒngmíng already has a strategy, \Nand purposefully used wordplay to goad me?
 Dialogue: 0,0:09:28.91,0:09:31.84,Default,,0,0,0,,I was shallow-minded, and nearly put great matters at risk.
-Dialogue: 0,0:09:34.62,0:09:36.61,Default,,0,0,0,,Let us go!  My lord, please.
-Dialogue: 0,0:09:37.86,0:09:38.99,Default,,0,0,0,,Sir Sleeping Dragon ,
+Dialogue: 0,0:09:34.62,0:09:36.61,Default,,0,0,0,,Let us go! My lord, please.
+Dialogue: 0,0:09:37.86,0:09:38.99,Default,,0,0,0,,Sir Sleeping Dragon,
 Dialogue: 0,0:09:39.09,0:09:42.69,Default,,0,0,0,,My words were offensive, may the general please forgive me.
-Dialogue: 0,0:09:49.17,0:09:50.36,Default,,0,0,0,,Servants!  Here!
+Dialogue: 0,0:09:49.17,0:09:50.36,Default,,0,0,0,,Servants! Here!
 Dialogue: 0,0:09:50.62,0:09:53.22,Default,,0,0,0,,Prepare a banquet in the rear hall, to host the Sleeping Dragon.
 Dialogue: 0,0:09:53.27,0:09:55.70,Default,,0,0,0,,-Yes sir!\N-Sir, please.
 Dialogue: 0,0:09:56.18,0:09:57.57,Default,,0,0,0,,Please
 Dialogue: 0,0:11:15.29,0:11:18.79,Default,,0,0,0,,Oh, does sir also enjoy listening to music?
 Dialogue: 0,0:11:22.03,0:11:24.53,Default,,0,0,0,,Sir Sleeping Dragon is talented in old musics.
-Dialogue: 0,0:11:25.94,0:11:29.60,Default,,0,0,0,,When in Longzhong, he was skilled in playing the {\i1}Liángfùyín{\i0}.
-Dialogue: 0,0:11:29.90,0:11:32.59,Default,,0,0,0,,Ah no, I merely enjoy music.
+Dialogue: 0,0:11:25.94,0:11:29.60,Default,,0,0,0,,When in Longzhong, he was skilled in playing the {\i1}Liángfùyín.{\i0}
+Dialogue: 0,0:11:29.90,0:11:32.59,Default,,0,0,0,,Ah, no, I merely enjoy music.
 Dialogue: 0,0:11:35.81,0:11:39.14,Default,,0,0,0,,Come, sir, please.
 Dialogue: 0,0:11:50.32,0:11:52.82,Default,,0,0,0,,Pity that Gōngjǐng is not with us,
 Dialogue: 0,0:11:53.09,0:11:56.45,Default,,0,0,0,,Sir Sleeping Dragon would have met a kindred spirit.
 Dialogue: 0,0:11:58.80,0:12:00.49,Default,,0,0,0,,I have long heard of his charms.
 Dialogue: 0,0:12:01.17,0:12:03.82,Default,,0,0,0,,Even the children's songs of Jiangdong say thus.
-Dialogue: 0,0:12:03.94,0:12:06.72,Default,,0,0,0,,{\bord12}{\i1}'If the song has err, \NZhōu-láng can take care.'{\i0}
+Dialogue: 0,0:12:03.94,0:12:06.72,Default,,0,0,0,,{\bord12}{\i1}"If the song has err, \NZhōu-láng can take care."{\i0}
 Dialogue: 0,0:12:08.14,0:12:10.04,Default,,0,0,0,,But, pray tell, where is Gōngjǐng now?
 Dialogue: 0,0:12:10.64,0:12:13.97,Default,,0,0,0,,I ordered him to conduct naval exercises at Lake Poyang.
 Dialogue: 0,0:12:17.05,0:12:20.95,Default,,0,0,0,,Sir, please,
 Dialogue: 0,0:12:29.66,0:12:33.96,Default,,0,0,0,,At the start of all this, many men rose and each dominated a region.
-Dialogue: 0,0:12:34.57,0:12:40.10,Default,,0,0,0,,But now, Yuan Shao, Yuan Shu, Lu Bu, Líu Biao and others, have all perished.
-Dialogue: 0,0:12:41.47,0:12:45.37,Default,,0,0,0,,Only me, Liu of Yu-Province, and Cáo Cāo remain.
+Dialogue: 0,0:12:34.57,0:12:40.10,Default,,0,0,0,,But now, Yuan Shao, Yuan Shu, Lü Bu, Líu Biao and others, have all perished.
+Dialogue: 0,0:12:41.47,0:12:45.37,Default,,0,0,0,,Only me, Liu of Yu Province, and Cáo Cāo remain.
 Dialogue: 0,0:12:47.18,0:12:51.21,Default,,0,0,0,,I cannot cede all the lands of Wú to another.
 Dialogue: 0,0:12:53.72,0:13:00.29,Default,,0,0,0,,But since Líu Bèi was just recently defeated, how could he resist Cáo Cāo?
 Dialogue: 0,0:13:07.23,0:13:11.73,Default,,0,0,0,,Though my lord is defeated, Guan Yunchang still leads ten thousand elite troops
 Dialogue: 0,0:13:11.99,0:13:15.13,Default,,0,0,0,,While Líu Qi also has ten thousand soldiers at Jiangxia.
-Dialogue: 0,0:13:16.16,0:13:20.88,Default,,0,0,0,,Also, Cáo Cāo's army, having marched south over such long distances, are exhausted
-Dialogue: 0,0:13:20.92,0:13:26.34,Default,NTP,0,0,0,,Not long before, while pursuing my lord, Cao's light cavalry ran 300{\i1}li{\i0} in a single day and night,
+Dialogue: 0,0:13:16.16,0:13:20.88,Default,,0,0,0,,Also, Cáo Cāo's army, having marched south over such long distances, are exhausted.
+Dialogue: 0,0:13:20.92,0:13:26.34,Default,NTP,0,0,0,,Not long before, while pursuing my lord, Cao's light cavalry ran 300 {\i1}li{\i0} in a single day and night,
 Dialogue: 0,0:13:26.34,0:13:30.26,Default,,0,0,0,,As they say, the bolt at the end of a crossbow's range cannot pierce even raw silk.
 Dialogue: 0,0:13:30.66,0:13:33.56,Default,,0,0,0,,Besides, northern troops are unskilled at naval combat
-Dialogue: 0,0:13:33.86,0:13:37.20,Default,,0,0,0,,while the people of Jing-Province are unwilling to serve Cáo Cāo.
+Dialogue: 0,0:13:33.86,0:13:37.20,Default,,0,0,0,,while the people of Jing Province are unwilling to serve Cáo Cāo.
 Dialogue: 0,0:13:37.24,0:13:40.02,Default,NTP,0,0,0,,If the General and my lord could unite in purpose,
 Dialogue: 0,0:13:40.10,0:13:42.18,Default,NTP,0,0,0,,then Cáo Cāo will surely be defeated.
 Dialogue: 0,0:13:42.43,0:13:44.86,Default,,0,0,0,,If Cáo Cāo is beaten, then he will return north.
-Dialogue: 0,0:13:45.38,0:13:48.36,Default,,0,0,0,,With the waxing might of Jing-Province and Eastern Wú,
+Dialogue: 0,0:13:45.38,0:13:48.36,Default,,0,0,0,,With the waxing might of Jing Province and Eastern Wú,
 Dialogue: 0,0:13:48.36,0:13:51.36,Default,,0,0,0,,we can stand as the legs of a crucible,\N in a balance of power.
 Dialogue: 0,0:13:56.35,0:14:00.38,Default,,0,0,0,,Victory or defeat depends on this battle. May the General decide!
 Dialogue: 0,0:14:09.93,0:14:12.32,Default,,0,0,0,,Your words are enlightening.
-Dialogue: 0,0:14:13.97,0:14:16.60,Default,,0,0,0,,I  made my decision, and will hesitate no longer.
+Dialogue: 0,0:14:13.97,0:14:16.60,Default,,0,0,0,,I've made my decision, and will hesitate no longer.
 Dialogue: 0,0:14:17.97,0:14:20.10,Default,,0,0,0,,Come, come, drink a few more cups!
 Dialogue: 0,0:14:34.05,0:14:38.71,Default,,0,0,0,,To tell you the truth, I have not ate like this for many days.
 Dialogue: 0,0:14:56.54,0:14:58.23,Default,,0,0,0,,My lord,
@@ -199,7 +199,7 @@ Dialogue: 0,0:15:22.12,0:15:25.50,Default,,0,0,0,,Not to mention, today he wield
 Dialogue: 0,0:15:25.54,0:15:27.62,Default,,0,0,0,,how could you take your enemy so lightly?
 Dialogue: 0,0:15:27.74,0:15:29.17,Default,,0,0,0,,Yes! Yes!
 Dialogue: 0,0:15:29.17,0:15:35.71,Default,,0,0,0,,My lord, if you listen to the words of Zhuge Liang and march out,
-Dialogue: 0,0:15:36.98,0:15:43.64,Default,,0,0,0,,then it will be as if putting out a fire while carrying dry twigs on your back.
+Dialogue: 0,0:15:36.98,0:15:43.64,Default,,0,0,0,,then it will be like putting out a fire while carrying dry twigs on your back.
 Dialogue: 0,0:15:44.82,0:15:46.82,Default,,0,0,0,,-Indeed, indeed! \N-Lord must reconsider.
 Dialogue: 0,0:15:57.10,0:16:02.02,Style Names,,0,0,0,,{\pos(976,498.667)}Gù Yōng \NStyled: Yuántàn
 Dialogue: 0,0:15:55.27,0:16:03.24,Default,,0,0,0,,My lord, Líu Bèi is in defeat and only seeks to borrow the armies of Jiangdong to stop Cáo Cāo's forces!
@@ -208,7 +208,7 @@ Dialogue: 0,0:16:18.76,0:16:20.22,Default,,0,0,0,,Sire!
 Dialogue: 0,0:17:03.13,0:17:04.80,Default,,0,0,0,,My lord!
 Dialogue: 0,0:17:07.74,0:17:09.30,Default,,0,0,0,,My lord, you are sagacious,
 Dialogue: 0,0:17:09.60,0:17:13.24,Default,,0,0,0,,do not be shaken by those coward gentry who fear death and seek to live.
-Dialogue: 0,0:17:14.41,0:17:18.51,Default,,0,0,0,,If my lord hesitates like so, you will used by others
+Dialogue: 0,0:17:14.41,0:17:18.51,Default,,0,0,0,,If my lord hesitates like so, you will used by others.
 Dialogue: 0,0:17:36.47,0:17:40.23,Default,,0,0,0,,Please retire, and let me think on this.
 Dialogue: 0,0:17:42.74,0:17:44.20,Default,,0,0,0,,Yes.
 Dialogue: 0,0:18:40.87,0:18:42.80,Default,,0,0,0,,My lord, the State Mother has arrived.
@@ -221,8 +221,8 @@ Dialogue: 0,0:19:41.56,0:19:46.10,Default,,0,0,0,,My military and civil official
 Dialogue: 0,0:19:46.43,0:19:50.76,Default,,0,0,0,,I had thought to fight, but I fear we are outnumbered.
 Dialogue: 0,0:19:52.10,0:19:58.24,Default,,0,0,0,,But if I surrender, then I fear that Cáo Cāo would not tolerate my survival, and thus I cannot decide.
 Dialogue: 0,0:20:01.51,0:20:04.40,Default,,0,0,0,,Do you still remember their last words?
-Dialogue: 0,0:20:04.85,0:20:06.98,Default,,0,0,0,,'In matters internal, inquire Zhāng Zhāo',
-Dialogue: 0,0:20:07.20,0:20:09.92,Default,,0,0,0,,'In matters external, inquire Zhōu Yú!'
+Dialogue: 0,0:20:04.85,0:20:06.98,Default,,0,0,0,,"In matters internal, inquire Zhāng Zhāo,"
+Dialogue: 0,0:20:07.20,0:20:09.92,Default,,0,0,0,,"In matters external, inquire Zhōu Yú!"
 Dialogue: 0,0:20:12.16,0:20:14.48,Default,,0,0,0,,Why not invite Zhōu Yú here and ask him?
 Dialogue: 0,0:20:17.33,0:20:21.93,Default,,0,0,0,,Thank you, mother! In my bustling, I had forgotten his words.
 Dialogue: 0,0:20:22.73,0:20:27.17,Default,,0,0,0,,Zhongmou, no matter how important the matter, your health is vital.
@@ -246,7 +246,7 @@ Dialogue: 0,0:21:51.32,0:21:55.19,Default,,0,0,0,,For state matters and military
 Dialogue: 0,0:21:57.60,0:21:59.70,Default,,0,0,0,,How can there be time for family?
 Dialogue: 0,0:22:01.93,0:22:03.82,Default,,0,0,0,,Sir Zhang Zhao is here!
 Dialogue: 0,0:22:11.51,0:22:14.70,Default,,0,0,0,,You've just come back, yet we can't even have a moment of peace.
-Dialogue: 0,0:22:18.15,0:22:24.22,Default,,0,0,0,,All right then, tell them to go back, I am going to spend tonight with my wife.
+Dialogue: 0,0:22:18.15,0:22:24.22,Default,,0,0,0,,Alright then, tell them to go back, I am going to spend tonight with my wife.
 Dialogue: 0,0:22:27.99,0:22:30.02,Default,,0,0,0,,Go, my dear.
 Dialogue: 0,0:22:42.64,0:22:44.71,Default,,0,0,0,,Chief Commander!
 Dialogue: 0,0:22:44.78,0:22:46.14,Default,,0,0,0,,Everyone, please.
@@ -262,7 +262,7 @@ Dialogue: 0,0:23:25.02,0:23:31.75,Default,,0,0,0,,His declaration arrived yester
 Dialogue: 0,0:23:33.22,0:23:37.99,Default,,0,0,0,,While he does mean to devour us, \Nhe has not revealed the intention.
 Dialogue: 0,0:23:39.63,0:23:48.40,Default,,0,0,0,,So we will persuade our lord to surrender tomorrow, to prevent calamity from coming to Jiangdong.
 Dialogue: 0,0:23:50.98,0:23:58.54,Default,NTP,0,0,0,,But we didn't think Lu Zijing would bring \NLíu Bèi's strategist Zhuge Liang from Jiangxia.
-Dialogue: 0,0:23:59.42,0:24:04.45,Default,,0,0,0,,They want revenge on Cao army, so purposely used his words to goad my lord
+Dialogue: 0,0:23:59.42,0:24:04.45,Default,,0,0,0,,They want revenge on Cao's army, and so used his wiles to goad my lord.
 Dialogue: 0,0:24:05.29,0:24:13.56,Default,,0,0,0,,But Zijing... is blind and stubborn. We wish the Chief Commander would make his decision.
 Dialogue: 0,0:24:17.47,0:24:20.54,Default,,0,0,0,,Does everyone here favor surrendering?
 Dialogue: 0,0:24:20.94,0:24:22.78,Style Names,,0,0,0,,{\pos(292.851,494.667)}Bù Zhì\NStyled: Zǐshān
@@ -274,12 +274,12 @@ Dialogue: 0,0:24:43.16,0:24:44.42,Default,,0,0,0,,Please.
 Dialogue: 0,0:24:46.76,0:24:48.45,Default,,0,0,0,,Please.
 Dialogue: 0,0:24:54.24,0:24:58.07,Default,,0,0,0,,Gōngjǐng, do the officials favor fighting or surrender?
 Dialogue: 0,0:25:01.31,0:25:08.11,Default,,0,0,0,,According to your opinion, my dear, should we fight or surrender?
-Dialogue: 0,0:25:11.78,0:25:15.78,Default,,0,0,0,,Our lord dominates Jiangdong, with foundations going back three generations.
-Dialogue: 0,0:25:16.33,0:25:19.39,Default,,0,0,0,,With the river to the north, \Nand fertile lands to the south,
-Dialogue: 0,0:25:20.77,0:25:24.88,Default,,0,0,0,,Virtuous lords above, \Nand famed generals below.
+Dialogue: 0,0:25:11.78,0:25:15.78,Default,,0,0,0,,Our lord dominates Jiangdong, with foundations going back three generations,
+Dialogue: 0,0:25:16.33,0:25:19.39,Default,,0,0,0,,with the river to the north, \Nfertile lands to the south,
+Dialogue: 0,0:25:20.77,0:25:24.88,Default,,0,0,0,,virtuous lords above, \Nand famed generals below.
 Dialogue: 0,0:25:25.60,0:25:28.22,Default,,0,0,0,,How could we kneel before the traitor to the Hàn?
 Dialogue: 0,0:25:35.58,0:25:37.84,Default,,0,0,0,,Cheng Pu and other generals have arrived.
-Dialogue: 0,0:25:52.80,0:25:55.00,Default,,0,0,0,,-Chief Commander.    \N-Senior General Huang.
+Dialogue: 0,0:25:52.80,0:25:55.00,Default,,0,0,0,,-Chief Commander. \N-Senior General Huang.
 Dialogue: 0,0:25:56.40,0:25:57.87,Default,,0,0,0,,Senior General Cheng
 Dialogue: 0,0:25:57.87,0:25:59.30,Default,,0,0,0,,Please...
 Dialogue: 0,0:26:05.18,0:26:06.71,Default,,0,0,0,,Please...
@@ -325,20 +325,20 @@ Dialogue: 0,0:29:14.90,0:29:18.18,Default,,0,0,0,,My dear, I have already seen o
 Dialogue: 0,0:29:18.30,0:29:19.90,Default,,0,0,0,,so no one else will disturb us.
 Dialogue: 0,0:29:22.14,0:29:23.77,Default,,0,0,0,,Perhaps not.
 Dialogue: 0,0:29:23.98,0:29:26.17,Default,,0,0,0,,Chief Commander, Lu Su has arrived.
-Dialogue: 0,0:29:27.25,0:29:29.41,Default,,0,0,0,,See?  Didn't I tell you?
+Dialogue: 0,0:29:27.25,0:29:29.41,Default,,0,0,0,,See? Didn't I tell you?
 Dialogue: 0,0:29:34.02,0:29:37.75,Default,,0,0,0,,The nation is in crisis, \Nand yet you are so relaxed here.
 Dialogue: 0,0:29:38.76,0:29:41.79,Default,,0,0,0,,Zijing, you need not say more. Just invite Sir Kǒngmíng here.
 Dialogue: 0,0:29:42.59,0:29:46.70,Default,,0,0,0,,Good, I will let this fine couple reunite for a moment.
-Dialogue: 0,0:30:07.65,0:30:10.69,Default,,0,0,0,,The strings on the {\i1}qin{\i0}-zither have been neglected for long.
+Dialogue: 0,0:30:07.65,0:30:10.69,Default,,0,0,0,,The strings on the {\i1}qin{\i0}-zither have been neglected for too long.
 Dialogue: 0,0:30:17.30,0:30:20.33,Default,,0,0,0,,My dear, I am sorry.
 Dialogue: 0,0:31:29.83,0:31:32.72,Default,,0,0,0,,Commander, Sir Zhuge is waiting for you.
 Dialogue: 0,0:31:44.12,0:31:45.75,Default,,0,0,0,,Please.
 Dialogue: 0,0:31:52.19,0:31:53.75,Default,,0,0,0,,Please.
 Dialogue: 0,0:31:56.16,0:31:57.79,Default,,0,0,0,,Commander,
-Dialogue: 0,0:31:59.53,0:32:04.60,Default,,0,0,0,,Right now Cáo Cāo's army is gathered on \Nthe river, but our lord can't yet make a decision.
+Dialogue: 0,0:31:59.53,0:32:04.60,Default,,0,0,0,,right now Cáo Cāo's army is gathered on \Nthe river, but our lord can't yet make a decision.
 Dialogue: 0,0:32:05.47,0:32:07.56,Default,,0,0,0,,I'm not sure what the Commander's opinion is?
 Dialogue: 0,0:32:15.70,0:32:18.59,Default,NTP,0,0,0,,Cáo Cāo seized the emperor and commands the lords,
-Dialogue: 0,0:32:18.59,0:32:21.72,Default,NTP,0,0,0,,His strength is great \Nand his might cannot be stopped,
+Dialogue: 0,0:32:18.59,0:32:21.72,Default,NTP,0,0,0,,his strength is great \Nand his might cannot be stopped.
 Dialogue: 0,0:32:21.78,0:32:27.22,Default,,0,0,0,,Fighting will lead to defeat, while surrendering would lead to safety. I've already made up my mind.
 Dialogue: 0,0:32:27.22,0:32:31.30,Default,,0,0,0,,Tomorrow when I meet with the lord, envoys shall be sent to offer surrender.
 Dialogue: 0,0:32:38.14,0:32:39.46,Default,,0,0,0,,Sir Kǒngmíng, please.
@@ -358,14 +358,14 @@ Dialogue: 0,0:33:42.03,0:33:44.06,Default,,0,0,0,,Why does sir laugh at me also?
 Dialogue: 0,0:33:45.80,0:33:49.46,Default,,0,0,0,,Gōngjǐn's idea to surrender to Cáo Cāo is indeed reasonable.
 Dialogue: 0,0:33:54.68,0:33:58.64,Default,,0,0,0,,Cáo Cāo is a master of war, unrivalled in the world.
 Dialogue: 0,0:33:59.14,0:34:02.64,Default,,0,0,0,,Of the many heroes who contested with him, almost all have perished.
-Dialogue: 0,0:34:02.68,0:34:06.08,Default,,0,0,0,,Yet Liu of Yu-Province fails to understand this, and fights back,
+Dialogue: 0,0:34:02.68,0:34:06.08,Default,,0,0,0,,Yet Liu of Yu Province fails to understand this, and fights back,
 Dialogue: 0,0:34:06.08,0:34:09.89,Default,,0,0,0,,only to fall to routing to Jiangxia, barely alive.
 Dialogue: 0,0:34:12.60,0:34:15.00,Default,,0,0,0,,Should the general decide to surrender to Cao.
 Dialogue: 0,0:34:15.00,0:34:19.70,Default,,0,0,0,,You protect your family on one hand, \Nand on the other, preserve your riches and luxury.
 Dialogue: 0,0:34:21.04,0:34:24.50,Default,,0,0,0,,My lord's fate is up to heaven, do we really need to pity him?
 Dialogue: 0,0:34:24.98,0:34:28.91,Default,,0,0,0,,Sir, do you want my lord to kneel before the nation's villain?
 Dialogue: 0,0:34:32.52,0:34:35.51,Default,,0,0,0,,Do not worry, Zijing, I have a plan.
-Dialogue: 0,0:34:36.95,0:34:40.96,Default,,0,0,0,,We neither need to cede our territory, \Nor offer our seals and declare servitude,
+Dialogue: 0,0:34:36.95,0:34:40.96,Default,,0,0,0,,We neither need to cede our territory \Nnor offer our seals and declare servitude
 Dialogue: 0,0:34:41.03,0:34:43.98,Default,,0,0,0,,to drive back Cáo Cāo's million strong host.
 Dialogue: 0,0:34:47.06,0:34:50.17,Default,,0,0,0,,What brilliant plan do you have, sir?
 Dialogue: 0,0:34:52.54,0:34:59.38,Default,,0,0,0,,{\bord10.667}You merely need to send a single messenger to ferry two people across the river,
@@ -375,12 +375,12 @@ Dialogue: 0,0:35:15.38,0:35:18.08,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord1
 Dialogue: 0,0:35:20.53,0:35:23.60,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Who are these two persons?
 Dialogue: 0,0:35:26.54,0:35:28.56,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}When I was in Longzhong
 Dialogue: 0,0:35:28.78,0:35:32.22,Default,,0,0,0,,{\bord10.667}I heard that Cáo Cāo was building a new pavilion near River Zhang.
-Dialogue: 0,0:35:32.28,0:35:35.78,Default,,0,0,0,,{\bord10.667}It was to be named {\i1}'the Bronze Sparrow Terrace'.{\i0} \NA magnificent edifice.
+Dialogue: 0,0:35:32.28,0:35:35.78,Default,,0,0,0,,{\bord10.667}It was to be named {\i1}"the Bronze Sparrow Terrace."{\i0} \NA magnificent edifice.
 Dialogue: 0,0:35:32.28,0:35:35.48,Note (Potential style?),,0,0,0,,AKA. Tóngquètái {\fnYu Gothic}(铜雀台)
 Dialogue: 0,0:35:36.21,0:35:39.54,Default,,0,0,0,,{\bord10.667}He sought far and wide for beautiful women to fill its chambers.
 Dialogue: 0,0:35:40.92,0:35:47.64,Default,,0,0,0,,{\bord10.667}We know Cáo Cāo as a lecherous man. He has heard Patriarch Qiao of Jiangdong has two daughters,
-Dialogue: 0,0:35:48.14,0:35:52.18,Default,,0,0,0,,{\bord10.667}Eldest called 	"Dà Qiáo", younger called "Xiǎo Qiáo".
-Dialogue: 0,0:35:53.20,0:35:58.77,Default,,0,0,0,,{\bord10.667}beauties who make birds alight and fishes drown, abash the very blossoms and outshine the moon.
+Dialogue: 0,0:35:48.14,0:35:52.18,Default,,0,0,0,,{\bord10.667}the eldest called "Dà Qiáo," \Nthe younger called "Xiǎo Qiáo."
+Dialogue: 0,0:35:53.20,0:35:58.77,Default,,0,0,0,,{\bord10.667}Beauties who make birds alight and fishes drown, abash the very blossoms and outshine the moon.
 Dialogue: 0,0:36:00.90,0:36:02.50,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Cáo Cāo has once vowed,
 Dialogue: 0,0:36:03.71,0:36:09.35,Default,,0,0,0,,{\bord10.667}to have only two dreams; 'To sweep the realm and see the imperial throne in peace,
 Dialogue: 0,0:36:09.85,0:36:13.22,Default,,0,0,0,,{\bord10.667}and the sight of those two women\Non the Bronze Sparrow Terraces,
@@ -389,8 +389,8 @@ Dialogue: 0,0:36:22.39,0:36:30.26,Default,,0,0,0,,{\bord10.667}His million-fold 
 Dialogue: 0,0:36:31.04,0:36:37.07,Default,,0,0,0,,{\bord10.667}Why not seek the Patriarch Qiao and his daughers with gold, and exchange them over the river?
 Dialogue: 0,0:36:38.21,0:36:42.97,Default,,0,0,0,,{\bord10.667}Once he has these two, he will be content and return to the capital.
 Dialogue: 0,0:36:45.78,0:36:50.11,Default,,0,0,0,,{\bord10.667}What proof do you have for Cáo Cāo desiring the two Qiaos?
-Dialogue: 0,0:36:57.39,0:37:03.69,Default,,0,0,0,,{\bord10.667}Cáo Cāo has a son, {\i1}Cáo Zhí{\i0}, styled {\i1}Zǐjiàn{\i0}.\NA prodigy and a writer of great genius,
-Dialogue: 0,0:37:04.67,0:37:08.60,Default,,0,0,0,,{\bord10.667}On his father's command, he wrote a poem\N{\i1}‘An Ode to the Bronze Sparrow Terrace',
+Dialogue: 0,0:36:57.39,0:37:03.69,Default,,0,0,0,,{\bord10.667}Cáo Cāo has a son, {\i1}Cáo Zhí,{\i0} styled {\i1}Zǐjiàn.{\i0}\NA prodigy and a writer of great genius,
+Dialogue: 0,0:37:04.67,0:37:08.60,Default,,0,0,0,,{\bord10.667}On his father's command, he wrote a poem\N{\i1}"An Ode to the Bronze Sparrow Terrace,"
 Dialogue: 0,0:37:08.87,0:37:13.58,Default,,0,0,0,,{\bord10.667}Its theme is the fitness of his house for sovereignty and his possession of the Two Qiaos.
 Dialogue: 0,0:37:16.48,0:37:20.62,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Can sir recite this poem?
 Dialogue: 0,0:37:23.22,0:37:27.40,Default,,0,0,0,,{\bord10.667} I admired the gorgeous language of this poem, thus I committed it to memory.
@@ -403,9 +403,9 @@ Dialogue: 0,0:37:51.92,0:37:56.11,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord
 Dialogue: 0,0:37:57.22,0:38:00.69,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}whence fruits abundant promise glory,
 Dialogue: 0,0:38:02.36,0:38:05.49,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Aloft rises twin towers either flank,
 Dialogue: 0,0:38:07.00,0:38:09.72,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}one Jade Dragon, and a Phoenix Gold,
-Dialogue: 0,0:38:11.74,0:38:15.23,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}With 'Two Qiaos' holding from Southeast thus,
-Dialogue: 0,0:38:11.74,0:38:19.22,Note (Potential style?),,0,0,0,,Note: The surname "Qiáo" sounds similar to the word for "bridge", so Cao Cao's words were heard differently by Zhou Yu.
-Dialogue: 0,0:38:15.77,0:38:18.53,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}would joys last dawn to dusk evermore ,
+Dialogue: 0,0:38:11.74,0:38:15.23,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}With "Two Qiaos" holding from southeast thus,
+Dialogue: 0,0:38:11.74,0:38:19.22,Note (Potential style?),,0,0,0,,Note: The surname "Qiáo" sounds similar to the word for "bridge," so Cao Cao's words were heard differently by Zhou Yu.
+Dialogue: 0,0:38:15.77,0:38:18.53,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}would joys last dawn to dusk evermore,
 Dialogue: 0,0:38:20.18,0:38:23.57,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Look upon the royal city's beauty,
 Dialogue: 0,0:38:23.88,0:38:27.54,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}behold the clouds lie floating beneath,
 Dialogue: 0,0:38:28.42,0:38:31.55,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Oh rest, Oh grace!,
@@ -416,7 +416,7 @@ Dialogue: 0,0:38:45.47,0:38:49.13,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord
 Dialogue: 0,0:38:51.61,0:38:55.68,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}May I wish this tower ever standing,
 Dialogue: 0,0:38:56.65,0:39:00.44,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}for joys of ages never failing!
 Dialogue: 0,0:39:04.25,0:39:07.18,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}That bastard Cao dares to mock me!
-Dialogue: 0,0:39:09.96,0:39:14.66,Default,,0,0,0,,{\bord10.667}Recall when the Son of Heaven granted a princess of Hàn to wed with Xiongnu for peace
+Dialogue: 0,0:39:09.96,0:39:14.66,Default,,0,0,0,,{\bord10.667}Recall when the Son of Heaven granted a princess of Hàn to wed with Xiongnu for peace.
 Dialogue: 0,0:39:15.33,0:39:17.66,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Why should we miss for two women of the crowd?
 Dialogue: 0,0:39:20.60,0:39:22.10,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Sir might not be aware,
 Dialogue: 0,0:39:23.20,0:39:26.92,Default,,0,0,0,,{\bord10.667}Da Qiao was the wife of my former lord Sūn Bófú, and Xiao Qiao-!
@@ -427,7 +427,7 @@ Dialogue: 0,0:39:52.04,0:39:53.60,Default,,0,0,0,,Chief Commander!
 Dialogue: 0,0:39:53.97,0:39:57.37,Default,,0,0,0,,I swear this world cannot hold both Cáo Cāo and I!
 Dialogue: 0,0:40:00.28,0:40:04.85,Default,,0,0,0,,Chief Commander, though this is infuriating, please think carefully before proceeding.
 Dialogue: 0,0:40:20.10,0:40:22.99,Default,,0,0,0,,Sun Bofu and I share a deep friendship,
-Dialogue: 0,0:40:23.83,0:40:26.88,Default,,0,0,0,,and now upon me is the great responsibility for the state,
+Dialogue: 0,0:40:23.83,0:40:26.88,Default,,0,0,0,,and now upon me is this great responsibility for the state,
 Dialogue: 0,0:40:27.91,0:40:29.87,Default,,0,0,0,,so how could I kneel before Cáo Cāo?
 Dialogue: 0,0:40:31.60,0:40:35.86,Default,,0,0,0,,To speak frankly, I was merely testing you, sir.
 Dialogue: 0,0:40:37.68,0:40:42.58,Default,,0,0,0,,Since the moment I left Poyang, I had made up my mind to campaign against Cáo Cāo.
@@ -439,18 +439,18 @@ Dialogue: 0,0:41:06.64,0:41:08.33,Default,,0,0,0,,Good!
 Dialogue: 0,0:41:09.35,0:41:13.68,Default,,0,0,0,,Tomorrow we will go and see our lord, and discuss the matter of raising an army!
 Dialogue: 0,0:41:53.76,0:41:55.36,Default,,0,0,0,,My dear.
 Dialogue: 0,0:41:56.33,0:41:59.09,Default,,0,0,0,,I have heard all of Kǒngmíng's words back there.
-Dialogue: 0,0:42:01.87,0:42:05.03,Default,,0,0,0,,Even if Cáo villain did not raise his armies specifically for us,
-Dialogue: 0,0:42:05.90,0:42:11.26,Default,,0,0,0,,If the southern lands fall, then I fear me and our children will fall into his hands.
-Dialogue: 0,0:42:13.24,0:42:17.44,Default,,0,0,0,,My wife, please do not worry, I will convince my Lord to fight Cáo Cāo
+Dialogue: 0,0:42:01.87,0:42:05.03,Default,,0,0,0,,Even if the villain Cáo did not raise his armies specifically for us,
+Dialogue: 0,0:42:05.90,0:42:11.26,Default,,0,0,0,,If the southern lands fall, then I fear I and our children will fall into his hands.
+Dialogue: 0,0:42:13.24,0:42:17.44,Default,,0,0,0,,My wife, please do not worry, I will convince my Lord to fight Cáo Cāo.
 Dialogue: 0,0:42:23.25,0:42:25.40,Default,,0,0,0,,Are the children asleep?
 Dialogue: 0,0:42:37.50,0:42:39.00,Default,,0,0,0,,They are asleep.
-Dialogue: 0,0:42:39.88,0:42:43.97,Default,,0,0,0,,A great general has such a heart for children.
+Dialogue: 0,0:42:39.88,0:42:43.97,Default,,0,0,0,,Even a great general has such a heart for children.
 Dialogue: 0,0:42:59.26,0:43:02.46,Default,,0,0,0,,Men are not wood or grass, \Nhow could I be heartless?
 Dialogue: 0,0:43:04.93,0:43:08.96,Default,,0,0,0,,I will be giving orders from the terrace, spurring the horses and armies.
 Dialogue: 0,0:43:09.83,0:43:12.23,Default,,0,0,0,,Above I can return my lord's deep generosity,
 Dialogue: 0,0:43:13.34,0:43:18.10,Default,,0,0,0,,Below I can bring glory for my wife and family, my life's wishes fulfilled.
 Dialogue: 0,0:43:24.01,0:43:27.27,Default,,0,0,0,,I have always loved your talent,
-Dialogue: 0,0:43:28.62,0:43:31.94,Default,,0,0,0,,and I wish for you to reach for \Nunparalleled achievements,
+Dialogue: 0,0:43:28.62,0:43:31.94,Default,,0,0,0,,and I wish for you to attain \Nunparalleled achievements,
 Dialogue: 0,0:43:32.39,0:43:35.52,Default,,0,0,0,,something that the children and I can feel pride for as well.
 Dialogue: 0,0:43:40.50,0:43:45.23,Thinking,,0,0,0,,Zhuge Liang, in order to unite with Wú to resist Cáo, using his ingenuity,
 Dialogue: 0,0:43:45.84,0:43:51.00,Thinking,NTP,0,0,0,,cleverly changed the meaning of the "Two Qiáos" in the "Ode to the Bronze Sparrow Terrace."

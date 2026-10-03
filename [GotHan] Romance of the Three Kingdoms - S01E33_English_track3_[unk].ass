@@ -73,9 +73,9 @@ Dialogue: 0,0:04:07.38,0:04:11.86,Default,,0,0,0,,Chancellor, Jing Province's na
 Dialogue: 0,0:04:11.88,0:04:16.34,Default,,0,0,0,,The Qing and Xu provincial soldiers are not suited for naval warfare, hence our defeat.
 Dialogue: 0,0:04:17.54,0:04:19.78,Default,,0,0,0,,We must establish a naval training camp.
 Dialogue: 0,0:04:19.78,0:04:23.26,Default,,0,0,0,,Those from Qing, Xu, and Jing Provinces will be trained rigorously.
-Dialogue: 0,0:04:23.70,0:04:27.18,Default,,0,0,0,,Each day they will gain experience. They will be battle ready soon.
+Dialogue: 0,0:04:23.70,0:04:27.18,Default,,0,0,0,,Each day they will gain experience. They will be battle-ready soon.
 Dialogue: 0,0:04:29.38,0:04:32.70,Default,,0,0,0,,You are the Commander of the Navy! \NCan't you act in your discretion?
-Dialogue: 0,0:04:32.70,0:04:34.50,Default,,0,0,0,,Why even bother report this to me?
+Dialogue: 0,0:04:32.70,0:04:34.50,Default,,0,0,0,,Why even bother reporting this to me?
 Dialogue: 0,0:04:35.62,0:04:36.70,Default,,0,0,0,,Aye.
 Dialogue: 0,0:04:43.90,0:04:45.42,Default,,0,0,0,,Seriously-!
 Dialogue: 0,0:05:15.02,0:05:15.62,Default,,0,0,0,,Come!
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:59.22,0:06:00.02,Default,,0,0,0,,Here.
 Dialogue: 0,0:06:00.34,0:06:03.42,Default,,0,0,0,,Prepare a colored ship without any insignia.
 Dialogue: 0,0:06:03.42,0:06:08.70,Default,,0,0,0,,Bring drums and arm the men with powerful crossbows.
 Dialogue: 0,0:06:08.70,0:06:11.06,Default,,0,0,0,,Follow me to scout the enemy's naval camp!
-Dialogue: 0,0:06:11.06,0:06:15.66,Default,,0,0,0,,We two could assess their strength on our own. Why must Chief Commander go personally?
+Dialogue: 0,0:06:11.06,0:06:15.66,Default,,0,0,0,,We two could assess their strength on our own. Why must you go personally, Chief Commander?
 Dialogue: 0,0:06:19.50,0:06:20.62,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:06:43.26,0:06:44.62,Default,,0,0,0,,There's a colored ship!
 Dialogue: 0,0:06:44.62,0:06:46.38,Default,,0,0,0,,Look! It's so vibrant!
@@ -144,7 +144,7 @@ Dialogue: 0,0:11:18.58,0:11:23.02,Default,,0,0,0,,We have been apart for so long
 Dialogue: 0,0:11:23.02,0:11:25.34,Default,,0,0,0,,Today, I came to reminisce about the old days.
 Dialogue: 0,0:11:25.34,0:11:27.98,Default,,0,0,0,,Why do you suspect me of coming as an envoy?
 Dialogue: 0,0:11:29.30,0:11:33.66,Default,,0,0,0,,It appears that you do not welcome old friends.
-Dialogue: 0,0:11:36.50,0:11:39.34,Default,,0,0,0,,One need not to be a master of music like Shi Kuang of old...
+Dialogue: 0,0:11:36.50,0:11:39.34,Default,,0,0,0,,One need not be a master of music like Shi Kuang of old...
 Dialogue: 0,0:11:36.50,0:11:44.90,Note (Potential style?),,0,0,0,,Note: Shi Kuang ({\fnYu Gothic}师旷{\fn}) was a famous music master and early humanist from the Jin state who specialized in the Qin-zither, during the Spring and Autumn period.
 Dialogue: 0,0:11:39.90,0:11:43.34,Default,,0,0,0,,... to hear and understand the meaning of a sweet song.
 Dialogue: 0,0:11:46.38,0:11:51.90,Default,,0,0,0,,If you treat old friends like this, I should just take my leave.
@@ -159,7 +159,7 @@ Dialogue: 0,0:12:16.18,0:12:20.06,Default,,0,0,0,,All officers are to gather in 
 Dialogue: 0,0:12:20.06,0:12:20.70,Default,,0,0,0,,Yes.
 Dialogue: 0,0:12:25.42,0:12:26.26,Default,,0,0,0,,Gentlemen!
 Dialogue: 0,0:12:32.86,0:12:35.78,Default,,0,0,0,,Master Jiang is my old classmate and a good friend!
-Dialogue: 0,0:12:35.78,0:12:40.62,Default,,0,0,0,,Though he came from the north, \Nhe is not here as Cao Cao’s envoy!
+Dialogue: 0,0:12:35.78,0:12:40.62,Default,,0,0,0,,Though he came from the north, \Nhe is not here as Cao Cao's envoy!
 Dialogue: 0,0:12:40.62,0:12:42.62,Default,,0,0,0,,I ask you all not to be suspicious!
 Dialogue: 0,0:12:42.62,0:12:44.02,Default,,0,0,0,,Come! Cheers!
 Dialogue: 0,0:12:44.02,0:12:47.10,Default,,0,0,0,,Cheers!
@@ -171,7 +171,7 @@ Dialogue: 0,0:13:06.38,0:13:09.26,Default,,0,0,0,,We're here for camaraderie, so
 Dialogue: 0,0:13:09.26,0:13:12.86,Default,,0,0,0,,Anyone who speaks of military affairs will be executed without pardon!
 Dialogue: 0,0:13:13.30,0:13:14.06,Default,,0,0,0,,Yes!
 Dialogue: 0,0:13:16.14,0:13:17.70,Style Names,,0,0,0,,{\pos(970.183,490.667)}Tàishǐ Cí \NStyled: Zǐyì
-Dialogue: 0,0:13:29.70,0:13:34.26,Default,,0,0,0,,Brother Ziyi, I haven’t had a drop of wine since I took command.
+Dialogue: 0,0:13:29.70,0:13:34.26,Default,,0,0,0,,Brother Ziyi, I haven't had a drop of wine since I took command.
 Dialogue: 0,0:13:34.26,0:13:38.98,Default,,0,0,0,,But with old friends gathered today, I may drink without worry!
 Dialogue: 0,0:13:39.58,0:13:41.30,Default,,0,0,0,,Come, cheers!
 Dialogue: 0,0:14:03.42,0:14:05.98,Default,,0,0,0,,Brother Ziyi, let's have a toast together!
@@ -196,7 +196,7 @@ Dialogue: 0,0:16:28.14,0:16:32.94,Default,,0,0,0,,Brother, with your talent this
 Dialogue: 0,0:16:33.70,0:16:36.38,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}When a great man finds a worthy lord to serve,
 Dialogue: 0,0:16:36.50,0:16:39.90,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}he grows to know his lord intimately.
 Dialogue: 0,0:16:40.00,0:16:44.42,Default,,0,0,0,,{\bord10.667}Outwardly minister and lord are professional, \Nbut inwardly they are close as kinsmen.
-Dialogue: 0,0:16:44.42,0:16:47.30,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}He listens and follows the minister’s plans,
+Dialogue: 0,0:16:44.42,0:16:47.30,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}He listens and follows the minister's plans,
 Dialogue: 0,0:16:47.30,0:16:50.94,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}sharing disaster or fortune, glory or disgrace,
 Dialogue: 0,0:16:50.94,0:16:53.58,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}with the same mind and virtue, working together!
 Dialogue: 0,0:16:53.58,0:16:57.50,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}That... is how Zhou Yu does things!
@@ -242,16 +242,16 @@ Dialogue: 0,0:21:04.90,0:21:07.02,Default,,0,0,0,,have you really...?
 Dialogue: 0,0:21:08.58,0:21:11.30,Default,,0,0,0,,Are you really not here to convince me to surrender?
 Dialogue: 0,0:21:13.94,0:21:17.82,Default,,0,0,0,,Gongjin, we were classmates and dear friends!
 Dialogue: 0,0:21:17.82,0:21:18.86,Default,,0,0,0,,I...
-Dialogue: 0,0:21:21.42,0:21:26.90,Default,,0,0,0,,You think I can’t see through your plot?
+Dialogue: 0,0:21:21.42,0:21:26.90,Default,,0,0,0,,You think I can't see through your plot?
 Dialogue: 0,0:21:31.94,0:21:33.34,Default,,0,0,0,,Gongjin!
 Dialogue: 0,0:21:33.34,0:21:34.90,Default,,0,0,0,,Gongjin!
 Dialogue: 0,0:21:34.90,0:21:38.02,Default,,0,0,0,,What are you implying?
-Dialogue: 0,0:21:46.06,0:21:49.94,Default,,0,0,0,,You’ve come to get me to surrender to the Cao clan!
+Dialogue: 0,0:21:46.06,0:21:49.94,Default,,0,0,0,,You've come to get me to surrender to the Cao clan!
 Dialogue: 0,0:21:50.94,0:21:54.38,Default,,0,0,0,,Did you think I couldn't see it!?
 Dialogue: 0,0:21:56.66,0:21:58.30,Default,,0,0,0,,Gongjin!
 Dialogue: 0,0:21:59.54,0:22:03.78,Default,,0,0,0,,Gongjin, you have gone too far!
 Dialogue: 0,0:22:04.62,0:22:07.78,Default,,0,0,0,,I truly came to meet with my old friend again!
-Dialogue: 0,0:22:08.82,0:22:11.14,Default,,0,0,0,,I didn’t expect you to forget our friendship.
+Dialogue: 0,0:22:08.82,0:22:11.14,Default,,0,0,0,,I didn't expect you to forget our friendship.
 Dialogue: 0,0:22:14.66,0:22:18.34,Default,,0,0,0,,If you cannot believe me- then I shall put my life in your hands.
 Dialogue: 0,0:22:18.86,0:22:19.90,Default,,0,0,0,,Go ahead,
 Dialogue: 0,0:22:20.46,0:22:22.34,Default,,0,0,0,,do with me as you will!
@@ -271,13 +271,13 @@ Dialogue: 0,0:24:03.02,0:24:06.34,Default,,0,0,0,,We've enjoyed it together, \Ns
 Dialogue: 0,0:24:09.14,0:24:10.38,Default,,0,0,0,,Clear the banquet!
 Dialogue: 0,0:24:13.66,0:24:19.90,Default,,0,0,0,,Farewell! Farewell! Farewell!
 Dialogue: 0,0:25:57.30,0:25:59.24,Style Names,,0,0,0,,{\pos(640,589.333)}"Message to the Marquis of Wu."
-Dialogue: 0,0:26:20.66,0:26:22.82,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}Cao Cao is alike a ravenous tiger!
+Dialogue: 0,0:26:20.66,0:26:22.82,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}Cao Cao is like a ravenous tiger!
 Dialogue: 0,0:26:23.10,0:26:26.10,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}Though he is the Chancellor of Han, he is a traitor!
 Dialogue: 0,0:26:26.46,0:26:30.50,Default,,0,0,0,,{\bord10.667}General, you have divine strength, and possess your family's ferocity.
-Dialogue: 0,0:26:30.50,0:26:33.26,Default,,0,0,0,,{\bord10.667\}You control Jiangdong, \Nyour domain stretches 1,000{\i1} li{\i0},
+Dialogue: 0,0:26:30.50,0:26:33.26,Default,,0,0,0,,{\bord10.667\}You control Jiangdong, \Nyour domain stretches 1,000{\i1} li,{\i0}
 Dialogue: 0,0:26:33.26,0:26:36.20,Default,,0,0,0,,{\bord10.667}with elite troops, ample supplies, and heroic commanders.
 Dialogue: 0,0:26:36.62,0:26:38.70,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}This is the time for conquest!
-Dialogue: 0,0:26:38.70,0:26:41.26,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}It is time to cleanse the Han Dynasty of such an evil!
+Dialogue: 0,0:26:38.70,0:26:41.26,Default,,0,0,0,,{\bord10.667\pos(640,677.333)}It is time to cleanse the Han Dynasty of this evil!
 Dialogue: 0,0:26:41.26,0:26:44.62,Default,,0,0,0,,{\bord10.667}This is our chance to replace these rotten foundations!
 Dialogue: 0,0:27:09.98,0:27:11.40,Style Names,,0,0,0,,{\pos(640,633.333)}"From Cai Mao and Zhang Yun."
 Dialogue: 0,0:27:27.22,0:27:29.30,Thinking,,0,0,0,,To the Chief Commander of Eastern Wu, Gongjin:
@@ -311,7 +311,7 @@ Dialogue: 0,0:31:00.78,0:31:01.74,Default,,0,0,0,,Brother Ziyi?
 Dialogue: 0,0:31:10.06,0:31:13.54,Default,,0,0,0,,Fortunately Ziyi is in a drunken slumber.
 Dialogue: 0,0:32:36.70,0:32:39.86,Thinking,,0,0,0,,Gongjin is a very careful man.
 Dialogue: 0,0:32:40.34,0:32:45.18,Thinking,,0,0,0,,If he finds a letter is missing in the morning, won't I be in danger?
-Dialogue: 0,0:32:46.58,0:32:48.90,Thinking,,0,0,0,,Yes, I must leave at once!
+Dialogue: 0,0:32:46.58,0:32:48.90,Thinking,,0,0,0,,Ah, I must leave at once!
 Dialogue: 0,0:33:12.90,0:33:13.58,Default,,0,0,0,,Halt!
 Dialogue: 0,0:33:15.98,0:33:17.82,Default,,0,0,0,,It's just you, Master Jiang.
 Dialogue: 0,0:33:18.46,0:33:19.50,Default,,0,0,0,,Sir, where are you going?

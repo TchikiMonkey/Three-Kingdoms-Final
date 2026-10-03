@@ -47,18 +47,19 @@ Dialogue: 0,0:00:22.26,0:00:23.78,Default,,0,0,0,,Second Brother!
 Dialogue: 0,0:00:25.22,0:00:26.78,Default,,0,0,0,,General Guan!
 Dialogue: 0,0:00:32.86,0:00:37.98,Default,NTP,0,0,0,,Congratulations, General, for you have accomplished a miracle by destroying a great evil for the world.
 Dialogue: 0,0:00:33.66,0:00:38.46,Style Names,NTP,0,0,0,,{\pos(971.363,436.363)\\fade(255,0,255,0,500,4450,4780)}Zhūgé Liàng\NStyled: Kǒngmíng
-Dialogue: 0,0:00:38.38,0:00:39.94,Default,,0,0,0,,Please have this cup!
+Dialogue: 0,0:00:38.38,0:00:39.94,Default,,0,0,0,,Please have this drink!
 Dialogue: 0,0:00:43.70,0:00:47.10,Default,,0,0,0,,Perhaps I displeased you by not greeting you sooner?
-Dialogue: 0,0:00:47.10,0:00:48.38,Style Names,NTP,0,0,0,,{\pos(892.935,503.186)}Guān Yǔ\NStyled: Yúnchǎng
+Dialogue: 0,0:00:47.10,0:00:48.38,Style Names,NTP,0,0,0,,{\pos(892.935,503.186)}Guān Yǔ\NStyled: Yúncháng
 Dialogue: 0,0:00:50.06,0:00:51.94,Default,,0,0,0,,Why did you not report this sooner?
 Dialogue: 0,0:00:52.14,0:00:52.94,Default,,0,0,0,,Well...
 Dialogue: 0,0:00:54.70,0:00:58.18,Default,,0,0,0,,General, no need to quibble over this. Please have this drink!
 Dialogue: 0,0:01:03.30,0:01:05.98,Default,,0,0,0,,I have come to ask for death.
 Dialogue: 0,0:01:10.46,0:01:14.46,Default,,0,0,0,,Perhaps Cao Cao did not go through Huarong Road?
 Dialogue: 0,0:01:16.30,0:01:17.78,Default,,0,0,0,,He did pass by.
-Dialogue: 0,0:01:20.94,0:01:24.54,Default,,0,0,0,,However, for my incompetence, he slipped away.
+Dialogue: 0,0:01:20.94,0:01:24.54,Default,,0,0,0,,However, because of my incompetence, he slipped away.
 Dialogue: 0,0:01:24.94,0:01:26.94,Style Names,NTP,0,0,0,,{\pos(328.312,492.468)}Liú Bèi\NStyled: Xuándé
-Dialogue: 0,0:01:31.14,0:01:35.46,Default,,0,0,0,,Surely, it must be for his fighting generals that rescued him?
+Dialogue: 0,0:01:30.96,0:01:31.94,Default,Zhuge Liang,0,0,0,,Then surely...
+Dialogue: 0,0:01:31.94,0:01:35.48,Default,Zhuge Liang,0,0,0,,the fierce generals of Cao Cao \Nfought bravely and rescued him.
 Dialogue: 0,0:01:36.82,0:01:39.42,Default,,0,0,0,,If so, have you captured a great general of Cao Cao then?
 Dialogue: 0,0:01:39.82,0:01:41.30,Default,,0,0,0,,No, none were captured.
 Dialogue: 0,0:01:42.70,0:01:45.10,Default,,0,0,0,,Have you seized any weapons, grain, or treasures?
@@ -67,7 +68,7 @@ Dialogue: 0,0:01:53.50,0:01:56.90,Default,,0,0,0,,Then you, on account of the pa
 Dialogue: 0,0:01:57.58,0:01:59.70,Default,,0,0,0,,purposely let Cao Cao go?
 Dialogue: 0,0:02:03.66,0:02:05.10,Default,,0,0,0,,Do you know your crime?
 Dialogue: 0,0:02:07.78,0:02:11.90,Default,,0,0,0,,I am willing to die.
-Dialogue: 0,0:02:20.82,0:02:25.42,Default,,0,0,0,,Since there is a military pledge, \Nwe will do as according to military law.
+Dialogue: 0,0:02:20.82,0:02:25.42,Default,,0,0,0,,Since there is a military pledge, \Nwe will do as military law dictates.
 Dialogue: 0,0:02:26.70,0:02:27.46,Default,,0,0,0,,Take him out...
 Dialogue: 0,0:02:28.74,0:02:29.66,Default,,0,0,0,,Off with his head!
 Dialogue: 0,0:02:29.74,0:02:30.38,Default,,0,0,0,,Yes sir!
@@ -81,22 +82,24 @@ Dialogue: 0,0:02:50.22,0:02:51.74,Default,,0,0,0,,Please have mercy!
 Dialogue: 0,0:02:52.78,0:02:56.06,Default,,0,0,0,,Strategos!
 Dialogue: 0,0:02:57.14,0:02:59.50,Default,,0,0,0,,Please have mercy!
 Dialogue: 0,0:03:03.18,0:03:04.30,Default,,0,0,0,,Strategos!
-Dialogue: 0,0:03:07.34,0:03:10.98,Default,NTP,0,0,0,,Strategos, we three had sworn the oath in the peach garden:
+Dialogue: 0,0:03:07.34,0:03:10.98,Default,NTP,0,0,0,,Strategos, we three swore this oath in the peach garden:
 Dialogue: 0,0:03:10.98,0:03:13.50,Default,NTP,0,0,0,,"though not born together, we will die together!"
-Dialogue: 0,0:03:13.58,0:03:17.70,Default,,0,0,0,,Yunchang has broken the military law, \Nbut I cannot betray our vow!
-Dialogue: 0,0:03:19.38,0:03:24.54,Default,,0,0,0,,I hope the Strategos can show mercy, \Nand let him redeem himself with future merits!
+Dialogue: 0,0:03:13.58,0:03:17.70,Default,,0,0,0,,Yunchang has broken military law, \Nbut I cannot betray our vow!
+Dialogue: 0,0:03:19.38,0:03:24.54,Default,,0,0,0,,Please show mercyhow mercy \Nand let him redeem himself with future merits!
 Dialogue: 0,0:03:32.50,0:03:33.66,Default,,0,0,0,,Strategos!
 Dialogue: 0,0:03:37.30,0:03:39.02,Default,,0,0,0,,Please have mercy!
 Dialogue: 0,0:03:40.34,0:03:42.70,Default,,0,0,0,,Please have mercy!
 Dialogue: 0,0:03:43.50,0:03:44.78,Default,,0,0,0,,My lord.
 Dialogue: 0,0:03:55.42,0:03:56.70,Default,,0,0,0,,To this...
-Dialogue: 0,0:03:57.98,0:03:59.74,Default,,0,0,0,,what else could I say?
+Dialogue: 0,0:03:57.98,0:03:59.74,Default,,0,0,0,,what else can I say?
 Dialogue: 0,0:04:00.66,0:04:03.22,Default,,0,0,0,,Thank you, Strategos!
+Dialogue: 0,0:04:01.57,0:04:02.94,Default,Zhang Fei & Zhao Yun,0,0,0,,Thank you, Strategos!
 Dialogue: 0,0:04:04.94,0:04:06.74,Default,,0,0,0,,Thank you, Strategos!
 Dialogue: 0,0:04:07.18,0:04:07.98,Default,,0,0,0,,Yunchang!
 Dialogue: 0,0:04:24.10,0:04:25.38,Default,,0,0,0,,Thank you, Strategos!
 Dialogue: 0,0:04:28.94,0:04:30.62,Default,,0,0,0,,General Guan, please rise.
 Dialogue: 0,0:04:39.82,0:04:41.34,Default,,0,0,0,,Drink up!
+Dialogue: 0,0:04:41.89,0:04:44.22,Default,All,0,0,0,,Drink up!
 Dialogue: 0,0:04:44.66,0:04:46.14,Default,,0,0,0,,Drink up!
 Dialogue: 0,0:04:45.54,0:04:48.58,Style Names,,0,0,0,,{\pos(954.537,486.233)\\fade(255,0,255,0,500,2660,3020)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:04:59.82,0:05:07.18,Default,,0,0,0,,You have all protected me with your very lives, \Nyour efforts are immeasurable.
@@ -344,7 +347,7 @@ Dialogue: 0,0:27:16.26,0:27:20.06,Default,NTP,0,0,0,,I only wonder if he is will
 Dialogue: 0,0:27:20.06,0:27:23.46,Default,,0,0,0,,If there is such a miracle doctor, get him here at once!
 Dialogue: 0,0:27:26.54,0:27:29.50,Default,NTP,0,0,0,,Zhou Yu has been shot and \NCheng Pu has been wounded.
 Dialogue: 0,0:27:29.50,0:27:32.86,Default,NTP,0,0,0,,The armies of Eastern Wu must be distraught and leaderless.
-Dialogue: 0,0:27:33.54,0:27:38.38,Default,,0,0,0,,Let us taunt their forces everyday and wait for Zhou Yu's poison to take effect.
+Dialogue: 0,0:27:33.54,0:27:38.38,Default,,0,0,0,,Let us taunt their forces every day and wait for Zhou Yu's poison to take effect.
 Dialogue: 0,0:27:38.66,0:27:40.82,Default,,0,0,0,,Then, the whole army will attack as one.
 Dialogue: 0,0:27:40.82,0:27:48.26,Default,,0,0,0,,It will be a total victory, and avenge our loss at Chibi.
 Dialogue: 0,0:27:48.26,0:27:49.30,Default,,0,0,0,,Yes!
@@ -474,7 +477,7 @@ Dialogue: 0,0:39:29.34,0:39:32.14,Default,,0,0,0,,Sire, Jing Province's cities h
 Dialogue: 0,0:39:32.14,0:39:32.58,Default,,0,0,0,,What?!
 Dialogue: 0,0:39:35.46,0:39:37.26,Default,,0,0,0,,How did Zhang Fei take it?
 Dialogue: 0,0:39:37.70,0:39:40.78,Default,,0,0,0,,Zhuge Liang took the Cao army's tally \Nof Nan Commandery,
-Dialogue: 0,0:39:40.78,0:39:43.58,Default,NTP,0,0,0,,forging orders for the Jing Province forces to come for aid,
+Dialogue: 0,0:39:40.78,0:39:43.58,Default,NTP,0,0,0,,forging orders for Jing Province forces to come for aid,
 Dialogue: 0,0:39:43.62,0:39:46.38,Default,NTP,0,0,0,,letting Zhang Fei seize the emptied forts!
 Dialogue: 0,0:39:48.14,0:39:50.66,Default,,0,0,0,,That peon Zhuge...!
 Dialogue: 0,0:39:53.94,0:39:56.26,Default,,0,0,0,,Chief Commander, Xiangyang has fallen to Liu Bei!
@@ -483,7 +486,7 @@ Dialogue: 0,0:40:05.14,0:40:09.02,Default,NTP,0,0,0,,Zhuge Liang's spy used the 
 Dialogue: 0,0:40:09.02,0:40:13.38,Default,,0,0,0,,They lured Xiahou Dun out of the city, letting Guan Yu conquer Xiangyang!
 Dialogue: 0,0:40:39.06,0:40:43.10,Default,,0,0,0,,Chief Commander! Chief Commander!
 Comment: 0,0:03:14.46,0:03:19.46,Header,,0,0,0,,We could shorten Nan Commandery to just Nan or Nanjun.
-Comment: 0,0:04:45.82,0:04:50.14,Default,,0,0,0,,ZL181: I want this 'surely' to be kept to show Zhuge Liang's hopeful belief that Guan Yu did not let Cao Cao go.\N Sarracenian: Correction; Zhuge Liang had anticipated this early, and wanted Cao Cao to live so the North wouldn't fall into disorder
+Comment: 0,0:04:45.82,0:04:50.14,Default,,0,0,0,,ZL181: I want this "surely" to be kept to show Zhuge Liang's hopeful belief that Guan Yu did not let Cao Cao go.\N Sarracenian: Correction; Zhuge Liang had anticipated this early, and wanted Cao Cao to live so the North wouldn't fall into disorder
 Comment: 0,0:14:00.18,0:14:02.18,Default,,0,0,0,,可他却要坐享其成
 Comment: 0,0:17:45.74,0:17:50.26,Default,,0,0,0,,如此礼重，瑜安敢受之？
 Comment: 0,0:27:14.62,0:27:15.82,Default,,0,0,0,,Ling Tong!

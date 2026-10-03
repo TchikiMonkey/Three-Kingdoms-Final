@@ -135,14 +135,14 @@ Dialogue: 0,0:07:59.50,0:08:02.10,Default,,0,0,0,,Is he trying to ruin me?!
 Dialogue: 0,0:08:31.78,0:08:32.66,Default,,0,0,0,,Elder Brother!
 Dialogue: 0,0:08:34.06,0:08:35.18,Default,,0,0,0,,Elder Brother!
 Dialogue: 0,0:08:36.62,0:08:38.66,Default,,0,0,0,,I have exterminated Che Zhou's entire...!
-Dialogue: 0,0:08:48.02,0:08:54.18,Default,,0,0,0,,Elder Brother, the one who deserved it is dead,\N but those who didn't, are dead too.
+Dialogue: 0,0:08:48.02,0:08:54.18,Default,,0,0,0,,Elder Brother, the one who deserved it is dead,\N but those who didn't are dead too.
 Dialogue: 0,0:08:55.06,0:08:58.86,Default,,0,0,0,,What's the use of lamenting anymore?
 Dialogue: 0,0:09:01.26,0:09:06.22,Default,,0,0,0,,Who should we kill? Who shouldn't we kill?!
 Dialogue: 0,0:09:07.94,0:09:13.70,Default,,0,0,0,,Che Zhou was a trusted officer of Cao Cao. Did you not know that?
 Dialogue: 0,0:09:17.50,0:09:20.78,Default,NTP,0,0,0,,{\blur7.5}When we left Xuchang,\N you said it yourself, brother.
 Dialogue: 0,0:09:20.78,0:09:23.18,Default,NTP,0,0,0,,From now on, we would no longer be tied back.
 Dialogue: 0,0:09:23.34,0:09:27.38,Default,,0,0,0,,If we must kill, then kill we shall! Isn't it too late to regret it?
-Dialogue: 0,0:09:28.74,0:09:30.22,Default,,0,0,0,,'Too late'?
+Dialogue: 0,0:09:28.74,0:09:30.22,Default,,0,0,0,,"Too late"?
 Dialogue: 0,0:09:33.22,0:09:37.58,Default,,0,0,0,,If Cao Cao has an excuse to raise \Ntroops against us, what are we going to do?
 Dialogue: 0,0:09:37.90,0:09:39.06,Default,,0,0,0,,Don't worry, brother.
 Dialogue: 0,0:09:40.38,0:09:43.94,Default,,0,0,0,,When Cao Cao comes, Yide and I will meet him and that will be it.
@@ -195,7 +195,7 @@ Dialogue: 0,0:13:06.86,0:13:10.46,Default,,0,0,0,,{\bord12}Wanting to pacify suc
 Dialogue: 0,0:13:10.46,0:13:13.58,Default,,0,0,0,,{\bord12}Yet confident from their numbers, the army is arrogant.
 Dialogue: 0,0:13:14.46,0:13:17.62,Default,,0,0,0,,{\bord12}A righteous army is strong,\N but an arrogant army will perish.
 Dialogue: 0,0:13:17.86,0:13:22.18,Default,,0,0,0,,{\bord12}Cao Cao's laws are pragmatic and his men are well trained.
-Dialogue: 0,0:13:22.50,0:13:27.62,Default,,0,0,0,,{\bord12}If we don't use the plan of 'petition' {\bord12}and instead raise nameless troops,
+Dialogue: 0,0:13:22.50,0:13:27.62,Default,,0,0,0,,{\bord12}If we don't use the plan of "petition" {\bord12}and instead raise nameless troops,
 Dialogue: 0,0:13:28.30,0:13:30.54,Default,,0,0,0,,{\bord12}then our army will be\N at a disadvantage.
 Dialogue: 0,0:13:30.66,0:13:32.38,Default,,0,0,0,,{\bord12\pos(640,660)}I beseech you to reconsider.
 Dialogue: 0,0:13:33.30,0:13:33.90,Default,,0,0,0,,{\bord12\pos(640,660)}Fine.
@@ -219,11 +219,11 @@ Dialogue: 0,0:15:44.78,0:15:46.34,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, you
 Dialogue: 0,0:15:46.46,0:15:48.98,Default,,0,0,0,,{\bord12}Yuan Shao's territories are vast, and his people strong.
 Dialogue: 0,0:15:49.10,0:15:57.54,Default,,0,0,0,,{\bord12}His subordinates, such as {\i1}Xǔ Yōu, {\bord12}Guō Tú, Shěn Pèi, Páng Ji,
 Dialogue: 0,0:15:57.54,0:16:01.06,Default,,0,0,0,,{\bord12\pos(640,660)}are wise strategists all of them.
-Dialogue: 0,0:16:01.06,0:16:05.94,Default,,0,0,0,,{\bord12}There is also {\i1}Tián Fēng{\i0} and {\i1}Jǔ Shòu{\i0}. \NBoth are loyal ministers.
+Dialogue: 0,0:16:01.06,0:16:05.94,Default,,0,0,0,,{\bord12}There is also {\i1}Tián Fēng{\i0} and {\i1}Jǔ Shòu.{\i0} \NBoth are loyal ministers.
 Dialogue: 0,0:16:06.10,0:16:09.06,Default,,0,0,0,,{\bord12\i1}Yan Liang{\i0} and {\i1}Wen Chou{\i0} are officers of peerless bravery.
 Dialogue: 0,0:16:09.42,0:16:15.62,Default,,0,0,0,,{\bord12}Others, like {\i1}Gāo Lǎn, Zhāng Hé, \N{\i0}and{\i1} Chúnyú Qióng,
 Dialogue: 0,0:16:15.62,0:16:18.06,Default,,0,0,0,,{\bord12\pos(640,660)}all of them renowned generals of the land.
-Dialogue: 0,0:16:18.62,0:16:22.50,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, why call that Yuan Shao incompetent?
+Dialogue: 0,0:16:18.62,0:16:22.50,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, why call Yuan Shao incompetent?
 Dialogue: 0,0:16:32.50,0:16:35.46,Default,,0,0,0,,{\bord12}Even though Yuan Shao's troops and warriors are numerous,
 Dialogue: 0,0:16:35.46,0:16:38.62,Default,,0,0,0,,{\bord12}his laws aren't scrupulous \Nand his discipline lacking.
 Dialogue: 0,0:16:39.26,0:16:45.30,Default,,0,0,0,,{\bord12}Tian Feng is willful but obstinate; \NXu You is gluttonous but not bright;
@@ -265,7 +265,7 @@ Dialogue: 0,0:19:59.10,0:20:03.78,Default,,0,0,0,,Enumerate the many crimes of C
 Dialogue: 0,0:20:04.46,0:20:04.86,Default,,0,0,0,,Yes!
 Dialogue: 0,0:20:04.50,0:20:06.78,Style Names,,0,0,0,,{\pos(306.799,456.818)\fade(255,0,255,0,620,1660,2260)}Chén Lín\NStyled: Kǒngzhāng
 Dialogue: 0,0:20:07.46,0:20:11.82,Default,,0,0,0,,{\bord12}Of old, the strength of Qin was debased by a weak ruler, thus Zhao Gao domineered.
-Dialogue: 0,0:20:11.86,0:20:15.54,Default,,0,0,0,,{\bord12}The Empire acted to his bidding, \Nit's wealth and power behest to his whims,
+Dialogue: 0,0:20:11.86,0:20:15.54,Default,,0,0,0,,{\bord12}The Empire acted to his bidding, \Nits wealth and power at his whims' behest,
 Dialogue: 0,0:20:15.54,0:20:19.62,Default,,0,0,0,,{\bord12}for those against him were subdued, and none dared to speak with candor.
 Dialogue: 0,0:20:20.18,0:20:24.58,Default,,0,0,0,,{\bord12}To this end there came to be the Disaster of Wangyi, the massacre of many families.
 Dialogue: 0,0:20:20.18,0:20:26.78,Note (Potential style?),,0,0,0,,Note: Referring to late Qin dynasty, when Zhao Gao forced Qin Er Shi to commit suicide in order to gain more power.
@@ -339,7 +339,7 @@ Dialogue: 0,0:26:20.90,0:26:22.74,Default,,0,0,0,,{\bord12\pos(640,660)}I couldn
 Dialogue: 0,0:26:22.78,0:26:27.34,Default,,0,0,0,,{\bord12}I only heard that Cao Cao ordered Lü Bu's former officer, Zang Ba, to guard Qing and Xu Provinces.
 Dialogue: 0,0:26:27.34,0:26:32.22,Default,,0,0,0,,{\bord12}Yu Jin and Li Dian are along the Yellow River. \NCao Cao himself has stationed his men at Guandu.
 Dialogue: 0,0:26:35.74,0:26:37.50,Default,,0,0,0,,Where is Cao Cao now?
-Dialogue: 0,0:26:38.34,0:26:44.02,Default,,0,0,0,,He could be at Liyang. \NHe could be at Xǔdū (Xǔchāng). He could be at...
+Dialogue: 0,0:26:38.34,0:26:44.02,Default,,0,0,0,,He could be at Liyang. \NHe could be at Xǔdū. He could be at...
 Dialogue: 0,0:26:44.42,0:26:45.06,Default,,0,0,0,,Where?
 Dialogue: 0,0:26:46.86,0:26:48.18,Default,,0,0,0,,At Xú Province!
 Dialogue: 0,0:26:48.54,0:26:49.22,Default,,0,0,0,,What?

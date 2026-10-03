@@ -135,7 +135,7 @@ Dialogue: 0,0:10:03.56,0:10:06.15,Default,,0,0,0,,Get him out, off with his head
 Dialogue: 0,0:10:06.58,0:10:07.52,Default,,0,0,0,,What?
 Dialogue: 0,0:10:09.76,0:10:10.41,Default,,0,0,0,,Wait.
 Dialogue: 0,0:10:11.57,0:10:14.88,Default,,0,0,0,,General, recruiting men is easy, but finding an officer is hard.
-Dialogue: 0,0:10:14.88,0:10:18.36,Default,,0,0,0,,Though Zhang He is guilty, he is a\N general valued by the Prince of Wei.
+Dialogue: 0,0:10:14.88,0:10:18.36,Default,,0,0,0,,Though Zhang He is guilty, he is a\N general valued by the King of Wei.
 Dialogue: 0,0:10:18.36,0:10:20.14,Default,,0,0,0,,He cannot be executed lightly.
 Dialogue: 0,0:10:20.14,0:10:23.94,Default,,0,0,0,,General Cao, you can give him \Na detachment to take Jiameng Pass
 Dialogue: 0,0:10:23.94,0:10:27.54,Default,,0,0,0,,to keep the army of the Riverlands in check.\N Thus, Hanzhong can be saved.
@@ -149,7 +149,7 @@ Dialogue: 0,0:10:56.92,0:10:59.66,Default,,0,0,0,,{\bord11\pos(640,665)}All the 
 Dialogue: 0,0:11:00.29,0:11:01.98,Default,,0,0,0,,{\bord11\pos(640,665)}He is both brave and sly.
 Dialogue: 0,0:11:01.98,0:11:06.39,Default,,0,0,0,,{\bord11}His extraordinary accomplishments are due to your good fortune.
 Dialogue: 0,0:11:06.39,0:11:10.74,Default,,0,0,0,,{\bord11\pos(640,665)}With Wakou Pass taken, the Langzhong line is safe.
-Dialogue: 0,0:11:12.76,0:11:14.34,Default,,0,0,0,,{\bord11\pos(640,665)}My Lord, Strategos,
+Dialogue: 0,0:11:12.76,0:11:14.34,Default,,0,0,0,,{\bord11\pos(640,665)}My lord, Strategos,
 Dialogue: 0,0:11:14.34,0:11:17.04,Default,,0,0,0,,{\bord11\pos(640,665)}General Huo Jun of Jiameng Pass has sent a letter.
 Dialogue: 0,0:11:18.40,0:11:22.55,Style Names,,0,0,0,,{\pos(345.333,448)}Liú Bèi\NStyled: Xuándé
 Dialogue: 0,0:11:25.24,0:11:28.04,Default,,0,0,0,,{\bord11\pos(640,665)}Zhang He has come to attack Jiameng Pass again.
@@ -198,7 +198,7 @@ Dialogue: 0,0:15:07.45,0:15:09.31,Default,,0,0,0,,Elder General Yan can go with 
 Dialogue: 0,0:15:09.65,0:15:10.76,Default,,0,0,0,,I am willing to go!
 Dialogue: 0,0:15:10.95,0:15:14.32,Default,,0,0,0,,If any negligence arises, \Ntake our two white heads first.
 Dialogue: 0,0:15:22.84,0:15:26.84,Default,,0,0,0,,I admire the bravery of you two elderly generals.
-Dialogue: 0,0:15:27.12,0:15:28.04,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:15:27.12,0:15:28.04,Default,,0,0,0,,My lord!
 Dialogue: 0,0:15:29.34,0:15:33.93,Default,,0,0,0,,Now I order you two to lead ten thousand troops towards Jiameng Pass tomorrow.
 Dialogue: 0,0:15:34.11,0:15:35.14,Default,,0,0,0,,Yes!
 Dialogue: 0,0:15:37.13,0:15:37.73,Default,,0,0,0,,Please.
@@ -331,8 +331,8 @@ Dialogue: 0,0:23:50.54,0:23:52.30,Default,,0,0,0,,Let the messenger rest well!
 Dialogue: 0,0:23:52.30,0:23:52.89,Default,,0,0,0,,Yes!
 Dialogue: 0,0:23:54.80,0:23:57.13,Default,,0,0,0,,{\bord11\pos(640,665)}I am styled "Miaocai."
 Dialogue: 0,0:23:54.80,0:23:58.34,Note (Potential style?),,0,0,0,,Miàocái (妙才) lit. "Marvelous ability"
-Dialogue: 0,0:23:57.15,0:24:01.06,Default,,0,0,0,,{\bord11\pos(640,665)}The Prince of Wei told me not to sully its meaning.
-Dialogue: 0,0:24:01.06,0:24:05.53,Default,,0,0,0,,{\bord11}Tomorrow, I will go down the mountain \Nand capture Huang Zhong for the Prince.
+Dialogue: 0,0:23:57.15,0:24:01.06,Default,,0,0,0,,{\bord11\pos(640,665)}The King of Wei told me not to sully its meaning.
+Dialogue: 0,0:24:01.06,0:24:05.53,Default,,0,0,0,,{\bord11}Tomorrow, I will go down the mountain \Nand capture Huang Zhong for the King.
 Dialogue: 0,0:24:06.56,0:24:12.07,Default,,0,0,0,,{\bord11}Mount Dingjun is a major supply depot, the lifeline of Hanzhong.
 Dialogue: 0,0:24:12.07,0:24:16.44,Default,,0,0,0,,{\bord11}If any issues arise, Hanzhong will be in peril. \NPlease reconsider, general.
 Dialogue: 0,0:24:17.10,0:24:20.46,Default,,0,0,0,,{\bord11\pos(640,665)}Can we win glory by holding this position?
@@ -342,7 +342,7 @@ Dialogue: 0,0:24:26.94,0:24:28.91,Default,,0,0,0,,{\bord11\pos(640,665)}They are
 Dialogue: 0,0:24:29.40,0:24:33.06,Default,,0,0,0,,{\bord11}With treacherous mountain paths, we only need to fortify.
 Dialogue: 0,0:24:34.54,0:24:37.74,Default,,0,0,0,,{\bord11\pos(640,665)}He is almost seventy years old; what is there to fear?
 Dialogue: 0,0:24:37.74,0:24:40.42,Default,,0,0,0,,{\bord11\pos(640,665)}If we sit and wait for others to beat us to glory,
-Dialogue: 0,0:24:40.42,0:24:43.82,Default,,0,0,0,,{\bord11\pos(640,665)}how can we show our faces to the Prince of Wei?
+Dialogue: 0,0:24:40.42,0:24:43.82,Default,,0,0,0,,{\bord11\pos(640,665)}how can we show our faces to the King of Wei?
 Dialogue: 0,0:24:43.82,0:24:44.64,Default,,0,0,0,,But...
 Dialogue: 0,0:24:44.64,0:24:47.22,Default,,0,0,0,,{\bord11}Tomorrow, you will guard the mountain when I attack!
 Dialogue: 0,0:24:47.22,0:24:47.99,Default,,0,0,0,,General!

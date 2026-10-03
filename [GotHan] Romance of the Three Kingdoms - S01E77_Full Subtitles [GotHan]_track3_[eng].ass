@@ -34,7 +34,7 @@ Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:00.80,0:00:08.26,Episode Title,,0,0,0,,{\fade(255,0,255,250,750,4000,4500)\pos(653.755,440.122)}Episode 77 \N\N\N\N\NAutumn Wind over Wuzhang Plain
+Dialogue: 0,0:00:00.80,0:00:08.26,Episode Title,,0,0,0,,{\fade(255,0,255,250,750,4000,4500)\pos(653.755,440.122)}Episode 77 \N\N\N\N\NAutumn Wind Over Wuzhang Plain
 Dialogue: 0,0:00:30.82,0:00:34.44,Style Names,,0,0,0,,{\pos(321,450)}Jiāng Wéi\NStyled: Bóyuē
 Dialogue: 0,0:00:47.28,0:00:50.30,Style Names,,0,0,0,,{\pos(362.8,422.4)}Zhūgě Liàng\NStyled: Kǒngmíng
 Dialogue: 0,0:00:52.82,0:00:56.77,Thinking,,0,0,0,,{\bord14\pos(640,663)}I pray to the Seven Stars of the Northern Dipper.
@@ -62,7 +62,7 @@ Dialogue: 0,0:04:57.66,0:04:58.33,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:05:03.70,0:05:05.77,Default,,0,0,0,,{\bord14}Six nights I have prayed,
 Dialogue: 0,0:05:07.21,0:05:09.28,Default,,0,0,0,,{\bord14\pos(640,663)}the master lamp is still shining bright.
 Dialogue: 0,0:05:10.65,0:05:16.75,Default,,0,0,0,,{\bord14\pos(640,663)}If Heaven shows mercy, I may still live on.
-Dialogue: 0,0:05:17.44,0:05:22.12,Default,,0,0,0,,It is to Chancellor’s fortune that Heaven blesses us.
+Dialogue: 0,0:05:17.44,0:05:22.12,Default,,0,0,0,,It is to Chancellor's fortune that Heaven blesses us.
 Dialogue: 0,0:05:26.56,0:05:28.05,Default,,0,0,0,,One last night remains.
 Dialogue: 0,0:05:29.00,0:05:30.61,Default,,0,0,0,,Secure the entrance.
 Dialogue: 0,0:05:31.90,0:05:33.58,Default,,0,0,0,,From all other persons.
@@ -131,7 +131,7 @@ Dialogue: 0,0:12:25.16,0:12:27.08,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:12:27.56,0:12:29.58,Default,,0,0,0,,Chancellor!
 Dialogue: 0,0:12:30.08,0:12:35.44,Note (Potential style?),,0,0,0,,{\i1}"Striving to the utmost, \Nunto one's dying day."
 Dialogue: 0,0:12:40.60,0:12:44.36,Style Names,,0,0,0,,{\pos(296.533,389.6)}Liú Shàn \NStyled: Gōngsì
-Dialogue: 0,0:12:40.13,0:12:44.08,Default,,0,0,0,,May Your Majesty please send someone to inquire of the Chancellor’s last arrangements.
+Dialogue: 0,0:12:40.13,0:12:44.08,Default,,0,0,0,,May Your Majesty please send someone to inquire of the Chancellor's last arrangements.
 Dialogue: 0,0:12:44.48,0:12:45.70,Default,,0,0,0,,Who can We send?
 Dialogue: 0,0:12:45.78,0:12:48.25,Default,,0,0,0,,Secretary Li Fu may be entrusted.
 Dialogue: 0,0:12:49.32,0:12:49.99,Default,,0,0,0,,Good.

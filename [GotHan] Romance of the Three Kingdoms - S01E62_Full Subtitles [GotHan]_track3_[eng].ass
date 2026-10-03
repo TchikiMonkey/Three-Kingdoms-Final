@@ -41,7 +41,7 @@ Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:00.86,0:00:05.54,Episode Title,,0,0,0,,{\fade(255,0,255,0,900,3620,4660)\pos(643.373,408.996)}Episode 62\N\N\N\N\NRallying against Wú
+Dialogue: 0,0:00:00.86,0:00:05.54,Episode Title,,0,0,0,,{\fade(255,0,255,0,900,3620,4660)\pos(643.373,408.996)}Episode 62\N\N\N\N\NRallying Against Wú
 Dialogue: 0,0:00:23.44,0:00:24.48,Default,,0,0,0,,Your Majesty.
 Dialogue: 0,0:00:25.14,0:00:27.11,Default,NTP,0,0,0,,Your Majesty has just acscended to the throne.
 Dialogue: 0,0:00:27.11,0:00:32.44,Default,NTP,0,0,0,,If you oppose Wei, you should lead the army in person and uphold justice for the world.
@@ -226,7 +226,7 @@ Dialogue: 0,0:18:34.88,0:18:37.17,Default,,0,0,0,,{\bord14\pos(640,660)}your hea
 Dialogue: 0,0:18:37.17,0:18:39.37,Default,,0,0,0,,{\bord14\pos(640,660)}Return now and tell Sun Quan something:
 Dialogue: 0,0:18:39.37,0:18:41.40,Default,,0,0,0,,{\bord14\pos(640,660)}to extend his neck for the executioner!
 Dialogue: 0,0:18:46.04,0:18:49.63,Default,,0,0,0,,If this is the case, Jiangnan is in great danger.
-Dialogue: 0,0:18:51.51,0:18:56.70,Default,,0,0,0,,My Lord, I have a plan that can resolve this crisis.
+Dialogue: 0,0:18:51.51,0:18:56.70,Default,,0,0,0,,My lord, I have a plan that can resolve this crisis.
 Dialogue: 0,0:19:03.58,0:19:06.98,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3020,3380)\pos(964,469.333)}Cáo Pī\NStyled: Zǐhuán
 Dialogue: 0,0:19:18.18,0:19:19.70,Style Names,,0,0,0,,{\pos(345.333,480)}Zhào Zī
 Dialogue: 0,0:19:29.71,0:19:33.95,Default,,0,0,0,,{\bord14\pos(640,660)}What sort of master is the Marquis of Wu?
@@ -273,7 +273,7 @@ Dialogue: 0,0:22:19.58,0:22:21.24,Default,,0,0,0,,{\bord14\pos(640,660)}Not so.
 Dialogue: 0,0:22:21.24,0:22:25.66,Default,,0,0,0,,{\bord14\pos(640,660)}We are neither aiding Wu nor Shu.
 Dialogue: 0,0:22:25.66,0:22:30.11,Default,,0,0,0,,{\bord14}When two tigers quarrel, one will be injured. Eliminating them will not be difficult.
 Dialogue: 0,0:22:34.37,0:22:37.77,Default,,0,0,0,,{\bord14\pos(640,660)}I want to see Wu and Shu fight each other.
-Dialogue: 0,0:23:51.41,0:23:54.24,Default,NTP,0,0,0,,My Lord! Liu Bei is leading the entire army of his realm
+Dialogue: 0,0:23:51.41,0:23:54.24,Default,NTP,0,0,0,,My lord! Liu Bei is leading the entire army of his realm
 Dialogue: 0,0:23:54.24,0:23:56.40,Default,NTP,0,0,0,,and barbarian troops under King Shamoke!
 Dialogue: 0,0:23:54.78,0:24:00.82,Style Names,,0,0,0,,{\fade(255,0,255,0,400,5700,6020)\pos(994.667,530.667)}Gù Yōng\NStyled: Yuántàn
 Dialogue: 0,0:23:56.40,0:24:00.64,Default,,0,0,0,,The two armies of Han generals \NDu Lu and Liu Ning are, from Dongxi,
@@ -296,14 +296,14 @@ Dialogue: 0,0:25:12.05,0:25:14.02,Default,NTP,0,0,0,,They both have unstoppable 
 Dialogue: 0,0:25:14.02,0:25:17.58,Default,,0,0,0,,I only ask for a few thousand \Nelite troops to capture Liu Bei alive.
 Dialogue: 0,0:25:20.80,0:25:25.12,Default,NTP,0,0,0,,Virtuous nephew, although you are brave, you are too young.
 Dialogue: 0,0:25:25.52,0:25:28.72,Default,NTP,0,0,0,,You need help from one man before leading troops.
-Dialogue: 0,0:25:28.72,0:25:29.61,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:25:28.72,0:25:29.61,Default,,0,0,0,,My lord!
 Dialogue: 0,0:25:30.77,0:25:34.10,Default,,0,0,0,,I wish to capture Liu Bei with the young general!
 Dialogue: 0,0:25:31.62,0:25:33.87,Style Names,,0,0,0,,{\fade(255,0,255,0,400,2240,2240)\pos(977.333,480)}Pān Zhāng \NStyled: Wénguī
 Dialogue: 0,0:25:35.40,0:25:39.46,Default,NTP,0,0,0,,Good. I hereby appoint you two Commanders of the Left and Right.
 Dialogue: 0,0:25:39.70,0:25:43.55,Default,NTP,0,0,0,,Lead the naval and land forces to Yidu to face the enemy.
 Dialogue: 0,0:25:43.79,0:25:44.34,Default,,0,0,0,,Yes!
 Dialogue: 0,0:26:04.80,0:26:06.28,Default,,0,0,0,,Do not hurt my elder brother!
-Dialogue: 0,0:26:15.70,0:26:18.25,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:26:15.70,0:26:18.25,Default,,0,0,0,,My lord!
 Dialogue: 0,0:26:19.16,0:26:22.06,Default,,0,0,0,,Liu Bei, across over seven hundred {\i1}lǐ{\i0} from Wuxia to Yiling,
 Dialogue: 0,0:26:22.06,0:26:25.67,Default,NTP,0,0,0,,sacked more than forty camps! \NHis momentum is great, and hard to stop!
 Dialogue: 0,0:26:25.67,0:26:27.94,Default,NTP,0,0,0,,Sun Huan asks for help!

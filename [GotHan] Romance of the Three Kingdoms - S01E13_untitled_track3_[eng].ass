@@ -45,7 +45,7 @@ Dialogue: 0,0:00:00.00,0:00:06.10,Header,,0,0,0,,This is a Gentlemen of the Hàn
 Dialogue: 0,0:00:00.78,0:00:07.62,Episode Title,,0,0,0,,{\fade(255,0,255,0,1425,5700,6820)\pos(640,385.545)}Episode 13
 Dialogue: 0,0:00:00.78,0:00:07.62,Episode Title,,0,0,0,,{\pos(635.906,564.545)\fade(255,0,255,0,1425,5700,6820)}White Gate Tower - Part 2
 Dialogue: 0,0:00:30.62,0:00:31.88,Default,,0,0,0,,Fèngxiān?
-Dialogue: 0,0:00:32.78,0:00:35.82,Style Names,,0,0,0,,{\pos(294.755,455.455)\fade(255,0,255,0,545,2640,3020)}Lǚ Bù\NStyled: Fèngxiān
+Dialogue: 0,0:00:32.78,0:00:35.82,Style Names,,0,0,0,,{\pos(294.755,455.455)\fade(255,0,255,0,545,2640,3020)}Lü Bù\NStyled: Fèngxiān
 Dialogue: 0,0:00:34.26,0:00:35.38,Default,,0,0,0,,Chancellor.
 Dialogue: 0,0:00:36.74,0:00:40.50,Style Names,,0,0,0,,{\pos(981.151,484.091)\fade(255,0,255,0,420,3620,3740)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:00:37.42,0:00:38.66,Default,,0,0,0,,Fengxian,
@@ -157,7 +157,7 @@ Dialogue: 0,0:10:13.50,0:10:14.26,Default,,0,0,0,,General?
 Dialogue: 0,0:10:17.86,0:10:18.54,Default,,0,0,0,,Speak now!
 Dialogue: 0,0:10:19.10,0:10:19.70,Default,,0,0,0,,Yes.
 Dialogue: 0,0:10:22.78,0:10:26.82,Default,,0,0,0,,{\bord12}Below his city, we met Yuan Shu\Nand presented the letter from you.
-Dialogue: 0,0:10:27.62,0:10:30.30,Default,,0,0,0,,{\bord12\pos(640,660)}Because you, sire, had killed Yuan Shu's envoys,
+Dialogue: 0,0:10:27.62,0:10:30.30,Default,,0,0,0,,{\bord12\pos(640,660)}Because you, sire, had Yuan Shu's envoys killed,
 Dialogue: 0,0:10:30.86,0:10:32.26,Default,,0,0,0,,{\bord12\pos(640,660)}he declined our proposal.
 Dialogue: 0,0:10:32.78,0:10:34.78,Default,,0,0,0,,{\bord12\pos(640,660)}Now that we have came to ask of it again,
 Dialogue: 0,0:10:35.50,0:10:38.26,Default,,0,0,0,,{\bord12\pos(640,660)}he has blamed you, sire, for your chronic treachery.
@@ -184,7 +184,7 @@ Dialogue: 0,0:11:47.34,0:11:49.82,Default,,0,0,0,,{\bord12}Today has the aura of
 Dialogue: 0,0:11:49.90,0:11:52.98,Default,,0,0,0,,{\bord12}Tomorrow is auspicious,\Nand you should leave at night.
 Dialogue: 0,0:12:00.46,0:12:01.42,Default,,0,0,0,,Fine!
 Dialogue: 0,0:12:03.50,0:12:05.06,Default,,0,0,0,,Tomorrow, it's tomorrow!
-Dialogue: 0,0:12:35.62,0:12:38.62,Default,,0,0,0,,{\pos(981.151,373.636)\fade(255,0,255,0,480,2440,2960)}Lǚ Bù's\Ndaughter
+Dialogue: 0,0:12:35.62,0:12:38.62,Default,,0,0,0,,{\pos(981.151,373.636)\fade(255,0,255,0,480,2440,2960)}Lü Bù's\Ndaughter
 Dialogue: 0,0:13:19.06,0:13:20.30,Default,,0,0,0,,Mother!
 Dialogue: 0,0:13:22.18,0:13:23.22,Default,,0,0,0,,Mother!
 Dialogue: 0,0:13:39.74,0:13:44.10,Default,,0,0,0,,The Chancellor's orders. If anyone lets\NLü Bu escape, they shall be killed on the spot!
@@ -212,9 +212,9 @@ Dialogue: 0,0:15:12.74,0:15:18.06,Default,,0,0,0,,{\bord12}Perhaps you mean usin
 Dialogue: 0,0:15:18.06,0:15:19.26,Default,Guo Jia,0,0,0,,{\bord12\pos(640,660)}That is my intention.
 Dialogue: 0,0:15:23.26,0:15:23.82,Default,,0,0,0,,{\bord12\pos(640,660)}Flood it.
 Dialogue: 0,0:15:36.22,0:15:39.26,Default,,0,0,0,,Report! General, Cao Cao flooded the city!
-Dialogue: 0,0:15:44.58,0:15:48.70,Default,,0,0,0,,Report! General! The Southern and Northern\Ngates have been flooded!
+Dialogue: 0,0:15:44.58,0:15:48.70,Default,,0,0,0,,Report! General! The southern and northern\Ngates have been flooded!
 Dialogue: 0,0:15:51.66,0:15:52.82,Default,,0,0,0,,Report!
-Dialogue: 0,0:15:53.38,0:15:56.14,Default,NTP,0,0,0,,General, Eastern gate of Xiàpī is intact!
+Dialogue: 0,0:15:53.38,0:15:56.14,Default,NTP,0,0,0,,General, the eastern gate of Xiàpī is intact!
 Dialogue: 0,0:15:56.14,0:15:57.70,Default,NTP,0,0,0,,All the others are flooded!
 Dialogue: 0,0:16:22.78,0:16:26.82,Default,,0,0,0,,I have Red Hare, who can cross waters\Nas if they were fields.
 Dialogue: 0,0:16:28.54,0:16:29.90,Default,,0,0,0,,What do I have to fear?
@@ -302,7 +302,7 @@ Dialogue: 0,0:31:42.38,0:31:42.70,Default,,0,0,0,,Go!
 Dialogue: 0,0:31:56.34,0:31:59.94,Default,,0,0,0,,Gongtai, have you been well since we last met?
 Dialogue: 0,0:32:04.02,0:32:08.86,Default,,0,0,0,,When you left my service,\Ndid you ever expect this to happen?
 Dialogue: 0,0:32:10.42,0:32:13.70,Default,,0,0,0,,I left your service because of your crooked ways.
-Dialogue: 0,0:32:16.02,0:32:17.50,Default,,0,0,0,,My 'crooked ways'?
+Dialogue: 0,0:32:16.02,0:32:17.50,Default,,0,0,0,,My "crooked ways"?
 Dialogue: 0,0:32:18.94,0:32:23.58,Default,,0,0,0,,Can you explain why you served Lü Bu alone?
 Dialogue: 0,0:32:30.18,0:32:32.18,Default,,0,0,0,,Lü Bu, despite his lack of wisdom,
 Dialogue: 0,0:32:33.42,0:32:36.30,Default,,0,0,0,,does not resemble you in such deceit and treachery.
@@ -326,7 +326,7 @@ Dialogue: 0,0:34:04.34,0:34:04.94,Default,,0,0,0,,Gongtai!
 Dialogue: 0,0:34:06.38,0:34:06.98,Default,,0,0,0,,Gongtai?
 Dialogue: 0,0:34:10.38,0:34:10.86,Default,,0,0,0,,Gongtai!
 Dialogue: 0,0:34:24.22,0:34:29.10,Default,,0,0,0,,{\bord12}I abandoned my magistrate post\Nto follow you, sir, to achieve great deeds.
-Dialogue: 0,0:34:30.30,0:34:35.30,Default,,0,0,0,,{\bord12}'I'd rather let myself betray the world\Nthan let the world betray me.'
+Dialogue: 0,0:34:30.30,0:34:35.30,Default,,0,0,0,,{\bord12}"Rather I betray the world,\Nthan let the world betray me."
 Dialogue: 0,0:35:41.14,0:35:46.22,Default,,0,0,0,,Escort Gongtai's family to Xǔdū so that they may be looked after.
 Dialogue: 0,0:35:48.18,0:35:51.14,Default,,0,0,0,,Anyone who delays will meet with death.
 Dialogue: 0,0:35:55.30,0:35:58.58,Default,,0,0,0,,{\bord12}Sir, you are the guest;\N I am a prisoner.
@@ -351,7 +351,7 @@ Dialogue: 0,0:37:31.26,0:37:35.70,Default,,0,0,0,,Liu Bei! Did you forget how I 
 Dialogue: 0,0:37:35.82,0:37:37.62,Default,,0,0,0,,An arrow through my halberd-
 Dialogue: 0,0:37:37.78,0:37:39.90,Style Names,,0,0,0,,{\pos(957.953,445.909)\fade(255,0,255,0,450,1660,2100)}Zhāng Liáo\NStyled: Wényuǎn
 Dialogue: 0,0:37:37.22,0:37:37.74,Default,,0,0,0,,Lü Bu!
-Dialogue: 0,0:37:38.30,0:37:41.02,Default,,0,0,0,,You coward! It is but only death! Why be afraid?
+Dialogue: 0,0:37:38.30,0:37:41.02,Default,,0,0,0,,You coward! It is only but death! Why be afraid?
 Dialogue: 0,0:37:56.98,0:37:58.58,Default,,0,0,0,,This man looks familiar...
 Dialogue: 0,0:38:00.02,0:38:02.86,Default,,0,0,0,,We met each other at Púyáng City.\NHow could you forget?
 Dialogue: 0,0:38:04.50,0:38:06.38,Default,,0,0,0,,So you remember as well...
@@ -369,6 +369,6 @@ Dialogue: 0,0:38:54.58,0:38:56.66,Default,,0,0,0,,I was merely jesting, that is 
 Dialogue: 0,0:39:05.58,0:39:09.94,Thinking,,0,0,0,,In the 3rd year of the Jiàn'ān era,\Nthe winter of 198 CE,
 Dialogue: 0,0:39:10.42,0:39:15.82,Thinking,,0,0,0,,Cao Cao finally fulfilled his wish\N by wiping out the trouble within his heart, Lü Bu,
 Dialogue: 0,0:39:16.06,0:39:18.66,Thinking,,0,0,0,,and receiving Zhang Liao's surrender.
-Dialogue: 0,0:39:19.22,0:39:23.14,Thinking,,0,0,0,,The General of Chariots and Cavalry,\NChē Zhòu, controlled Xú-Province.
+Dialogue: 0,0:39:19.22,0:39:23.14,Thinking,,0,0,0,,The General of Chariots and Cavalry,\NChē Zhòu, controlled Xú Province.
 Dialogue: 0,0:39:23.90,0:39:29.26,Thinking,,0,0,0,,Since then, Cao Cao's power grew stronger, as did his prestige.
 

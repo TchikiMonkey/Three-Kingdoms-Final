@@ -45,9 +45,9 @@ Dialogue: 0,0:00:30.10,0:00:32.62,Thinking,,0,0,0,,Also, he sent an envoy to Jin
 Dialogue: 0,0:00:32.62,0:00:38.50,Thinking,,0,0,0,,to generously reward Guan Yu, who guarded Jing Province, with gold and brocade.
 Dialogue: 0,0:00:39.74,0:00:43.45,Default,,0,0,0,,Liu Zhang led a tiger into the west and invited his own defeat.
 Dialogue: 0,0:00:43.45,0:00:48.22,Default,NTP,0,0,0,,But that Liu Bei promised to give back Jing Province after obtaining the Riverlands.
-Dialogue: 0,0:00:48.22,0:00:52.39,Default,NTP,0,0,0,,Now he has the Riverlands, yet there's still no reply about giving the Jing Province.
+Dialogue: 0,0:00:48.22,0:00:52.39,Default,NTP,0,0,0,,Now he has the Riverlands, yet there's still no reply about giving Jing Province.
 Dialogue: 0,0:00:52.39,0:00:53.54,Default,,0,0,0,,This is vexing.
-Dialogue: 0,0:00:53.54,0:00:54.22,Default,NTP,0,0,0,,My Lord,
+Dialogue: 0,0:00:53.54,0:00:54.22,Default,NTP,0,0,0,,My lord,
 Dialogue: 0,0:00:54.46,0:00:56.71,Default,,0,0,0,,{\pos(640,664)}{\bord12}Liu Bei is a mighty raptor.
 Dialogue: 0,0:00:57.24,0:01:01.51,Default,,0,0,0,,{\bord12}With the Western Riverlands, he will harbor ambitions to invade Jiangdong.
 Dialogue: 0,0:01:01.51,0:01:04.22,Default,,0,0,0,,{\bord12}Jing Province holds the upper stream of the Yangzi River.
@@ -63,7 +63,7 @@ Dialogue: 0,0:01:43.06,0:01:45.74,Style Names,,0,0,0,,{\pos(315.224,480)}Sūn Qu
 Dialogue: 0,0:01:43.78,0:01:46.38,Default,,0,0,0,,What great plan do you have, sir?
 Dialogue: 0,0:01:47.60,0:01:51.13,Default,,0,0,0,,{\pos(640,664)}{\bord12}The man who Liu Bei relies on is Zhuge Liang.
 Dialogue: 0,0:01:51.13,0:01:54.93,Default,,0,0,0,,{\bord12}Zhuge Jin, his elder brother, is now under the command of my Lord.
-Dialogue: 0,0:01:54.93,0:02:00.38,Default,,0,0,0,,{\pos(640,664)}{\bord12}My Lord, why not detain his entire family,
+Dialogue: 0,0:01:54.93,0:02:00.38,Default,,0,0,0,,{\pos(640,664)}{\bord12}My lord, why not detain his entire family,
 Dialogue: 0,0:02:00.38,0:02:03.92,Default,,0,0,0,,{\bord12}and send him into the Western Riverlands to tell his brother
 Dialogue: 0,0:02:03.92,0:02:06.40,Default,,0,0,0,,{\pos(640,664)}{\bord12}that if Jing Province is not returned,
 Dialogue: 0,0:02:06.40,0:02:10.23,Default,,0,0,0,,{\pos(640,664)}{\bord12}the lives of Zhuge Jin's family will be in peril.
@@ -86,18 +86,18 @@ Dialogue: 0,0:03:17.93,0:03:20.93,Default,NTP,0,0,0,,and that he wants to come h
 Dialogue: 0,0:03:20.98,0:03:25.58,Default,,0,0,0,,If Yunchang comes here, two tigers will fight, and one will certainly be injured.
 Dialogue: 0,0:03:26.15,0:03:29.39,Default,,0,0,0,,Then if something happens to Jing Province, there will be trouble.
 Dialogue: 0,0:03:29.40,0:03:32.60,Default,,0,0,0,,Does Strategos have an idea to prevent this?
-Dialogue: 0,0:03:32.60,0:03:34.34,Default,NTP,0,0,0,,My Lord need not worry.
+Dialogue: 0,0:03:32.60,0:03:34.34,Default,NTP,0,0,0,,My lord need not worry.
 Dialogue: 0,0:03:34.34,0:03:38.07,Default,NTP,0,0,0,,I will write a letter to reply to Yunchang, and all will be well.
 Dialogue: 0,0:03:38.58,0:03:41.58,Default,,0,0,0,,Without further ado, Strategos, if you please.
 Dialogue: 0,0:04:03.46,0:04:09.42,Style Names,,0,0,0,,{\pos(320,460)}Zhuge Liàng\NStyled: Kǒngmíng
-Dialogue: 0,0:04:14.42,0:04:15.32,Default,,0,0,0,,My Lord,
+Dialogue: 0,0:04:14.42,0:04:15.32,Default,,0,0,0,,My lord,
 Dialogue: 0,0:04:16.78,0:04:18.14,Default,,0,0,0,,please have a look.
 Dialogue: 0,0:04:30.74,0:04:33.79,Default,,0,0,0,,Strategos understands Yunchang well.
 Dialogue: 0,0:04:34.82,0:04:38.14,Default,NTP,0,0,0,,Guan Ping can now return to Jing Province with this letter,
 Dialogue: 0,0:04:38.14,0:04:40.14,Default,NTP,0,0,0,,and stop Yunchang's trip here.
 Dialogue: 0,0:04:40.29,0:04:41.30,Default,,0,0,0,,Messenger!
 Dialogue: 0,0:04:53.26,0:04:58.95,Style Names,,0,0,0,,{\pos(305.921,476)}Zhūgě Jǐn\NStyled: Zǐyú
-Dialogue: 0,0:05:09.38,0:05:13.14,Default,,0,0,0,,My Lord, Sir Zhuge Ziyu of Eastern Wu is at the gates.
+Dialogue: 0,0:05:09.38,0:05:13.14,Default,,0,0,0,,My lord, Sir Zhuge Ziyu of Eastern Wu is at the gates.
 Dialogue: 0,0:05:13.14,0:05:15.18,Default,,0,0,0,,What? Say that again.
 Dialogue: 0,0:05:15.18,0:05:18.15,Default,,0,0,0,,Sir Zhuge Ziyu of Eastern Wu is at the gates.
 Dialogue: 0,0:05:20.70,0:05:23.14,Default,,0,0,0,,Show him in.
@@ -107,7 +107,7 @@ Dialogue: 0,0:05:31.44,0:05:33.03,Default,,0,0,0,,For Jing Province.
 Dialogue: 0,0:05:33.42,0:05:34.75,Default,,0,0,0,,For Jing Province?
 Dialogue: 0,0:05:39.98,0:05:43.03,Default,,0,0,0,,If it were anyone else, it would be no hindrance,
 Dialogue: 0,0:05:43.42,0:05:48.42,Default,,0,0,0,,but with your elder brother, how should we respond?
-Dialogue: 0,0:05:49.02,0:05:57.42,Default,,0,0,0,,My Lord, I will welcome my elder brother first, after which matters will be clear. Then...
+Dialogue: 0,0:05:49.02,0:05:57.42,Default,,0,0,0,,My lord, I will welcome my elder brother first, after which matters will be clear. Then...
 Dialogue: 0,0:05:58.94,0:05:59.95,Default,,0,0,0,,Elder Brother!
 Dialogue: 0,0:06:00.98,0:06:02.19,Default,,0,0,0,,Second Brother.
 Dialogue: 0,0:06:02.19,0:06:03.94,Default,,0,0,0,,-Elder Brother.\N-Second Brother.
@@ -131,11 +131,11 @@ Dialogue: 0,0:07:33.42,0:07:37.91,Default,,0,0,0,,he sent men to lure his sister
 Dialogue: 0,0:07:37.91,0:07:39.46,Default,,0,0,0,,This is intolerable!
 Dialogue: 0,0:07:39.63,0:07:43.34,Default,,0,0,0,,I will muster the Riverland's armies and bring down my vengeance upon the South!
 Dialogue: 0,0:07:43.34,0:07:45.75,Default,,0,0,0,,Will he still demand Jing Province then?
-Dialogue: 0,0:07:47.58,0:07:48.98,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:07:47.58,0:07:48.98,Default,,0,0,0,,My lord!
 Dialogue: 0,0:07:49.85,0:07:52.98,Default,,0,0,0,,The Marquis of Wu is holding \Nmy brother's family as hostage.
 Dialogue: 0,0:07:53.46,0:08:00.98,Default,,0,0,0,,If Jing Province is not returned, \Nmy brother's family will be executed!
 Dialogue: 0,0:08:15.90,0:08:19.87,Default,,0,0,0,,How can I live with my elder brother dead?
-Dialogue: 0,0:08:20.74,0:08:22.90,Default,,0,0,0,,My Lord, for my sake,
+Dialogue: 0,0:08:20.74,0:08:22.90,Default,,0,0,0,,My lord, for my sake,
 Dialogue: 0,0:08:22.90,0:08:29.34,Default,,0,0,0,,please return Jing Province to Eastern Wu for the lives of us brothers!
 Dialogue: 0,0:08:42.02,0:08:46.62,Default,,0,0,0,,I hope that my Lord may pity the innocent \Nand return Jing Province.
 Dialogue: 0,0:09:00.54,0:09:02.63,Default,,0,0,0,,Strategos, please rise.
@@ -164,7 +164,7 @@ Dialogue: 0,0:10:58.38,0:11:01.22,Default,,0,0,0,,{\pos(640,664)}{\bord12}Yuncha
 Dialogue: 0,0:11:01.22,0:11:04.22,Default,,0,0,0,,{\pos(640,664)}{\bord12}He knows the importance of Jing Province very well,
 Dialogue: 0,0:11:04.70,0:11:06.99,Default,,0,0,0,,{\pos(640,664)}{\bord12}and he is a proud man.
 Dialogue: 0,0:11:06.99,0:11:11.05,Default,,0,0,0,,{\bord12}Therefore, he has no desire to surrender land to others easily.
-Dialogue: 0,0:11:12.22,0:11:18.15,Default,,0,0,0,,{\bord12}My Lord simply needs to temper the tone of the letter, and not provide a deadline.
+Dialogue: 0,0:11:12.22,0:11:18.15,Default,,0,0,0,,{\bord12}My lord simply needs to temper the tone of the letter, and not provide a deadline.
 Dialogue: 0,0:11:19.10,0:11:23.11,Default,,0,0,0,,{\bord12}Yunchang will be able to guess the true intent himself.
 Dialogue: 0,0:11:27.34,0:11:29.61,Default,,0,0,0,,{\pos(640,664)}{\bord12}Rest assured, my Lord.
 Dialogue: 0,0:11:30.34,0:11:32.34,Default,,0,0,0,,Good, I shall write it then.
@@ -260,12 +260,12 @@ Dialogue: 0,0:19:08.29,0:19:12.51,Default,,0,0,0,,Now that we have Liu Bei's wor
 Dialogue: 0,0:19:15.02,0:19:19.50,Default,NTP,0,0,0,,I shall send three officials to their assignments in Changsha, Guiyang, and Lingling.
 Dialogue: 0,0:19:19.60,0:19:20.78,Default,NTP,0,0,0,,What can he do about it?
 Dialogue: 0,0:19:20.94,0:19:22.86,Default,,0,0,0,,An excellent idea.
-Dialogue: 0,0:19:24.02,0:19:24.87,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:19:24.02,0:19:24.87,Default,,0,0,0,,My lord!
 Dialogue: 0,0:19:25.42,0:19:26.86,Default,,0,0,0,,What is this?
-Dialogue: 0,0:19:26.86,0:19:31.13,Default,NTP,0,0,0,,My Lord, we went to the commanderies of Changsha, Guiyang, and Lingling,
+Dialogue: 0,0:19:26.86,0:19:31.13,Default,NTP,0,0,0,,My lord, we went to the commanderies of Changsha, Guiyang, and Lingling,
 Dialogue: 0,0:19:31.13,0:19:34.86,Default,NTP,0,0,0,,but in one day, we were driven out by Guan Yunchang!
 Dialogue: 0,0:19:34.86,0:19:38.73,Default,,0,0,0,,If we hadn't run we could have lost our lives!
-Dialogue: 0,0:19:38.73,0:19:39.58,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:19:38.73,0:19:39.58,Default,,0,0,0,,My lord!
 Dialogue: 0,0:19:39.58,0:19:40.30,Default,,0,0,0,,Enough!
 Dialogue: 0,0:19:50.94,0:19:52.79,Default,,0,0,0,,Guan Yu, you lout.
 Dialogue: 0,0:19:55.46,0:19:57.15,Default,,0,0,0,,You have gone too far!
@@ -290,7 +290,7 @@ Dialogue: 0,0:21:02.74,0:21:06.10,Default,,0,0,0,,This way, Jing Province can be
 Dialogue: 0,0:21:07.54,0:21:10.69,Default,,0,0,0,,If he does not come, we seize Jing Province directly.
 Dialogue: 0,0:21:12.10,0:21:16.10,Default,,0,0,0,,My thoughts exactly. Execute this plan immediately.
 Dialogue: 0,0:21:17.07,0:21:17.63,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:21:18.10,0:21:20.51,Default,,0,0,0,,My Lord, this plan is infeasible.
+Dialogue: 0,0:21:18.10,0:21:20.51,Default,,0,0,0,,My lord, this plan is infeasible.
 Dialogue: 0,0:21:21.42,0:21:22.53,Default,,0,0,0,,Why?
 Dialogue: 0,0:21:22.53,0:21:24.76,Default,NTP,0,0,0,,Guan Yunchang is a tiger general of our times.
 Dialogue: 0,0:21:24.76,0:21:27.52,Default,NTP,0,0,0,,His valiance and power is far above ordinary men.
@@ -435,7 +435,7 @@ Dialogue: 0,0:34:11.44,0:34:14.22,Default,,0,0,0,,These words are incorrect, sir
 Dialogue: 0,0:34:15.90,0:34:17.92,Default,,0,0,0,,How are they incorrect?
 Dialogue: 0,0:34:20.36,0:34:24.56,Default,,0,0,0,,{\pos(640,664)}{\bord12}Back then, you, sir, and Imperial Uncle were defeated
 Dialogue: 0,0:34:24.56,0:34:26.89,Default,,0,0,0,,{\pos(640,664)}{\bord12}and forced to flee with strength exhausted.
-Dialogue: 0,0:34:26.89,0:34:30.90,Default,,0,0,0,,{\bord12}My Lord, sympathizing the Imperial Uncle, granted land without prejudice,
+Dialogue: 0,0:34:26.89,0:34:30.90,Default,,0,0,0,,{\bord12}My lord, sympathizing the Imperial Uncle, granted land without prejudice,
 Dialogue: 0,0:34:30.90,0:34:34.64,Default,,0,0,0,,{\bord12}so that Imperial Uncle would have a foothold from which to reestablish himself.
 Dialogue: 0,0:34:35.44,0:34:41.02,Default,,0,0,0,,{\bord12}Today, however, Imperial Uncle has damaged our relations and gained the Western Riverlands,
 Dialogue: 0,0:34:41.02,0:34:44.93,Default,,0,0,0,,{\bord12}and occupied Jing in betrayal. \NIs this not a subject of ridicule across the realm?
@@ -445,7 +445,7 @@ Dialogue: 0,0:34:55.22,0:35:00.50,Default,,0,0,0,,I heard that the Imperial Uncl
 Dialogue: 0,0:35:00.50,0:35:03.48,Default,,0,0,0,,The Imperial Uncle is you, \Nand you are the Imperial Uncle.
 Dialogue: 0,0:35:03.70,0:35:05.56,Default,,0,0,0,,How can you shirk from this?
 Dialogue: 0,0:35:10.62,0:35:13.70,Default,,0,0,0,,Why do you laugh, sir?
-Dialogue: 0,0:35:15.38,0:35:19.72,Default,,0,0,0,,If Commander wants the Jing Province back, just say so directly.
+Dialogue: 0,0:35:15.38,0:35:19.72,Default,,0,0,0,,If Commander wants Jing Province back, just say so directly.
 Dialogue: 0,0:35:24.09,0:35:26.20,Default,,0,0,0,,Why set up this Hongmen Banquet?
 Dialogue: 0,0:35:26.74,0:35:29.17,Default,NTP,0,0,0,,Since you know my intent, pray tell,
 Dialogue: 0,0:35:29.17,0:35:32.16,Default,NTP,0,0,0,,will you return Jing Province or not?

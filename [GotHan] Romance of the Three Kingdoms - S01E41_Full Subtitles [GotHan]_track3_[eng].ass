@@ -43,7 +43,7 @@ Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.80,0:00:05.76,Episode Title,,0,0,0,,{\pos(629.083,434.61)\\fade(255,0,255,0,1100,5500,6900)}Episode 41\N \N\N\NSeizure of Four Commanderies
 Dialogue: 0,0:00:03.80,0:00:05.60,Thinking,,0,0,0,,During the Battle of Nan Commandery,
-Dialogue: 0,0:00:05.60,0:00:09.80,Thinking,,0,0,0,,Zhuge Liang took advantage of the \Nbitter struggle between Zhou Yu and Cao Ren,\N
+Dialogue: 0,0:00:05.60,0:00:09.80,Thinking,,0,0,0,,Zhuge Liang took advantage of the \Nbitter struggle between Zhou Yu and Cao Ren,
 Dialogue: 0,0:00:09.80,0:00:12.64,Thinking,,0,0,0,,sending Zhao Yun to take \NNan Commandery by strategy.
 Dialogue: 0,0:00:12.64,0:00:19.32,Thinking,NTP,0,0,0,,He also used the captured military tally of Cao Ren \Nto seize Jing Province and Xiangyang in one move.
 Dialogue: 0,0:00:19.52,0:00:22.68,Thinking,NTP,0,0,0,,Zhou Yu was so furious that his arrow wound broke open,
@@ -98,7 +98,7 @@ Dialogue: 0,0:04:19.08,0:04:22.96,Style Names,,0,0,0,,{\pos(287.75,455.065)\\fad
 Dialogue: 0,0:04:19.44,0:04:23.36,Default,,0,0,0,,If he does not die, then when\N will Jing Province be returned?
 Dialogue: 0,0:04:23.92,0:04:25.76,Default,NTP,0,0,0,,Chief Commander, please rest assured.
 Dialogue: 0,0:04:25.80,0:04:29.52,Default,NTP,0,0,0,,I assure you the return of Jing Province and Xiangyang.
-Dialogue: 0,0:04:30.52,0:04:33.16,Default,,0,0,0,,And why are you so confident, Zijing?\N
+Dialogue: 0,0:04:30.52,0:04:33.16,Default,,0,0,0,,And why are you so confident, Zijing?
 Dialogue: 0,0:04:33.76,0:04:37.60,Default,,0,0,0,,I saw that Liu Qi's face looked \Nvery ill, with his forehead being dark green.
 Dialogue: 0,0:04:37.68,0:04:41.08,Default,,0,0,0,,He must have doomed his body with his addiction to debauchery.
 Dialogue: 0,0:04:41.40,0:04:44.24,Default,,0,0,0,,I reckon that he will die within half a year.
@@ -110,7 +110,7 @@ Dialogue: 0,0:05:08.56,0:05:11.84,Default,,0,0,0,,Chief Commander, our liege is 
 Dialogue: 0,0:05:11.84,0:05:15.20,Default,NTP,0,0,0,,He orders that you join up \Nwith him with a detachment.
 Dialogue: 0,0:05:15.20,0:05:17.76,Default,,0,0,0,,He also asks you to rest and recuperate at Chaisang.
 Dialogue: 0,0:05:36.96,0:05:40.16,Default,,0,0,0,,{\bord13.909}The west has the arduous terrain of Shǔ, the north has Cao Cao,
-Dialogue: 0,0:05:36.96,0:05:40.16,Note (Potential style?),,0,0,0,,Note: Shǔ (蜀) corresponds to modern Sichuan-province
+Dialogue: 0,0:05:36.96,0:05:40.16,Note (Potential style?),,0,0,0,,Note: Shǔ (蜀) corresponds to modern Sichuan province
 Dialogue: 0,0:05:40.16,0:05:42.88,Default,,0,0,0,,{\bord13\pos(640,670)}and the east has Sun Quan. We lack an enemy in-
 Dialogue: 0,0:05:42.88,0:05:46.32,Default,,0,0,0,,{\bord13\pos(640,670)}Only the south. It is weak and can be conquered.
 Dialogue: 0,0:05:48.25,0:05:50.64,Default,,0,0,0,,{\bord13\pos(640,670)} Let us order Noble Son Liu Qi to recuperate,
@@ -118,7 +118,7 @@ Dialogue: 0,0:05:50.84,0:05:55.02,Default,,0,0,0,,{\bord13.909} but also petitio
 Dialogue: 0,0:05:55.16,0:05:59.04,Default,,0,0,0,,{\bord13.909}We will then have a general remain to\N guard this land for the time being.
 Dialogue: 0,0:05:59.04,0:06:04.56,Default,,0,0,0,,{\bord13.909}Afterwards, lead an army on a southern expedition, \Ntaking Changsha, Guiyang, Lingling, and Wuling,
 Dialogue: 0,0:06:04.56,0:06:07.64,Default,,0,0,0,,{\bord13.909}We can then collect resources to help us build a foundation.
-Dialogue: 0,0:06:08.32,0:06:11.76,Default,,0,0,0,,{\bord13.909}Among those four commanderies, \Nwhich is to be taken first?\N
+Dialogue: 0,0:06:08.32,0:06:11.76,Default,,0,0,0,,{\bord13.909}Among those four commanderies, \Nwhich is to be taken first?
 Dialogue: 0,0:06:14.40,0:06:18.36,Default,,0,0,0,,{\bord13.909}To the west of the Xiang River,\N Lingling is the closest. It can be taken first.
 Dialogue: 0,0:06:18.48,0:06:20.56,Default,,0,0,0,,{\bord13\pos(640,670)}Afterwards, take Wuling.
 Dialogue: 0,0:06:20.72,0:06:25.16,Default,,0,0,0,,{\bord13.909}To the east of the Xiang River,\N we can take Guiyang, and, finally, take Changsha.
@@ -252,7 +252,7 @@ Dialogue: 0,0:17:37.28,0:17:41.66,Default,,0,0,0,,I fear that I haven't establis
 Dialogue: 0,0:17:42.72,0:17:45.52,Default,,0,0,0,,Zilong, you are a true man.
 Dialogue: 0,0:17:46.68,0:17:48.96,Default,,0,0,0,,-Zhao Fan requests an audience. \N-Let him in.
 Dialogue: 0,0:17:53.48,0:17:54.52,Default,,0,0,0,,Imperial Uncle.
-Dialogue: 0,0:17:59.48,0:18:04.56,Default,,0,0,0,,Imperial Uncle, Strategos, now that you have come to Guiyang, why do you not enter the city?\N
+Dialogue: 0,0:17:59.48,0:18:04.56,Default,,0,0,0,,Imperial Uncle, Strategos, now that you have come to Guiyang, why do you not enter the city?
 Dialogue: 0,0:18:06.36,0:18:10.80,Default,,0,0,0,,Administrator Zhao, no need for politeness. We are busy with military matters, and so we cannot stay.
 Dialogue: 0,0:18:10.80,0:18:13.48,Default,,0,0,0,,In the future, we will pay our respects to you.
 Dialogue: 0,0:18:14.60,0:18:21.40,Default,NTP,0,0,0,,Administrator Zhao, Zilong failed to accept your remarkable offer, as he has his own thoughts.
@@ -323,7 +323,7 @@ Dialogue: 0,0:22:50.50,0:22:54.54,Default,,0,0,0,,Second Brother, you cannot act
 Dialogue: 0,0:22:55.54,0:23:01.26,Default,,0,0,0,,Elder Brother, be relieved. I must go now for this urgent military operation.
 Dialogue: 0,0:23:01.86,0:23:04.18,Default,,0,0,0,,Let me see you off, Second Brother! Please!
 Dialogue: 0,0:23:17.62,0:23:20.74,Default,,0,0,0,,Administrator, Guan Yu's army is only 5 {\i1}li{\i0} away!
-Dialogue: 0,0:23:23.20,0:23:27.10,Default,NTP,0,0,0,,I heard that this Guan Yu rode alone for over 1,000 {\i1}li{\i0},
+Dialogue: 0,0:23:23.20,0:23:27.10,Default,NTP,0,0,0,,I heard that this Guan Yu rode alone for over 1,000 {\i1}li,{\i0}
 Dialogue: 0,0:23:25.98,0:23:29.22,Style Names,,0,0,0,,{\pos(963.412,458.182)\\fade(255,0,255,0,420,2900,3220)}Hán Xuán
 Dialogue: 0,0:23:27.14,0:23:31.82,Default,NTP,0,0,0,,and killed six generals through five passes.\NSuch god-like strength is incomparable!
 Dialogue: 0,0:23:31.98,0:23:34.26,Default,,0,0,0,,My liege, no need to fret.
@@ -460,7 +460,7 @@ Dialogue: 0,0:37:43.52,0:37:47.08,Default,,0,0,0,,He has been saying that he is 
 Dialogue: 0,0:37:53.72,0:37:55.00,Default,,0,0,0,,Elder General Huang!
 Dialogue: 0,0:37:59.20,0:38:01.20,Default,,0,0,0,,Elder General Huang!
 Dialogue: 0,0:38:03.28,0:38:05.00,Default,,0,0,0,,Elder General Huang!
-Dialogue: 0,0:38:23.52,0:38:28.32,Thinking,NTP,0,0,0,,Huang Zhong, through the sincere requests of Liu Bei, Zhuge Liang, and the others,\N
+Dialogue: 0,0:38:23.52,0:38:28.32,Thinking,NTP,0,0,0,,Huang Zhong, through the sincere requests of Liu Bei, Zhuge Liang, and the others,
 Dialogue: 0,0:38:28.32,0:38:30.04,Thinking,NTP,0,0,0,,submitted at last.
 Dialogue: 0,0:38:30.68,0:38:34.36,Thinking,,0,0,0,,Liu Bei hence gained another major general.
 Dialogue: 0,0:38:36.32,0:38:41.08,Thinking,,0,0,0,,By capturing Lingling, Wuling, Guiyang, and Changsha,

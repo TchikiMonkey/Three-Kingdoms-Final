@@ -37,7 +37,7 @@ Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,Thank you for watching the Gentlemen of the Hàn fansubs!\N
+Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,Thank you for watching the Gentlemen of the Hàn fansubs!
 Dialogue: 0,0:00:00.32,0:00:06.28,Episode Title,,0,0,0,,{\fade(255,0,255,0,1000,5000,5960)\pos(640,424)}Episode 84 \N\N\N\N\NThree Divided United By Jin
 Dialogue: 0,0:00:06.54,0:00:12.40,Style Names,,0,0,0,,{\fade(255,0,255,0,400,6000,6000)\pos(461.333,196)}Spirit Tablet of\NZhuge Kongming\Nthe Late Teacher
 Dialogue: 0,0:00:32.80,0:00:38.00,Style Names,,0,0,0,,{\fade(255,0,255,0,400,4800,5200)\pos(994.286,440)}Jiāng Wéi\NStyled: Bóyuē
@@ -120,7 +120,7 @@ Dialogue: 0,0:06:42.62,0:06:44.76,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,67
 Dialogue: 0,0:06:46.20,0:06:48.89,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,670)}After Deng Ai read the letter, he dared to say:
 Dialogue: 0,0:06:48.89,0:06:51.78,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,670)}"A general in the field does not need to obey orders."
 Dialogue: 0,0:06:51.78,0:06:54.61,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,670)}He also said: "I have total power for an expedition;
-Dialogue: 0,0:06:54.61,0:06:56.26,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,670)}"why obstruct me?"
+Dialogue: 0,0:06:54.61,0:06:56.26,Default,Jiǎ Chōng,0,0,0,,{\bord12\pos(640,670)}why obstruct me?"
 Dialogue: 0,0:06:56.26,0:06:57.64,Default,Jiǎ Chōng,0,0,0,,Deng Ai has become too proud.
 Dialogue: 0,0:06:57.64,0:07:00.61,Default,Jiǎ Chōng,0,0,0,,His arbitrary behavior exposes his rebellious intent.
 Dialogue: 0,0:07:00.08,0:07:04.52,Style Names,,0,0,0,,{\fade(255,0,255,0,400,4080,4440)\pos(944,438.667)}Sīmǎ Zhāo\NStyled: Zǐshàng
@@ -182,7 +182,7 @@ Dialogue: 0,0:10:50.82,0:10:53.34,Default,Sīmǎ Zhāo,0,0,0,,I will figure it o
 Dialogue: 0,0:10:53.34,0:10:53.82,Default,Jia Chong,0,0,0,,Yes.
 Dialogue: 0,0:10:58.82,0:11:01.82,Default,Shao Ti,0,0,0,,Your Highness, are you leading the troops?
 Dialogue: 0,0:11:04.97,0:11:07.39,Default,Sima Zhao,0,0,0,,I am accompanying the Emperor's campaign.
-Dialogue: 0,0:11:08.92,0:11:13.67,Default,Sima Zhao,0,0,0,,Send someone to Zhong Hui's camp for Deng Ai's arrest.\N
+Dialogue: 0,0:11:08.92,0:11:13.67,Default,Sima Zhao,0,0,0,,Send someone to Zhong Hui's camp for Deng Ai's arrest.
 Dialogue: 0,0:11:13.67,0:11:14.44,Default,Shao Ti,0,0,0,,Yes.
 Dialogue: 0,0:11:20.90,0:11:22.97,Default,Generals,0,0,0,,Greetings, Minister.
 Dialogue: 0,0:11:26.74,0:11:27.66,Default,Zhong Hui,0,0,0,,Boyue?
@@ -265,7 +265,7 @@ Dialogue: 0,0:17:16.70,0:17:18.66,Default,Jiang Wei,0,0,0,,{\bord12\pos(640,670)
 Dialogue: 0,0:17:18.66,0:17:20.56,Default,Jiang Wei,0,0,0,,{\bord12\pos(640,670)}You can claim that she has left an edict
 Dialogue: 0,0:17:20.56,0:17:24.29,Default,Jiang Wei,0,0,0,,{\bord12}so you can fight Sima Zhao \Nby punishing him for regicide.
 Dialogue: 0,0:17:24.29,0:17:28.28,Default,Jiang Wei,0,0,0,,{\bord12}General, through your talents,\N you can easily pacify the Central Plains.
-Dialogue: 0,0:17:28.28,0:17:32.48,Note (Potential style?),,0,0,0,,Yuanxiao Festival (元宵節): The fifteenth day of the first month of the Chinese\N calendar. Also known as Shangyuan Festival (上元節) or "Lantern Festival".
+Dialogue: 0,0:17:28.28,0:17:32.48,Note (Potential style?),,0,0,0,,Yuanxiao Festival (元宵節): The fifteenth day of the first month of the Chinese\N calendar. Also known as Shangyuan Festival (上元節) or "Lantern Festival."
 Dialogue: 0,0:17:28.28,0:17:31.91,Default,Zhong Hui,0,0,0,,{\bord12\pos(640,670)}Tomorrow will be the Yuanxiao Festival.
 Dialogue: 0,0:17:32.43,0:17:39.71,Default,Zhong Hui,0,0,0,,{\bord12}The palace can be decorated with lights and lanterns for the officers to revel.
 Dialogue: 0,0:17:41.34,0:17:43.96,Default,Zhong Hui,0,0,0,,{\bord12\pos(640,670)}And anyone who refuses...

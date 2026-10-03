@@ -167,7 +167,7 @@ Dialogue: 0,0:10:52.79,0:10:58.26,Default,,0,0,0,,In my view, five hundred thous
 Dialogue: 0,0:10:59.58,0:11:02.06,Default,,0,0,0,,Zhongda, what plans do you have for this?
 Dialogue: 0,0:11:03.09,0:11:05.10,Default,,0,0,0,,{\bord14}{\pos(640,667.416)}Your Majesty can compose a letter,
 Dialogue: 0,0:11:05.10,0:11:08.18,Default,,0,0,0,,{\bord14}and send an envoy to the land of the Xianbei in Liaodong,
-Dialogue: 0,0:11:05.34,0:11:10.18,Note (Potential style?),,0,0,0,,Note: Xianbei (鮮卑) are semi-nomadic peoples of northern steppes, in modern day Mongolia and Northeastern China.
+Dialogue: 0,0:11:05.34,0:11:10.18,Note (Potential style?),,0,0,0,,Note: Xianbei (鮮卑) are semi-nomadic peoples of northern steppes, in modern day Mongolia and northeastern China.
 Dialogue: 0,0:11:08.18,0:11:11.01,Default,,0,0,0,,{\bord14}{\pos(640,667.416)}to meet King Kebineng with gifts of gold and silk.
 Dialogue: 0,0:11:11.01,0:11:15.37,Default,,0,0,0,,{\bord14}Have him raise one hundred thousand Qiang troops \Nfrom Liaoxi, to take Xiping Pass by land.
 Dialogue: 0,0:11:10.98,0:11:15.08,Note (Potential style?),,0,0,0,,Note: Qiāng(西羌): Northern nomadic peoples who lived\Nin Liang Province, northwest China.
@@ -273,7 +273,7 @@ Dialogue: 0,0:17:39.11,0:17:41.34,Default,,0,0,0,,{\bord14}{\pos(640,660)}How ab
 Dialogue: 0,0:17:42.77,0:17:45.70,Default,,0,0,0,,{\bord14}{\pos(640,660)}Cao Zhen is attacking Yangping Pass.
 Dialogue: 0,0:17:46.01,0:17:49.66,Default,,0,0,0,,{\bord14}Its harsh terrain is easy to defend,\Nand difficult to conquer.
 Dialogue: 0,0:17:50.03,0:17:54.42,Default,,0,0,0,,{\bord14}I have sent Zhao Yun with\Na detachment to defend it.
-Dialogue: 0,0:17:55.34,0:17:59.02,Default,,0,0,0,,{\bord14}He only needs to fortify and stall,\Nand await for the enemies' exhaustion.
+Dialogue: 0,0:17:55.34,0:17:59.02,Default,,0,0,0,,{\bord14}He only needs to fortify and stall,\Nand await the enemies' exhaustion.
 Dialogue: 0,0:18:00.38,0:18:03.46,Default,,0,0,0,,{\bord14}{\pos(640,660)}Should Cao Zhen see our armies fortifying,
 Dialogue: 0,0:18:03.46,0:18:06.34,Default,,0,0,0,,{\bord14}{\pos(640,660)}he will withdraw of his own accord.
 Dialogue: 0,0:18:10.00,0:18:14.10,Default,,0,0,0,,{\bord14}In the snap of a finger, you have repelled\Nfour forces, Father-Chancellor!

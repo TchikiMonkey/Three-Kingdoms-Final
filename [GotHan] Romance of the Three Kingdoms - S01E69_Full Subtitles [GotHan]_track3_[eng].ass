@@ -42,7 +42,7 @@ Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.34,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:00:00.70,0:00:06.89,Episode Title,,0,0,0,,{\fade(255,0,255,300,450,3900,4240)\pos(640,426.667)}Episode 69 \N\N\N\N\N\NWinning over Jiāng Wéi
+Dialogue: 0,0:00:00.70,0:00:06.89,Episode Title,,0,0,0,,{\fade(255,0,255,300,450,3900,4240)\pos(640,426.667)}Episode 69 \N\N\N\N\N\NWinning Over Jiāng Wéi
 Dialogue: 0,0:00:00.56,0:00:04.07,Default,,0,0,0,,It is a great fortune that Sir Administrator is willing to surrender.
 Dialogue: 0,0:00:06.34,0:00:08.02,Default,,0,0,0,,Please.
 Dialogue: 0,0:00:12.34,0:00:13.66,Default,,0,0,0,,Please.
@@ -59,7 +59,7 @@ Dialogue: 0,0:00:59.74,0:01:02.30,Default,,0,0,0,,Thank you, Administrator.
 Dialogue: 0,0:01:02.52,0:01:08.15,Default,,0,0,0,,However, you, Sir Chancellor, need to withdraw the siege temporarily,
 Dialogue: 0,0:01:08.15,0:01:10.60,Default,,0,0,0,,so that I may enter the city to persuade him.
 Dialogue: 0,0:01:12.74,0:01:14.24,Default,,0,0,0,,As you wish, Administrator.
-Dialogue: 0,0:01:15.34,0:01:18.42,Default,,0,0,0,,I will order the besieging troops to retreat twenty miles.
+Dialogue: 0,0:01:15.34,0:01:18.42,Default,,0,0,0,,I will order the besieging troops to retreat twenty {\i1}li{\i0}.
 Dialogue: 0,0:01:22.14,0:01:24.83,Default,,0,0,0,,Please.
 Dialogue: 0,0:01:25.18,0:01:27.45,Default,,0,0,0,,Hey, who is below the walls?
 Dialogue: 0,0:01:29.59,0:01:32.36,Default,,0,0,0,,I am Cui Liang, the Administrator of Anding.
@@ -156,7 +156,7 @@ Dialogue: 0,0:07:42.21,0:07:45.21,Default,,0,0,0,,We can certainly capture Zhuge
 Dialogue: 0,0:07:45.58,0:07:47.21,Default,,0,0,0,,Please share the details.
 Dialogue: 0,0:07:47.43,0:07:51.05,Default,,0,0,0,,I will lead three thousand elite soldiers to ambush the main road.
 Dialogue: 0,0:07:51.62,0:07:55.40,Default,,0,0,0,,You lead the troops out of the city. \NThe Shu soldiers will enter in the meantime.
-Dialogue: 0,0:07:55.87,0:07:59.62,Default,,0,0,0,,You need not go far, just thirty {\i1}li{\i0}, and then return.
+Dialogue: 0,0:07:55.87,0:07:59.62,Default,,0,0,0,,You need not go far, just thirty {\i1}li,{\i0} and then return.
 Dialogue: 0,0:07:59.62,0:08:04.54,Default,,0,0,0,,Watch for the signal fire, then attack from front and back to win.
 Dialogue: 0,0:08:04.85,0:08:08.23,Default,,0,0,0,,If Zhuge Liang comes personally, he will surely be captured.
 Dialogue: 0,0:08:23.94,0:08:25.95,Default,,0,0,0,,Soldiers on the walls, listen!
@@ -461,7 +461,7 @@ Dialogue: 0,0:38:27.91,0:38:32.68,Default,,0,0,0,,{\pos(640,662)}{\bord13}What h
 Dialogue: 0,0:38:33.14,0:38:35.31,Default,,0,0,0,,{\pos(640,662)}{\bord13}Regarding Minister Wang's life,
 Dialogue: 0,0:38:35.48,0:38:37.94,Default,,0,0,0,,{\pos(640,662)}{\bord13}I have long known of it.
 Dialogue: 0,0:38:39.34,0:38:45.98,Note (Potential style?),,0,0,0,,Xiaolian (孝廉): Part of early Imperial Examination, where each commandery regularly nominating someone for civil offices. Literally means "filial and incorrupt."
-Dialogue: 0,0:38:39.34,0:38:43.45,Default,,0,0,0,,{\bord13}You dwelled on the coast of the East Sea,\N nominated into office in {\i1}xiaolian{\i0}.
+Dialogue: 0,0:38:39.34,0:38:43.45,Default,,0,0,0,,{\bord13}You dwelled on the coast of the East Sea,\N nominated into office in {\i1}xiaolian.{\i0}
 Dialogue: 0,0:38:43.45,0:38:46.88,Default,,0,0,0,,{\bord13}thus the duty to rectify your lord, aid your nation, and assist the Imperial House!
 Dialogue: 0,0:38:46.91,0:38:50.80,Default,,0,0,0,,{\bord13} Yet, you collude with the treacherous and plot of usurpation!
 Dialogue: 0,0:38:50.88,0:38:54.68,Default,,0,0,0,,{\pos(640,662)}{\bord13}Sins unforgivable by Heaven and Earth!

@@ -41,7 +41,7 @@ Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
 Dialogue: 0,0:00:00.68,0:00:05.28,Episode Title,,0,0,0,,{\fade(255,0,255,0,840,3920,4600)\pos(640,324.818)}Episode 30
-Dialogue: 0,0:00:00.68,0:00:05.28,Episode Title,,0,0,0,,{\fade(255,0,255,0,840,3920,4600)\pos(640,516.152)}Debate against the Scholars
+Dialogue: 0,0:00:00.68,0:00:05.28,Episode Title,,0,0,0,,{\fade(255,0,255,0,840,3920,4600)\pos(640,516.152)}Debate Against Southern Scholars
 Dialogue: 0,0:00:55.32,0:00:57.60,Style Names,,0,0,0,,{\pos(435.171,499.289)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:01:36.00,0:01:37.80,Style Names,,0,0,0,,{\pos(334.277,238.845)}Xiàhóu Jié
 Dialogue: 0,0:01:55.44,0:01:58.60,Default,Cao Hong,0,0,0,,Chancellor, that man slew over fifty of our warriors!
@@ -59,24 +59,24 @@ Dialogue: 0,0:02:59.15,0:03:03.42,Default,Soldier,0,0,0,,The Chancellor wants Zh
 Dialogue: 0,0:03:03.42,0:03:07.04,Default,Soldier,0,0,0,,The Chancellor wants Zhao Zilong \Nunharmed and captured alive!
 Dialogue: 0,0:03:12.20,0:03:13.68,Style Names,,0,0,0,,{\pos(849.987,507.378)}Zhāng Hé
 Dialogue: 0,0:03:13.74,0:03:15.82,Default,Soldiers,0,0,0,,Attack!
-Dialogue: 0,0:03:19.12,0:03:21.40,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Although not brothers sworn by oath most golden,
+Dialogue: 0,0:03:19.12,0:03:21.40,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Although not brothers, sworn by oath most golden,
 Dialogue: 0,0:03:21.40,0:03:23.84,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}the meeting must be long predestined.
 Dialogue: 0,0:03:23.84,0:03:26.10,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Gallant and loyal to the Hàn you remain,
 Dialogue: 0,0:03:26.10,0:03:28.64,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}the soul of the Peach Garden you attain!
 Dialogue: 0,0:03:28.64,0:03:33.28,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}A lone rider of one spear breaking shields,
-Dialogue: 0,0:03:33.28,0:03:37.94,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}with fierce valour, he makes all foes to yield!
+Dialogue: 0,0:03:33.28,0:03:37.94,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}with fierce valor, he makes all foes yield!
 Dialogue: 0,0:03:37.94,0:03:42.72,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Colored and stained his war-gown in bloodshed!
-Dialogue: 0,0:03:42.72,0:03:47.37,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}At Dangyang, is the heart most loyal set!
+Dialogue: 0,0:03:42.72,0:03:47.37,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}At Dangyang is the heart most loyal set!
 Dialogue: 0,0:03:47.37,0:03:52.14,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Zilong, Zilong, none in life could rival!
 Dialogue: 0,0:03:52.14,0:03:56.98,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Legend utmost of Five Tigers' title!
-Dialogue: 0,0:04:06.14,0:04:08.62,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Although not brothers sworn by oath most golden,
+Dialogue: 0,0:04:06.14,0:04:08.62,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Although not brothers, sworn by oath most golden,
 Dialogue: 0,0:04:08.62,0:04:10.96,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}the meeting must be long predestined.
 Dialogue: 0,0:04:10.96,0:04:13.32,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Gallant and loyal to the Hàn you remain,
 Dialogue: 0,0:04:13.32,0:04:15.66,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}the soul of the Peach Garden you attain!
 Dialogue: 0,0:04:15.66,0:04:20.38,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}A lone rider of one spear breaking shields,
-Dialogue: 0,0:04:20.38,0:04:25.04,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}with fierce valour, he makes all foes to yield!
+Dialogue: 0,0:04:20.38,0:04:25.04,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}with fierce valor, he makes all foes yield!
 Dialogue: 0,0:04:25.04,0:04:29.80,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Colored and stained his war-gown in bloodshed!
-Dialogue: 0,0:04:29.80,0:04:34.48,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}At Dangyang, is the heart most loyal set!
+Dialogue: 0,0:04:29.80,0:04:34.48,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}At Dangyang is the heart most loyal set!
 Dialogue: 0,0:04:34.48,0:04:39.22,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Zilong, Zilong, none in life could rival!
 Dialogue: 0,0:04:39.22,0:04:43.80,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Legend utmost of Five Tigers' title!
 Dialogue: 0,0:04:43.80,0:04:48.64,Thinking,Song,0,0,0,,{\bord12\pos(640,660)}Zilong, Zilong, none in life could rival!
@@ -173,7 +173,7 @@ Dialogue: 0,0:15:20.70,0:15:23.20,Default,Zhuge Liang,0,0,0,,implicitly inviting
 Dialogue: 0,0:15:24.96,0:15:27.10,Default,Zhuge Liang,0,0,0,,We are blessed that Lu Su is his envoy!
 Dialogue: 0,0:15:27.10,0:15:29.96,Default,Zhuge Liang,0,0,0,,I say we make use of the wind and sail to Jiangdong!
 Dialogue: 0,0:15:30.46,0:15:33.12,Default,Zhuge Liang,0,0,0,,With my unblemished tongue,
-Dialogue: 0,0:15:33.12,0:15:36.93,Default,Zhuge Liang,0,0,0,,I will incite the north and south into war.
+Dialogue: 0,0:15:33.12,0:15:36.93,Default,Zhuge Liang,0,0,0,,I will incite the North and South into war.
 Dialogue: 0,0:15:37.50,0:15:39.14,Default,Zhuge Liang,0,0,0,,If the southern army wins,
 Dialogue: 0,0:15:39.14,0:15:42.37,Default,Zhuge Liang,0,0,0,,we will pursue Cao Cao and retake Jing Province.
 Dialogue: 0,0:15:42.86,0:15:45.10,Default,Zhuge Liang,0,0,0,,If the northern army wins,
@@ -296,7 +296,7 @@ Dialogue: 0,0:23:39.32,0:23:42.90,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660
 Dialogue: 0,0:23:42.90,0:23:46.06,Default,Zhang Zhao,0,0,0,,{\bord12}you once compared yourself \Nwith Guan Zhong and Yue Yi.
 Dialogue: 0,0:23:46.06,0:23:49.62,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}Is this true?
 Dialogue: 0,0:23:50.62,0:23:51.49,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Indeed.
-Dialogue: 0,0:23:52.50,0:23:57.28,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Yet but a simple comparison to describe my life.
+Dialogue: 0,0:23:52.50,0:23:57.28,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}'Tis but a simple comparison to describe my life.
 Dialogue: 0,0:24:03.44,0:24:07.96,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}I heard Liu of Yu Province visited your cottage thrice.
 Dialogue: 0,0:24:07.96,0:24:10.66,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}Being fortunate enough to meet you,
 Dialogue: 0,0:24:10.66,0:24:13.64,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}he compared himself to a fish getting water.
@@ -327,7 +327,7 @@ Dialogue: 0,0:26:06.98,0:26:09.66,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660
 Dialogue: 0,0:26:09.66,0:26:12.80,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}Not a single place has been safe enough for him!
 Dialogue: 0,0:26:12.80,0:26:14.94,Default,Officials,0,0,0,,Yes, yes!
 Dialogue: 0,0:26:15.50,0:26:22.20,Default,Zhang Zhao,0,0,0,,{\bord12}It seems, after you join in service to Lord Liu, he fares worse than before!
-Dialogue: 0,0:26:25.00,0:26:32.90,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}Is this truly alike Guan Zhong and Yue Yi?
+Dialogue: 0,0:26:25.00,0:26:32.90,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}Is this truly like Guan Zhong and Yue Yi?
 Dialogue: 0,0:26:35.46,0:26:41.61,Default,Zhang Zhao,0,0,0,,{\bord12}Those are my ignoble and blunt thoughts. \NI trust that you will not take offense to it, good sir.
 Dialogue: 0,0:26:50.54,0:26:55.32,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Can a sparrow ever grasp the aspirations of a swan?
 Dialogue: 0,0:26:59.72,0:27:02.68,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}In my time as a humble tiller in Longzhong,
@@ -439,13 +439,13 @@ Dialogue: 0,0:34:41.50,0:34:44.98,Default,Zhuge Liang,0,0,0,,He shames not just 
 Dialogue: 0,0:34:44.98,0:34:48.77,Default,Zhuge Liang,0,0,0,,Not only is he a rebel consul of Han, he is also a traitor of his clan!
 Dialogue: 0,0:34:49.94,0:34:53.29,Default,Zhuge Liang,0,0,0,,Imperial Uncle Liu is an imperial scion of dignity.
 Dialogue: 0,0:34:53.29,0:34:56.10,Default,Zhuge Liang,0,0,0,,The Emperor inspected the clan registry to confer nobility,
-Dialogue: 0,0:34:56.10,0:34:58.60,Default,Zhuge Liang,0,0,0,,even naming him the 'Imperial Uncle'.
+Dialogue: 0,0:34:56.10,0:34:58.60,Default,Zhuge Liang,0,0,0,,even naming him the "Imperial Uncle."
 Dialogue: 0,0:34:59.58,0:35:02.08,Default,Zhuge Liang,0,0,0,,Can you say no evidence exists now?
 Dialogue: 0,0:35:03.94,0:35:07.28,Default,Zhuge Liang,0,0,0,,Gaozu began as a village corporal and ended as the emperor.
 Dialogue: 0,0:35:07.28,0:35:10.90,Default,Zhuge Liang,0,0,0,,So what shame is there in\N weaving mats and selling shoes?
 Dialogue: 0,0:35:10.90,0:35:14.76,Default,Zhuge Liang,0,0,0,,Sir, your puerile views are unfit for an eminent scholar.
 Dialogue: 0,0:35:14.88,0:35:15.74,Default,Lu Ji,0,0,0,,You-!
-Dialogue: 0,0:35:19.50,0:35:24.68,Default,Yan Jun,0,0,0,,Kongming, all that you have said is but bombast, none within reason.
+Dialogue: 0,0:35:19.50,0:35:24.68,Default,Yan Jun,0,0,0,,Kongming, all that you have said is but bombast, not reason.
 Dialogue: 0,0:35:25.25,0:35:28.68,Default,Yan Jun,0,0,0,,Gentlemen, there is no need to argue with him.
 Dialogue: 0,0:35:29.72,0:35:32.22,Default,Yan Jun,0,0,0,,Let me pose this question, Kongming.
 Dialogue: 0,0:35:32.48,0:35:34.42,Default,Yan Jun,0,0,0,,What canons have you studied?
@@ -483,7 +483,7 @@ Dialogue: 0,0:37:31.20,0:37:33.26,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,66
 Dialogue: 0,0:37:33.26,0:37:37.32,Default,Zhuge Liang,0,0,0,,{\bord12}They may draft ten thousand words,\N yet none with value to speak of!
 Dialogue: 0,0:37:37.37,0:37:38.09,Default,Cheng Bing,0,0,0,,You..!
 Dialogue: 0,0:37:39.82,0:37:43.14,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Deshu, I respect you as a great scholar of Runan.
-Dialogue: 0,0:37:43.68,0:37:49.98,Note (Potential style?),,0,0,0,,Note: 'Selections from the Book of Changes'{\i0} (周易摘) is a real book written by Cheng Bing in history, along with two other major works
+Dialogue: 0,0:37:43.68,0:37:49.98,Note (Potential style?),,0,0,0,,Note: "Selections from the Book of Changes"{\i0} (周易摘) is a real book written by Cheng Bing in history, along with two other major works
 Dialogue: 0,0:37:43.58,0:37:47.22,Default,Zhuge Liang,0,0,0,,{\bord12}I have read your great {\i1}Selections from the Book of Changes{\i0} as well.
 Dialogue: 0,0:37:47.22,0:37:51.90,Default,Zhuge Liang,0,0,0,,{\bord12}I wish you could be a noble scholar, who honors the nation.
 Dialogue: 0,0:37:52.50,0:37:55.88,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Not to imitate lesser men such as Yang Xiong,
@@ -492,7 +492,7 @@ Dialogue: 0,0:37:59.44,0:38:00.62,Default,Cheng Bing,0,0,0,,Kongming-!
 Dialogue: 0,0:38:00.93,0:38:02.20,Default,Cheng Bing,0,0,0,,How dare you!
 Dialogue: 0,0:38:02.32,0:38:04.61,Default,Huang Gai,0,0,0,,Cease this infernal squabble!
 Dialogue: 0,0:38:08.18,0:38:11.22,Default,Huang Gai,0,0,0,,Sir Kongming is a genius of our generation!
-Dialogue: 0,0:38:11.22,0:38:15.18,Default,Huang Gai,0,0,0,,Yet you besmirch him with barbs breaches the etiquettes of hospitality.
+Dialogue: 0,0:38:11.22,0:38:15.18,Default,Huang Gai,0,0,0,,Yet you besmirch him with barbs, breaching the etiquette of hospitality.
 Dialogue: 0,0:38:12.72,0:38:17.44,Style Names,,0,0,0,,{\fade(255,0,255,0,400,4300,4720)\pos(971.665,494.596)}Huáng Gài \NStyled: Gōngfù
 Dialogue: 0,0:38:15.52,0:38:21.02,Default,Huang Gai,0,0,0,,Our foe is before us, yet instead of planning our defense, you whine like toddlers!
 Dialogue: 0,0:38:21.02,0:38:22.18,Default,Huang Gai,0,0,0,,Have you no dignity?

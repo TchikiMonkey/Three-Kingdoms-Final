@@ -40,7 +40,7 @@ Dialogue: 0,0:00:16.22,0:00:20.01,Thinking,,0,0,0,,they expanded their territory
 Dialogue: 0,0:00:20.78,0:00:23.28,Thinking,,0,0,0,,Cao Cao, now made the "Duke of Wei,"
 Dialogue: 0,0:00:23.32,0:00:26.66,Thinking,,0,0,0,,now controlled vast stretches of land to the north of Yangzi River,
 Dialogue: 0,0:00:26.66,0:00:34.29,Thinking,,0,0,0,,and personally led troops to once again restart his great ambition of vying for the Empire.
-Dialogue: 0,0:00:38.27,0:00:40.10,Default,,0,0,0,,My Lord need not worry.
+Dialogue: 0,0:00:38.27,0:00:40.10,Default,,0,0,0,,My lord need not worry.
 Dialogue: 0,0:00:42.78,0:00:46.50,Style Names,,0,0,0,,{\pos(312.495,205.909)}Zhuge Liang\NStyled: Kǒngmíng
 Dialogue: 0,0:00:41.80,0:00:46.76,Default,,0,0,0,,I have a plan that can make Cao Cao retreat willingly.
 Dialogue: 0,0:00:47.21,0:00:48.70,Default,,0,0,0,,What would that plan be?
@@ -74,7 +74,7 @@ Dialogue: 0,0:01:51.38,0:01:55.22,Style Names,,0,0,0,,{\pos(992.068,255)}Yi Ji\N
 Dialogue: 0,0:03:02.50,0:03:06.38,Style Names,,0,0,0,,{\pos(285.203,325.909)}Zhang Zhao\NStyled: Zǐbù
 Dialogue: 0,0:03:02.98,0:03:06.64,Default,,0,0,0,,This is Liu Bei's stratagem.
 Dialogue: 0,0:03:08.88,0:03:12.60,Default,,0,0,0,,Here is a personal letter from Imperial Uncle Liu to the Marquis of Wu.
-Dialogue: 0,0:03:26.30,0:03:35.30,Default,,0,0,0,,My Lord, this is Liu Bei's ploy to protect his Western Riverlands from Cao Cao.
+Dialogue: 0,0:03:26.30,0:03:35.30,Default,,0,0,0,,My lord, this is Liu Bei's ploy to protect his Western Riverlands from Cao Cao.
 Dialogue: 0,0:03:36.98,0:03:38.91,Default,,0,0,0,,Lord Zhang's words are right,
 Dialogue: 0,0:03:39.21,0:03:43.38,Default,,0,0,0,,but only half right.
 Dialogue: 0,0:03:43.75,0:03:44.73,Default,,0,0,0,,Go on.
@@ -93,10 +93,10 @@ Dialogue: 0,0:04:21.22,0:04:26.08,Default,,0,0,0,,{\bord12}Sir Zhang, is this st
 Dialogue: 0,0:04:31.98,0:04:36.87,Default,,0,0,0,,Gentleman of the Household Yi, please return to the guest chambers to rest for now.
 Dialogue: 0,0:04:36.87,0:04:39.84,Default,,0,0,0,,Very well. I hope that Marquis makes a decision soon.
 Dialogue: 0,0:04:48.08,0:04:50.02,Default,,0,0,0,,Gentlemen, how do you see this matter?
-Dialogue: 0,0:04:50.47,0:04:54.07,Default,,0,0,0,,My Lord, though this is Liu Bei's ploy,
+Dialogue: 0,0:04:50.47,0:04:54.07,Default,,0,0,0,,My lord, though this is Liu Bei's ploy,
 Dialogue: 0,0:04:54.07,0:05:00.74,Default,,0,0,0,,it would indeed be beneficial for Eastern Wu \Nto attack Hefei now, while Cao Cao is at Hanzhong.
 Dialogue: 0,0:05:00.83,0:05:03.02,Default,,0,0,0,,I believe it is a good plan.
-Dialogue: 0,0:05:03.34,0:05:05.98,Default,,0,0,0,,My Lord, Yi Ji's words are well advised.
+Dialogue: 0,0:05:03.34,0:05:05.98,Default,,0,0,0,,My lord, Yi Ji's words are well advised.
 Dialogue: 0,0:05:06.26,0:05:08.66,Default,,0,0,0,,Good. Gather the troops immediately.
 Dialogue: 0,0:05:10.62,0:05:13.84,Default,,0,0,0,,General Zhang, the Wu army is attacking Wancheng.
 Dialogue: 0,0:05:13.84,0:05:16.17,Default,,0,0,0,,Administrator Zhu requests immediate aid.
@@ -156,7 +156,7 @@ Dialogue: 0,0:08:54.87,0:08:58.68,Default,,0,0,0,,Send someone to Hefei, no stop
 Dialogue: 0,0:09:03.40,0:09:06.36,Default,,0,0,0,,They must give this wooden box over to General Zhang Liao.
 Dialogue: 0,0:09:06.36,0:09:06.87,Default,,0,0,0,,Yes sir.
 Dialogue: 0,0:09:07.94,0:09:09.14,Default,,0,0,0,,Fellow warriors,
-Dialogue: 0,0:09:09.37,0:09:13.82,Default,,0,0,0,,our army has taken Wancheng in one fell swoop, and our Lord has greatly rewarded the troops.
+Dialogue: 0,0:09:09.37,0:09:13.82,Default,,0,0,0,,our army has taken Wancheng in one fell swoop, and our lord has greatly rewarded the troops.
 Dialogue: 0,0:09:13.99,0:09:15.94,Default,,0,0,0,,Tonight, we celebrate.
 Dialogue: 0,0:09:16.58,0:09:19.30,Default,,0,0,0,,General Gan deserves the greatest credit!
 Dialogue: 0,0:09:21.66,0:09:25.64,Default,,0,0,0,,Come, let us raise a toast to General Gan.
@@ -177,11 +177,11 @@ Dialogue: 0,0:10:12.42,0:10:15.90,Default,,0,0,0,,Let me perform a sword dance f
 Dialogue: 0,0:10:27.72,0:10:29.20,Style Names,,0,0,0,,{\pos(337.058,248.182)}Lü Meng \NStyled: Ziming
 Dialogue: 0,0:10:49.54,0:10:51.44,Default,,0,0,0,,Thank you, Generals, for offering wine.
 Dialogue: 0,0:10:51.54,0:10:54.76,Default,,0,0,0,,Please watch me dance with these halberds to entertain everyone.
-Dialogue: 0,0:11:07.06,0:11:09.42,Default,,0,0,0,,I'll fetch our Lord.
+Dialogue: 0,0:11:07.06,0:11:09.42,Default,,0,0,0,,I'll fetch our lord.
 Dialogue: 0,0:11:25.27,0:11:26.30,Default,,0,0,0,,Stop!
 Dialogue: 0,0:11:39.58,0:11:43.38,Default,NTP,0,0,0,,I have always told you two to let go of old hostilities.
 Dialogue: 0,0:11:44.43,0:11:47.06,Default,NTP,0,0,0,,Why quarrel like this today?
-Dialogue: 0,0:11:47.78,0:11:52.18,Default,,0,0,0,,My Lord, my father was murdered by Gan Ning,
+Dialogue: 0,0:11:47.78,0:11:52.18,Default,,0,0,0,,My lord, my father was murdered by Gan Ning,
 Dialogue: 0,0:11:52.58,0:11:57.46,Default,,0,0,0,,and today is the anniversary of his death!
 Dialogue: 0,0:12:07.38,0:12:08.78,Default,,0,0,0,,How can I forget?
 Dialogue: 0,0:12:10.22,0:12:14.74,Default,,0,0,0,,Back then, your father and General Gan fought for their own lords.
@@ -190,7 +190,7 @@ Dialogue: 0,0:12:21.38,0:12:23.42,Default,,0,0,0,,How could you bear grudges?
 Dialogue: 0,0:12:26.17,0:12:28.86,Default,,0,0,0,,Gongji, you are a thoughtful man.
 Dialogue: 0,0:12:29.06,0:12:31.06,Default,,0,0,0,,You value loyalty over wealth.
 Dialogue: 0,0:12:32.36,0:12:36.34,Default,,0,0,0,,Please prioritize the matters of state and let go of your grudge.
-Dialogue: 0,0:12:37.40,0:12:38.34,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:12:37.40,0:12:38.34,Default,,0,0,0,,My lord!
 Dialogue: 0,0:12:44.86,0:12:51.54,Default,,0,0,0,,Xingba, Gongji's low mood today is only natural,
 Dialogue: 0,0:12:52.90,0:12:57.86,Default,,0,0,0,,not to mention that he is your junior. \NTry to give him some leeway.
 Dialogue: 0,0:12:59.98,0:13:04.86,Default,,0,0,0,,Well said, my Lord. I understand my mistake.
@@ -204,7 +204,7 @@ Dialogue: 0,0:13:38.84,0:13:43.58,Default,,0,0,0,,Sun Quan was wise to conquer W
 Dialogue: 0,0:13:43.72,0:13:46.52,Default,,0,0,0,,but Zhang Liao will now defend all the more fiercely.
 Dialogue: 0,0:13:48.23,0:13:49.75,Default,,0,0,0,,Cao Cao is prepared to fight.
 Dialogue: 0,0:13:50.27,0:13:54.15,Default,,0,0,0,,He will not retreat south just yet.
-Dialogue: 0,0:13:57.03,0:13:57.88,Default,,0,0,0,,My Lord,
+Dialogue: 0,0:13:57.03,0:13:57.88,Default,,0,0,0,,My lord,
 Dialogue: 0,0:13:59.18,0:14:03.82,Default,,0,0,0,,We should take this chance to strengthen the land of Shu's defenses and gain the people's support.
 Dialogue: 0,0:14:05.30,0:14:09.70,Default,,0,0,0,,Once we are stable, Cao Cao will not dare to attack us.
 Dialogue: 0,0:14:17.98,0:14:19.74,Default,,0,0,0,,-Report!\N-What is the situation?
@@ -221,17 +221,17 @@ Dialogue: 0,0:15:33.58,0:15:37.46,Default,,0,0,0,,Now that Sun Quan is here, thi
 Dialogue: 0,0:15:53.24,0:15:57.50,Thinking,,0,0,0,,If Sun Quan's troops arrive, Generals Zhang and Li sally forth to fight,
 Dialogue: 0,0:15:57.58,0:15:59.96,Thinking,,0,0,0,,and General Yue stays to defend the city.
 Dialogue: 0,0:16:00.26,0:16:01.78,Default,,0,0,0,,Look, Generals.
-Dialogue: 0,0:16:12.38,0:16:17.86,Default,,0,0,0,,Generals, our Lord is far away at Hanzhong, but he remains worried about the matters of Hefei.
+Dialogue: 0,0:16:12.38,0:16:17.86,Default,,0,0,0,,Generals, our lord is far away at Hanzhong, but he remains worried about the matters of Hefei.
 Dialogue: 0,0:16:18.70,0:16:21.58,Default,,0,0,0,,How can we, as leading officers, not be ashamed?
 Dialogue: 0,0:16:22.58,0:16:25.26,Default,,0,0,0,,What should be done, in General's opinion?
-Dialogue: 0,0:16:26.70,0:16:30.14,Default,,0,0,0,,Sun Quan believes that with our Lord away, we can easily be defeated.
+Dialogue: 0,0:16:26.70,0:16:30.14,Default,,0,0,0,,Sun Quan believes that with our lord away, we can easily be defeated.
 Dialogue: 0,0:16:30.46,0:16:34.06,Default,,0,0,0,,Today, we can send troops to meet him, fight hard, and break his momentum.
 Dialogue: 0,0:16:34.12,0:16:37.84,Default,,0,0,0,,The hearts of our men will be assured, and the defense of Hefei may be possible.
 Dialogue: 0,0:16:39.98,0:16:41.46,Default,,0,0,0,,What is Wenqian's opinion?
 Dialogue: 0,0:16:42.82,0:16:45.78,Default,,0,0,0,,The enemy is numerous and we are paltry in number.
 Dialogue: 0,0:16:46.30,0:16:49.58,Default,,0,0,0,,It would be better to stay on the defensive.
 Dialogue: 0,0:16:55.21,0:16:58.09,Default,,0,0,0,,You two are thinking of yourselves, not the big picture!
-Dialogue: 0,0:17:03.70,0:17:07.30,Default,,0,0,0,,Our Lord's worry is, indeed, because of the sheer difference in numbers,
+Dialogue: 0,0:17:03.70,0:17:07.30,Default,,0,0,0,,Our lord's worry is, indeed, because of the sheer difference in numbers,
 Dialogue: 0,0:17:07.66,0:17:11.18,Default,,0,0,0,,fearing that we three men will be unable to mount an adequate defense.
 Dialogue: 0,0:17:11.70,0:17:15.30,Default,,0,0,0,,For this reason, he sent a man from afar to deliver this box,
 Dialogue: 0,0:17:15.46,0:17:17.60,Default,,0,0,0,,to confer this plan of repelling the enemy.
@@ -259,7 +259,7 @@ Dialogue: 0,0:19:14.14,0:19:17.82,Default,,0,0,0,,Wait. This is the vanguard led
 Dialogue: 0,0:19:18.23,0:19:20.44,Default,,0,0,0,,Wait for Sun Quan's troops to cross first.
 Dialogue: 0,0:19:20.56,0:19:21.21,Default,,0,0,0,,Yes, sir.
 Dialogue: 0,0:19:31.02,0:19:32.38,Default,,0,0,0,,Sun Quan has arrived.
-Dialogue: 0,0:19:44.18,0:19:48.58,Default,,0,0,0,,My Lord, General Gan of the vanguard defeated Cao Cao's General Yue and is now in pursuit.
+Dialogue: 0,0:19:44.18,0:19:48.58,Default,,0,0,0,,My lord, General Gan of the vanguard defeated Cao Cao's General Yue and is now in pursuit.
 Dialogue: 0,0:19:48.58,0:19:50.09,Default,,0,0,0,,General Lü is chasing as well.
 Dialogue: 0,0:19:51.42,0:19:53.86,Default,,0,0,0,,-Good. Keep scouting.\N-Yes, sir.
 Dialogue: 0,0:20:14.72,0:20:16.30,Default,,0,0,0,,-Take down the bridge.\N-Yes, sir.
@@ -270,13 +270,13 @@ Dialogue: 0,0:21:02.98,0:21:05.42,Default,,0,0,0,,Fall back!
 Dialogue: 0,0:21:29.29,0:21:32.24,Default,,0,0,0,,Quickly call Gan Ning and Lü Meng to aid us!
 Dialogue: 0,0:21:33.31,0:21:36.42,Default,,0,0,0,,General Gan! General Gan!
 Dialogue: 0,0:21:37.30,0:21:39.34,Default,,0,0,0,,General Gan, hurry...
-Dialogue: 0,0:21:39.54,0:21:40.78,Default,,0,0,0,,...hurry, rescue our Lord!
+Dialogue: 0,0:21:39.54,0:21:40.78,Default,,0,0,0,,...hurry, rescue our lord!
 Dialogue: 0,0:21:40.93,0:21:42.38,Default,,0,0,0,,We've fallen into their trap.
-Dialogue: 0,0:21:42.86,0:21:47.82,Default,,0,0,0,,Our Lord has been surrounded on both sides by Zhang Liao and Li Dian. The situation is critical!
-Dialogue: 0,0:21:48.14,0:21:49.86,Default,,0,0,0,,Rescue our Lord!
-Dialogue: 0,0:21:56.38,0:22:00.14,Default,,0,0,0,,My Lord, fall back. To Xiaoshi Bridge!
-Dialogue: 0,0:22:26.74,0:22:27.56,Default,,0,0,0,,My Lord!
-Dialogue: 0,0:22:28.32,0:22:32.97,Default,,0,0,0,,My Lord, move your horse back, \Nand jump over the bridge with a running start!
+Dialogue: 0,0:21:42.86,0:21:47.82,Default,,0,0,0,,Our lord has been surrounded on both sides by Zhang Liao and Li Dian. The situation is critical!
+Dialogue: 0,0:21:48.14,0:21:49.86,Default,,0,0,0,,Rescue our lord!
+Dialogue: 0,0:21:56.38,0:22:00.14,Default,,0,0,0,,My lord, fall back. To Xiaoshi Bridge!
+Dialogue: 0,0:22:26.74,0:22:27.56,Default,,0,0,0,,My lord!
+Dialogue: 0,0:22:28.32,0:22:32.97,Default,,0,0,0,,My lord, move your horse back, \Nand jump over the bridge with a running start!
 Dialogue: 0,0:22:59.42,0:23:01.50,Default,,0,0,0,,Today's battle was exhilarating.
 Dialogue: 0,0:23:01.78,0:23:05.70,Default,,0,0,0,,Had Sun Quan's horse not jumped across, I would have captured him!
 Dialogue: 0,0:23:06.22,0:23:11.06,Default,,0,0,0,,Without General Zhang's guidance, I would have botched this great opportunity. How ashamed I am!
@@ -288,7 +288,7 @@ Dialogue: 0,0:23:26.02,0:23:27.26,Default,,0,0,0,,Chancellor is brilliant!
 Dialogue: 0,0:23:30.38,0:23:34.98,Default,,0,0,0,,Mancheng, Wenqian, and Sun Quan will not accept defeat so easily.
 Dialogue: 0,0:23:35.30,0:23:37.88,Default,,0,0,0,,Soon, he will raise another army to attack Hefei again.
 Dialogue: 0,0:23:37.98,0:23:43.66,Default,,0,0,0,,We should send someone to Hanzhong quickly to request reinforcements.
-Dialogue: 0,0:24:12.54,0:24:16.50,Default,,0,0,0,,My Lord!
+Dialogue: 0,0:24:12.54,0:24:16.50,Default,,0,0,0,,My lord!
 Dialogue: 0,0:24:27.68,0:24:31.70,Default,,0,0,0,,The three generals received the wooden box and sallied forth to face the enemy.
 Dialogue: 0,0:24:31.82,0:24:34.20,Default,,0,0,0,,They secured a decisive victory at Xiaoyao Ford,
 Dialogue: 0,0:24:34.34,0:24:36.25,Default,,0,0,0,,and almost captured Sun Quan alive.
@@ -307,15 +307,15 @@ Dialogue: 0,0:25:15.56,0:25:19.42,Default,,0,0,0,,Cao Cao is personally leading 
 Dialogue: 0,0:25:20.18,0:25:25.38,Default,NTP,0,0,0,,I have ordered Dong Xi and Xu Sheng to lead \Nfifty ships to lay an ambush at the river's confluence.
 Dialogue: 0,0:25:25.88,0:25:29.66,Default,,0,0,0,,I have also ordered Chen Wu to lead a detachment to patrol along the river.
 Dialogue: 0,0:25:31.14,0:25:33.80,Default,,0,0,0,,Gentlemen, what other esteemed thoughts can you share?
-Dialogue: 0,0:25:34.06,0:25:38.42,Default,,0,0,0,,My Lord, the Cao army comes from afar and has not yet gained a foothold.
+Dialogue: 0,0:25:34.06,0:25:38.42,Default,,0,0,0,,My lord, the Cao army comes from afar and has not yet gained a foothold.
 Dialogue: 0,0:25:38.66,0:25:43.22,Default,,0,0,0,,If we stall its momentum, \Nthen we will have an opportunity to strike.
 Dialogue: 0,0:25:43.58,0:25:45.38,Default,,0,0,0,,Sir Zhang's words ring true.
 Dialogue: 0,0:25:48.04,0:25:50.94,Default,,0,0,0,,Who will harass the enemy \Nand break their momentum?
-Dialogue: 0,0:25:51.14,0:25:53.18,Default,,0,0,0,,My Lord, I am willing to go.
+Dialogue: 0,0:25:51.14,0:25:53.18,Default,,0,0,0,,My lord, I am willing to go.
 Dialogue: 0,0:25:53.74,0:25:55.26,Default,,0,0,0,,How many troops will you take?
 Dialogue: 0,0:25:55.27,0:25:56.70,Default,,0,0,0,,Three thousand will be enough.
 Dialogue: 0,0:26:07.42,0:26:09.94,Default,,0,0,0,,Good. I shall give you three thousand men.
-Dialogue: 0,0:26:10.42,0:26:14.60,Default,,0,0,0,,My Lord, just a hundred horsemen are enough to disrupt the enemy. Why three thousand?
+Dialogue: 0,0:26:10.42,0:26:14.60,Default,,0,0,0,,My lord, just a hundred horsemen are enough to disrupt the enemy. Why three thousand?
 Dialogue: 0,0:26:14.74,0:26:15.62,Default,,0,0,0,,What?!
 Dialogue: 0,0:26:15.78,0:26:18.58,Default,,0,0,0,,You dare look down on me?
 Dialogue: 0,0:26:19.11,0:26:19.58,Default,,0,0,0,,You...!
@@ -331,7 +331,7 @@ Dialogue: 0,0:26:48.22,0:26:49.70,Default,,0,0,0,,-Ziming.\N-Here, my Lord.
 Dialogue: 0,0:26:50.62,0:26:52.98,Default,,0,0,0,,Prepare to leave shortly.
 Dialogue: 0,0:26:53.90,0:26:56.88,Default,,0,0,0,,If anything happens to Gongji, assist him back to the camp.
 Dialogue: 0,0:26:57.22,0:26:58.05,Default,,0,0,0,,Yes, my Lord.
-Dialogue: 0,0:27:00.22,0:27:05.94,Default,,0,0,0,,My Lord, I will only need a hundred men tonight to raid the Cao camp. Their force will be disrupted.
+Dialogue: 0,0:27:00.22,0:27:05.94,Default,,0,0,0,,My lord, I will only need a hundred men tonight to raid the Cao camp. Their force will be disrupted.
 Dialogue: 0,0:27:06.10,0:27:09.66,Default,,0,0,0,,Should I get the opportunity, I will take Cao Cao's head.
 Dialogue: 0,0:27:11.24,0:27:14.94,Default,,0,0,0,,If I lose even a single man or horse, do not count it as a success.
 Dialogue: 0,0:27:21.30,0:27:22.62,Default,,0,0,0,,Good.
@@ -340,28 +340,28 @@ Dialogue: 0,0:29:11.82,0:29:13.82,Default,,0,0,0,,Oh, goodness!
 Dialogue: 0,0:29:45.14,0:29:46.38,Default,,0,0,0,,General Gan,
 Dialogue: 0,0:29:46.54,0:29:48.02,Default,,0,0,0,,Cao Cao is here!
 Dialogue: 0,0:29:59.78,0:30:02.54,Default,,0,0,0,,Look, they're back! General Gan is triumphant!
-Dialogue: 0,0:30:19.58,0:30:23.38,Default,,0,0,0,,My Lord, I have returned. A hundred men and mounts, not a single casualty.
-Dialogue: 0,0:30:23.58,0:30:25.10,Default,,0,0,0,,My Lord, please make a count.
-Dialogue: 0,0:30:27.86,0:30:29.78,Default,,0,0,0,,My Lord, I've counted the troops!
+Dialogue: 0,0:30:19.58,0:30:23.38,Default,,0,0,0,,My lord, I have returned. A hundred men and mounts, not a single casualty.
+Dialogue: 0,0:30:23.58,0:30:25.10,Default,,0,0,0,,My lord, please make a count.
+Dialogue: 0,0:30:27.86,0:30:29.78,Default,,0,0,0,,My lord, I've counted the troops!
 Dialogue: 0,0:30:29.98,0:30:32.42,Default,,0,0,0,,A hundred and one, not a single fewer!
 Dialogue: 0,0:30:32.78,0:30:36.06,Default,,0,0,0,,General's raid has frightened the traitor Cao.
 Dialogue: 0,0:30:36.61,0:30:39.06,Default,,0,0,0,,I was hesitant to let you take risks,
 Dialogue: 0,0:30:39.64,0:30:44.58,Default,,0,0,0,,but I wanted to test the courage of my adept generals of Jiangdong.
-Dialogue: 0,0:30:50.35,0:30:51.33,Default,,0,0,0,,My Lord!
-Dialogue: 0,0:30:53.58,0:30:57.26,Default,,0,0,0,,My Lord, Senior General Zhang Liao of the Cao army has come to challenge us.
+Dialogue: 0,0:30:50.35,0:30:51.33,Default,,0,0,0,,My lord!
+Dialogue: 0,0:30:53.58,0:30:57.26,Default,,0,0,0,,My lord, Senior General Zhang Liao of the Cao army has come to challenge us.
 Dialogue: 0,0:30:57.88,0:30:58.51,Default,,0,0,0,,Good.
 Dialogue: 0,0:30:59.06,0:31:01.42,Thinking,,0,0,0,,Cao Cao has Zhang Liao, and I have Gan Xingba.
-Dialogue: 0,0:31:01.88,0:31:03.26,Default,,0,0,0,,-My Lord.\N-My Lord!
+Dialogue: 0,0:31:01.88,0:31:03.26,Default,,0,0,0,,-My lord.\N-My lord!
 Dialogue: 0,0:31:04.41,0:31:05.78,Default,,0,0,0,,I am willing to go.
 Dialogue: 0,0:31:11.27,0:31:12.20,Default,,0,0,0,,Very well.
 Dialogue: 0,0:31:12.50,0:31:15.06,Default,,0,0,0,,With Gongji going, we will succeed.
 Dialogue: 0,0:31:15.50,0:31:20.46,Default,,0,0,0,,I grant you three thousand troops. \NI will watch over the battle in person.
 Dialogue: 0,0:31:20.94,0:31:22.30,Default,,0,0,0,,Thank you, my Lord.
 Dialogue: 0,0:32:31.88,0:32:33.98,Default,,0,0,0,,Gongji, how is the wound?
-Dialogue: 0,0:32:34.38,0:32:39.30,Default,,0,0,0,,My Lord, I have sullied our prestige. I have disappointed you.
+Dialogue: 0,0:32:34.38,0:32:39.30,Default,,0,0,0,,My lord, I have sullied our prestige. I have disappointed you.
 Dialogue: 0,0:32:39.59,0:32:42.98,Default,,0,0,0,,Rise, rise. No need for sorrow.
 Dialogue: 0,0:32:43.86,0:32:46.06,Default,,0,0,0,,It was only because Traitor Cao shot an arrow.
-Dialogue: 0,0:32:46.70,0:32:50.46,Default,,0,0,0,,My Lord, which general saved my life?
+Dialogue: 0,0:32:46.70,0:32:50.46,Default,,0,0,0,,My lord, which general saved my life?
 Dialogue: 0,0:32:51.70,0:32:54.38,Default,,0,0,0,,Who among you saved me?
 Dialogue: 0,0:32:54.54,0:32:58.98,Default,,0,0,0,,Gongji, the man who shot an arrow to save you...
 Dialogue: 0,0:33:00.90,0:33:02.30,Default,,0,0,0,,...It was Xingba!
@@ -393,14 +393,14 @@ Dialogue: 0,0:35:01.82,0:35:07.14,Default,,0,0,0,,{\bord12}Who could anticipate 
 Dialogue: 0,0:35:08.02,0:35:12.42,Default,,0,0,0,,When his Lord is in danger, how can a warrior not put his life on the line?
 Dialogue: 0,0:35:17.90,0:35:19.10,Default,,0,0,0,,Youping.
 Dialogue: 0,0:35:20.06,0:35:22.42,Default,,0,0,0,,Come, sit.
-Dialogue: 0,0:35:25.98,0:35:27.98,Default,,0,0,0,,-Please take off your robe.\N-My Lord!
+Dialogue: 0,0:35:25.98,0:35:27.98,Default,,0,0,0,,-Please take off your robe.\N-My lord!
 Dialogue: 0,0:35:28.42,0:35:29.70,Default,,0,0,0,,Please.
 Dialogue: 0,0:35:40.46,0:35:43.70,Default,,0,0,0,,When did you get this injury?
 Dialogue: 0,0:35:47.10,0:35:49.48,Default,,0,0,0,,In the midst of the battle, my Lord was at the left.
 Dialogue: 0,0:35:49.50,0:35:52.54,Default,,0,0,0,,I saw two enemy soldiers trying to attack my Lord from behind.
 Dialogue: 0,0:35:52.62,0:35:57.18,Default,,0,0,0,,I turned my lance against them, but I was stabbed by a sword.
 Dialogue: 0,0:36:11.64,0:36:12.79,Default,,0,0,0,,General Zhou.
-Dialogue: 0,0:36:14.26,0:36:16.66,Default,,0,0,0,,-Please.\N-My Lord.
+Dialogue: 0,0:36:14.26,0:36:16.66,Default,,0,0,0,,-Please.\N-My lord.
 Dialogue: 0,0:36:18.58,0:36:20.06,Default,,0,0,0,,Thank you, my Lord.
 Dialogue: 0,0:36:24.42,0:36:26.90,Default,,0,0,0,,When did you get this injury?
 Dialogue: 0,0:36:27.52,0:36:29.52,Default,,0,0,0,,During the retreat, my Lord was behind me.
@@ -408,7 +408,7 @@ Dialogue: 0,0:36:29.58,0:36:32.26,Default,,0,0,0,,I saw someone trying to shoot 
 Dialogue: 0,0:36:32.50,0:36:37.30,Default,,0,0,0,,I swung my lance to block the arrow, but I was wounded by a spear.
 Dialogue: 0,0:36:43.14,0:36:45.14,Default,,0,0,0,,Please, General Zhou.
 Dialogue: 0,0:36:46.62,0:36:48.30,Default,,0,0,0,,Thank you, my Lord.
-Dialogue: 0,0:37:09.50,0:37:13.02,Default,,0,0,0,,My Lord, I have had enough wine.
+Dialogue: 0,0:37:09.50,0:37:13.02,Default,,0,0,0,,My lord, I have had enough wine.
 Dialogue: 0,0:37:13.42,0:37:17.14,Default,,0,0,0,,One cup of wine per wound.
 Dialogue: 0,0:37:18.78,0:37:25.78,Default,,0,0,0,,Today, I shall be drunk with my general.
 Dialogue: 0,0:37:28.66,0:37:31.90,Default,,0,0,0,,Please, my Lord. Please, fellow warriors!
@@ -426,7 +426,7 @@ Dialogue: 0,0:38:20.54,0:38:23.18,Default,,0,0,0,,{\pos(640,664)}{\bord12}it wil
 Dialogue: 0,0:38:27.82,0:38:30.58,Thinking,,0,0,0,,After Cao Cao's return,
 Dialogue: 0,0:38:30.78,0:38:35.46,Thinking,,0,0,0,,he murdered Empress Fu and her family's more than two hundred members,
 Dialogue: 0,0:38:36.18,0:38:42.50,Thinking,,0,0,0,,and forced Emperor Xian to name Cao Cao's daughter empress.
-Dialogue: 0,0:38:43.54,0:38:47.86,Thinking,,0,0,0,,He also coerced Emperor Xian to make him the "Prince of Wei,"
+Dialogue: 0,0:38:43.54,0:38:47.86,Thinking,,0,0,0,,He also coerced Emperor Xian to make him the "King of Wei,"
 Dialogue: 0,0:38:48.42,0:38:55.94,Thinking,,0,0,0,,and permit him to name a royal successor, \Nwho would inherit Cao Cao's title.
 Dialogue: 0,0:38:57.34,0:39:01.86,Thinking,,0,0,0,,At this time, Cao Cao's power had reached its zenith.
 Dialogue: 0,0:39:14.66,0:39:18.78,Default,,0,0,0,,{\pos(640,664)}{\bord12}I have six decades and two years behind me,

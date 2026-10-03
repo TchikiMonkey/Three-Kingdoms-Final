@@ -51,10 +51,10 @@ Dialogue: 0,0:02:02.42,0:02:10.74,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\
 Dialogue: 0,0:02:10.82,0:02:18.62,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
 Dialogue: 0,0:02:18.78,0:02:27.18,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
 Dialogue: 0,0:02:27.34,0:02:30.14,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Jiē {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
+Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Dōu {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
 Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
 Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Jiē {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
+Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
 Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}On and on the Great River rolls, racing east.
 Dialogue: 0,0:01:26.28,0:01:35.13,Thinking,,0,0,0,,{\bord12}Of proud and gallant heroes,\N its white-waves leave no trace.
 Dialogue: 0,0:01:35.50,0:01:44.71,Thinking,,0,0,0,,{\bord12}As right and wrong, glory and fall,\N fade at once into nothing.
@@ -70,7 +70,7 @@ Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, 
 Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(633.81,321.182)}Act 2
-Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(630.051,548.64)}The Battle of Red Cliff
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(630.051,548.64)}The Battle of Red Cliffs
 Dialogue: 0,0:03:16.00,0:03:21.32,Episode Title,,0,0,0,,{\fade(255,0,255,0,1000,4720,5320)\pos(640,345.285)}Episode 25
 Dialogue: 0,0:03:16.00,0:03:21.32,Episode Title,,0,0,0,,{\fade(255,0,255,0,1000,4720,5320)\pos(640,536)}Liu Bei Seeks the Virtuous
 Dialogue: 0,0:03:18.21,0:03:19.06,Default,Sima Hui,0,0,0,,After you.
@@ -133,7 +133,7 @@ Dialogue: 0,0:08:34.00,0:08:38.86,Thinking,Sima Hui,0,0,0,,The reason why you ha
 Dialogue: 0,0:08:38.86,0:08:43.60,Thinking,Sima Hui,0,0,0,,is because you lack virtuous sage men to assist you.
 Dialogue: 0,0:08:47.06,0:08:49.74,Thinking,Sima Hui,0,0,0,,Sleeping Dragon and Fledgling Phoenix.
 Dialogue: 0,0:08:49.74,0:08:53.28,Thinking,Sima Hui,0,0,0,,With even one of the two, peace can be brought.
-Dialogue: 0,0:08:57.76,0:09:04.28,Thinking,Narrator,0,0,0,,Zhao Yun searched without success for Liu Bei  outside of Xiangyang City.
+Dialogue: 0,0:08:57.76,0:09:04.28,Thinking,Narrator,0,0,0,,Zhao Yun searched without success for Liu Bei outside of Xiangyang City.
 Dialogue: 0,0:09:04.28,0:09:08.98,Thinking,Narrator,0,0,0,,From the east side of the Tan Creek, \Nhe saw water prints on the west side.
 Dialogue: 0,0:09:08.98,0:09:13.64,Thinking,Narrator,0,0,0,,He figured that Liu Bei came back to Xinye, so he went there with his men.
 Dialogue: 0,0:09:13.83,0:09:19.54,Default,Xu Shu,0,0,0,,{\bord12\pos(640,660)}The heavens and the earth are fickle...
@@ -158,7 +158,7 @@ Dialogue: 0,0:10:18.10,0:10:18.45,Default,Zhao Yun,0,0,0,,Yes sir.
 Dialogue: 0,0:10:40.14,0:10:44.34,Default,Liu Bei,0,0,0,,May I ask where you came from?
 Dialogue: 0,0:10:55.48,0:10:57.75,Default,Xu Shu,0,0,0,,From all around the mountains!
 Dialogue: 0,0:11:07.08,0:11:09.26,Default,Liu Bei,0,0,0,,May I ask for your name?
-Dialogue: 0,0:11:11.62,0:11:16.74,Default,Xu Shu,0,0,0,,I am from Yingshang. \NOf the family {\i1}Shàn{\i0}, by the name of {\i1}Fú{\i0}
+Dialogue: 0,0:11:11.62,0:11:16.74,Default,Xu Shu,0,0,0,,I am from Yingshang. \NOf the family {\i1}Shàn,{\i0} by the name of {\i1}Fú.{\i0}
 Dialogue: 0,0:11:17.88,0:11:20.74,Default,Xu Shu,0,0,0,,Sir, I heard that you are recruiting the virtuous.
 Dialogue: 0,0:11:20.74,0:11:24.88,Default,Xu Shu,0,0,0,,Because you listened to my lament, you have earned my respect.
 Dialogue: 0,0:11:28.04,0:11:31.20,Default,Liu Bei,0,0,0,,Thank you for your time, you have my gratitude.
@@ -166,7 +166,7 @@ Dialogue: 0,0:11:31.61,0:11:32.79,Default,Xu Shu,0,0,0,,I wouldn't dare!
 Dialogue: 0,0:11:33.30,0:11:35.50,Default,Liu Bei,0,0,0,,Sir, let us discuss this at a hut.
 Dialogue: 0,0:11:38.50,0:11:43.64,Style Names,,0,0,0,,{\fade(255,0,255,0,400,4780,5140)\pos(345.861,436.4)}Shàn Fú\N\N{\i1}True Name:{\i0} \NXú Shù\NStyled: Yuánzhí
 Dialogue: 0,0:11:39.42,0:11:41.45,Default,Xu Shu,0,0,0,,That horse must be Dilü!
-Dialogue: 0,0:11:53.94,0:11:59.44,Default,Xu Shu,0,0,0,,This horse can handle a thousand miles of travel, but it will curse its rider.
+Dialogue: 0,0:11:53.94,0:11:59.44,Default,Xu Shu,0,0,0,,This horse can handle a thousand {\i1}li{\i0} of travel, but it will curse its rider.
 Dialogue: 0,0:11:59.44,0:12:00.99,Default,Xu Shu,0,0,0,,Sire, do not ride it.
 Dialogue: 0,0:12:03.42,0:12:06.34,Default,Liu Bei,0,0,0,,This horse leaped over the Tan Creek!
 Dialogue: 0,0:12:06.34,0:12:07.94,Default,Liu Bei,0,0,0,,It saved me!
@@ -203,7 +203,7 @@ Dialogue: 0,0:14:35.84,0:14:38.26,Default,Cao Cao,0,0,0,,Now, with the north pac
 Dialogue: 0,0:14:39.34,0:14:40.94,Default,Cao Cao,0,0,0,,I will again march my army!
 Dialogue: 0,0:14:41.03,0:14:44.43,Note (Potential style?),,0,0,0,,Note: Jīng-Xiāng (荆襄) aka. Jing Province and Xiangyang.
 Dialogue: 0,0:14:40.94,0:14:44.98,Default,Cao Cao,0,0,0,,I will first take the lands of Jing-Xiang, then conquer Eastern Wu!
-Dialogue: 0,0:14:45.70,0:14:49.06,Default,Cao Cao,0,0,0,,Liu Bei had tried earlier to take the capital of Xu (Xuchang) away from us.
+Dialogue: 0,0:14:45.70,0:14:49.06,Default,Cao Cao,0,0,0,,Liu Bei had tried earlier to take the capital of Xu away from us.
 Dialogue: 0,0:14:49.06,0:14:52.86,Default,Cao Cao,0,0,0,,While his wings are not developed, we must kill him,
 Dialogue: 0,0:14:52.86,0:14:54.56,Default,Cao Cao,0,0,0,,to eliminate a future problem!
 Dialogue: 0,0:14:55.50,0:14:56.94,Default,Cao Cao,0,0,0,,Generals, heed my orders!
@@ -306,7 +306,7 @@ Dialogue: 0,0:22:25.90,0:22:29.00,Default,Xu Shu,0,0,0,,No matter how brave one 
 Dialogue: 0,0:22:29.00,0:22:31.36,Default,Xu Shu,0,0,0,,That is the strength of this formation.
 Dialogue: 0,0:22:32.83,0:22:35.95,Default,Liu Bei,0,0,0,,In that case, is there no plan that can defeat it?
 Dialogue: 0,0:22:39.76,0:22:44.62,Default,Xu Shu,0,0,0,,Although they are grouped neatly, they lack a Supreme Ultimate;
-Dialogue: 0,0:22:44.62,0:22:46.62,Default,Xu Shu,0,0,0,,their centre has no commander.
+Dialogue: 0,0:22:44.62,0:22:46.62,Default,Xu Shu,0,0,0,,their center has no commander.
 Dialogue: 0,0:22:46.62,0:22:50.75,Default,Xu Shu,0,0,0,,General, enter through the southeast corner.
 Dialogue: 0,0:22:50.75,0:22:54.56,Default,Xu Shu,0,0,0,,If you attack the western gate, they will rout.
 Dialogue: 0,0:22:58.32,0:22:58.92,Default,Liu Bei,0,0,0,,Zilong.
@@ -388,7 +388,7 @@ Dialogue: 0,0:31:19.78,0:31:21.88,Default,Cao Cao,0,0,0,,What is he like?
 Dialogue: 0,0:31:26.36,0:31:33.48,Style Names,,0,0,0,,{\fade(255,0,255,0,400,6720,7120)\pos(308.8,489.6)}Chéng Yù \NStyled: Zhòngdé
 Dialogue: 0,0:31:26.66,0:31:30.90,Default,Cheng Yu,0,0,0,,Chancellor, Shan Fu is a false name.
 Dialogue: 0,0:31:31.91,0:31:34.50,Default,Cheng Yu,0,0,0,,He is actually a man from Yingchuan
-Dialogue: 0,0:31:34.50,0:31:37.42,Default,Cheng Yu,0,0,0,,of the family {\i1}Xú{\i0}, by the name of {\i1}Shù{\i0}, styled {\i1}Yuánzhí.{\i0}
+Dialogue: 0,0:31:34.50,0:31:37.42,Default,Cheng Yu,0,0,0,,of the family {\i1}Xú,{\i0} by the name of {\i1}Shù,{\i0} styled {\i1}Yuánzhí.{\i0}
 Dialogue: 0,0:31:37.42,0:31:40.21,Default,Cheng Yu,0,0,0,,When he was young, he practiced swordsmanship.
 Dialogue: 0,0:31:40.21,0:31:43.98,Default,Cheng Yu,0,0,0,,He is forthright by nature,\N and is fond of fighting against injustice.
 Dialogue: 0,0:31:44.52,0:31:49.72,Default,Cheng Yu,0,0,0,,Near the end of the{\i1} Zhongping {\i0}calendar, he slew a corrupt official to avenge a friend.
@@ -505,7 +505,7 @@ Dialogue: 0,0:40:18.65,0:40:22.83,Default,Liu Bei,0,0,0,,Sir, say what it is. Do
 Dialogue: 0,0:40:35.02,0:40:36.26,Default,Xu Shu,0,0,0,,Sire...
 Dialogue: 0,0:40:38.23,0:40:42.02,Default,Xu Shu,0,0,0,,My real name is Xu Shu, styled Yuanzhi, of Yingchuan.
 Dialogue: 0,0:40:44.06,0:40:47.04,Default,Xu Shu,0,0,0,,When I went into hiding, I changed my name to Shan Fu.
-Dialogue: 0,0:40:48.30,0:40:53.21,Default,Xu Shu,0,0,0,,I heard that Liu Jingsheng was \Nseeking advisers, so I visited him.
+Dialogue: 0,0:40:48.30,0:40:53.21,Default,Xu Shu,0,0,0,,I heard that Liu Jingsheng was \Nseeking advisors, so I visited him.
 Dialogue: 0,0:40:55.13,0:40:58.97,Default,Xu Shu,0,0,0,,In discussing matters, I realized that he was inept.
 Dialogue: 0,0:41:00.19,0:41:03.74,Default,Xu Shu,0,0,0,,Therefore, I left a letter of resignation.
 Dialogue: 0,0:41:06.56,0:41:09.76,Default,Xu Shu,0,0,0,,Overnight, I stayed with Master Sima Water Mirror.

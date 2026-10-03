@@ -86,7 +86,7 @@ Dialogue: 0,0:03:14.00,0:03:15.76,Default,,0,0,0,,Great decision-making, my lord
 Dialogue: 0,0:03:16.08,0:03:19.80,Default,,0,0,0,,You killed Liu Bei's ambitions \Nwithout him even realizing it!
 Dialogue: 0,0:03:19.80,0:03:24.68,Default,,0,0,0,,It seems Jing Province will be in chaos before long.
 Dialogue: 0,0:03:38.04,0:03:41.92,Default,,0,0,0,,Third Brother! Third Brother! \NIt's already late into the night.
-Dialogue: 0,0:03:40.84,0:03:46.16,Style Names,,0,0,0,,{\pos(302.942,507.273)\\fade(255,0,255,0,400,4940,5340)}Guān Yǔ\NStyled: Yúnchǎng
+Dialogue: 0,0:03:40.84,0:03:46.16,Style Names,,0,0,0,,{\pos(302.942,507.273)\\fade(255,0,255,0,400,4940,5340)}Guān Yǔ\NStyled: Yúncháng
 Dialogue: 0,0:03:42.40,0:03:44.44,Default,,0,0,0,,We can just go tomorrow morning!
 Dialogue: 0,0:03:44.44,0:03:45.20,Default,,0,0,0,,No!
 Dialogue: 0,0:03:45.60,0:03:48.16,Default,,0,0,0,,If I can't get an answer now, I won't be able to sleep!
@@ -204,7 +204,7 @@ Dialogue: 0,0:16:30.28,0:16:33.24,Default,,0,0,0,,He is having a banquet. We did
 Dialogue: 0,0:16:37.96,0:16:39.00,Default,,0,0,0,,General Ding Feng!
 Dialogue: 0,0:16:39.16,0:16:39.84,Default,,0,0,0,,Here.
 Dialogue: 0,0:16:39.88,0:16:43.36,Default,,0,0,0,,Give the order to the men of Nanxu to watch Liu Bei closely.
-Dialogue: 0,0:16:43.36,0:16:47.56,Default,,0,0,0,,If anything happens, tell the Marquis at once. Do not let the tiger return to its den.\N
+Dialogue: 0,0:16:43.36,0:16:47.56,Default,,0,0,0,,If anything happens, tell the Marquis at once. Do not let the tiger return to its den.
 Dialogue: 0,0:16:47.56,0:16:48.40,Default,,0,0,0,,Yes, sir.
 Dialogue: 0,0:16:49.44,0:16:52.72,Default,,0,0,0,,Also order the navy to patrol the river and its banks.
 Dialogue: 0,0:16:52.88,0:16:55.84,Default,,0,0,0,,The boats must act if they see a suspicious ship.
