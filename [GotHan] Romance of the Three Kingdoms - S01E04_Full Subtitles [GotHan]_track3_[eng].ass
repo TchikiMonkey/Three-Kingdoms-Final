@@ -54,7 +54,7 @@ Dialogue: 0,0:01:39.91,0:01:40.96,Default,Wang Yun,0,0,0,,I...
 Dialogue: 0,0:01:53.66,0:01:56.60,Default,Guest,0,0,0,,Your Excellency, this is your birthday. Why cry?
 Dialogue: 0,0:01:56.98,0:01:58.06,Default,Officials,0,0,0,,Yes.
 Dialogue: 0,0:02:01.68,0:02:03.77,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}Let me be honest.
-Dialogue: 0,0:02:06.18,0:02:09.80,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}Today...is not my birthday.
+Dialogue: 0,0:02:06.18,0:02:09.80,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}Today... is not my birthday.
 Dialogue: 0,0:02:12.17,0:02:14.56,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}I only wanted to have a meeting with you all.
 Dialogue: 0,0:02:15.77,0:02:18.10,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}I feared that Dong Zhuo would get suspicious,
 Dialogue: 0,0:02:18.77,0:02:21.11,Default,Wang Yun,0,0,0,,{\bord12\pos(640,660)}so I made this birthday excuse.
@@ -307,7 +307,7 @@ Dialogue: 0,0:27:05.83,0:27:10.08,Default,Cao Cao,0,0,0,,{\bord12}If I do not re
 Dialogue: 0,0:27:12.56,0:27:16.21,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}The reason I bowed down to Dong Zhuo
 Dialogue: 0,0:27:16.21,0:27:18.36,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}was to find a chance to kill the bastard.
 Dialogue: 0,0:27:18.98,0:27:21.77,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Never did I expect to fail, my efforts for naught.
-Dialogue: 0,0:27:23.04,0:27:24.96,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Perhaps this is the will of heaven...
+Dialogue: 0,0:27:23.04,0:27:24.96,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Perhaps this is the will of Heaven...
 Dialogue: 0,0:27:26.45,0:27:29.70,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}So where will you go?
 Dialogue: 0,0:27:31.21,0:27:33.85,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}I will return to my hometown and forge an edict,
 Dialogue: 0,0:27:34.29,0:27:37.16,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}telling every lord in the realm to fight Dong Zhuo!
@@ -337,7 +337,7 @@ Dialogue: 0,0:29:22.68,0:29:25.12,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}I
 Dialogue: 0,0:29:25.92,0:29:27.08,Default,Chen Gong,0,0,0,,Good!
 Dialogue: 0,0:29:53.38,0:29:56.68,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}Dong Zhuo runs amok, harming the state and people.
 Dialogue: 0,0:29:56.68,0:29:58.63,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}All under Heaven want him dead.
-Dialogue: 0,0:29:59.42,0:30:02.08,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}Sir, you are following the heavens and the people.
+Dialogue: 0,0:29:59.42,0:30:02.08,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}Sir, you are following the Heavens and the people.
 Dialogue: 0,0:30:02.08,0:30:07.00,Default,Chen Gong,0,0,0,,{\bord12\pos(640,660)}You will surely succeed in your great cause!
 Dialogue: 0,0:30:07.00,0:30:08.59,Default,Cao Cao,0,0,0,,But right now, I am...
 Dialogue: 0,0:30:12.64,0:30:15.10,Default,Chen Gong,0,0,0,,Did you think I would hand you over for a reward?

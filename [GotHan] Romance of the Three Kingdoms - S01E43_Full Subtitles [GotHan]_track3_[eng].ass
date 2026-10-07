@@ -42,7 +42,7 @@ Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.63,0:00:06.03,Episode Title,,0,0,0,,{\pos(629.083,448.246)\\fade(255,0,255,0,850,4650,5380)}Episode 43\N \N\N\N\N\NGānlù Temple
-Dialogue: 0,0:00:33.98,0:00:38.39,Default,NTP,0,0,0,,My lord...why do you seem upset?
+Dialogue: 0,0:00:33.98,0:00:38.39,Default,NTP,0,0,0,,My lord... why do you seem upset?
 Dialogue: 0,0:00:41.00,0:00:43.47,Default,,0,0,0,,Because of your loose tongue, \Nmy plan has been ruined!
 Dialogue: 0,0:00:45.03,0:00:46.64,Default,,0,0,0,,That is my mistake!
 Dialogue: 0,0:00:47.39,0:00:53.11,Style Names,,0,0,0,,{\pos(358.044,458.182)\fade(255,0,255,0,400,5340,5700)}Sūn Quán\NStyled: Zhòngmóu
@@ -219,7 +219,7 @@ Dialogue: 0,0:18:02.49,0:18:04.71,Default,,0,0,0,,Zhongmou, your swordsmanship i
 Dialogue: 0,0:18:08.88,0:18:11.20,Default,,0,0,0,,The same can be said of yours.
 Dialogue: 0,0:18:17.60,0:18:21.77,Default,,0,0,0,,Lord Xuande, do you know the landscape of Mount Beigu?
 Dialogue: 0,0:18:22.14,0:18:24.20,Default,,0,0,0,,I have never seen it.
-Dialogue: 0,0:18:24.68,0:18:27.27,Default,,0,0,0,,Then follow me, lord Xuande.
+Dialogue: 0,0:18:24.68,0:18:27.27,Default,,0,0,0,,Then follow me, Lord Xuande.
 Dialogue: 0,0:18:27.81,0:18:29.24,Default,,0,0,0,,My lord...
 Dialogue: 0,0:18:52.33,0:18:55.55,Default,,0,0,0,,{\pos(640,670)}{\bord10.909}This is the most beautiful landscape in the world.
 Dialogue: 0,0:18:59.49,0:19:01.28,Default,,0,0,0,,{\pos(640,670)}{\bord10.909}I often hear people say
@@ -284,7 +284,7 @@ Dialogue: 0,0:25:12.83,0:25:15.83,Default,,0,0,0,,Welcome the bride!
 Dialogue: 0,0:25:15.83,0:25:17.43,Default,,0,0,0,,Welcome the groom!
 Dialogue: 0,0:25:17.43,0:25:18.63,Default,,0,0,0,,Welcome to the bride!
 Dialogue: 0,0:25:18.63,0:25:19.47,Default,,0,0,0,,Welcome, groom!
-Dialogue: 0,0:25:06.69,0:25:19.47,Thinking,,0,0,0,,{\bord10.909\pos(640,660)}the tender spring breeze gently blows my skirt.
+Dialogue: 0,0:25:06.69,0:25:19.47,Thinking,,0,0,0,,{\bord10.909\pos(640,660)}The tender spring breeze gently blows my skirt.
 Dialogue: 0,0:25:07.09,0:25:19.47,Song,,0,0,0,,{\k148}Chūn{\k164}fēng {\k73}fù {\k76}duō{\k164}qíng, {\k47}chuī {\k105}wǒ {\k103}luō {\k94}shang {\k264}kāi
 Dialogue: 0,0:25:19.47,0:25:32.07,Thinking,,0,0,0,,{\bord10.909}In the morning I ascend to the balcony, and at dusk I rest in a pond of orchids.
 Dialogue: 0,0:25:19.47,0:25:32.07,Song,,0,0,0,,{\k182}Cháo {\k151}dēng {\k81}liáng{\k85}tái {\k149}shàng, {\k45}xī {\k121}sù {\k87}lán {\k77}chí {\k282}lǐ

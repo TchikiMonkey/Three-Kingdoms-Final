@@ -81,7 +81,7 @@ Dialogue: 0,0:03:21.14,0:03:23.50,Default,,0,0,0,,{\bord12}Aide-de-Camp Zhang le
 Dialogue: 0,0:03:23.50,0:03:29.20,Default,,0,0,0,,{\bord12}and wrote a letter in secret, urging my Lord to take Chengdu immediately, promising cooperation.
 Dialogue: 0,0:03:29.30,0:03:32.02,Default,,0,0,0,,{\bord12}However his letter was discovered by his brother Zhang Su,
 Dialogue: 0,0:03:32.04,0:03:34.50,Default,,0,0,0,,{\bord12}and reported him to Liu Zhang. His household was executed.
-Dialogue: 0,0:03:39.96,0:03:46.10,Default,,0,0,0,,{\bord12}Oh...Zhang Song. He aided me in taking \Nthe Western Riverlands with all sincerity.
+Dialogue: 0,0:03:39.96,0:03:46.10,Default,,0,0,0,,{\bord12}Oh... Zhang Song. He aided me in taking \Nthe Western Riverlands with all sincerity.
 Dialogue: 0,0:03:47.76,0:03:51.76,Default,,0,0,0,,{\bord12}{\pos(640,660)}He got neither a bit of gold nor a single {\i1}chi{\i0} of land,
 Dialogue: 0,0:03:51.92,0:03:56.52,Default,,0,0,0,,{\bord12}yet his entire family still suffered this deplorable misfortune, all because of me...
 Dialogue: 0,0:04:23.02,0:04:24.90,Style Names,,0,0,0,,{\pos(981.151,276.818)}Fǎ Zhèng \NStyled: Xiàozhí
@@ -114,7 +114,7 @@ Dialogue: 0,0:06:20.34,0:06:23.56,Default,,0,0,0,,so that Liu Zhang may not have
 Dialogue: 0,0:06:24.58,0:06:25.62,Default,,0,0,0,,My lord!
 Dialogue: 0,0:06:26.88,0:06:30.76,Default,,0,0,0,,My lord, Liu Zhang has sent four generals: Zhang Ren, Liu Gui, Leng Bao, and Deng Xian
 Dialogue: 0,0:06:30.86,0:06:32.84,Default,,0,0,0,,to reinforce Luocheng with fifty thousand troops.
-Dialogue: 0,0:06:32.84,0:06:37.26,Default,,0,0,0,,Now Leng Bao, and Deng Xian have made camp separately sixty {\i1}lǐ{\i0} to the north of Luocheng.
+Dialogue: 0,0:06:32.84,0:06:37.26,Default,,0,0,0,,Now Leng Bao, and Deng Xian have made camp separately sixty {\i1}li{\i0} to the north of Luocheng.
 Dialogue: 0,0:06:43.74,0:06:44.22,Default,,0,0,0,,My lord.
 Dialogue: 0,0:06:49.58,0:06:52.34,Default,,0,0,0,,There is a chokepoint sixty {\i1}li{\i0} to the north of the city.
 Dialogue: 0,0:06:52.68,0:06:56.66,Default,,0,0,0,,With steep mountains and narrow roads, \Neasy to defend and difficult to attack.
@@ -124,7 +124,7 @@ Dialogue: 0,0:07:15.44,0:07:21.62,Default,,0,0,0,,{\bord12}{\pos(640,660)}... Ho
 Dialogue: 0,0:07:22.56,0:07:23.64,Default,,0,0,0,,{\bord12}{\pos(640,660)}How can we do this?
 Dialogue: 0,0:07:35.82,0:07:38.40,Default,,0,0,0,,{\bord12}{\pos(640,660)}I, Liang, calculated the {\i1}Taiyi{\i0} Divination at night:
 Dialogue: 0,0:07:38.54,0:07:42.24,Default,,0,0,0,,{\bord12}this year, the {\i1}Guisi{\i0} year, {\bord12}the handle of the Big Dipper is at the west...
-Dialogue: 0,0:07:42.30,0:07:45.98,Default,,0,0,0,,{\bord12}Seeing the heavenly signs, I see that Venus approaches Luocheng.
+Dialogue: 0,0:07:42.30,0:07:45.98,Default,,0,0,0,,{\bord12}Seeing the Heavenly signs, I see that Venus approaches Luocheng.
 Dialogue: 0,0:07:46.04,0:07:50.56,Default,,0,0,0,,{\bord12}There is an ill omen upon our leading officers, thus it is prudent to be cautious.
 Dialogue: 0,0:07:51.42,0:07:53.84,Thinking,,0,0,0,,Since I joined the Imperial Uncle,
 Dialogue: 0,0:07:53.94,0:07:56.72,Thinking,,0,0,0,,I had no chances to accomplish great feats until now.
@@ -152,7 +152,7 @@ Dialogue: 0,0:10:01.02,0:10:04.28,Default,,0,0,0,,What does the Strategos wish t
 Dialogue: 0,0:10:08.78,0:10:11.92,Default,,0,0,0,,My lord, what festival is tomorrow?
 Dialogue: 0,0:10:12.60,0:10:13.84,Default,,0,0,0,,Does my Lord know?
 Dialogue: 0,0:10:14.18,0:10:15.65,Default,,0,0,0,,Today is July the Sixth.
-Dialogue: 0,0:10:16.68,0:10:19.71,Default,,0,0,0,,Tomorrow is...July the Seventh.
+Dialogue: 0,0:10:16.68,0:10:19.71,Default,,0,0,0,,Tomorrow is... July the Seventh.
 Dialogue: 0,0:10:20.26,0:10:21.71,Default,,0,0,0,,The Festival of Two Sevens!
 Dialogue: 0,0:10:22.94,0:10:23.67,Default,,0,0,0,,Exactly!
 Dialogue: 0,0:10:24.86,0:10:27.62,Default,,0,0,0,,This festival is nothing special in the Central Plains,
@@ -160,7 +160,7 @@ Dialogue: 0,0:10:27.62,0:10:30.23,Default,,0,0,0,,but in the Western Riverlands,
 Dialogue: 0,0:10:30.54,0:10:37.23,Default,,0,0,0,,All households of the Riverlands on this day set out food and wine to celebrate.
 Dialogue: 0,0:10:38.06,0:10:41.82,Default,,0,0,0,,The army, too, ceases fighting and celebrates according to rules,
 Dialogue: 0,0:10:43.04,0:10:44.25,Default,,0,0,0,,to reward the troops.
-Dialogue: 0,0:10:44.82,0:10:50.25,Default,,0,0,0,,Would this not be a heaven-sent opportunity to attack Luocheng?
+Dialogue: 0,0:10:44.82,0:10:50.25,Default,,0,0,0,,Would this not be a Heaven-sent opportunity to attack Luocheng?
 Dialogue: 0,0:10:55.68,0:10:58.98,Default,,0,0,0,,But Zhang Ren is an astute man and is cautious in his use of force.
 Dialogue: 0,0:10:59.44,0:11:01.69,Default,,0,0,0,,What if he is prepared?
 Dialogue: 0,0:11:02.00,0:11:02.77,Default,,0,0,0,,My lord,
@@ -189,8 +189,8 @@ Dialogue: 0,0:12:20.62,0:12:23.98,Default,,0,0,0,,How likely are we to win if we
 Dialogue: 0,0:12:25.52,0:12:28.75,Default,,0,0,0,,If this plan succeeds, then Luocheng can be taken in one battle.
 Dialogue: 0,0:12:29.50,0:12:32.46,Default,,0,0,0,,Our army can then proceed all the way down,
 Dialogue: 0,0:12:32.52,0:12:36.78,Default,,0,0,0,,seize Chengdu, capture Liu Zhang, and pacify the Riverlands in one fell swoop.
-Dialogue: 0,0:12:38.06,0:12:41.13,Default,,0,0,0,,Then, with one part of the three under heaven in hand,
-Dialogue: 0,0:12:41.13,0:12:45.26,Default,,0,0,0,,my Lord can then fight for supremacy under heaven against Cao Cao and Sun Quan!
+Dialogue: 0,0:12:38.06,0:12:41.13,Default,,0,0,0,,Then, with one part of the three under Heaven in hand,
+Dialogue: 0,0:12:41.13,0:12:45.26,Default,,0,0,0,,my Lord can then fight for supremacy under Heaven against Cao Cao and Sun Quan!
 Dialogue: 0,0:12:45.50,0:12:46.09,Default,,0,0,0,,My lord,
 Dialogue: 0,0:12:46.72,0:12:50.27,Default,,0,0,0,,the great cause of reviving the Han Dynasty will be at hand!
 Dialogue: 0,0:12:51.48,0:12:52.42,Default,,0,0,0,,Good!
@@ -223,7 +223,7 @@ Dialogue: 0,0:14:08.39,0:14:10.35,Default,,0,0,0,,my Lord can attack them.
 Dialogue: 0,0:14:10.35,0:14:13.78,Default,,0,0,0,,The narrow road is hard to tread, but the enemy can be taken by surprise.
 Dialogue: 0,0:14:14.03,0:14:17.17,Default,,0,0,0,,I use the narrow road specifically to avoid danger.
 Dialogue: 0,0:14:17.17,0:14:19.74,Default,,0,0,0,,My lord, why not allow it?
-Dialogue: 0,0:14:20.20,0:14:21.74,Default,,0,0,0,,Uh...this...
+Dialogue: 0,0:14:20.20,0:14:21.74,Default,,0,0,0,,Uh... this...
 Dialogue: 0,0:14:23.90,0:14:28.54,Default,,0,0,0,,Truth be told, though the Strategos' analysis have convinced me,
 Dialogue: 0,0:14:28.90,0:14:34.42,Default,,0,0,0,,Kongming's letter still indeed causes me to worry.
 Dialogue: 0,0:14:34.70,0:14:36.13,Default,,0,0,0,,What if the narrow path...
@@ -357,9 +357,9 @@ Dialogue: 0,0:25:10.24,0:25:16.75,Default,,0,0,0,,{\bord12}I was too greedy for 
 Dialogue: 0,0:25:20.36,0:25:23.41,Default,,0,0,0,,{\bord12\pos(640,660)}ashamed to face the troops of the three armies.
 Dialogue: 0,0:25:28.26,0:25:31.06,Default,,0,0,0,,{\bord12\pos(640,660)}Please be sure to tell my Lord
 Dialogue: 0,0:25:32.08,0:25:40.06,Default,,0,0,0,,{\bord12\pos(640,660)}not to worry about me.
-Dialogue: 0,0:25:41.06,0:25:59.59,Default,,0,0,0,,{\bord12\pos(640,660)}White horse...white horse! My lord's white horse!
+Dialogue: 0,0:25:41.06,0:25:59.59,Default,,0,0,0,,{\bord12\pos(640,660)}White horse... white horse! My lord's white horse!
 Dialogue: 0,0:26:01.32,0:26:06.15,Default,,0,0,0,,{\bord12\pos(640,660)}I can no longer accompany my Lord with you,
-Dialogue: 0,0:26:06.15,0:26:10.51,Default,,0,0,0,,{\bord12\pos(640,660)}to march under heaven!
+Dialogue: 0,0:26:06.15,0:26:10.51,Default,,0,0,0,,{\bord12\pos(640,660)}to march under Heaven!
 Dialogue: 0,0:26:22.02,0:26:28.02,Default,,0,0,0,,{\bord12\pos(640,660)}What a great white horse!
 Dialogue: 0,0:26:34.94,0:26:40.38,Style Names,,0,0,0,,{\pos(640,651.2)}Slope of the Fallen Phoenix
 Dialogue: 0,0:26:42.84,0:26:47.76,Default,,0,0,0,,{\bord12\pos(640,660)}Slope-of the-Fallen Phoenix!
@@ -434,7 +434,7 @@ Dialogue: 0,0:34:08.85,0:34:13.77,Default,,0,0,0,,You shall lead ten thousand el
 Dialogue: 0,0:34:13.77,0:34:17.95,Default,,0,0,0,,I will lead a detachment and enter the Riverlands by water. We shall meet at Fushui Pass.
 Dialogue: 0,0:34:17.95,0:34:22.18,Default,,0,0,0,,The first to arrive shall take the leading credit. Go and prepare, we leave tomorrow.
 Dialogue: 0,0:34:22.50,0:34:23.50,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:34:48.07,0:34:51.97,Default,,0,0,0,,Second Brother...take care!
+Dialogue: 0,0:34:48.07,0:34:51.97,Default,,0,0,0,,Second Brother... take care!
 Dialogue: 0,0:35:01.25,0:35:03.27,Default,,0,0,0,,Third Brother...
 Dialogue: 0,0:35:06.50,0:35:08.19,Default,,0,0,0,,take care of yourself too!
 Dialogue: 0,0:35:16.19,0:35:18.19,Style Names,,0,0,0,,{\pos(312,488)}Zhào Yún\NStyled: Zǐlóng

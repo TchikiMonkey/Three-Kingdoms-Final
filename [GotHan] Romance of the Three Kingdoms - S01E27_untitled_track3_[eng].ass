@@ -89,7 +89,7 @@ Dialogue: 0,0:03:08.90,0:03:10.92,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}
 Dialogue: 0,0:03:12.20,0:03:14.48,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}I, Liu Bei, am a scion of the Han.
 Dialogue: 0,0:03:14.48,0:03:16.22,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Witnessing the empire crumbling,
 Dialogue: 0,0:03:16.22,0:03:17.60,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}warlords causing chaos,
-Dialogue: 0,0:03:17.60,0:03:19.78,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}and ill cliques abusing the emperor,
+Dialogue: 0,0:03:17.60,0:03:19.78,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}and ill cliques abusing the Emperor,
 Dialogue: 0,0:03:19.78,0:03:22.42,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}my insides are torn asunder with grief.
 Dialogue: 0,0:03:22.42,0:03:25.24,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Though I have the ambition to uphold the Han dynasty,
 Dialogue: 0,0:03:25.24,0:03:27.76,Thinking,Liu Bei,0,0,0,,{\bord12\pos(640,660)}I am sorely lacking in governance and strategy.
@@ -305,8 +305,8 @@ Dialogue: 0,0:22:35.37,0:22:39.04,Default,Zhuge Liang,0,0,0,,{\bord12}Then, how 
 Dialogue: 0,0:22:39.82,0:22:41.78,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Do exactly this,
 Dialogue: 0,0:22:41.78,0:22:45.52,Default,Zhuge Liang,0,0,0,,{\bord12}and you may achieve your great undertaking \Nand revive the Han dynasty!
 Dialogue: 0,0:22:52.00,0:22:53.88,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}In your quest for hegemony,
-Dialogue: 0,0:22:53.88,0:22:56.06,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Cao Cao will have his heaven-sent chance,
-Dialogue: 0,0:22:56.06,0:22:57.83,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}and Sun Quan the benefits of earth,
+Dialogue: 0,0:22:53.88,0:22:56.06,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Cao Cao will have his Heaven-sent chance,
+Dialogue: 0,0:22:56.06,0:22:57.83,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}and Sun Quan the benefits of Earth,
 Dialogue: 0,0:22:57.83,0:23:01.08,Default,Zhuge Liang,0,0,0,,{\bord12}while you, General, will have the support and unity of the people.
 Dialogue: 0,0:23:05.68,0:23:08.28,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}This is a map of the fifty-four counties of the west.
 Dialogue: 0,0:23:09.19,0:23:11.42,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}First, take Jing Province as your home,
@@ -320,7 +320,7 @@ Dialogue: 0,0:23:30.91,0:23:34.24,Default,Liu Bei,0,0,0,,With you, I can see the
 Dialogue: 0,0:23:37.03,0:23:37.98,Default,Liu Bei,0,0,0,,However...
 Dialogue: 0,0:23:43.39,0:23:46.97,Default,Liu Bei,0,0,0,,Liu Biao of Jing and Liu Zhang of Yi are of the imperial family.
 Dialogue: 0,0:23:46.97,0:23:50.04,Default,Liu Bei,0,0,0,,How could I bring myself to steal from them?
-Dialogue: 0,0:23:51.15,0:23:53.18,Default,Zhuge Liang,0,0,0,,By my observation of heaven's signs,
+Dialogue: 0,0:23:51.15,0:23:53.18,Default,Zhuge Liang,0,0,0,,By my observation of Heaven's signs,
 Dialogue: 0,0:23:53.18,0:23:55.94,Default,Zhuge Liang,0,0,0,,Liu Biao shall not be in this world for long.
 Dialogue: 0,0:23:55.94,0:23:57.86,Default,Zhuge Liang,0,0,0,,Liu Zhang is not a man of ambition,
 Dialogue: 0,0:23:57.86,0:24:00.76,Default,Zhuge Liang,0,0,0,,and after some time, the west shall submit to you.
@@ -391,7 +391,7 @@ Dialogue: 0,0:27:59.95,0:28:10.04,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:28:10.04,0:28:14.34,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}Clear wind,
 Dialogue: 0,0:28:14.34,0:28:18.46,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}bright moon,
 Dialogue: 0,0:28:18.46,0:28:34.84,Thinking,Singer 1,0,0,0,,{\bord12\pos(640,660)}embracing me, as apes and cranes hear my zither.
-Dialogue: 0,0:28:34.84,0:28:43.00,Thinking,Singer 2,0,0,0,,{\bord12}Fickle are the ways of heaven, as fates elude from inquiry.
+Dialogue: 0,0:28:34.84,0:28:43.00,Thinking,Singer 2,0,0,0,,{\bord12}Fickle are the ways of Heaven, as fates elude from inquiry.
 Dialogue: 0,0:28:43.00,0:28:47.08,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}Guile determines wins and losses,
 Dialogue: 0,0:28:47.08,0:28:51.02,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}vows he with sincere loyalty.
 Dialogue: 0,0:28:51.02,0:28:58.33,Thinking,Singer 2,0,0,0,,{\bord12\pos(640,660)}To be alive, must true men do by right,

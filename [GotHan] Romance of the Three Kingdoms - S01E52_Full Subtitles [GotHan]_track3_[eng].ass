@@ -420,7 +420,7 @@ Dialogue: 0,0:33:53.86,0:33:57.22,Default,,0,0,0,,We swear to protect you and fi
 Dialogue: 0,0:33:57.98,0:34:00.40,Default,,0,0,0,,My lord!
 Dialogue: 0,0:34:00.94,0:34:05.89,Default,,0,0,0,,We can still fight. Do not surrender!
 Dialogue: 0,0:34:05.89,0:34:09.52,Default,,0,0,0,,My lord! My lord!
-Dialogue: 0,0:34:14.84,0:34:20.24,Default,,0,0,0,,{\bord10.909}My father and I ruled in\N the land of Shu for twenty or so years.
+Dialogue: 0,0:34:14.84,0:34:20.24,Default,,0,0,0,,{\bord10.909}My father and I ruled in\N the land of Shu for twenty or so years,
 Dialogue: 0,0:34:22.32,0:34:26.66,Default,,0,0,0,,{\pos(635.455,665.509)}{\bord10.909}with nary a benefit to its people.
 Dialogue: 0,0:34:28.02,0:34:32.80,Default,,0,0,0,,{\bord10.909}Three years of endless war, \Nwhile the dead mount up,
 Dialogue: 0,0:34:33.84,0:34:36.84,Default,,0,0,0,,{\pos(635.455,665.509)}{\bord10.909}all of this is my doing.
@@ -448,6 +448,6 @@ Dialogue: 0,0:36:55.38,0:36:58.75,Thinking,,0,0,0,,Liu Bei took over Chengdu \Na
 Dialogue: 0,0:36:58.75,0:37:01.98,Thinking,,0,0,0,,settling Liu Zhang at Gong'an, Nan Commandery.
 Dialogue: 0,0:37:01.98,0:37:06.33,Thinking,,0,0,0,,He rewarded officials, opened granaries \Nto the people, and reformed various laws.
 Dialogue: 0,0:37:06.33,0:37:09.28,Thinking,,0,0,0,,Then, he gradually pacified forty-one commanderies,
-Dialogue: 0,0:37:09.28,0:37:15.28,Thinking,,0,0,0,,setting the foundation of Shu-Han,\None of the three parts of the realm under heaven.
+Dialogue: 0,0:37:09.28,0:37:15.28,Thinking,,0,0,0,,setting the foundation of Shu-Han,\None of the three parts of the realm under Heaven.
 Comment: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,Track 1
 

@@ -88,7 +88,7 @@ Dialogue: 0,0:04:44.53,0:04:48.30,Default,,0,0,0,,That... how could the Heirloom
 Dialogue: 0,0:04:50.07,0:04:53.30,Default,,0,0,0,,Where is the object in the\N well near Jiànzhāng hall?
 Dialogue: 0,0:04:54.63,0:04:57.98,Default,,0,0,0,,I don't have it! Why interrogate me so?
 Dialogue: 0,0:04:59.35,0:05:02.10,Default,,0,0,0,,Return it now, or you will suffer!
-Dialogue: 0,0:05:07.43,0:05:08.66,Default,,0,0,0,,By the high heavens!
+Dialogue: 0,0:05:07.43,0:05:08.66,Default,,0,0,0,,By the high Heavens!
 Dialogue: 0,0:05:09.75,0:05:12.82,Default,,0,0,0,,If I indeed have the Seal and am hiding it for myself,
 Dialogue: 0,0:05:13.10,0:05:19.54,Default,,0,0,0,,may I meet a painful end, struck by arrows!
 Dialogue: 0,0:05:20.87,0:05:25.86,Default,,0,0,0,,Since Wéntái has made such an oath,\Nperhaps he doesn't have the Seal after all.
@@ -131,7 +131,7 @@ Dialogue: 0,0:09:32.62,0:09:36.78,Thinking,,0,0,0,,{\bord12}As greed had drove t
 Dialogue: 0,0:09:37.23,0:09:41.38,Thinking,,0,0,0,,{\bord12}Now Huáinán has a monarch made.\NIn north, one carved a seal of jade.
 Dialogue: 0,0:09:37.46,0:09:47.10,Note (Potential style?),,0,0,0,,Note: Referring to Yuán Shù and Yuán Shào. Yuán Shù would declare himself Emperor, \NYuán Shào would attempt to make Liú Yú emperor.
 Dialogue: 0,0:09:41.38,0:09:45.42,Thinking,,0,0,0,,{\bord12}Armor teems with lice and fleas, \Nlives ten thousands are deceased.
-Dialogue: 0,0:09:45.75,0:09:49.66,Thinking,,0,0,0,,{\bord12}Sun-bleached bones lie on the field,\Nfor a thousand {\i1}lǐ{\i0} no roosters shrilled.
+Dialogue: 0,0:09:45.75,0:09:49.66,Thinking,,0,0,0,,{\bord12}Sun-bleached bones lie on the field,\Nfor a thousand {\i1}li{\i0} no roosters shrilled.
 Dialogue: 0,0:09:49.66,0:09:55.82,Thinking,,0,0,0,,{\bord12}All lives but one lost in its wake, \Nreflecting breaks the heart with ache.
 Dialogue: 0,0:10:15.75,0:10:18.22,Default,,0,0,0,,Gentlemen? Ministers?
 Dialogue: 0,0:10:17.03,0:10:22.94,Style Names,,0,0,0,,{\pos(328.182,484.091)\fade(255,0,255,0,575,5460,5740)}Dǒng Zhuō\NStyled: "Zhòngyǐng"
@@ -209,7 +209,7 @@ Dialogue: 0,0:20:57.63,0:21:00.34,Default,,0,0,0,,may I be cut to death by a tho
 Dialogue: 0,0:21:09.62,0:21:11.62,Default,,0,0,0,,I am beyond grateful.
 Dialogue: 0,0:21:47.18,0:21:50.66,Style Names,,0,0,0,,{\pos(971.818,512.727)}Lü Bù\NStyled: "Fèngxiān"
 Dialogue: 0,0:22:15.47,0:22:16.58,Default,,0,0,0,,General!
-Dialogue: 0,0:22:18.79,0:22:21.94,Default,,0,0,0,,it seems you're in a good mood by yourself here!
+Dialogue: 0,0:22:18.79,0:22:21.94,Default,,0,0,0,,It seems you're enjoying yourself out here!
 Dialogue: 0,0:22:23.47,0:22:27.46,Default,,0,0,0,,{\i1}Excellency of the Masses,{\i0} it's not often I see you in the hunting grounds!
 Dialogue: 0,0:22:27.46,0:22:28.98,Default,,0,0,0,,Did you catch any game?
 Dialogue: 0,0:22:30.07,0:22:31.30,Default,,0,0,0,,Oh no, no game.
@@ -287,7 +287,7 @@ Dialogue: 0,0:31:37.43,0:31:38.58,Default,,0,0,0,,Court dismissed!
 Dialogue: 0,0:31:44.95,0:31:45.91,Default,,0,0,0,,Father!
 Dialogue: 0,0:31:45.91,0:31:47.18,Default,,0,0,0,,Fèngxiān!
 Dialogue: 0,0:31:47.59,0:31:50.58,Default,,0,0,0,,I need you to go {\i1}Méiwù{\i0}-manor to escort munitions.
-Dialogue: 0,0:31:47.59,0:31:52.06,Note (Potential style?),,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 {\i1}lǐ{\i0} from Chang'an.
+Dialogue: 0,0:31:47.59,0:31:52.06,Note (Potential style?),,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 {\i1}li{\i0} from Chang'an.
 Dialogue: 0,0:31:50.71,0:31:55.06,Default,,0,0,0,,I also need you to lead some troops to be garrisoned, just in case!
 Dialogue: 0,0:31:55.75,0:31:57.74,Default,,0,0,0,,Father, please ease yourself!
 Dialogue: 0,0:31:58.27,0:32:00.74,Default,,0,0,0,,I will surely return within three days!
@@ -313,7 +313,7 @@ Dialogue: 0,0:34:36.11,0:34:38.78,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, you
 Dialogue: 0,0:34:39.07,0:34:44.78,Note (Potential style?),,0,0,0,,Note: Shùn, Yáo and Yǔ are the mythical rulers of the era of Three Sovereigns and Five Emperors.
 Dialogue: 0,0:34:39.07,0:34:42.14,Default,,0,0,0,,{\bord12\pos(640,660)}like Shùn succeeding Yáo and Yǔ succeeding Shùn
 Dialogue: 0,0:34:42.14,0:34:45.26,Default,,0,0,0,,{\bord12}to finish their great cause, meet the hopes of the world!
-Dialogue: 0,0:34:46.07,0:34:50.50,Default,,0,0,0,,{\bord12}Sir, you can't disobey the will of heaven and the people!
+Dialogue: 0,0:34:46.07,0:34:50.50,Default,,0,0,0,,{\bord12}Sir, you can't disobey the will of Heaven and the people!
 Dialogue: 0,0:34:53.94,0:34:56.74,Default,,0,0,0,,{\bord12\pos(640,660)}How could I dare do so?
 Dialogue: 0,0:34:56.94,0:34:59.74,Default,,0,0,0,,{\bord12\pos(640,660)}Of old, those with principles fought those without it,
 Dialogue: 0,0:34:59.94,0:35:04.18,Default,,0,0,0,,{\bord12}those without virtue submitted to those with it. Sir, if you take over the realm,

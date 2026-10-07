@@ -136,7 +136,7 @@ Dialogue: 0,0:08:48.05,0:08:50.62,Default,,0,0,0,,{\bord12}not just for our frie
 Dialogue: 0,0:08:51.20,0:08:53.62,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, how could you not uphold justice?
 Dialogue: 0,0:08:54.02,0:08:55.50,Default,,0,0,0,,Administrator Kǒng.
 Dialogue: 0,0:08:55.26,0:09:00.50,Style Names,,0,0,0,,{\pos(307.273,484.091)\fade(255,0,255,0,490,4820,5220)}Zhāng Fēi\NStyled: Yìdé
-Dialogue: 0,0:08:58.02,0:09:02.03,Default,,0,0,0,,In that case, lend us your forces.
+Dialogue: 0,0:08:58.02,0:09:02.03,Default,,0,0,0,,In that case, lend us your forces,
 Dialogue: 0,0:09:02.03,0:09:06.78,Default,NTP,0,0,0,,and let me go to Gōngsūn Zàn to borrow 35,000 troops. I will be back afterwards.
 Dialogue: 0,0:09:06.78,0:09:08.14,Default,,0,0,0,,Good!
 Dialogue: 0,0:09:08.52,0:09:13.14,Default,,0,0,0,,I'm lucky to have met a hero like yourself!
@@ -175,7 +175,7 @@ Dialogue: 0,0:12:08.66,0:12:11.41,Default,,0,0,0,,{\bord12\pos(640,660)}I only h
 Dialogue: 0,0:12:11.41,0:12:13.42,Default,,0,0,0,,{\bord12\pos(640,660)}I am here only for the common good.
 Dialogue: 0,0:12:13.88,0:12:15.18,Default,,0,0,0,,{\bord12\pos(640,660)}Sir, the words you spoke...
 Dialogue: 0,0:12:15.18,0:12:18.66,Default,,0,0,0,,{\bord12}Does sire suspect I desire \Nto annex Xú Province?
-Dialogue: 0,0:12:21.04,0:12:24.94,Default,,0,0,0,,{\bord12}If I harbored such thoughts, \Nmay heavens abandon me!
+Dialogue: 0,0:12:21.04,0:12:24.94,Default,,0,0,0,,{\bord12}If I harbored such thoughts, \Nmay Heavens abandon me!
 Dialogue: 0,0:12:25.26,0:12:29.18,Default,,0,0,0,,My words are sincere!
 Dialogue: 0,0:12:29.82,0:12:34.86,Default,,0,0,0,,I will submit a memorial to the \Nimperial court of my will.
 Dialogue: 0,0:12:35.86,0:12:39.86,Default,,0,0,0,,Please, sir, please accept this!
@@ -258,7 +258,7 @@ Dialogue: 0,0:18:41.08,0:18:43.14,Default,,0,0,0,,Those within the Four Seas loo
 Dialogue: 0,0:18:43.14,0:18:48.26,Default,,0,0,0,,And he resides at Shòuchūn, near here.\NWhy not let him have Xú Province?
 Dialogue: 0,0:18:48.68,0:18:51.66,Default,,0,0,0,,Yuán Shù is but a corpse in a tomb!
 Dialogue: 0,0:18:51.86,0:18:54.18,Default,,0,0,0,,Why bother with him?
-Dialogue: 0,0:18:54.18,0:18:59.07,Default,,0,0,0,,Lord Xuándé, this is a chance sent by the heavens.
+Dialogue: 0,0:18:54.18,0:18:59.07,Default,,0,0,0,,Lord Xuándé, this is a chance sent by the Heavens.
 Dialogue: 0,0:18:59.07,0:19:02.58,Default,,0,0,0,,If you refuse it,\Nthen you will regret it.
 Dialogue: 0,0:19:03.58,0:19:05.74,Default,,0,0,0,,No! I can't accept!
 Dialogue: 0,0:19:12.66,0:19:15.38,Default,,0,0,0,,Lord Xuándé, if you refuse me,
@@ -450,12 +450,12 @@ Dialogue: 0,0:38:13.66,0:38:19.10,Note (Potential style?),,0,0,0,,Note: Yì was 
 Dialogue: 0,0:38:19.18,0:38:22.06,Default,,0,0,0,,{\bord12\pos(640,660)}Now the Son of Heaven has lost his power and fled.
 Dialogue: 0,0:38:22.06,0:38:26.94,Default,,0,0,0,,{\bord12}My sir, if you were to call upon a righteous cause,
 Dialogue: 0,0:38:26.94,0:38:29.70,Default,,0,0,0,,{\bord12\pos(640,660)}receiving the will of the Emperor and the people,
-Dialogue: 0,0:38:30.02,0:38:34.62,Default,,0,0,0,,{\bord12\pos(640,660)}you could re-establish the heavenly order.
+Dialogue: 0,0:38:30.02,0:38:34.62,Default,,0,0,0,,{\bord12\pos(640,660)}you could re-establish the Heavenly order.
 Dialogue: 0,0:38:35.32,0:38:41.62,Default,,0,0,0,,{\bord12\pos(640,660)}If you don't act now, then others will act first!
 Dialogue: 0,0:38:42.14,0:38:43.87,Thinking,,0,0,0,,{\bord12\pos(640,660)}The Son of Heaven lost his power...
 Dialogue: 0,0:38:43.87,0:38:46.31,Thinking,,0,0,0,,{\bord12\pos(640,660)}...if called upon a righteous cause...
 Dialogue: 0,0:38:46.31,0:38:48.76,Thinking,,0,0,0,,{\bord12\pos(640,660)}...to receive the Emperor and the people's will.
-Dialogue: 0,0:38:48.76,0:38:51.30,Thinking,,0,0,0,,{\bord12\pos(640,660)}It would be to re-establish the heavenly order.
+Dialogue: 0,0:38:48.76,0:38:51.30,Thinking,,0,0,0,,{\bord12\pos(640,660)}It would be to re-establish the Heavenly order.
 Dialogue: 0,0:38:51.30,0:38:55.30,Thinking,,0,0,0,,{\bord12\pos(640,660)}If I don't act now, then others will act first!
 Dialogue: 0,0:38:56.64,0:39:03.69,Default,,0,0,0,,The Son of Heaven thus orders Cáo Cāo to enter the imperial court and assist the royal family!
 Dialogue: 0,0:39:03.69,0:39:06.58,Default,,0,0,0,,Cáo Cāo, accept this order!

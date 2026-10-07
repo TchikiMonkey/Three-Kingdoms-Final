@@ -71,7 +71,7 @@ Dialogue: 0,0:02:21.79,0:02:24.01,Default,Jiang Wei,0,0,0,,May it please you, Ge
 Dialogue: 0,0:02:37.71,0:02:39.26,Default,Jiang Wei,0,0,0,,What is this formation?
 Dialogue: 0,0:02:40.05,0:02:42.30,Default,Jiang Wei,0,0,0,,Do you know it or not?
 Dialogue: 0,0:02:44.64,0:02:46.11,Default,Deng Ai,0,0,0,,Do not be so presumptuous!
-Dialogue: 0,0:02:47.03,0:02:53.07,Default,Deng Ai,0,0,0,,Its main color is yellow, representing \Nthe earth. That is a square formation.
+Dialogue: 0,0:02:47.03,0:02:53.07,Default,Deng Ai,0,0,0,,Its main color is yellow, representing \Nthe Earth. That is a square formation.
 Dialogue: 0,0:02:53.07,0:02:55.82,Default,Jiang Wei,0,0,0,,What a pity that you are like a frog inside a well!
 Dialogue: 0,0:02:55.82,0:02:57.93,Default,Jiang Wei,0,0,0,,How could you know the genius of it?
 Dialogue: 0,0:02:58.73,0:03:02.28,Default,Deng Ai,0,0,0,,That formation would only fool children. \NWhat is ingenious about it?
@@ -80,7 +80,7 @@ Dialogue: 0,0:03:09.26,0:03:11.46,Default,Deng Ai,0,0,0,,You think I cannot brea
 Dialogue: 0,0:04:26.75,0:04:31.07,Default,Jiang Wei,0,0,0,,General Deng, you are a perceptive\N and righteous man.
 Dialogue: 0,0:04:31.07,0:04:33.28,Default,Jiang Wei,0,0,0,,Why not dismount and surrender?
 Dialogue: 0,0:04:33.28,0:04:37.80,Default,Jiang Wei,0,0,0,,We could destroy Sima Zhao and recover \N the rivers and mountains for the Great Han!
-Dialogue: 0,0:04:38.67,0:04:40.24,Default,Deng Ai,0,0,0,,You are full of crazy talk!
+Dialogue: 0,0:04:38.67,0:04:40.24,Default,Deng Ai,0,0,0,,Enough of your mad ramblings!
 Dialogue: 0,0:04:40.24,0:04:41.61,Default,Deng Ai,0,0,0,,Charge!
 Dialogue: 0,0:04:43.79,0:04:44.66,Default,Soldiers,0,0,0,,Loose!
 Dialogue: 0,0:04:47.25,0:04:48.18,Default,Soldiers,0,0,0,,General Deng!
@@ -118,7 +118,7 @@ Dialogue: 0,0:07:20.73,0:07:23.56,Default,General,0,0,0,,In campaigns, a general
 Dialogue: 0,0:07:23.56,0:07:26.79,Default,General,0,0,0,,Even with the edict, we cannot abandon this halfway!
 Dialogue: 0,0:07:26.79,0:07:27.90,Default,General,0,0,0,,If we return our army...
 Dialogue: 0,0:07:27.90,0:07:29.94,Default,Liao Hua,0,0,0,,Do not say so.
-Dialogue: 0,0:07:29.94,0:07:32.63,Default,Liao Hua,0,0,0,,If you disobey, you will aggravate the emperor.
+Dialogue: 0,0:07:29.94,0:07:32.63,Default,Liao Hua,0,0,0,,If you disobey, you will aggravate the Emperor.
 Dialogue: 0,0:07:32.63,0:07:35.73,Default,Liao Hua,0,0,0,,I fear this will beget accidents that will not help us.
 Dialogue: 0,0:07:35.73,0:07:37.18,Default,Liao Hua,0,0,0,,Better to accept this victory,
 Dialogue: 0,0:07:37.18,0:07:39.87,Default,Liao Hua,0,0,0,,return with the army, and ease the people.
@@ -170,7 +170,7 @@ Dialogue: 0,0:10:48.93,0:10:53.22,Default,Zhong Hui,0,0,0,,{\bord12}"Swallows an
 Dialogue: 0,0:10:54.13,0:10:55.98,Default,Sima Zhao,0,0,0,,Would now be a good time to invade?
 Dialogue: 0,0:10:56.78,0:11:00.94,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3780,4140)\pos(998.667,510.667)}Zhōng Huì\NStyled: Shìjì
 Dialogue: 0,0:10:56.57,0:10:57.90,Default,Jia Chong,0,0,0,,No, no!
-Dialogue: 0,0:10:57.90,0:11:00.19,Default,Jia Chong,0,0,0,,The emperor is suspicious of you, my lord.
+Dialogue: 0,0:10:57.90,0:11:00.19,Default,Jia Chong,0,0,0,,The Emperor is suspicious of you, my lord.
 Dialogue: 0,0:11:00.19,0:11:03.72,Default,Jia Chong,0,0,0,,If you leave court now, I fear there would be trouble.
 Dialogue: 0,0:11:08.34,0:11:10.42,Default,Sima Zhao,0,0,0,,Does His Majesty suspect me?
 Dialogue: 0,0:11:16.97,0:11:19.60,Default,Jia Chong,0,0,0,,Allow me to take my leave.
@@ -181,7 +181,7 @@ Dialogue: 0,0:11:48.00,0:11:50.62,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:11:51.38,0:11:52.86,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}Who wrote this?
 Dialogue: 0,0:11:52.86,0:11:57.65,Default,Jia Chong,0,0,0,,{\bord12}Last year, a yellow dragon was\N sighted inside a well at Ningling.
 Dialogue: 0,0:11:57.65,0:11:59.89,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}Court officials petitioned to celebrate,
-Dialogue: 0,0:11:59.89,0:12:03.53,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}but the emperor said that it was an ill omen.
+Dialogue: 0,0:11:59.89,0:12:03.53,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}but the Emperor said that it was an ill omen.
 Dialogue: 0,0:12:03.53,0:12:05.55,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}Dragons are the symbols of monarchs.
 Dialogue: 0,0:12:05.55,0:12:09.05,Default,Jia Chong,0,0,0,,{\bord12}As this one was not in the \Nsky above or the fields below,
 Dialogue: 0,0:12:09.05,0:12:11.37,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}instead limiting its majesty inside a well,
@@ -191,7 +191,7 @@ Dialogue: 0,0:12:16.02,0:12:20.20,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:12:20.20,0:12:23.07,Default,Jia Chong,0,0,0,,{\bord12\pos(640,660)}so how have you not noticed this yet?
 Dialogue: 0,0:12:25.90,0:12:28.42,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}"How weak the dragon is to be trapped!"
 Dialogue: 0,0:12:28.42,0:12:30.51,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}"He is unable to leap out of the deep abyss."
-Dialogue: 0,0:12:30.51,0:12:34.19,Default,Sima Zhao,0,0,0,,{\bord12}"He cannot fly to the heavens above \Nor be seen in the fields below."
+Dialogue: 0,0:12:30.51,0:12:34.19,Default,Sima Zhao,0,0,0,,{\bord12}"He cannot fly to the Heavens above \Nor be seen in the fields below."
 Dialogue: 0,0:12:34.19,0:12:37.44,Default,Sima Zhao,0,0,0,,{\bord12}"He curls up inside a well, \Neels and loaches dancing before him."
 Dialogue: 0,0:12:37.44,0:12:39.30,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}"So he must hide his teeth and claws."
 Dialogue: 0,0:12:39.30,0:12:41.86,Default,Sima Zhao,0,0,0,,{\bord12\pos(640,660)}"Alas, I am alike to him!"
@@ -372,7 +372,7 @@ Dialogue: 0,0:28:53.78,0:28:58.26,Default,Zhong Hui,0,0,0,,I heard that Sun Lian
 Dialogue: 0,0:28:58.26,0:29:01.29,Default,Zhong Hui,0,0,0,,With its ministers being locked in a power struggle,
 Dialogue: 0,0:29:01.29,0:29:04.14,Default,Zhong Hui,0,0,0,,they will not have any spare time to invade Wei.
 Dialogue: 0,0:29:04.44,0:29:07.79,Default,Liu Shan,0,0,0,,Your words are most right.
-Dialogue: 0,0:29:09.78,0:29:13.46,Default,Qiao Zhou,0,0,0,,{\bord12}I gazed at the heavens at night, and\N I saw that in the astrological zone of Shu,
+Dialogue: 0,0:29:09.78,0:29:13.46,Default,Qiao Zhou,0,0,0,,{\bord12}I gazed at the Heavens at night, and\N I saw that in the astrological zone of Shu,
 Dialogue: 0,0:29:13.46,0:29:15.49,Default,Qiao Zhou,0,0,0,,{\bord12\pos(640, 660)}the stars were dim and not shining.
 Dialogue: 0,0:29:15.49,0:29:20.42,Default,Qiao Zhou,0,0,0,,{\bord12)}Now if he wishes to march out again, he will be at a great disadvantage.
 Dialogue: 0,0:29:20.42,0:29:23.58,Default,Liu Shan,0,0,0,,But he has already made up his mind!

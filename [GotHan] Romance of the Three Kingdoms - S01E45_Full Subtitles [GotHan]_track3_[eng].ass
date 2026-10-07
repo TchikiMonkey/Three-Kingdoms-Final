@@ -55,27 +55,27 @@ Dialogue: 0,0:00:42.44,0:00:45.20,Default,,0,0,0,,My {\i1}Yangzi River Song{\i0}
 Dialogue: 0,0:00:47.60,0:00:50.40,Style Names,,0,0,0,,{\pos(898.885,350.65)\fade(255,0,255,0,400,2460,2780)}Xiao Qiáo
 Dialogue: 0,0:00:46.64,0:00:50.40,Default,,0,0,0,,but this wound prevents me.
 Dialogue: 0,0:00:57.28,0:01:02.08,Default,,0,0,0,,You are still healing, \Nwhy must you play such a morose melody?
-Dialogue: 0,0:01:06.84,0:01:11.96,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}My heart feels shame for this last defeat.
-Dialogue: 0,0:01:13.84,0:01:17.88,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}As I rest, I can only think of the hardships of life.
-Dialogue: 0,0:01:19.12,0:01:22.72,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}It is like the ever-flowing river.
-Dialogue: 0,0:01:23.16,0:01:26.08,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}Though its ambition is to flow east into the ocean,
-Dialogue: 0,0:01:26.32,0:01:31.36,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}it courses through an arduous route.
-Dialogue: 0,0:01:36.48,0:01:42.36,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}But... the river flows into the sea eventually.
+Dialogue: 0,0:01:06.84,0:01:11.96,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}My heart feels shame for this last defeat.
+Dialogue: 0,0:01:13.84,0:01:17.88,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}As I rest, I can only think of the hardships of life.
+Dialogue: 0,0:01:19.12,0:01:22.72,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}It is like the ever-flowing river.
+Dialogue: 0,0:01:23.16,0:01:26.08,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Though its ambition is to flow east into the ocean,
+Dialogue: 0,0:01:26.32,0:01:31.36,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}it courses through an arduous route.
+Dialogue: 0,0:01:36.48,0:01:42.36,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}But... the river flows into the sea eventually.
 Dialogue: 0,0:01:43.08,0:01:48.92,Default,,0,0,0,,{\bord11.909}In contrast, a man's ambitions are often hard to fulfill,
-Dialogue: 0,0:01:48.92,0:01:52.96,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}remaining a regret until their death.
-Dialogue: 0,0:01:58.00,0:02:03.76,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}I can understand some of your thoughts.
-Dialogue: 0,0:02:16.48,0:02:20.12,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}Your abilities are without equal and you serve a wise lord.
+Dialogue: 0,0:01:48.92,0:01:52.96,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}remaining a regret until their death.
+Dialogue: 0,0:01:58.00,0:02:03.76,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}I can understand some of your thoughts.
+Dialogue: 0,0:02:16.48,0:02:20.12,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Your abilities are without equal and you serve a wise lord.
 Dialogue: 0,0:02:20.40,0:02:25.48,Default,,0,0,0,,{\bord11.909}All in achieving the goal of unifying the country, truly the greatest of dreams.
 Dialogue: 0,0:02:29.00,0:02:35.32,Default,,0,0,0,,{\bord11.909}But for small brooks to reach \Nthe river is already a difficult task.
-Dialogue: 0,0:02:35.32,0:02:39.48,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}When it goes and finally merges into the sea,
-Dialogue: 0,0:02:41.24,0:02:44.56,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}its sense of insignificance redoubles.
-Dialogue: 0,0:02:47.68,0:02:50.96,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}Your words are as true as metal and stone.
-Dialogue: 0,0:02:50.96,0:02:53.92,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}They have really comforted me.
+Dialogue: 0,0:02:35.32,0:02:39.48,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}When it goes and finally merges into the sea,
+Dialogue: 0,0:02:41.24,0:02:44.56,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}its sense of insignificance redoubles.
+Dialogue: 0,0:02:47.68,0:02:50.96,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Your words are as true as metal and stone.
+Dialogue: 0,0:02:50.96,0:02:53.92,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}They have really comforted me.
 Dialogue: 0,0:03:02.92,0:03:04.76,Default,,0,0,0,,Chief Commander!
-Dialogue: 0,0:03:09.92,0:03:12.96,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}I remember that you once said,
-Dialogue: 0,0:03:12.96,0:03:15.76,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}"During the day, I listen to my {\i1}qin-{\i0}zither;"
-Dialogue: 0,0:03:15.76,0:03:18.80,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}"during the night, I read with a beauty."
-Dialogue: 0,0:03:18.80,0:03:22.52,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}"This is my life's ultimate desire."
+Dialogue: 0,0:03:09.92,0:03:12.96,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}I remember that you once said,
+Dialogue: 0,0:03:12.96,0:03:15.76,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}"During the day, I listen to my {\i1}qin-{\i0}zither;"
+Dialogue: 0,0:03:15.76,0:03:18.80,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}"during the night, I read with a beauty."
+Dialogue: 0,0:03:18.80,0:03:22.52,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}"This is my life's ultimate desire."
 Dialogue: 0,0:03:23.72,0:03:25.92,Default,,0,0,0,,That was but the dream of a teenager.
 Dialogue: 0,0:03:27.04,0:03:28.20,Default,,0,0,0,,Please?
 Dialogue: 0,0:03:32.44,0:03:35.32,Default,,0,0,0,,Zhuge Liang and Liu Bei \Nhave cheated us for too long.
@@ -88,8 +88,8 @@ Dialogue: 0,0:03:55.92,0:04:02.16,Note (Potential style?),NTP,0,0,0,,Note: Jīng
 Dialogue: 0,0:04:03.56,0:04:07.68,Style Names,,0,0,0,,{\pos(468.952,455.065)\\fade(255,0,255,0,500,3740,4100)}Zhāng Zhāo\NStyled: Zǐbù
 Dialogue: 0,0:04:04.32,0:04:11.72,Default,NTP,0,0,0,,That is why our liege asked me to bring this medicine to you.
 Dialogue: 0,0:04:13.08,0:04:13.80,Default,,0,0,0,,What medicine?
-Dialogue: 0,0:04:13.80,0:04:18.24,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}It will calm your inflammation and ease your insides.
-Dialogue: 0,0:04:21.48,0:04:24.80,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}Our lord has sent an envoy to Xuchang,
+Dialogue: 0,0:04:13.80,0:04:18.24,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}It will calm your inflammation and ease your insides.
+Dialogue: 0,0:04:21.48,0:04:24.80,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Our lord has sent an envoy to Xuchang,
 Dialogue: 0,0:04:25.44,0:04:28.88,Default,,0,0,0,,{\bord11.909}petitioning for Liu Bei to be \Nthe Lord-Potentate of Jing Province,
 Dialogue: 0,0:04:29.76,0:04:35.60,Default,,0,0,0,,{\bord11.909}sowing dissension and strife between the Cao and Liu.
 Dialogue: 0,0:04:35.60,0:04:40.20,Default,,0,0,0,,{\bord11.909}Then we of Eastern Wu\N can seize the chance.
@@ -98,16 +98,16 @@ Dialogue: 0,0:04:46.32,0:04:48.76,Default,,0,0,0,,{\i1}Huá Xīn, Huá Zǐyú!{\
 Dialogue: 0,0:04:54.88,0:04:59.64,Thinking,,0,0,0,,In the 15th year of the Jian'an era, the Spring of 210,
 Dialogue: 0,0:04:59.96,0:05:03.37,Thinking,,0,0,0,,Sun Quan sent Hua Xin as an envoy to the capital of Xu,
 Dialogue: 0,0:05:03.38,0:05:05.33,Thinking,,0,0,0,,where he requested to meet with Cao Cao.
-Dialogue: 0,0:05:05.76,0:05:10.76,Thinking,,0,0,0,,At the time, Cao Cao was in Ye Commandery in a grand assembly of civil and military officials.
+Dialogue: 0,0:05:05.76,0:05:10.76,Thinking,,0,0,0,,At the time, Cao Cao was in Ye Commandery in a grand assembly of civil and military officials,
 Dialogue: 0,0:05:10.76,0:05:14.92,Thinking,,0,0,0,,performing the inauguration ceremony of the Bronze Sparrow Terrace.
 Dialogue: 0,0:06:24.72,0:06:28.00,Style Names,,0,0,0,,{\pos(958.1,472.728)\\fade(255,0,255,0,500,2900,3260)}Cáo Cāo\NStyled: Mèngdé
 Dialogue: 0,0:06:28.64,0:06:32.32,Default,,0,0,0,,{\bord11.909}Today's archery contest shall be held \Nbetween two teams of generals:
-Dialogue: 0,0:06:32.32,0:06:36.52,Default,,0,0,0,,{(\pos(640,670)}{\bord11.909}the red cloaks, worn by those of the Cao family,
+Dialogue: 0,0:06:32.32,0:06:36.52,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}the red cloaks, worn by those of the Cao family,
 Dialogue: 0,0:06:36.52,0:06:40.04,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}and the green cloaks, worn by the other generals.
 Dialogue: 0,0:06:40.04,0:06:42.28,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Each shall have good bows and arrows.
-Dialogue: 0,0:06:42.38,0:06:45.62,Default,,0,0,0,,{\bord11.909}There is a brocade robe \Nfrom the Western Riverlands of Shǔ!
+Dialogue: 0,0:06:42.38,0:06:45.62,Default,,0,0,0,,{\bord11.909}There is a brocade robe \Nfrom the Western Riverlands of Shǔ,
 Dialogue: 0,0:06:42.40,0:06:48.24,Note (Potential style?),,0,0,0,,Note: Shǔ (AKA. modern day Sichuan Province) was famous for \Nits beautiful silks and brocade in history.
-Dialogue: 0,0:06:45.88,0:06:48.92,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}hanging down that willow tree.
+Dialogue: 0,0:06:45.88,0:06:48.92,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}hanging upon that willow tree.
 Dialogue: 0,0:06:48.92,0:06:53.86,Default,,0,0,0,,{\bord11.909}A target is set below the robe, \Nand the range is a hundred paces.
 Dialogue: 0,0:06:54.02,0:06:56.06,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Here is a command from the Chancellor.
 Dialogue: 0,0:06:56.06,0:06:59.74,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Whoever hits the red center of the target
@@ -169,8 +169,8 @@ Dialogue: 0,0:13:13.48,0:13:17.68,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}I 
 Dialogue: 0,0:13:18.40,0:13:21.20,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}nominated in xiaolian to serve the court.
 Dialogue: 0,0:13:18.40,0:13:22.24,Note (Potential style?),,0,0,0,,Note: {\i1}Xiàolián{\i0} (孝廉) refers to one of the steps of Han Dynasty's civil examination, an early precursor to the later Imperial Examination system.
 Dialogue: 0,0:13:21.72,0:13:25.08,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Later on, the realm fell to chaos,
-Dialogue: 0,0:13:25.08,0:13:29.96,Default,,0,0,0,,{\bord11.909}I built a retreat in my hometown, {\bord11.909}where I wished to live in peace from the chaos.
-Dialogue: 0,0:13:29.96,0:13:33.28,Default,,0,0,0,,{\bord11.909}to read in spring and summer,\N and hunt in autumn and winter.
+Dialogue: 0,0:13:25.08,0:13:29.96,Default,,0,0,0,,{\bord11.909}I built a retreat in my hometown, {\bord11.909}where I wished to live in peace from the chaos,
+Dialogue: 0,0:13:29.96,0:13:33.28,Default,,0,0,0,,{\bord11.909}to read in spring and summer,\N and hunt in autumn and winter,
 Dialogue: 0,0:13:33.28,0:13:37.28,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}passing my days, waiting for peace.
 Dialogue: 0,0:13:37.84,0:13:39.60,Default,,0,0,0,,Here.
 Dialogue: 0,0:13:52.68,0:13:59.64,Default,,0,0,0,,{\bord11.909}Yet, the court assigned me to serve as Department Colonel,
@@ -366,7 +366,7 @@ Dialogue: 0,0:29:23.28,0:29:29.84,Default,,0,0,0,,{\bord11.909}Zijing, you are t
 Dialogue: 0,0:29:29.84,0:29:33.40,Default,,0,0,0,,{\bord11.909\pos(640,670)}one has to put emotions and feelings aside!
 Dialogue: 0,0:29:43.32,0:29:46.24,Default,,0,0,0,,Commander, there are people welcoming us over there.
 Dialogue: 0,0:29:51.68,0:29:52.76,Default,NTP,0,0,0,,How surprising!
-Dialogue: 0,0:29:52.76,0:29:55.60,Default,NTP,0,0,0,,even Zhuge Liang could fall for my ploy!
+Dialogue: 0,0:29:52.76,0:29:55.60,Default,NTP,0,0,0,,Even Zhuge Liang could fall for my ploy!
 Dialogue: 0,0:30:20.20,0:30:23.56,Default,,0,0,0,,The Imperial Uncle has sent me to pay respects to you, sir.
 Dialogue: 0,0:30:20.40,0:30:23.48,Style Names,,0,0,0,,{\pos(290.874,447.273)\\fade(255,0,255,0,500,2900,3320)}Mí Zhú\NStyled: Zǐzhòng
 Dialogue: 0,0:30:25.84,0:30:27.36,Default,,0,0,0,,How is your army?

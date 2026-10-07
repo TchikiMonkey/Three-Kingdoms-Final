@@ -184,7 +184,7 @@ Dialogue: 0,0:11:47.34,0:11:49.82,Default,,0,0,0,,{\bord12}Today has the aura of
 Dialogue: 0,0:11:49.90,0:11:52.98,Default,,0,0,0,,{\bord12}Tomorrow is auspicious,\Nand you should leave at night.
 Dialogue: 0,0:12:00.46,0:12:01.42,Default,,0,0,0,,Fine!
 Dialogue: 0,0:12:03.50,0:12:05.06,Default,,0,0,0,,Tomorrow, it's tomorrow!
-Dialogue: 0,0:12:35.62,0:12:38.62,Default,,0,0,0,,{\pos(981.151,373.636)\fade(255,0,255,0,480,2440,2960)}Lü Bù's\Ndaughter
+Dialogue: 0,0:12:35.62,0:12:38.62,Style Names,,0,0,0,,{\pos(981.151,373.636)\fade(255,0,255,0,480,2440,2960)}Lü Bù's\Ndaughter
 Dialogue: 0,0:13:19.06,0:13:20.30,Default,,0,0,0,,Mother!
 Dialogue: 0,0:13:22.18,0:13:23.22,Default,,0,0,0,,Mother!
 Dialogue: 0,0:13:39.74,0:13:44.10,Default,,0,0,0,,The Chancellor's orders. If anyone lets\NLü Bu escape, they shall be killed on the spot!

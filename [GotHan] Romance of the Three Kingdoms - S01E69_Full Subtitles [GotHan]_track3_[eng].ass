@@ -59,7 +59,7 @@ Dialogue: 0,0:00:59.74,0:01:02.30,Default,,0,0,0,,Thank you, Administrator.
 Dialogue: 0,0:01:02.52,0:01:08.15,Default,,0,0,0,,However, you, Sir Chancellor, need to withdraw the siege temporarily,
 Dialogue: 0,0:01:08.15,0:01:10.60,Default,,0,0,0,,so that I may enter the city to persuade him.
 Dialogue: 0,0:01:12.74,0:01:14.24,Default,,0,0,0,,As you wish, Administrator.
-Dialogue: 0,0:01:15.34,0:01:18.42,Default,,0,0,0,,I will order the besieging troops to retreat twenty {\i1}li{\i0}.
+Dialogue: 0,0:01:15.34,0:01:18.42,Default,,0,0,0,,I will order the besieging troops to retreat twenty {\i1}li.{\i0}
 Dialogue: 0,0:01:22.14,0:01:24.83,Default,,0,0,0,,Please.
 Dialogue: 0,0:01:25.18,0:01:27.45,Default,,0,0,0,,Hey, who is below the walls?
 Dialogue: 0,0:01:29.59,0:01:32.36,Default,,0,0,0,,I am Cui Liang, the Administrator of Anding.
@@ -424,15 +424,15 @@ Dialogue: 0,0:36:14.48,0:36:21.74,Note (Potential style?),,0,0,0,,Shizu (世祖)
 Dialogue: 0,0:36:14.48,0:36:18.04,Default,,0,0,0,,{\pos(640,662)}{\bord13}Our Shizu Emperor Wen,
 Dialogue: 0,0:36:18.04,0:36:23.58,Default,,0,0,0,,{\bord13}divine in civil matters and holy in military arts, \Nhaving undertaken the great succession,
 Dialogue: 0,0:36:22.94,0:36:28.30,Note (Potential style?),,0,0,0,,Note: Yao and Shun were mythical rulers of Ancient China.\N The former abdicated to the latter, which is claimed as precedent.
-Dialogue: 0,0:36:23.58,0:36:27.07,Default,,0,0,0,,{\bord13}followed the example of Yao's yielding to Shun in accordance to heaven and men,
+Dialogue: 0,0:36:23.58,0:36:27.07,Default,,0,0,0,,{\bord13}followed the example of Yao's yielding to Shun in accordance to Heaven and men,
 Dialogue: 0,0:36:27.07,0:36:29.74,Default,,0,0,0,,{\bord13}and reigned over all nations from the Middle Kingdom.
-Dialogue: 0,0:36:29.74,0:36:33.30,Default,,0,0,0,,{\bord13}How is this not following heaven's intent and men's will?
+Dialogue: 0,0:36:29.74,0:36:33.30,Default,,0,0,0,,{\bord13}How is this not following Heaven's intent and men's will?
 Dialogue: 0,0:36:36.86,0:36:42.34,Note (Potential style?),,0,0,0,,Note: Guan Zhong (管仲): Chancellor of the State of Qi during the Spring and Autumn Period.\NYue Yi (乐毅): General of the State of Yan during the Warring States Period.
 Dialogue: 0,0:36:33.30,0:36:36.86,Default,,0,0,0,,{\bord13}Today, you, sir, possess great ability and lofty ambition,
 Dialogue: 0,0:36:36.86,0:36:39.74,Default,,0,0,0,,{\bord13}comparing yourself \Nto Guan Zhong and Yue Yi.
-Dialogue: 0,0:36:39.74,0:36:43.80,Default,,0,0,0,,{\bord13}Why are you fighting against principles of heaven and the will of men?
+Dialogue: 0,0:36:39.74,0:36:43.80,Default,,0,0,0,,{\bord13}Why are you fighting against principles of Heaven and the will of men?
 Dialogue: 0,0:36:44.02,0:36:46.02,Default,,0,0,0,,{\pos(640,662)}{\bord13}Are you unaware of ancient teachings?
-Dialogue: 0,0:36:46.08,0:36:49.61,Default,,0,0,0,,{\bord13}Those who conform with heaven prosper and those who oppose it fall?
+Dialogue: 0,0:36:46.08,0:36:49.61,Default,,0,0,0,,{\bord13}Those who conform with Heaven prosper and those who oppose it fall?
 Dialogue: 0,0:36:49.82,0:36:54.91,Default,,0,0,0,,{\bord13}Now, our Great Wei bring a million men and a thousand great generals.
 Dialogue: 0,0:36:55.02,0:36:59.10,Note (Potential style?),,0,0,0,,Note: It was thought that fireflies come from decaying grass.
 Dialogue: 0,0:36:55.02,0:36:58.10,Default,,0,0,0,,{\pos(640,662)}{\bord13}How can the flicker of your decaying grass
@@ -476,18 +476,18 @@ Dialogue: 0,0:39:12.91,0:39:17.06,Default,,0,0,0,,{\bord13}it was in the Riverla
 Dialogue: 0,0:39:17.06,0:39:20.20,Default,,0,0,0,,{\bord13}I bear his heir's edict today\Nto punish the traitor.
 Dialogue: 0,0:39:20.25,0:39:22.22,Default,,0,0,0,,{\pos(640,662)}{\bord13}You, a groveler of a vassal,
 Dialogue: 0,0:39:22.28,0:39:25.02,Default,,0,0,0,,{\pos(640,662)}{\bord13}can only turn tail to save your own hide.
-Dialogue: 0,0:39:25.14,0:39:28.42,Default,,0,0,0,,{\pos(640,662)}{\bord13}How dare you speak of heaven's ordinance?
+Dialogue: 0,0:39:25.14,0:39:28.42,Default,,0,0,0,,{\pos(640,662)}{\bord13}How dare you speak of Heaven's ordinance?
 Dialogue: 0,0:39:28.60,0:39:31.25,Default,,0,0,0,,{\pos(640,662)}{\bord13}White-haired coward! Grey-beard wretch!
 Dialogue: 0,0:39:31.31,0:39:33.66,Default,,0,0,0,,{\pos(640,662)}{\bord13}You are but one step from the Nine Springs,
 Dialogue: 0,0:39:31.31,0:39:33.66,Note (Potential style?),,0,0,0,,Note: Nine Springs ((九泉) = the underworld
 Dialogue: 0,0:39:33.66,0:39:39.20,Default,,0,0,0,,{\bord13}with what do you face \Nthe twenty-four generations of Han?!
-Dialogue: 0,0:39:39.25,0:39:41.25,Default,,0,0,0,,I...I...I...
+Dialogue: 0,0:39:39.25,0:39:41.25,Default,,0,0,0,,I... I... I...
 Dialogue: 0,0:39:41.60,0:39:43.45,Default,,0,0,0,,{\pos(640,662)}{\bord13}Treacherous bastard!
 Dialogue: 0,0:39:43.54,0:39:45.48,Default,,0,0,0,,{\pos(640,662)}{\bord13}You lived your seventy-six years in vain!
 Dialogue: 0,0:39:45.62,0:39:48.11,Default,,0,0,0,,{\pos(640,662)}{\bord13}You made no merit, yet still run your mouth,
 Dialogue: 0,0:39:48.17,0:39:49.85,Default,,0,0,0,,{\bord13}{\pos(640,662)}and aid the Cao to your debasement!
 Dialogue: 0,0:39:50.00,0:39:51.65,Default,,0,0,0,,{\pos(640,662)}{\bord13}A dog with broken backbone,
-Dialogue: 0,0:39:50.91,0:39:51.60,Default,,0,0,0,,-I...I...
+Dialogue: 0,0:39:50.91,0:39:51.60,Default,,0,0,0,,-I... I...
 Dialogue: 0,0:39:51.65,0:39:55.38,Default,,0,0,0,,{\pos(640,662)}{\bord13}dares to bark and snarl before our army!
 Dialogue: 0,0:39:55.28,0:39:55.71,Default,,0,0,0,,You...
 Dialogue: 0,0:39:55.77,0:40:00.54,Default,,0,0,0,,{\bord13}Never have I seen more shameless, inept man such as you!

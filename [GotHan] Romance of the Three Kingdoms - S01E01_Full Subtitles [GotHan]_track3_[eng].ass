@@ -299,7 +299,7 @@ Dialogue: 0,0:20:02.14,0:20:05.82,Default,Liu Bei,0,0,0,,{\bord12}because they t
 Dialogue: 0,0:20:05.82,0:20:08.30,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}While the eunuchs monopolize power.
 Dialogue: 0,0:20:08.30,0:20:13.74,Default,Liu Bei,0,0,0,,{\bord12}Thus, another rebellion against tyranny is bound to happen.
 Dialogue: 0,0:20:14.30,0:20:19.58,Default,Liu Bei,0,0,0,,{\bord12}When the Yellow Scarves are crushed, {\bord12}that will be when heroes rise forth.
-Dialogue: 0,0:20:19.58,0:20:22.81,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}As for who will control the realm under heaven,
+Dialogue: 0,0:20:19.58,0:20:22.81,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}As for who will control the realm under Heaven,
 Dialogue: 0,0:20:22.81,0:20:25.98,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}we cannot know just yet.
 Dialogue: 0,0:20:25.98,0:20:29.16,Default,Guan Yu,0,0,0,,Hearing you once beats ten years of reading!
 Dialogue: 0,0:20:29.16,0:20:31.09,Default,Guan Yu,0,0,0,,Admirable, really admirable!
@@ -312,7 +312,7 @@ Dialogue: 0,0:21:02.30,0:21:04.10,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}H
 Dialogue: 0,0:21:05.12,0:21:09.99,Default,Liu Bei,0,0,0,,{\bord12}His ancestor, Prince Jing of Zhongshan, {\bord12}was the seventh son of Emperor Jing.
 Dialogue: 0,0:21:11.00,0:21:13.36,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Later, another ancestor, the Marquis of Zhuolu,
 Dialogue: 0,0:21:13.36,0:21:17.61,Default,Liu Bei,0,0,0,,{\bord12}failing to pay annual tribute, was stripped of land and title.
-Dialogue: 0,0:21:18.88,0:21:25.01,Default,Liu Bei,0,0,0,,{\bord12}A branch of his family wandered into the land of Zhuo,and settled at Lousang Village.
+Dialogue: 0,0:21:18.88,0:21:25.01,Default,Liu Bei,0,0,0,,{\bord12}A branch of his family wandered into the land of Zhuo, and settled at Lousang Village.
 Dialogue: 0,0:21:25.36,0:21:26.55,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}Lousang Village?
 Dialogue: 0,0:21:27.37,0:21:28.43,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}I know about it!
 Dialogue: 0,0:21:29.16,0:21:31.37,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)}A thousand-year-old mulberry tree is there!
@@ -381,7 +381,7 @@ Dialogue: 0,0:25:19.68,0:25:20.92,Default,Zhang Fei,0,0,0,,Same with me!
 Dialogue: 0,0:25:22.20,0:25:24.66,Default,Guan Yu,0,0,0,,I swear to share any hardship with you!
 Dialogue: 0,0:25:24.66,0:25:27.50,Default,Guan Yu,0,0,0,,I'll accompany you in life and follow you to death.
 Dialogue: 0,0:25:27.50,0:25:28.68,Default,Zhang Fei,0,0,0,,Same with me!
-Dialogue: 0,0:25:29.04,0:25:32.14,Default,Guan Yu,0,0,0,,If I betray these words, may heaven smite us!
+Dialogue: 0,0:25:29.04,0:25:32.14,Default,Guan Yu,0,0,0,,If I betray these words, may Heaven smite us!
 Dialogue: 0,0:25:32.74,0:25:34.28,Default,Zhang Fei,0,0,0,,Same with me!
 Dialogue: 0,0:25:36.58,0:25:37.48,Default,Guan Yu,0,0,0,,Elder Brother!
 Dialogue: 0,0:25:37.48,0:25:38.76,Default,Zhang Fei,0,0,0,,Elder Brother!
@@ -636,7 +636,7 @@ Dialogue: 0,0:41:46.68,0:41:47.71,Default,Zhang Fei,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:41:47.71,0:41:48.32,Default,Supervisor,0,0,0,,I...
 Dialogue: 0,0:41:48.32,0:41:50.68,Default,Crowd,0,0,0,,Talk!
 Dialogue: 0,0:41:50.68,0:41:57.16,Default,Supervisor,0,0,0,,Lord Xuande, good sirs, spare my life!
-Dialogue: 0,0:41:59.00,0:42:03.01,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}Elder Brother, you've achieved so much.
+Dialogue: 0,0:41:59.00,0:42:03.01,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}Elder Brother, you've achieved so much,
 Dialogue: 0,0:42:03.01,0:42:05.22,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}yet you're only made a county commandant.
 Dialogue: 0,0:42:05.55,0:42:09.17,Default,Guan Yu,0,0,0,,{\bord12\pos(640,660)}And now, you're slandered by this Supervisor!
 Dialogue: 0,0:42:09.17,0:42:10.48,Default,Supervisor,0,0,0,,Spare my life...

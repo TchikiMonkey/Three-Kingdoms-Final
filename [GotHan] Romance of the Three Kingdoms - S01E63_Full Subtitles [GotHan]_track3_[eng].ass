@@ -116,7 +116,7 @@ Dialogue: 0,0:05:25.81,0:05:30.01,Default,,0,0,0,,{\bord13.746}That whelp murder
 Dialogue: 0,0:05:30.01,0:05:33.42,Default,,0,0,0,,{\bord13.746}Your Majesty, his talent is \Nno less than that of Zhou the Youth.
 Dialogue: 0,0:05:33.42,0:05:35.00,Default,,0,0,0,,{\bord13.746\pos(640,666)}Do not underestimate him!
 Dialogue: 0,0:05:35.00,0:05:38.47,Default,,0,0,0,,{\bord13.746\pos(640,666)}I led armies for years, yet I am beneath a kid?
-Dialogue: 0,0:05:41.15,0:05:46.04,Default,,0,0,0,,{\bord13.433}We have 750,000 troops and forty\N camps set seven hundred {\i1}lǐ{\i0} in length.
+Dialogue: 0,0:05:41.15,0:05:46.04,Default,,0,0,0,,{\bord13.433}We have 750,000 troops and forty\N camps set seven hundred {\i1}li{\i0} in length.
 Dialogue: 0,0:05:46.04,0:05:47.80,Default,,0,0,0,,{\bord13.746\pos(640,666)}What can he do to us?
 Dialogue: 0,0:05:50.24,0:05:53.40,Default,,0,0,0,,{\bord13.746\pos(640,666)}Pass my edict:
 Dialogue: 0,0:05:53.40,0:05:55.36,Default,,0,0,0,,{\bord13.746\pos(640,666)}Attack all passes, fords, and chokepoints!
@@ -252,7 +252,7 @@ Dialogue: 0,0:18:28.43,0:18:31.36,Default,NTP,0,0,0,,Now, after fighting for so 
 Dialogue: 0,0:18:31.36,0:18:34.93,Default,NTP,0,0,0,,their soldiers will be exhausted. \NThus, today will be the fall of Shu.
 Dialogue: 0,0:18:39.70,0:18:43.25,Default,,0,0,0,,I have a plan to defeat Shu. I will present it to the king.
 Dialogue: 0,0:19:01.04,0:19:06.61,Thinking,,0,0,0,,Now that the land produced a genius\N like Lu Xun, what worries could I have?
-Dialogue: 0,0:19:32.22,0:19:36.34,Default,,0,0,0,,{\bord13.746}The camps are moved to straddle the river, \Noccupying over seven hundred {\i1}lǐ{\i0} in width.
+Dialogue: 0,0:19:32.22,0:19:36.34,Default,,0,0,0,,{\bord13.746}The camps are moved to straddle the river, \Noccupying over seven hundred {\i1}li{\i0} in width.
 Dialogue: 0,0:19:36.34,0:19:38.15,Default,,0,0,0,,{\bord13.746\pos(640,666)}More than forty camps were set up,
 Dialogue: 0,0:19:38.15,0:19:41.17,Default,,0,0,0,,{\bord13.746\pos(640,666)}all on land next to streams and dense woods.
 Dialogue: 0,0:19:41.17,0:19:46.18,Default,,0,0,0,,{\bord13.746}The Emperor ordered me to present\N this map to you, Chancellor, for viewing.
@@ -267,12 +267,12 @@ Dialogue: 0,0:20:41.26,0:20:42.97,Default,,0,0,0,,is doomed.
 Dialogue: 0,0:20:53.04,0:20:56.54,Default,,0,0,0,,{\bord13.746\pos(640,666)}To camp amidst thickets, humidity, and obstacles,
 Dialogue: 0,0:20:59.12,0:21:04.06,Default,,0,0,0,,{\bord13.746\pos(640,666)}these are all grave taboos of military leadership.
 Dialogue: 0,0:21:04.06,0:21:08.78,Default,,0,0,0,,{\bord13.746\pos(640,666)}If Lu Xun were to strike with fire, what then?
-Dialogue: 0,0:21:15.36,0:21:19.32,Default,,0,0,0,,{\bord13.746}What use is there to set up camps\N for seven hundred {\i1}lǐ{\i0} against an enemy?
+Dialogue: 0,0:21:15.36,0:21:19.32,Default,,0,0,0,,{\bord13.746}What use is there to set up camps\N for seven hundred {\i1}li{\i0} against an enemy?
 Dialogue: 0,0:21:22.68,0:21:26.36,Default,,0,0,0,,{\bord13.746\pos(640,666)}Disaster will come soon.
 Dialogue: 0,0:21:28.53,0:21:30.86,Default,,0,0,0,,Liu Bei is about to be defeated!
 Dialogue: 0,0:21:31.22,0:21:34.30,Default,,0,0,0,,Your Majesty, how will Liu Bei be defeated?
 Dialogue: 0,0:21:34.30,0:21:36.82,Default,NTP,0,0,0,,Liu Xuande knows nothing of military strategy.
-Dialogue: 0,0:21:36.82,0:21:40.21,Default,NTP,0,0,0,,How can stretching camps over \Nseven hundred {\i1}lǐ{\i0} deter a foe?
+Dialogue: 0,0:21:36.82,0:21:40.21,Default,NTP,0,0,0,,How can stretching camps over \Nseven hundred {\i1}li{\i0} deter a foe?
 Dialogue: 0,0:21:40.54,0:21:46.00,Default,,0,0,0,,Garrisoning in irregular, dense forests is a classic sin of military strategy.
 Dialogue: 0,0:21:46.00,0:21:51.50,Default,NTP,0,0,0,,Liu Bei will be defeated by the hands of \NLu Xun of Eastern Wu within ten days.
 Dialogue: 0,0:21:54.22,0:22:00.10,Style Names,,0,0,0,,{\fade(255,0,255,0,400,5500,5860)\pos(814.925,490.667)}Cáo Rén\NStyled: Zǐxiào

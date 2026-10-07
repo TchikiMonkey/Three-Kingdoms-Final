@@ -228,7 +228,7 @@ Dialogue: 0,0:12:17.08,0:12:22.02,Default,,0,0,0,,{\bord11\pos(640,672)}you fail
 Dialogue: 0,0:12:24.81,0:12:27.78,Default,,0,0,0,,{\bord11\pos(640,672)}I am going to pass this order:
 Dialogue: 0,0:12:27.78,0:12:30.18,Default,,0,0,0,,{\bord11\pos(640,672)}because the weather is sweltering,
 Dialogue: 0,0:12:30.84,0:12:33.74,Default,,0,0,0,,{\bord11}I will lead the seven armies to camp next to a mountain opening
-Dialogue: 0,0:12:33.74,0:12:39.02,Default,,0,0,0,,{\bord11\pos(640,672)}ten {\i1}lǐ{\i0} north of Fancheng tomorrow.
+Dialogue: 0,0:12:33.74,0:12:39.02,Default,,0,0,0,,{\bord11\pos(640,672)}ten {\i1}li{\i0} north of Fancheng tomorrow.
 Dialogue: 0,0:12:40.02,0:12:46.02,Default,,0,0,0,,{\bord11}You will take your command \Nand camp in the valley behind us.
 Dialogue: 0,0:12:46.85,0:12:50.74,Default,,0,0,0,,{\bord11}General, the army not only does not advance, but also retreats!
 Dialogue: 0,0:12:50.74,0:12:52.32,Default,,0,0,0,,{\bord11\pos(640,672)}This seems wrong!
@@ -246,7 +246,7 @@ Dialogue: 0,0:13:30.40,0:13:35.06,Default,,0,0,0,,{\bord11\pos(640,672)}And will
 Dialogue: 0,0:13:36.04,0:13:38.90,Default,,0,0,0,,{\bord11}It as the {\i1}Art of War{\i0} advises:
 Dialogue: 0,0:13:38.90,0:13:42.54,Default,,0,0,0,,{\bord11\pos(640,672)}"Stay still and gain the advantage."
 Dialogue: 0,0:13:47.37,0:13:48.33,Default,,0,0,0,,Report!
-Dialogue: 0,0:13:49.82,0:13:54.08,Default,,0,0,0,,{\bord11}Yu Jin moved all his seven armies to a valley opening ten {\i1}lǐ{\i0} north of the city.
+Dialogue: 0,0:13:49.82,0:13:54.08,Default,,0,0,0,,{\bord11}Yu Jin moved all his seven armies to a valley opening ten {\i1}li{\i0} north of the city.
 Dialogue: 0,0:13:54.13,0:13:55.64,Default,,0,0,0,,{\bord11\pos(640,672)}His motive is unknown.
 Dialogue: 0,0:13:58.89,0:14:00.44,Default,,0,0,0,,{\bord11\pos(640,672)}Then where is Pang De now?
 Dialogue: 0,0:14:00.44,0:14:02.72,Default,,0,0,0,,{\bord11\pos(640,672)}Pang De is garrisoned in the valley.

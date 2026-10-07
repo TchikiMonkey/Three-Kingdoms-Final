@@ -69,7 +69,7 @@ Dialogue: 0,0:02:50.50,0:02:53.66,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k
 Dialogue: 0,0:02:50.50,0:02:53.66,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:53.66,0:03:11.10,Song,,0,0,0,,{\k58}Dōu{\k56}fù{\k493}xiào {\k333}tán{\k804}zhōng
 Dialogue: 0,0:02:53.66,0:03:11.10,Thinking,,0,0,0,,{\bord12}all in their jests.
-Dialogue: 0,0:03:10.40,0:03:14.42,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,3900)\pos(640,348)}Act 4
+Dialogue: 0,0:03:10.40,0:03:14.42,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,3900)\pos(640,348)}Act 5
 Dialogue: 0,0:03:10.40,0:03:14.42,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,3900)\pos(640,551.733)}Three Divided Unite as One
 Dialogue: 0,0:03:16.10,0:03:22.66,Episode Title,,0,0,0,0,{\fade(255,0,255,0,1000,5660,6540)\pos(653.755,425.554)}Episode 78 \N\N\N\NFeigning Illness to Fool Cao Shuang
 Dialogue: 0,0:03:22.14,0:03:26.22,Thinking,,0,0,0,,In the third year of the Jingchu era, early 239 CE,
@@ -97,7 +97,7 @@ Dialogue: 0,0:04:45.90,0:04:47.34,Default,Cáo Fāng,0,0,0,,{\bord11\pos(640, 66
 Dialogue: 0,0:04:47.34,0:04:51.14,Default,Cáo Fāng,0,0,0,,{\bord11}Sacrifices will be made to the departed lord.\NThe officials shall attend as well.
 Dialogue: 0,0:04:51.14,0:04:52.90,Default,Cao Shuang,0,0,0,,We shall obey.
 Dialogue: 0,0:05:10.78,0:05:13.02,Default,Sima Zhao,0,0,0,,{\bord11\pos(640, 660)}Father, His Majesty gave an edict.
-Dialogue: 0,0:05:13.02,0:05:15.94,Default,Sima Zhao,0,0,0,,{\bord11}He will visit Gaoping Mausoleum \Nto offer sacrifices to the late Emperor.
+Dialogue: 0,0:05:13.02,0:05:15.94,Default,Sima Zhao,0,0,0,,{\bord11}He will visit Gaoping Mausoleum \Nto offer sacrifices to the late emperor.
 Dialogue: 0,0:05:15.94,0:05:19.06,Default,Sima Zhao,0,0,0,,{\bord11}Cao Shuang and the court officials shall accompany him.
 Dialogue: 0,0:05:19.06,0:05:20.58,Default,Sima Yi,0,0,0,,Their departure is good!
 Dialogue: 0,0:05:24.90,0:05:27.54,Default,Zhāng Dāng,0,0,0,,I, Zhang Dang, greet you, sir!
@@ -146,7 +146,7 @@ Dialogue: 0,0:09:32.54,0:09:36.30,Default,Huán Fàn,0,0,0,,You once said that t
 Dialogue: 0,0:09:36.30,0:09:39.34,Default,Huán Fàn,0,0,0,,oblivious that three fierce tigers\N lurk within the city.
 Dialogue: 0,0:09:39.34,0:09:40.86,Default,Lǐ Shèng,0,0,0,,Sima Yi and his sons!
 Dialogue: 0,0:09:42.06,0:09:44.54,Default,Cao Shuang,0,0,0,,This same prattle again?
-Dialogue: 0,0:09:44.54,0:09:48.22,Default,Cao Shuang,0,0,0,,Ridiculous, \N fearing as if the heavens could fall!
+Dialogue: 0,0:09:44.54,0:09:48.22,Default,Cao Shuang,0,0,0,,Ridiculous, \N fearing as if the Heavens could fall!
 Dialogue: 0,0:09:48.22,0:09:52.54,Default,Huán Fàn,0,0,0,,{\bord11\pos(640, 660)}Do remember that the Martial Emperor once said,
 Dialogue: 0,0:09:52.54,0:09:54.66,Default,Huán Fàn,0,0,0,,{\bord11\pos(640, 660)}"Sima Yi is calculating and ruthless."
 Dialogue: 0,0:09:54.66,0:09:56.50,Default,Huán Fàn,0,0,0,,{\bord11\pos(640, 660)}"Do not let him lead an army."
@@ -181,7 +181,7 @@ Dialogue: 0,0:12:39.14,0:12:42.18,Default,Lǐ Shèng,0,0,0,,I have come to visit
 Dialogue: 0,0:12:43.54,0:12:49.54,Default,Sima Yi,0,0,0,,Bing Province is crucial to defend the North...
 Dialogue: 0,0:12:49.54,0:12:54.90,Default,Sima Yi,0,0,0,,You must always... be vigilant...
 Dialogue: 0,0:12:54.90,0:12:57.74,Default,Lǐ Shèng,0,0,0,,I am heading to Jing Province, not Bing Province.
-Dialogue: 0,0:13:01.82,0:13:08.62,Default,Sima Yi,0,0,0,,You are...not heading to Bing Province, you are coming from it?
+Dialogue: 0,0:13:01.82,0:13:08.62,Default,Sima Yi,0,0,0,,You are... not heading to Bing Province, you are coming from it?
 Dialogue: 0,0:13:10.38,0:13:14.06,Default,Lǐ Shèng,0,0,0,,No, I mean Jing Province in the south.
 Dialogue: 0,0:13:20.50,0:13:24.62,Default,Sima Yi,0,0,0,,So you are coming from Jing Province...
 Dialogue: 0,0:13:27.22,0:13:29.78,Default,Lǐ Shèng,0,0,0,,How did his illness develop?
@@ -310,7 +310,7 @@ Dialogue: 0,0:24:13.66,0:24:17.50,Default,Zhāng Dāng,0,0,0,,Great General!
 Dialogue: 0,0:24:18.90,0:24:21.94,Default,Zhāng Dāng,0,0,0,,Sir, there is a rebellion in the city!
 Dialogue: 0,0:24:21.94,0:24:24.38,Default,Zhāng Dāng,0,0,0,,The Grand Tutor has sent a petiton!
 Dialogue: 0,0:24:24.38,0:24:25.58,Default,Cao Shuang,0,0,0,,A petition?
-Dialogue: 0,0:24:26.38,0:24:29.34,Default,,0,0,0,,{\bord11}Now Great General Cao Shuang\Nhas betrayed the orders of the late Emperor,
+Dialogue: 0,0:24:26.38,0:24:29.34,Default,,0,0,0,,{\bord11}Now Great General Cao Shuang\Nhas betrayed the orders of the late emperor,
 Dialogue: 0,0:24:29.34,0:24:33.58,Default,,0,0,0,,{\bord11}thrown state law into chaos, overstepped his power, and monopolized authority.
 Dialogue: 0,0:24:33.58,0:24:37.82,Default,,0,0,0,,{\bord11}He appointed Zhang Dang as Director-in-Chief, colluding with him.
 Dialogue: 0,0:24:37.82,0:24:40.66,Default,,0,0,0,,{\bord11}He has spied on the Emperor and coveted the imperial regalia,

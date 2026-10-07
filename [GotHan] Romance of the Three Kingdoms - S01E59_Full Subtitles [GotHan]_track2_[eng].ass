@@ -332,7 +332,7 @@ Dialogue: 0,0:30:12.26,0:30:14.10,Default,,0,0,0,,{\bord14\pos(640,670)}Guan Yu,
 Dialogue: 0,0:30:14.10,0:30:16.58,Default,,0,0,0,,{\bord14\pos(640,670)}will not escape through major roads.
 Dialogue: 0,0:30:16.58,0:30:21.98,Default,,0,0,0,,{\bord14}To the north of Maicheng, there is \Nan arduous path to the Western Riverlands.
 Dialogue: 0,0:30:21.98,0:30:24.26,Default,,0,0,0,,{\bord14\pos(640,670)}Guan Yu will certainly use this path.
-Dialogue: 0,0:30:24.26,0:30:29.74,Default,,0,0,0,,{\bord14}Have Zhu Ran lay an ambush with five thousand elite soldiers, twenty {\i1}lǐ{\i0} to the north of the city.
+Dialogue: 0,0:30:24.26,0:30:29.74,Default,,0,0,0,,{\bord14}Have Zhu Ran lay an ambush with five thousand elite soldiers, twenty {\i1}li{\i0} to the north of the city.
 Dialogue: 0,0:30:29.74,0:30:32.02,Default,,0,0,0,,{\bord14\pos(640,670)}Once the enemy arrives, do not engage.
 Dialogue: 0,0:30:32.02,0:30:35.46,Default,,0,0,0,,{\bord14\pos(640,670)}Follow it and attack it from the rear.
 Dialogue: 0,0:30:35.46,0:30:39.74,Default,,0,0,0,,{\bord14\pos(640,670)}Their army will be demoralized and flee to Linju.
@@ -425,7 +425,7 @@ Dialogue: 0,0:40:56.62,0:40:57.54,Default,,0,0,0,,Mount!
 Dialogue: 0,0:41:04.62,0:41:05.98,Default,,0,0,0,,Open the gate!
 Dialogue: 0,0:41:31.78,0:41:35.62,Thinking,,0,0,0,,Guan Yu, leading just over one hundred remaining soldiers,
 Dialogue: 0,0:41:35.62,0:41:39.02,Thinking,,0,0,0,,pushed out of the northern pass and advanced, blade in hand.
-Dialogue: 0,0:41:39.78,0:41:41.82,Thinking,,0,0,0,,After walking for about twenty {\i1}lǐ,{\i0}
+Dialogue: 0,0:41:39.78,0:41:41.82,Thinking,,0,0,0,,After walking for about twenty {\i1}li,{\i0}
 Dialogue: 0,0:41:41.82,0:41:45.14,Thinking,,0,0,0,,he was ambushed by Zhu Ran of Eastern Wu.
 Dialogue: 0,0:41:45.14,0:41:48.70,Thinking,,0,0,0,,Guan Yu, unwilling to fight,\N retreated towards a small path.
 Dialogue: 0,0:41:49.66,0:41:53.98,Thinking,,0,0,0,,Zhao Lei had already died among the army in the chaos.

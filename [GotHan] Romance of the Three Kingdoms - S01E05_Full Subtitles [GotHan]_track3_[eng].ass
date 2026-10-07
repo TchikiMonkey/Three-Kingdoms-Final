@@ -58,11 +58,11 @@ Dialogue: 0,0:02:45.89,0:02:48.74,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:02:49.36,0:02:55.24,Default,Yuan Shao,0,0,0,,{\bord12}We, who fear for the spirits of the realm, \Nare gathered today in unity to save our nation!
 Dialogue: 0,0:02:56.72,0:03:00.61,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Allied in purpose, together as one!
 Dialogue: 0,0:03:00.61,0:03:03.41,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Loyalty till the end, wills split by none!
-Dialogue: 0,0:03:03.89,0:03:07.31,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Whoever betrays us shall be razed by the heavens!
+Dialogue: 0,0:03:03.89,0:03:07.31,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Whoever betrays us shall be razed by the Heavens!
 Dialogue: 0,0:03:07.31,0:03:11.95,Default,Yuan Shao,0,0,0,,{\bord12}August gods, \Nancestral spirits, be our witness!
 Dialogue: 0,0:03:13.02,0:03:16.65,Default,Soldiers,0,0,0,,{\bord12\pos(640,660)}Allied in purpose, together as one!
 Dialogue: 0,0:03:16.65,0:03:20.18,Default,Soldiers,0,0,0,,{\bord12\pos(640,660)}Loyalty till the end, wills split by none!
-Dialogue: 0,0:03:20.18,0:03:23.82,Default,Soldiers,0,0,0,,{\bord12\pos(640,660)}Whoever betrays us shall be razed by the heavens!
+Dialogue: 0,0:03:20.18,0:03:23.82,Default,Soldiers,0,0,0,,{\bord12\pos(640,660)}Whoever betrays us shall be razed by the Heavens!
 Dialogue: 0,0:03:25.27,0:03:28.87,Default,Yuan Shao,0,0,0,,I hereby order Sun Jian, Administrator\N of Changsha, as vanguard!
 Dialogue: 0,0:03:29.86,0:03:31.45,Default,Yuan Shao,0,0,0,,He will march to Sishui Pass!
 Dialogue: 0,0:03:31.75,0:03:34.02,Default,Yuan Shao,0,0,0,,The main force shall march at dawn!
@@ -411,11 +411,11 @@ Dialogue: 0,0:37:13.29,0:37:17.53,Default,Li Ru,0,0,0,,{\bord12}"A Han in the we
 Dialogue: 0,0:37:18.12,0:37:23.94,Default,Li Ru,0,0,0,,{\bord12}"The deer within Cháng'ān \Nwill worry the least."
 Dialogue: 0,0:37:25.99,0:37:27.57,Default,Dong Zhuo,0,0,0,,What does this mean?
 Dialogue: 0,0:37:30.16,0:37:35.62,Note (Potential style?),,0,0,0,,Hàn Gāozǔ AKA. Liú Bāng, first emperor of the Western Han.
-Dialogue: 0,0:37:28.29,0:37:33.94,Default,Li Ru,0,0,0,,{\bord12}"A Han in the west" refers to {\bord12}Gaozu making Chang'an in the west the capital.
-Dialogue: 0,0:37:33.94,0:37:35.76,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Reigning for twelve generations.
+Dialogue: 0,0:37:28.29,0:37:33.94,Default,Li Ru,0,0,0,,{\bord12}"A Han in the west" refers to {\bord12}Gaozu making Chang'an in the west the capital,
+Dialogue: 0,0:37:33.94,0:37:35.76,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}reigning for twelve generations.
 Dialogue: 0,0:37:38.44,0:37:44.84,Note (Potential style?),,0,0,0,,Hàn Guāngwǔ AKA. Liú Xiù, first emperor of the Eastern Han
-Dialogue: 0,0:37:36.58,0:37:41.98,Default,Li Ru,0,0,0,,{\bord12}"A Han in the east" refers to {\bord12}Guangwu making Luoyang in the east the capital.
-Dialogue: 0,0:37:41.98,0:37:44.35,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Reigning also for twelve generations
+Dialogue: 0,0:37:36.58,0:37:41.98,Default,Li Ru,0,0,0,,{\bord12}"A Han in the east" refers to {\bord12}Guangwu making Luoyang in the east the capital,
+Dialogue: 0,0:37:41.98,0:37:44.35,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}reigning also for twelve generations.
 Dialogue: 0,0:37:46.01,0:37:48.00,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Relocation is destined.
 Dialogue: 0,0:37:48.00,0:37:51.22,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Premier, if you move the capital back to Chang'an,
 Dialogue: 0,0:37:51.22,0:37:53.43,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}your worries would disappear!

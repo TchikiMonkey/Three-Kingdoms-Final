@@ -119,7 +119,7 @@ Dialogue: 0,0:07:30.16,0:07:32.20,Default,Cao Cao,0,0,0,Stern,{\bord12\pos(640,6
 Dialogue: 0,0:07:33.10,0:07:34.92,Default,Yuan Shao,0,0,0,Angry,{\bord12\pos(640,660)}You may be the Chancellor of the Han,
 Dialogue: 0,0:07:34.92,0:07:36.80,Default,Yuan Shao,0,0,0,Angry,{\bord12\pos(640,660)}but you are its most vile traitor!
 Dialogue: 0,0:07:36.80,0:07:38.90,Default,Yuan Shao,0,0,0,Angry,{\bord12\pos(640,660)}How rich of you to accuse me of rebellion!
-Dialogue: 0,0:07:38.90,0:07:40.64,Default,Yuan Shao,0,0,0,Angry,{\bord12\pos(640,660)}Your crimes cover the heavens!
+Dialogue: 0,0:07:38.90,0:07:40.64,Default,Yuan Shao,0,0,0,Angry,{\bord12\pos(640,660)}Your crimes cover the Heavens!
 Dialogue: 0,0:07:41.99,0:07:44.92,Default,Cao Cao,0,0,0,Stern,{\bord12\pos(640,660)}I am under Imperial order to quell all rebels!
 Dialogue: 0,0:07:45.10,0:07:47.70,Default,Yuan Shao,0,0,0,Angry; Arrogant,{\bord12}And I have the imperial blessing \Nto quell all villains!
 Dialogue: 0,0:07:48.97,0:07:56.22,Default,Yuan Shao,0,0,0,Insane; Arrogant,
@@ -445,7 +445,7 @@ Dialogue: 0,0:36:32.85,0:36:36.18,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:36:37.10,0:36:38.66,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Perhaps...
 Dialogue: 0,0:36:39.79,0:36:42.72,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}You accepted bribes from him!
 Dialogue: 0,0:36:42.72,0:36:46.60,Default,Yuan Shao,0,0,0,,{\bord12}You tried to deceive me into dividing my forces, ensuring my defeat!
-Dialogue: 0,0:36:46.60,0:36:48.88,Default,Xu You,0,0,0,,I...I...
+Dialogue: 0,0:36:46.60,0:36:48.88,Default,Xu You,0,0,0,,I... I...
 Dialogue: 0,0:36:48.88,0:36:52.81,Default,Yuan Shao,0,0,0,,Sir Xu, what is the meaning of this?
 Dialogue: 0,0:36:52.92,0:36:54.36,Default,Xu You,0,0,0,,Shen Pei is slandering me...
 Dialogue: 0,0:36:54.70,0:36:55.60,Default,Xu You,0,0,0,,Shen Pei is slandering me...
@@ -461,7 +461,7 @@ Dialogue: 0,0:37:17.02,0:37:18.74,Default,Xu You,0,0,0,,Shen Pei is slandering m
 Dialogue: 0,0:37:19.33,0:37:20.95,Default,Xu You,0,0,0,,Shen Pei is slandering me...
 Dialogue: 0,0:37:22.20,0:37:24.46,Default,Xu You,0,0,0,,Shen Pei is slandering me...
 Dialogue: 0,0:37:31.95,0:37:35.37,Thinking,Xu You,0,0,0,,The truths of the loyal are too much to heed for fools!
-Dialogue: 0,0:37:35.37,0:37:39.01,Thinking,Xu You,0,0,0,,Yuan Shao ignores honest advice, \NCao Cao will defeat him for certain
+Dialogue: 0,0:37:35.37,0:37:39.01,Thinking,Xu You,0,0,0,,Yuan Shao ignores honest advice, \NCao Cao will defeat him for certain.
 Dialogue: 0,0:37:39.61,0:37:41.59,Thinking,Xu You,0,0,0,,Then why not submit to Cao Cao?
 Dialogue: 0,0:38:11.52,0:38:15.07,Default,Soldier,0,0,0,,Damn animal, there's not enough for us yet you waste all your food.
 Dialogue: 0,0:38:23.28,0:38:25.24,Default,Soldier,0,0,0,,If you weren't our lord's horse, I would...

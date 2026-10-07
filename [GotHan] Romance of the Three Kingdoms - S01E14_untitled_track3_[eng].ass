@@ -269,7 +269,7 @@ Dialogue: 0,0:25:44.72,0:25:45.68,Default,Dong Cheng,0,0,0,,Why?
 Dialogue: 0,0:25:46.39,0:25:47.63,Default,Liu Bei,0,0,0,,How did you know, sir?
 Dialogue: 0,0:25:49.00,0:25:50.74,Default,Dong Cheng,0,0,0,,Nobody else knows.
 Dialogue: 0,0:25:50.74,0:25:52.48,Default,Dong Cheng,0,0,0,,Only I saw it.
-Dialogue: 0,0:25:58.17,0:26:02.30,Default,Liu Bei,0,0,0,,My brother was enraged by the sight of Cao Cao humiliating our sovereign
+Dialogue: 0,0:25:58.17,0:26:02.30,Default,Liu Bei,0,0,0,,My brother was enraged by the sight of Cao Cao humiliating our sovereign.
 Dialogue: 0,0:26:09.38,0:26:10.01,Default,Guan Yu,0,0,0,,State Uncle.
 Dialogue: 0,0:26:17.82,0:26:23.52,Default,Dong Cheng,0,0,0,,If every minister was like you, Yunchang, \Nwho would worry about peace in the Empire?
 Dialogue: 0,0:26:27.20,0:26:30.04,Default,Liu Bei,0,0,0,,How is Chancellor Cao's regime not peaceful?
@@ -320,7 +320,7 @@ Dialogue: 0,0:31:28.34,0:31:30.22,Default,Cao Cao,0,0,0,,And how! For it is ripe
 Dialogue: 0,0:31:30.22,0:31:32.40,Default,Cao Cao,0,0,0,,I invited you as a drinking partner.
 Dialogue: 0,0:31:41.16,0:31:42.76,Default,Servant,0,0,0,,Chancellor.
 Dialogue: 0,0:31:43.31,0:31:45.08,Default,Servant,0,0,0,,Look, a dragon hangs in the sky!
-Dialogue: 0,0:31:57.24,0:32:02.72,Default,Cao Cao,0,0,0,,{\bord12)}The dragon hanging from the heavens, as if tossing and curling,
+Dialogue: 0,0:31:57.24,0:32:02.72,Default,Cao Cao,0,0,0,,{\bord12)}The dragon hanging from the Heavens, as if tossing and curling,
 Dialogue: 0,0:32:02.72,0:32:04.82,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}turning over oceans and rivers.
 Dialogue: 0,0:32:05.90,0:32:08.48,Default,Liu Bei,0,0,0,,A truly admirable sight.
 Dialogue: 0,0:32:12.12,0:32:15.84,Default,Cao Cao,0,0,0,,Sir, do you understand the many forms of dragons?
@@ -371,9 +371,9 @@ Dialogue: 0,0:35:35.92,0:35:39.87,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}O
 Dialogue: 0,0:35:52.15,0:35:57.46,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Heroes...
 Dialogue: 0,0:35:58.63,0:36:02.97,Default,Cao Cao,0,0,0,,{\bord12}Heroes harbor grand ideals in their hearts, and methods to fulfill them.
 Dialogue: 0,0:36:04.86,0:36:07.32,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Schemes within schemes all-embracing,
-Dialogue: 0,0:36:07.71,0:36:11.72,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}and the will to devour the very earth at their mercy.
+Dialogue: 0,0:36:07.71,0:36:11.72,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}and the will to devour the very Earth at their mercy.
 Dialogue: 0,0:36:15.47,0:36:16.90,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Who can be considered such?
-Dialogue: 0,0:36:20.82,0:36:23.00,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Now, of the heroes of the world under heaven...
+Dialogue: 0,0:36:20.82,0:36:23.00,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Now, of the heroes of the world under Heaven...
 Dialogue: 0,0:36:26.52,0:36:32.04,Default,,0,0,0,,{\bord12\pos(640,660)}... There is only {\i1}you{\i0} and {\i1}I!{\i0}
 Dialogue: 0,0:37:12.87,0:37:16.96,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Such tremendous thunder!
 Dialogue: 0,0:37:17.98,0:37:20.76,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}How can a grown man be afraid of thunder?

@@ -206,7 +206,7 @@ Dialogue: 0,0:12:43.21,0:12:45.62,Default,,0,0,0,,I have reported this matter to
 Dialogue: 0,0:12:46.03,0:12:49.07,Default,,0,0,0,,but, for reasons unknown, the Chancellor is not leaving his residence.
 Dialogue: 0,0:12:53.66,0:12:56.00,Default,,0,0,0,,We are here to visit the Chancellor,
 Dialogue: 0,0:12:56.14,0:12:57.80,Default,,0,0,0,,why aren't you letting us in?
-Dialogue: 0,0:12:59.01,0:13:01.12,Default,,0,0,0,,The late Emperor entrusted\NHis Majesty to the Chancellor.
+Dialogue: 0,0:12:59.01,0:13:01.12,Default,,0,0,0,,The late emperor entrusted\NHis Majesty to the Chancellor.
 Dialogue: 0,0:13:01.58,0:13:03.50,Default,,0,0,0,,Now, just as His Majesty ascends to the throne,
 Dialogue: 0,0:13:03.75,0:13:08.30,Default,,0,0,0,,Cao Pi has sent five forces to violate our\Nborders, and the situation is critical.
 Dialogue: 0,0:13:08.30,0:13:11.42,Default,,0,0,0,,Why is the Chancellor feigning illness and staying in?
@@ -243,7 +243,7 @@ Dialogue: 0,0:15:37.78,0:15:42.02,Default,,0,0,0,,{\bord14}I need an eloquent ma
 Dialogue: 0,0:15:43.83,0:15:47.44,Default,,0,0,0,,{\bord14}{\pos(640,660)}As I could not find such a man, I was pondering.
 Dialogue: 0,0:15:48.66,0:15:51.78,Default,,0,0,0,,{\bord14}Father-Chancellor, you do indeed\N have unfathomable designs!
 Dialogue: 0,0:15:52.62,0:15:54.22,Default,,0,0,0,,{\bord14}{\pos(640,660)}We would like to hear this plan.
-Dialogue: 0,0:15:55.06,0:15:57.59,Default,,0,0,0,,{\bord14}The late Emperor entrusted \NYour Majesty to my care,
+Dialogue: 0,0:15:55.06,0:15:57.59,Default,,0,0,0,,{\bord14}The late emperor entrusted \NYour Majesty to my care,
 Dialogue: 0,0:15:57.59,0:16:00.42,Default,,0,0,0,,{\bord14}I would not dare neglect\Nthat duty for an instant!
 Dialogue: 0,0:16:02.09,0:16:04.74,Default,,0,0,0,,{\bord14}Even the best strategies are\Nundone if not kept secret.
 Dialogue: 0,0:16:04.74,0:16:06.94,Default,,0,0,0,,{\bord14}How could we share them\Nwith just anyone?
@@ -251,7 +251,7 @@ Dialogue: 0,0:16:18.86,0:16:21.25,Note (Potential style?),,0,0,0,,Note: This con
 Dialogue: 0,0:16:17.86,0:16:21.66,Default,,0,0,0,,{\bord14}Vassal-King Kebineng threatens to attack Xiping Pass.
 Dialogue: 0,0:16:22.21,0:16:26.61,Default,,0,0,0,,{\bord14}I know Ma Chao's clan has deep roots in the west, \Nand has the hearts of the Qiang living there.
 Dialogue: 0,0:16:22.21,0:16:27.06,Note (Potential style?),,0,0,0,,Note: Ma Chao's grandfather, Ma Ping (馬平) had lived among the Qiang.\NHis wife, Ma Chao's grandmother, was of Qiang descent.
-Dialogue: 0,0:16:27.06,0:16:30.54,Default,,0,0,0,,{\bord14}The Qiang respect Ma Chao as\Na great, nigh-heavenly general.
+Dialogue: 0,0:16:27.06,0:16:30.54,Default,,0,0,0,,{\bord14}The Qiang respect Ma Chao as\Na great, nigh-Heavenly general.
 Dialogue: 0,0:16:31.04,0:16:33.77,Default,,0,0,0,,{\bord14}{\pos(640,660)}I have sent an envoy to move day and night,
 Dialogue: 0,0:16:33.77,0:16:36.70,Default,,0,0,0,,{\bord14}{\pos(640,660)}to order Ma Chao to firmly defend Xiping Pass,
 Dialogue: 0,0:16:36.85,0:16:39.70,Default,,0,0,0,,{\bord14}and to lay four detachments\Nin ambush, rotating every day.
@@ -314,7 +314,7 @@ Dialogue: 0,0:20:31.66,0:20:34.61,Default,,0,0,0,,{\bord14}though Wei is a trait
 Dialogue: 0,0:20:34.61,0:20:37.02,Default,,0,0,0,,{\bord14}{\pos(640,660)}It cannot be shaken easily,
 Dialogue: 0,0:20:37.02,0:20:41.82,Default,,0,0,0,,{\bord14}so we must bide our time. His Majesty has just ascended to the throne;
 Dialogue: 0,0:20:41.82,0:20:44.94,Default,,0,0,0,,{\bord14}with the people's confidence not yet\Nsteady, we should ally with Wu,
-Dialogue: 0,0:20:44.95,0:20:48.46,Default,,0,0,0,,{\bord14}promise mutual defense, and clear\Nthe late Emperor's old grievances.
+Dialogue: 0,0:20:44.95,0:20:48.46,Default,,0,0,0,,{\bord14}promise mutual defense, and clear\Nthe late emperor's old grievances.
 Dialogue: 0,0:20:48.47,0:20:50.82,Default,,0,0,0,,{\bord14}{\pos(640,660)}This is the plan for the long term.
 Dialogue: 0,0:20:51.02,0:20:53.78,Default,,0,0,0,,{\bord14}{\pos(640,660.)}I wonder what the Chancellor's opinions may be?
 Dialogue: 0,0:20:54.98,0:20:57.75,Default,,0,0,0,,{\bord14}I have long wished to send\N an envoy to Eastern Wu.
@@ -397,7 +397,7 @@ Dialogue: 0,0:26:29.20,0:26:30.16,Default,,0,0,0,,Dismissed.
 Dialogue: 0,0:26:30.16,0:26:30.85,Default,,0,0,0,,Yes sir!
 Dialogue: 0,0:26:40.42,0:26:45.38,Default,,0,0,0,,Your Highness, Chancellor Zhuge is well-versed\Nin planning strategies and military affairs.
 Dialogue: 0,0:26:45.54,0:26:48.34,Default,,0,0,0,,For this reason, he can fight\N against the enemy from afar.
-Dialogue: 0,0:26:49.06,0:26:52.64,Default,,0,0,0,,The Qiang troops see Ma Chao \Nas a general with heavenly might.
+Dialogue: 0,0:26:49.06,0:26:52.64,Default,,0,0,0,,The Qiang troops see Ma Chao \Nas a general with Heavenly might.
 Dialogue: 0,0:26:52.64,0:26:55.22,Default,,0,0,0,,The Chancellor uses him to defend against the Qiang,
 Dialogue: 0,0:26:55.35,0:26:58.78,Default,,0,0,0,,so they would naturally withdraw without a fight.
 Dialogue: 0,0:26:59.52,0:27:02.03,Default,,0,0,0,,Meng Huo, the King of the South, is paranoid.
@@ -414,7 +414,7 @@ Dialogue: 0,0:27:36.39,0:27:39.36,Default,,0,0,0,,Your Highness, do you wish\Nto
 Dialogue: 0,0:27:39.36,0:27:41.42,Default,,0,0,0,,or to seek peace with Wei?
 Dialogue: 0,0:27:46.18,0:27:50.38,Default,,0,0,0,,Your Highness could not predict the outcome of the five forces, so you stood by.
 Dialogue: 0,0:27:50.56,0:27:54.86,Default,,0,0,0,,Now, Wu is isolated and powerless.\NHow can it defeat Shu?
-Dialogue: 0,0:27:56.62,0:27:59.94,Default,,0,0,0,,Your Highness, after burning\Nseven hundred {\i1}lǐ{\i0} of linked camps,
+Dialogue: 0,0:27:56.62,0:27:59.94,Default,,0,0,0,,Your Highness, after burning\Nseven hundred {\i1}li{\i0} of linked camps,
 Dialogue: 0,0:27:59.94,0:28:03.58,Default,,0,0,0,,we Eastern Wu could also\Nrout the Shu army.
 Dialogue: 0,0:28:04.18,0:28:06.34,Default,,0,0,0,,What is there to fear?
 Dialogue: 0,0:28:09.90,0:28:12.82,Default,,0,0,0,,They all say that Eastern Wu\Nhas many able men.
@@ -538,7 +538,7 @@ Dialogue: 0,0:36:01.10,0:36:06.78,Default,,0,0,0,,{\bord14}{\pos(640,660)}If the
 Dialogue: 0,0:36:07.45,0:36:10.70,Default,,0,0,0,,{\bord14}{\pos(640,660)}then why did it tilt down to the northwest?
 Dialogue: 0,0:36:11.41,0:36:15.68,Default,,0,0,0,,{\bord14}{\pos(640,660)}Also, what lies beyond the sky?
 Dialogue: 0,0:36:16.63,0:36:19.75,Default,,0,0,0,,{\bord14}{\pos(640,660)}Please tell me, sir.
-Dialogue: 0,0:36:20.17,0:36:21.92,Default,,0,0,0,,Ummm...Well...
+Dialogue: 0,0:36:20.17,0:36:21.92,Default,,0,0,0,,Ummm... Well...
 Dialogue: 0,0:36:33.35,0:36:37.62,Default,,0,0,0,,Chancellor, Shu is full of geniuses indeed.
 Dialogue: 0,0:36:38.31,0:36:41.38,Default,,0,0,0,,I am very illuminated today.
 Dialogue: 0,0:36:44.62,0:36:47.42,Default,,0,0,0,,All questions posed during \Nthis banquet were but jests.

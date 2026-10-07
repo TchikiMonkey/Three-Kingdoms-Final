@@ -142,7 +142,7 @@ Dialogue: 0,0:11:00.72,0:11:03.55,Default,,0,0,0,,Bófú, are you serious about 
 Dialogue: 0,0:11:16.50,0:11:17.05,Default,,0,0,0,,My lord?
 Dialogue: 0,0:11:21.51,0:11:24.95,Default,,0,0,0,,Fine. I will lend you\N3,000 soldiers and 500 horses.
 Dialogue: 0,0:11:32.32,0:11:35.85,Default,,0,0,0,,With your modest status, it is difficult to hold any power.
-Dialogue: 0,0:11:36.46,0:11:41.03,Default,,0,0,0,,Ok! I will appoint you as {\i1}Colonel of Assault,{\i0}\N and {\i1}General of Bandit-Fighting{\i0}.
+Dialogue: 0,0:11:36.46,0:11:41.03,Default,,0,0,0,,Ok! I will appoint you as {\i1}Colonel of Assault,{\i0}\N and {\i1}General of Bandit-Fighting.{\i0}
 Dialogue: 0,0:11:46.10,0:11:50.76,Default,,0,0,0,,Tomorrow, you can march to Jiāngdōng. How's that?
 Dialogue: 0,0:11:53.81,0:11:54.99,Default,,0,0,0,,Thank you, my lord!
 Dialogue: 0,0:12:24.54,0:12:26.01,Default,,0,0,0,,Could that person be Zhōu the Youth?
@@ -207,7 +207,7 @@ Dialogue: 0,0:16:18.44,0:16:21.40,Default,,0,0,0,,Elder Brother, do you know the
 Dialogue: 0,0:16:22.41,0:16:23.84,Default,,0,0,0,,The two Zhāngs?
 Dialogue: 0,0:16:24.55,0:16:29.60,Default,,0,0,0,,One of them is Zhāng Zhāo\Nof Péngchéng, styled Zǐbù,
 Dialogue: 0,0:16:30.15,0:16:34.32,Default,,0,0,0,,and the other is Zhāng Hóng\N from Guǎnglíng, styled Zǐgāng.
-Dialogue: 0,0:16:35.09,0:16:39.08,Default,,0,0,0,,Both of them possess the talent to\N shake and uphold heaven and earth.
+Dialogue: 0,0:16:35.09,0:16:39.08,Default,,0,0,0,,Both of them possess the talent to\N shake and uphold Heaven and Earth.
 Dialogue: 0,0:16:39.26,0:16:41.82,Default,,0,0,0,,They live here in seclusion to avoid chaos.
 Dialogue: 0,0:16:42.33,0:16:45.86,Default,,0,0,0,,Why not recruit them?
 Dialogue: 0,0:16:45.87,0:16:49.52,Default,,0,0,0,,Good! I will personally invite them!
@@ -287,7 +287,7 @@ Dialogue: 0,0:26:24.95,0:26:27.94,Default,,0,0,0,,We can divide our army along t
 Dialogue: 0,0:26:28.05,0:26:30.72,Default,,0,0,0,,From west, north, and south,
 Dialogue: 0,0:26:30.80,0:26:33.15,Default,,0,0,0,,attack Jīng County from three sides.
 Dialogue: 0,0:26:33.38,0:26:35.50,Default,,0,0,0,,Leave only the east gate for passage
-Dialogue: 0,0:26:37.25,0:26:41.20,Default,,0,0,0,,then lay an ambush about \Ntwenty-five {\i1}lǐ{\i0} from the east gate.
+Dialogue: 0,0:26:37.25,0:26:41.20,Default,,0,0,0,,then lay an ambush about \Ntwenty-five {\i1}li{\i0} from the east gate.
 Dialogue: 0,0:26:41.56,0:26:46.09,Default,,0,0,0,,Tàishǐ Cí will be there, exhausted, and ripe for capture!
 Dialogue: 0,0:26:50.43,0:26:51.48,Default,,0,0,0,,A good plan!
 Dialogue: 0,0:26:51.97,0:26:52.43,Default,,0,0,0,,Zhōu Tài!

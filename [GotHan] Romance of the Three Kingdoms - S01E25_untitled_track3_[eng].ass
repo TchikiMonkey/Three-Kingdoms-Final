@@ -136,7 +136,7 @@ Dialogue: 0,0:08:49.74,0:08:53.28,Thinking,Sima Hui,0,0,0,,With even one of the 
 Dialogue: 0,0:08:57.76,0:09:04.28,Thinking,Narrator,0,0,0,,Zhao Yun searched without success for Liu Bei outside of Xiangyang City.
 Dialogue: 0,0:09:04.28,0:09:08.98,Thinking,Narrator,0,0,0,,From the east side of the Tan Creek, \Nhe saw water prints on the west side.
 Dialogue: 0,0:09:08.98,0:09:13.64,Thinking,Narrator,0,0,0,,He figured that Liu Bei came back to Xinye, so he went there with his men.
-Dialogue: 0,0:09:13.83,0:09:19.54,Default,Xu Shu,0,0,0,,{\bord12\pos(640,660)}The heavens and the earth are fickle...
+Dialogue: 0,0:09:13.83,0:09:19.54,Default,Xu Shu,0,0,0,,{\bord12\pos(640,660)}The Heavens and the Earth are fickle...
 Dialogue: 0,0:09:19.54,0:09:24.86,Default,Xu Shu,0,0,0,,{\bord12\pos(640,660)}the fires extinguishing...
 Dialogue: 0,0:09:14.94,0:09:18.10,Thinking,Narrator,0,0,0,,Even after he went to Xinye, he did not find Liu Bei.
 Dialogue: 0,0:09:18.10,0:09:20.36,Thinking,Narrator,0,0,0,,Zhao Yun worried,
@@ -188,7 +188,7 @@ Dialogue: 0,0:13:18.06,0:13:21.11,Default,Xu Shu,0,0,0,,I have long heard of you
 Dialogue: 0,0:13:21.11,0:13:24.52,Default,Xu Shu,0,0,0,,I was testing you, and I'm shown it was not empty talk!
 Dialogue: 0,0:13:25.07,0:13:28.25,Default,Xu Shu,0,0,0,,I, Shan Fu, am willing to follow you to the end!
 Dialogue: 0,0:13:29.93,0:13:34.68,Default,Liu Bei,0,0,0,,How could I call myself benevolent? I only wish to seek your advice.
-Dialogue: 0,0:13:35.60,0:13:37.38,Default,Xu Shu,0,0,0,,My lord, no need for humility
+Dialogue: 0,0:13:35.60,0:13:37.38,Default,Xu Shu,0,0,0,,My lord, no need for humility.
 Dialogue: 0,0:13:38.26,0:13:40.48,Default,Xu Shu,0,0,0,,The people of Xinye have sung this.
 Dialogue: 0,0:13:41.12,0:13:47.36,Default,Xu Shu,0,0,0,,{\bord9.333\i1}"Xinye's Lord, Uncle Liu, \Nblessed is the land, where he would stand."
 Dialogue: 0,0:13:48.36,0:13:53.34,Default,Xu Shu,0,0,0,,Because of your benevolence, \Nthe people place great faith in you.
@@ -452,7 +452,7 @@ Dialogue: 0,0:35:39.90,0:35:40.66,Default,Cao Cao,0,0,0,,Behead her!
 Dialogue: 0,0:35:40.66,0:35:41.62,Default,Xu Shu's Mother,0,0,0,,Hypocrite consul!
 Dialogue: 0,0:35:43.06,0:35:44.45,Default,Cheng Yu,0,0,0,,No, stop the execution!
 Dialogue: 0,0:35:45.97,0:35:49.62,Default,Cheng Yu,0,0,0,,She insults your honor to get you to execute her!
-Dialogue: 0,0:35:49.62,0:35:56.80,Default,Cheng Yu,0,0,0,,For if you kill her, it will worsen your reputation and instead make her a martyr
+Dialogue: 0,0:35:49.62,0:35:56.80,Default,Cheng Yu,0,0,0,,For if you kill her, it will worsen your reputation and instead make her a martyr.
 Dialogue: 0,0:36:01.82,0:36:06.14,Default,Cheng Yu,0,0,0,,By killing her, Xu Shu will either commit suicide,
 Dialogue: 0,0:36:06.14,0:36:08.90,Default,Cheng Yu,0,0,0,,or devote himself in full to Liu Bei to avenge her.
 Dialogue: 0,0:36:10.55,0:36:14.10,Default,Cheng Yu,0,0,0,,It is in our interest to let her live.

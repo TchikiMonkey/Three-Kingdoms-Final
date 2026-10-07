@@ -70,12 +70,12 @@ Dialogue: 0,0:03:24.42,0:03:26.34,Thinking,,0,0,0,,and son of Cao Cao, the King 
 Dialogue: 0,0:03:26.62,0:03:30.38,Thinking,,0,0,0,,Oh? Cao Zijian, the man they call "The Savant of the World"?
 Dialogue: 0,0:03:30.44,0:03:31.54,Thinking,,0,0,0,,Indeed.
 Dialogue: 0,0:03:33.34,0:03:40.50,Note (Potential style?),,0,0,0,,{\i1}Dǒu{\i0}（斗） and {\i1}dàn{\i0}（石）: Chinese units of volume. 1 {\i1}dǒu{\i0} = 10 {\i1}dàn{\i0} ≈ 104 liters.
-Dialogue: 0,0:03:31.74,0:03:35.12,Thinking,,0,0,0,,I've heard that should there be one dan of talent in under heaven,
+Dialogue: 0,0:03:31.74,0:03:35.12,Thinking,,0,0,0,,I've heard that should there be one dan of talent in under Heaven,
 Dialogue: 0,0:03:35.12,0:03:37.50,Thinking,,0,0,0,,the Marquis could have eight {\i1}dou{\i0} for himself,
 Dialogue: 0,0:03:37.54,0:03:40.50,Thinking,,0,0,0,,with the last {\i1}dou shared among all other men of letters!
 Dialogue: 0,0:03:40.62,0:03:43.66,Thinking,,0,0,0,,-A genius!\N-Yes, a genius.
 Dialogue: 0,0:03:50.32,0:03:55.86,Note (Potential style?),,0,0,0,,Excerpt from Miscellaneous Poems of Seven {\b1}(雜詩七首){\b0}, no. 6 \Nby Cao Zhi
-Dialogue: 0,0:03:50.32,0:03:55.86,Thinking,,0,0,0,,{\bord12}I gaze afar a thousand li,\Nwhere dawn and dusk meet the land
+Dialogue: 0,0:03:50.32,0:03:55.86,Thinking,,0,0,0,,{\bord12}I gaze afar a thousand {\i1}li,{\i0}\Nwhere dawn and dusk meet the land.
 Dialogue: 0,0:03:56.22,0:04:00.58,Thinking,,0,0,0,,{\bord12}The bravest lie in agony,\Nthe lesser rests in leisure.
 Dialogue: 0,0:04:01.04,0:04:06.30,Thinking,,0,0,0,,{\bord12}For Nation's rancor without calm,\NI give my head for its peace.
 Dialogue: 0,0:04:06.36,0:04:14.06,Thinking,,0,0,0,,{\bord12}With sword in hand I look southwest,\Nto see myself on Mount Tai.
@@ -138,10 +138,10 @@ Dialogue: 0,0:08:11.82,0:08:14.74,Note (Potential style?),,0,0,0,,{\i1}Péng:{\i
 Dialogue: 0,0:08:15.34,0:08:16.46,Default,,0,0,0,,Oh?
 Dialogue: 0,0:08:19.16,0:08:22.96,Default,,0,0,0,,{\bord12}Brilliant and astute, \Nwhose writings are beyond compare.
 Dialogue: 0,0:08:23.00,0:08:27.86,Default,,0,0,0,,{\bord12}Among the great men of our age, \Nmany would give their lives for his ability.
-Dialogue: 0,0:08:28.16,0:08:32.38,Default,,0,0,0,,{\bord12\pos(640,663)}Truly a heaven's gift upon the realm of Wei.
+Dialogue: 0,0:08:28.16,0:08:32.38,Default,,0,0,0,,{\bord12\pos(640,663)}Truly a Heaven's gift upon the realm of Wei.
 Dialogue: 0,0:08:35.46,0:08:38.42,Default,,0,0,0,,I, too, love my son dearly.
 Dialogue: 0,0:08:39.38,0:08:43.66,Default,,0,0,0,,Your Highness' words follows the will of Heaven, attuned to the people's hearts.
-Dialogue: 0,0:08:43.74,0:08:48.30,Default,,0,0,0,,The court is fortunate, and the people under heaven are fortunate!
+Dialogue: 0,0:08:43.74,0:08:48.30,Default,,0,0,0,,The court is fortunate, and the people under Heaven are fortunate!
 Dialogue: 0,0:08:50.90,0:08:54.50,Default,,0,0,0,,What do you gentlemen think?
 Dialogue: 0,0:08:57.98,0:09:01.58,Default,,0,0,0,,This is Your Highness's familial matter, I dare not to say anything,
 Dialogue: 0,0:09:02.22,0:09:05.68,Default,,0,0,0,,but this matter concerns the survival of the realm,

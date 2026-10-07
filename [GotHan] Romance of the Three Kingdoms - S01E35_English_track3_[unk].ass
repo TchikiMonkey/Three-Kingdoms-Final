@@ -407,7 +407,7 @@ Dialogue: 0,0:31:13.90,0:31:16.30,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}C
 Dialogue: 0,0:31:16.30,0:31:19.58,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}"In betraying their liege, the date cannot be set"?
 Dialogue: 0,0:31:20.30,0:31:23.38,Default,,0,0,0,,{\bord12}If a date was arranged \Nwithout the right opportunity,
 Dialogue: 0,0:31:23.38,0:31:26.42,Default,,0,0,0,,{\bord12\pos(640,660)}if you still respond, the plan will be exposed!
-Dialogue: 0,0:31:26.42,0:31:29.06,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}Plots of a grand scale can only happen as they come
+Dialogue: 0,0:31:26.42,0:31:29.06,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}Plots of a grand scale can only happen as they come.
 Dialogue: 0,0:31:29.06,0:31:31.58,Default,Kan Ze,0,0,0,,{\bord12\pos(640,660)}How can the time be predetermined?
 Dialogue: 0,0:31:32.06,0:31:36.26,Default,,0,0,0,,{\bord12.88}If one does not understand this logic, \Nbut instead kills a good man in error,
 Dialogue: 0,0:31:36.26,0:31:39.70,Default,,0,0,0,,{\bord12.88\pos(640,666.666)}are they not among the illiterate lot?

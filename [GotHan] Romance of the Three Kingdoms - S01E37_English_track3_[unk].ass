@@ -108,7 +108,7 @@ Dialogue: 0,0:10:14.78,0:10:16.28,Default,All,0,0,0,,Thank you, Chancellor!
 Dialogue: 0,0:10:54.28,0:11:00.22,Default,Cao Cao,0,0,0,,I mock Zhou Yu and Lu Su's ignorance of divine will,
 Dialogue: 0,0:11:00.22,0:11:04.60,Default,Cao Cao,0,0,0,,that they even dare strike a rock with an egg!
 Dialogue: 0,0:11:05.30,0:11:11.50,Default,Cao Cao,0,0,0,,I am fortunate to gain deserters, for they will deal the fatal blow!
-Dialogue: 0,0:11:11.50,0:11:14.64,Default,Cao Cao,0,0,0,,This must be aid from the heavens!
+Dialogue: 0,0:11:11.50,0:11:14.64,Default,Cao Cao,0,0,0,,This must be aid from the Heavens!
 Dialogue: 0,0:11:17.84,0:11:20.64,Style Names,,0,0,0,,{\fade(255,0,255,0,400,2465,2780)\pos(294.456,490.819)}Xún Yōu \NStyled: Gōngdá
 Dialogue: 0,0:11:21.84,0:11:24.94,Default,Xun You,0,0,0,,Chancellor, please speak carefully, lest secrets leak!
 Dialogue: 0,0:11:27.16,0:11:31.18,Default,Cao Cao,0,0,0,,The seated officials and guards by me are my trusted confidants!
@@ -236,7 +236,7 @@ Dialogue: 0,0:24:54.04,0:24:55.80,Default,General,0,0,0,,Advance!
 Dialogue: 0,0:25:10.17,0:25:10.70,Default,General,0,0,0,,Shoot!
 Dialogue: 0,0:25:13.92,0:25:40.59,Default,Soldiers,0,0,0,,{\bord12\pos(640,660)}Our Chancellor shall win!
 Dialogue: 0,0:26:29.32,0:26:32.56,Style Names,,0,0,0,,{\fade(255,0,255,0,400,2840,3240)\pos(928.815,496.726)}Zhōu Yú\NStyled: Gōngjǐn
-Dialogue: 0,0:27:34.52,0:27:37.64,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}If the heavens were not on my side,
+Dialogue: 0,0:27:34.52,0:27:37.64,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}If the Heavens were not on my side,
 Dialogue: 0,0:27:37.64,0:27:40.48,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}could Fledging Phoenix give me such a genius plan?
 Dialogue: 0,0:27:41.32,0:27:43.92,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}See how the ships are chained up?
 Dialogue: 0,0:27:44.52,0:27:46.82,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}One can walk across the river

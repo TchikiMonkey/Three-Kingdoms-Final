@@ -298,7 +298,7 @@ Dialogue: 0,0:22:33.48,0:22:34.28,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}W
 Dialogue: 0,0:22:37.66,0:22:38.53,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Gentlemen.
 Dialogue: 0,0:22:39.96,0:22:43.12,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}Cao Cao always viewed me with suspicion.
 Dialogue: 0,0:22:43.12,0:22:46.70,Default,Liu Bei,0,0,0,,{\bord12}Now he's learned of my residing at Sire's side, he fears our alliance.
-Dialogue: 0,0:22:46.70,0:22:49.12,Default,Liu Bei,0,0,0,,{\bord12}That's why he had Yunchang \N kill the two generals.
+Dialogue: 0,0:22:46.70,0:22:49.12,Default,Liu Bei,0,0,0,,{\bord12}That's why he had Yunchang \N kill the two generals
 Dialogue: 0,0:22:49.12,0:22:55.74,Default,Liu Bei,0,0,0,,{\bord12}to enrage you, sire, and to make me \Nthe enemy of the noble men of Hebei.
 Dialogue: 0,0:22:55.74,0:22:59.44,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}He is twisting your hands to kill me!
 Dialogue: 0,0:23:15.09,0:23:16.82,Default,Liu Bei,0,0,0,,{\bord12\pos(640,660)}In all of Hebei's greatness,
@@ -472,7 +472,7 @@ Dialogue: 0,0:39:17.90,0:39:19.46,Default,Xun You,0,0,0,,{\bord12\pos(640,660)}A
 Dialogue: 0,0:39:19.46,0:39:22.12,Default,Xun You,0,0,0,,{\bord12\pos(640,660)}and he meant to humiliate you egregiously.
 Dialogue: 0,0:39:23.09,0:39:25.65,Default,Yuan Shao,0,0,0,,{\bord12\pos(640,660)}Now if you let him join Yuan Shao,
 Dialogue: 0,0:39:25.65,0:39:28.12,Default,Xun You,0,0,0,,{\bord12\pos(640,660)}that is just adding wings to a tiger!
-Dialogue: 0,0:39:28.80,0:39:32.32,Default,Xun You,0,0,0,,{\bord12}If you do not hunt him down, he will become a threat later
+Dialogue: 0,0:39:28.80,0:39:32.32,Default,Xun You,0,0,0,,{\bord12}If you do not hunt him down, he will become a threat later.
 Dialogue: 0,0:39:33.39,0:39:34.59,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}No!
 Dialogue: 0,0:39:37.50,0:39:41.53,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}I made a promise to him. I cannot break it.
 Dialogue: 0,0:39:43.58,0:39:45.39,Default,Cao Cao,0,0,0,,{\bord12\pos(640,660)}Each man has their own lord.

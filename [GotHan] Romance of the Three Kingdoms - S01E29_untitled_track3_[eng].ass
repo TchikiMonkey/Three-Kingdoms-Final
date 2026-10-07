@@ -231,7 +231,7 @@ Dialogue: 0,0:12:43.86,0:12:49.78,Style Names,,0,0,0,,{\fade(255,0,255,0,200,510
 Dialogue: 0,0:13:01.98,0:13:06.70,Style Names,,0,0,0,,{\fade(255,0,255,0,200,5100,2000)\pos(373.853,309.545)}Grave of Liu Biao,\NOverseer of Jing Province
 Dialogue: 0,0:13:21.22,0:13:24.70,Default,,0,0,0,,I have failed to live up to your trust.
 Dialogue: 0,0:13:25.98,0:13:29.50,Default,,0,0,0,,The sin is with me alone, \Nnot with the people.
-Dialogue: 0,0:13:30.70,0:13:34.50,Default,,0,0,0,,I pray that your spirit in heaven will rescue the people of Jing-Xiang!
+Dialogue: 0,0:13:30.70,0:13:34.50,Default,,0,0,0,,I pray that your spirit in Heaven will rescue the people of Jing-Xiang!
 Dialogue: 0,0:13:41.82,0:13:43.58,Default,,0,0,0,,Please stand!
 Dialogue: 0,0:13:46.34,0:13:47.38,Default,,0,0,0,,My lord.
 Dialogue: 0,0:13:47.58,0:13:49.46,Default,,0,0,0,,Cao Cao's army has occupied Fancheng.
@@ -402,7 +402,7 @@ Dialogue: 0,0:30:28.98,0:30:30.74,Default,,0,0,0,,Zhao Zilong has defected to Ca
 Dialogue: 0,0:30:27.98,0:30:31.46,Style Names,,0,0,0,,{\pos(990.075,489.749)}Mi Fang
 Dialogue: 0,0:30:35.10,0:30:36.14,Default,,0,0,0,,Speak no nonsense!
 Dialogue: 0,0:30:37.82,0:30:43.02,Default,,0,0,0,,Zilong is an old friend, how could he leave me for Cao Cao?
-Dialogue: 0,0:30:43.74,0:30:49.06,Default,,0,0,0,,He must have seen how weak our forces were, \Nso he followed Cao Cao for the riches and honors
+Dialogue: 0,0:30:43.74,0:30:49.06,Default,,0,0,0,,He must have seen how weak our forces were, \Nso he followed Cao Cao for the riches and honors.
 Dialogue: 0,0:30:51.46,0:30:52.86,Default,,0,0,0,,No.
 Dialogue: 0,0:30:53.58,0:30:55.74,Default,NTP,0,0,0,,Zilong joined me when I was in misfortune.
 Dialogue: 0,0:30:55.74,0:30:59.50,Default,NTP,0,0,0,,His heart is of iron and stone,\Nno riches and honors can move him.
@@ -460,7 +460,7 @@ Dialogue: 0,0:36:42.78,0:36:44.70,Default,,0,0,0,,Please take my horse, my Lady.
 Dialogue: 0,0:36:45.02,0:36:48.50,Default,,0,0,0,,I shall fight on foot beside you and ensure that we make it out alive!
 Dialogue: 0,0:36:52.46,0:36:55.86,Default,,0,0,0,,That cannot happen, how can you go without a horse?
 Dialogue: 0,0:36:57.46,0:37:00.46,Default,,0,0,0,,I will entrust Adou to you.
-Dialogue: 0,0:37:00.98,0:37:07.62,Default,,0,0,0,,I...I am already heavily injured, there would be no regrets if I die.
+Dialogue: 0,0:37:00.98,0:37:07.62,Default,,0,0,0,,I... I am already heavily injured, there would be no regrets if I die.
 Dialogue: 0,0:37:09.38,0:37:14.50,Default,,0,0,0,,I hope you can carry him onward! I don't want to drag you down!
 Dialogue: 0,0:37:15.38,0:37:20.02,Default,,0,0,0,,Lady Mi, if I have found you but cannot protect you,
 Dialogue: 0,0:37:20.34,0:37:23.38,Default,,0,0,0,,how can I look my lord in the face again?
@@ -468,7 +468,7 @@ Dialogue: 0,0:37:23.50,0:37:25.82,Default,,0,0,0,,Quick, quick! Go over there!
 Dialogue: 0,0:37:27.26,0:37:32.26,Default,,0,0,0,,Lady Mi, please, the troops are near! Please mount the horse!
 Dialogue: 0,0:37:33.64,0:37:38.70,Default,,0,0,0,,No, I cannot move and should not be a burden to both of you!
 Dialogue: 0,0:37:39.44,0:37:42.50,Default,,0,0,0,,My Lady, please mount the horse now!
-Dialogue: 0,0:37:52.36,0:37:56.14,Default,,0,0,0,,Adou will be left in your care, General
+Dialogue: 0,0:37:52.36,0:37:56.14,Default,,0,0,0,,Adou will be left in your care, General.
 Dialogue: 0,0:38:02.42,0:38:08.38,Default,,0,0,0,,Quick, quick! Go that way, quick!
 Dialogue: 0,0:38:08.52,0:38:11.14,Default,,0,0,0,,My Lady, please mount the horse!
 Dialogue: 0,0:38:13.34,0:38:15.18,Default,,0,0,0,,Hurry!

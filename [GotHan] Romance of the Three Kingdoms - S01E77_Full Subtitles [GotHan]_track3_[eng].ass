@@ -48,11 +48,11 @@ Dialogue: 0,0:01:49.58,0:01:52.04,Thinking,,0,0,0,,{\bord14\pos(640,663)}content
 Dialogue: 0,0:01:52.06,0:01:58.36,Thinking,,0,0,0,,{\bord14}Yet I owe to Emperor Zhaolie the grace of his three visits and his last will.
 Dialogue: 0,0:01:58.48,0:02:05.40,Thinking,,0,0,0,,{\bord14}So I shall work the labor of dogs and horses to conquer the villains of the nation.
 Dialogue: 0,0:02:23.38,0:02:28.58,Thinking,,0,0,0,,{\bord14}With the faltering of the host star, my death has been marked.
-Dialogue: 0,0:02:29.53,0:02:34.62,Thinking,,0,0,0,,{\bord14\pos(640,663)}In humility, I write down this testament to heaven.
+Dialogue: 0,0:02:29.53,0:02:34.62,Thinking,,0,0,0,,{\bord14\pos(640,663)}In humility, I write down this testament to Heaven.
 Dialogue: 0,0:02:36.01,0:02:45.52,Thinking,,0,0,0,,{\bord14}May the Heavens show mercy, hear me from above and preserve the life of its servant.
 Dialogue: 0,0:02:47.20,0:02:54.30,Thinking,,0,0,0,,{\bord14}So I may fulfill my duty to His Majesty\N and aid the people.
 Dialogue: 0,0:02:54.96,0:03:00.28,Thinking,,0,0,0,,{\bord14}Restore the domain of old,\N and safeguard the reign of Han.
-Dialogue: 0,0:03:01.66,0:03:10.64,Thinking,,0,0,0,,{\bord14}Forgive my outrage, for my feelings are sincere. \NMay heaven save us.
+Dialogue: 0,0:03:01.66,0:03:10.64,Thinking,,0,0,0,,{\bord14}Forgive my outrage, for my feelings are sincere. \NMay Heaven save us.
 Dialogue: 0,0:03:19.74,0:03:21.21,Style Names,,0,0,0,,{\pos(925.067,481.867)}Fèi Yī\NStyled: Wénwěi
 Dialogue: 0,0:03:21.22,0:03:22.61,Style Names,,0,0,0,,{\pos(966.933,494.933)}Yáng Yí\NStyled: Wēigōng
 Dialogue: 0,0:03:42.94,0:03:44.79,Style Names,,0,0,0,,{\pos(993.6,497.333)}Sīmǎ Yì\NStyled: Zhòngdá
@@ -109,8 +109,8 @@ Dialogue: 0,0:10:51.37,0:10:56.63,Thinking,,0,0,0,,{\bord14}Grave illness has st
 Dialogue: 0,0:10:57.01,0:11:02.19,Thinking,,0,0,0,,{\bord14}It fills me with endless regret,\N that I can no longer serve Your Majesty.
 Dialogue: 0,0:11:03.45,0:11:07.32,Thinking,,0,0,0,,{\bord14}I only humbly wish that Your Majesty may abstain from idle desires,
 Dialogue: 0,0:11:07.53,0:11:10.13,Thinking,,0,0,0,,{\bord14\pos(640,663)}and to care for the people,
-Dialogue: 0,0:11:10.77,0:11:13.73,Thinking,,0,0,0,,{\bord14\pos(640,663)}to show filial piety to the late Emperor,
-Dialogue: 0,0:11:14.09,0:11:17.76,Thinking,,0,0,0,,{\bord14}and extend compassion and benevolence to all under heaven.
+Dialogue: 0,0:11:10.77,0:11:13.73,Thinking,,0,0,0,,{\bord14\pos(640,663)}to show filial piety to the late emperor,
+Dialogue: 0,0:11:14.09,0:11:17.76,Thinking,,0,0,0,,{\bord14}and extend compassion and benevolence to all under Heaven.
 Dialogue: 0,0:11:20.49,0:11:24.42,Thinking,,0,0,0,,{\bord14}Seek out those recluse scholars that may promote the able and kind,
 Dialogue: 0,0:11:25.28,0:11:29.71,Thinking,,0,0,0,,{\bord14}uphold the moral standard by rejecting the wicked and the sinuous...
 Dialogue: 0,0:11:30.56,0:11:31.20,Default,,0,0,0,,Chancellor.
@@ -164,7 +164,7 @@ Dialogue: 0,0:18:49.32,0:18:49.99,Default,,0,0,0,,Chancellor?
 Dialogue: 0,0:18:55.60,0:19:01.23,Default,,0,0,0,,His Majesty is deeply shocked by the tiding of your illness,
 Dialogue: 0,0:19:02.20,0:19:05.22,Default,,0,0,0,,so he sent me to visit you.
 Dialogue: 0,0:19:07.42,0:19:11.88,Default,,0,0,0,,I am unfortunate that I have to leave too soon,
-Dialogue: 0,0:19:13.24,0:19:20.71,Default,,0,0,0,,forsaking the nation's cause, indebted to all under heaven.
+Dialogue: 0,0:19:13.24,0:19:20.71,Default,,0,0,0,,forsaking the nation's cause, indebted to all under Heaven.
 Dialogue: 0,0:19:22.19,0:19:24.51,Default,,0,0,0,,Chancellor's words are too grave.
 Dialogue: 0,0:19:29.96,0:19:38.67,Default,,0,0,0,,{\bord13}After I die, you shall all serve the Emperor with utmost loyalty.
 Dialogue: 0,0:19:40.69,0:19:46.28,Default,,0,0,0,,{\bord13}The standards of the state are not to be tampered with.
@@ -324,7 +324,7 @@ Dialogue: 0,0:36:34.16,0:36:36.75,Default,,0,0,0,,then I acknowledge you as a tr
 Dialogue: 0,0:36:37.72,0:36:42.32,Default,,0,0,0,,Only then, shall I yield to you both my command the fortifications of Hangzhong.
 Dialogue: 0,0:36:43.40,0:36:45.02,Default,,0,0,0,,Open your ears, Yang Yi, you cur!
 Dialogue: 0,0:36:45.46,0:36:49.04,Default,,0,0,0,,When Chancellor was alive, I was at his beck and call.
-Dialogue: 0,0:36:49.22,0:36:52.46,Default,,0,0,0,,But now that he's dead, who under heaven could rival me?!
+Dialogue: 0,0:36:49.22,0:36:52.46,Default,,0,0,0,,But now that he's dead, who under Heaven could rival me?!
 Dialogue: 0,0:36:54.28,0:36:59.94,Default,,0,0,0,,Be it three times or thirty thousand times, I will shout as much as I wish.
 Dialogue: 0,0:37:05.56,0:37:06.83,Default,,0,0,0,,Who dares to kill me?
 Dialogue: 0,0:37:10.80,0:37:12.44,Default,,0,0,0,,Who dares to kill me?
@@ -338,14 +338,14 @@ Dialogue: 0,0:37:46.80,0:37:47.31,Default,,0,0,0,,Yes sir!
 Dialogue: 0,0:37:48.00,0:37:49.03,Default,,0,0,0,,Please.
 Dialogue: 0,0:37:55.54,0:37:59.79,Thinking,,0,0,0,,{\bord14\pos(640,666)}O dark sky!
 Dialogue: 0,0:38:02.80,0:38:09.68,Thinking,,0,0,0,,{\bord14}Why have you given him \Nso soon to autumn wind!
-Dialogue: 0,0:38:14.57,0:38:17.33,Thinking,,0,0,0,,{\bord13\pos(640,666)}O great earth!
+Dialogue: 0,0:38:14.57,0:38:17.33,Thinking,,0,0,0,,{\bord13\pos(640,666)}O great Earth!
 Dialogue: 0,0:38:18.33,0:38:27.37,Thinking,,0,0,0,,{\bord14}Why have you taken him \Nso soon to your embrace!
 Dialogue: 0,0:38:30.11,0:38:37.38,Thinking,,0,0,0,,{\bord14}I'd give my death, \Nfor his life in exchange,
 Dialogue: 0,0:38:37.49,0:38:43.76,Thinking,,0,0,0,,{\bord14}to lead again our \Nsoldiers to campaign!
 Dialogue: 0,0:38:44.72,0:38:52.36,Thinking,,0,0,0,,{\bord14}Gave it all till the end, \Nwho amongst could compare?
 Dialogue: 0,0:38:52.68,0:38:58.60,Thinking,,0,0,0,,{\bord14}Against his purity \Nwho else could be his peer?
-Dialogue: 0,0:39:19.41,0:39:22.98,Thinking,,0,0,0,,{\bord14}Dark sky, \N are you without just!
-Dialogue: 0,0:39:23.15,0:39:27.01,Thinking,,0,0,0,,{\bord14}Great earth, \N are you without heart!
+Dialogue: 0,0:39:19.41,0:39:22.98,Thinking,,0,0,0,,{\bord14}Dark sky, \N are you without justice!
+Dialogue: 0,0:39:23.15,0:39:27.01,Thinking,,0,0,0,,{\bord14}Great Earth, \N are you without heart!
 Dialogue: 0,0:39:27.09,0:39:33.34,Thinking,,0,0,0,,{\bord14}All that is left are \Nthe Bāguà Form and the qín.
 Dialogue: 0,0:39:44.24,0:39:47.92,Thinking,,0,0,0,,{\bord14}To whom else could \Nthe state of Shu rely?
 Dialogue: 0,0:39:48.01,0:39:55.20,Thinking,,0,0,0,,{\bord14}In agony, do hearts \Nof Shu folk die!

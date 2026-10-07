@@ -342,7 +342,7 @@ Dialogue: 0,0:32:48.62,0:32:50.30,Default,Li Su,0,0,0,,Thank you, Your Excellenc
 Dialogue: 0,0:32:50.78,0:32:52.00,Default,Li Su,0,0,0,,Thank you, General!
 Dialogue: 0,0:32:55.48,0:32:57.83,Default,Li Su,0,0,0,,I wished to kill that traitor for so long!
 Dialogue: 0,0:32:57.83,0:32:59.34,Default,Li Su,0,0,0,,I was without allies,
-Dialogue: 0,0:32:59.34,0:33:02.27,Default,Li Su,0,0,0,,but now I have your heaven-sent plan!
+Dialogue: 0,0:32:59.34,0:33:02.27,Default,Li Su,0,0,0,,but now I have your Heaven-sent plan!
 Dialogue: 0,0:33:08.90,0:33:10.66,Default,Li Su,0,0,0,,I will not betray you!
 Dialogue: 0,0:33:12.91,0:33:15.56,Default,Wang Yun,0,0,0,,General, please go to Meiwu.
 Dialogue: 0,0:33:33.67,0:33:38.47,Default,Dong Zhuo,0,0,0,,{\bord12}My beloved, I had a dream of\N a dragon covering my body last night.
@@ -359,7 +359,7 @@ Dialogue: 0,0:34:56.15,0:34:58.58,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)
 Dialogue: 0,0:34:58.58,0:34:59.96,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}What do these omens foretell?
 Dialogue: 0,0:34:59.96,0:35:03.41,Default,Li Su,0,0,0,,{\bord12}My lord, you will ascend the throne, beginning a new era!
 Dialogue: 0,0:35:03.41,0:35:06.56,Default,Li Su,0,0,0,,{\bord12}They bode you riding a jade carriage on a golden seat!
-Dialogue: 0,0:35:07.52,0:35:09.58,Default,Dong Zhuo,0,0,0,,The heavens are on my side!
+Dialogue: 0,0:35:07.52,0:35:09.58,Default,Dong Zhuo,0,0,0,,The Heavens are on my side!
 Dialogue: 0,0:35:29.24,0:35:31.43,Default,Children,0,0,0,,{\bord12\pos(640,660)}What vast grass, how green it is!
 Dialogue: 0,0:35:31.43,0:35:34.01,Default,Children,0,0,0,,{\bord12\pos(640,660)}Come ten days, it all dies!
 Dialogue: 0,0:35:35.37,0:35:38.04,Default,Dong Zhuo,0,0,0,,Does that song bode good or ill fortune?
@@ -397,7 +397,7 @@ Dialogue: 0,0:40:00.78,0:40:01.96,Default,Wang Yun,0,0,0,,Kill him!
 Dialogue: 0,0:40:45.25,0:40:47.75,Default,,0,0,0,,"Dong the Villain"
 Dialogue: 0,0:41:01.55,0:41:02.35,Default,Wang Yun,0,0,0,,Cheers!
 Dialogue: 0,0:41:03.08,0:41:03.73,Default,Li Su,0,0,0,,Cheers!
-Dialogue: 0,0:41:49.10,0:42:07.45,Thinking,,0,0,0,,{\bord12}Why speak of Meiwu in spring, \Nignorant of heavens and people?
+Dialogue: 0,0:41:49.10,0:42:07.45,Thinking,,0,0,0,,{\bord12}Why speak of Meiwu in spring, \Nignorant of Heavens and people?
 Dialogue: 0,0:42:07.45,0:42:15.59,Thinking,,0,0,0,,{\bord12}The abdication platform\N became the gallows;
 Dialogue: 0,0:42:16.32,0:42:29.60,Thinking,,0,0,0,,{\bord12}can one find the \Nimperial dream there?
 Dialogue: 0,0:42:31.27,0:42:38.58,Thinking,,0,0,0,,{\bord12}Away from riches \Nand prestige and people
@@ -457,5 +457,5 @@ Dialogue: 0,0:46:00.44,0:46:07.28,Thinking,,0,0,0,,{\bord12\pos(640,660)}become 
 Dialogue: 0,0:46:08.02,0:46:15.84,Thinking,,0,0,0,,{\bord12\pos(640,660)}Diāochán has drifted away with the wind,
 Dialogue: 0,0:46:16.34,0:46:23.18,Thinking,,0,0,0,,{\bord12\pos(640,660)}become as like the clouds.
 Dialogue: 0,0:44:13.12,0:44:15.12,Default,,0,0,0,,
-Comment: 0,0:22:26.68,0:22:32.12,Note (Potential style?),Dong Zhuo,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 {\i1}lǐ{\i0} from Chang'an.
+Comment: 0,0:22:26.68,0:22:32.12,Note (Potential style?),Dong Zhuo,0,0,0,,Note: Méiwù ({\fnYu Gothic}郿坞{\fn}) was Dong Zhuo's real-life fortified manor, located 250 {\i1}li{\i0} from Chang'an.
 

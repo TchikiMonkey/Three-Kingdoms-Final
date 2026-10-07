@@ -54,12 +54,12 @@ Dialogue: 0,0:00:47.02,0:00:49.32,Style Names,,0,0,0,,{\fade(255,0,255,0,400,770
 Dialogue: 0,0:00:47.38,0:00:52.58,Default,,0,0,0,,Brother Shoucheng, how do you do?
 Dialogue: 0,0:00:56.30,0:01:02.32,Default,,0,0,0,,That day you too received that "Decree Hidden in Cloth,"
 Dialogue: 0,0:01:03.56,0:01:07.06,Default,,0,0,0,,and today you conspire with traitorous officials.
-Dialogue: 0,0:01:10.72,0:01:16.66,Default,,0,0,0,,If heaven itself cannot destroy me, what could you possibly do?
+Dialogue: 0,0:01:10.72,0:01:16.66,Default,,0,0,0,,If Heaven itself cannot destroy me, what could you possibly do?
 Dialogue: 0,0:01:20.48,0:01:23.24,Default,,0,0,0,,Release my father! Father shall slaughter you all!
 Dialogue: 0,0:01:25.48,0:01:26.95,Default,NTP,0,0,0,,Damned traitor Cao!
 Dialogue: 0,0:01:26.95,0:01:30.15,Default,NTP,0,0,0,,Even if I die, my spirit will take your worthless life!
 Dialogue: 0,0:01:30.19,0:01:32.92,Default,,0,0,0,,-Dogs, all of you! \N-Take them away!
-Dialogue: 0,0:01:33.82,0:01:39.26,Default,,0,0,0,,The heavens are watching, lightning will descend and burn upon you, you usurper bastard!
+Dialogue: 0,0:01:33.82,0:01:39.26,Default,,0,0,0,,The Heavens are watching, lightning will descend and burn upon you, you usurper bastard!
 Dialogue: 0,0:02:05.85,0:02:10.02,Default,,0,0,0,,Young sire, what is wrong?
 Dialogue: 0,0:02:10.86,0:02:14.09,Default,NTP,0,0,0,,I had a dream, I was face down in the snow,
 Dialogue: 0,0:02:13.82,0:02:15.82,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3700,4100)\pos(981.473,471.515)}Páng Dé\NStyled: Lìngmíng
@@ -81,7 +81,7 @@ Dialogue: 0,0:04:02.60,0:04:07.31,Default,,0,0,0,,You descend from a famed gener
 Dialogue: 0,0:04:02.60,0:04:07.80,Note (Potential style?),,0,0,0,,Note: Referring to Ma Yuan (馬援), a general who fought under Liu Xiu and helped establish the Eastern Han Dynasty. Famously battled the Trưng sisters of Vietnam
 Dialogue: 0,0:04:08.01,0:04:11.94,Default,,0,0,0,,Bastard Cao, you usurp Imperial authority, commit unspeakable crimes,
 Dialogue: 0,0:04:12.46,0:04:14.20,Default,NTP,0,0,0,,you killed my father and my brother,
-Dialogue: 0,0:04:14.20,0:04:16.12,Default,NTP,0,0,0,,you and I will not share the same heaven!
+Dialogue: 0,0:04:14.20,0:04:16.12,Default,NTP,0,0,0,,you and I will not share the same Heaven!
 Dialogue: 0,0:04:16.12,0:04:20.28,Default,,0,0,0,,Today I will take you alive, slice you with a thousand knives and peel you alive!
 Dialogue: 0,0:05:07.54,0:05:10.40,Default,,0,0,0,,I will kill the traitor and wage a battle here!
 Dialogue: 0,0:05:10.57,0:05:12.94,Default,,0,0,0,,Kill them!
@@ -119,7 +119,7 @@ Dialogue: 0,0:11:16.24,0:11:21.44,Default,,0,0,0,,Though he has a spear, he real
 Dialogue: 0,0:11:21.81,0:11:26.84,Default,,0,0,0,,From tonight, no one is to meet them in battle. Those who disobey me are to be executed.
 Dialogue: 0,0:11:28.38,0:11:31.44,Default,NTP,0,0,0,,Report! Chancellor, the administrator of Xiliang, {\i1}Han Sui,{\i0}
 Dialogue: 0,0:11:31.46,0:11:34.46,Default,NTP,0,0,0,,is leading an army to reinforce Ma Chao.
-Dialogue: 0,0:12:03.58,0:12:06.15,Default,,0,0,0,,This is the heavens aiding us.
+Dialogue: 0,0:12:03.58,0:12:06.15,Default,,0,0,0,,This is the Heavens aiding us.
 Dialogue: 0,0:12:08.50,0:12:13.36,Default,NTP,0,0,0,,Chancellor, the enemy is receiving reinforcements, why does milord laugh?
 Dialogue: 0,0:12:24.64,0:12:29.32,Default,,0,0,0,,Once we defeat the Qiang-soldiers, I shall explain to you all.
 Dialogue: 0,0:12:24.64,0:12:29.36,Note (Potential style?),,0,0,0,,Note: Qiāng (羌) were the semi-nomadic peoples of northwest China. Ma Teng himself is half-Qiang.
@@ -161,13 +161,13 @@ Dialogue: 0,0:15:06.27,0:15:08.88,Default,NTP,0,0,0,,all to the lack of walls an
 Dialogue: 0,0:15:09.24,0:15:13.94,Default,NTP,0,0,0,,and thus giving those long spears of the Qiang-soldiers every advantage.
 Dialogue: 0,0:15:15.04,0:15:19.87,Default,NTP,0,0,0,,If we cannot build up a defense soon, \Nwe may suffer defeat.
 Dialogue: 0,0:15:22.92,0:15:25.52,Default,,0,0,0,,What to do now...
-Dialogue: 0,0:15:56.62,0:15:58.75,Default,,0,0,0,,The heavens aid me indeed!
+Dialogue: 0,0:15:56.62,0:15:58.75,Default,,0,0,0,,The Heavens aid me indeed!
 Dialogue: 0,0:16:00.72,0:16:04.26,Default,,0,0,0,,Tonight the wind is cold, water will freeze.
 Dialogue: 0,0:16:05.06,0:16:08.52,Default,,0,0,0,,Though the dirt may scatter, \Nwe can freeze it by pouring water on it.
 Dialogue: 0,0:16:09.60,0:16:12.93,Default,NTP,0,0,0,,Order the soldiers to move earth and water immediately.
 Dialogue: 0,0:16:13.54,0:16:16.54,Default,NTP,0,0,0,,In one night, we can finish the barrier.
 Dialogue: 0,0:16:16.67,0:16:18.56,Default,,0,0,0,,Yes sir!
-Dialogue: 0,0:16:43.60,0:16:48.03,Default,,0,0,0,,Good! Truly, the heavens aid me!
+Dialogue: 0,0:16:43.60,0:16:48.03,Default,,0,0,0,,Good! Truly, the Heavens aid me!
 Dialogue: 0,0:17:01.56,0:17:04.98,Default,NTP,0,0,0,,The bastard Cao has lost every engagement thus far, he is faltering.
 Dialogue: 0,0:17:04.98,0:17:07.56,Default,NTP,0,0,0,,In addition the Cao forces have no walls to rely on.
 Dialogue: 0,0:17:09.52,0:17:14.28,Default,,0,0,0,,Our battle today must be decisive, our victory will be total.
@@ -178,7 +178,7 @@ Dialogue: 0,0:18:17.59,0:18:19.97,Default,NTP,0,0,0,,This man is Xu Chu, Xu Zhon
 Dialogue: 0,0:18:19.97,0:18:22.88,Default,NTP,0,0,0,,He is fierce and mighty, they call him {\i1}"the Tiger Fool."
 Dialogue: 0,0:18:22.96,0:18:25.26,Default,,0,0,0,,Mengqi, be careful not to underestimate him.
 Dialogue: 0,0:18:31.57,0:18:37.64,Default,,0,0,0,,Today, I ride here alone, to invite Ma Chao to speak with me.
-Dialogue: 0,0:18:42.05,0:18:49.69,Default,,0,0,0,,Ma Chao, you mocked me for failing to construct my fort, but today the heavens aided me.
+Dialogue: 0,0:18:42.05,0:18:49.69,Default,,0,0,0,,Ma Chao, you mocked me for failing to construct my fort, but today the Heavens aided me.
 Dialogue: 0,0:18:50.39,0:18:54.29,Default,NTP,0,0,0,,In just one night, a great wall has been created,
 Dialogue: 0,0:18:54.29,0:18:56.89,Default,NTP,0,0,0,,so why don't you just surrender right now?
 Dialogue: 0,0:19:05.27,0:19:08.11,Default,NTP,0,0,0,,I heard your army has a "Tiger Fool."
@@ -309,7 +309,7 @@ Dialogue: 0,0:36:15.34,0:36:16.68,Default,,0,0,0,,What-?
 Dialogue: 0,0:36:24.78,0:36:30.20,Default,,0,0,0,,Noble nephew, please calm, \NI bear no ill will towards you!
 Dialogue: 0,0:36:42.36,0:36:43.04,Default,,0,0,0,,Sire.
 Dialogue: 0,0:36:44.86,0:36:49.57,Default,,0,0,0,,Ma Chao is capricious, and relies on his \Nmartial prowess to domineer over you.
-Dialogue: 0,0:36:49.94,0:36:55.94,Default,NTP,0,0,0,,Even if we can beat Cao Cao, Ma Chao would not accept us
+Dialogue: 0,0:36:49.94,0:36:55.94,Default,NTP,0,0,0,,Even if we can beat Cao Cao, Ma Chao would not accept us.
 Dialogue: 0,0:36:56.61,0:36:59.09,Default,NTP,0,0,0,,I suggest we surrender to Chancellor Cao now,
 Dialogue: 0,0:36:59.42,0:37:01.57,Default,NTP,0,0,0,,and we can keep our noble rank.
 Dialogue: 0,0:37:02.72,0:37:05.08,Default,,0,0,0,,Ma Teng and I did fight each other in the past,

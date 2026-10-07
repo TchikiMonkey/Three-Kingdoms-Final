@@ -218,7 +218,7 @@ Dialogue: 0,0:16:34.02,0:16:41.50,Style Names,,0,0,0,,{\fade(255,0,255,0,360,711
 Dialogue: 0,0:16:35.91,0:16:39.63,Default,,0,0,0,,He sent these two old geezers onto the battlefield!
 Dialogue: 0,0:16:43.45,0:16:46.56,Thinking,,0,0,0,,Huang Zhong made a sneak attack on the Wei camps at night,
 Dialogue: 0,0:16:46.56,0:16:49.52,Thinking,,0,0,0,,seizing a great amount of supplies and horses.
-Dialogue: 0,0:16:49.68,0:16:51.56,Thinking,,0,0,0,,The Wei army retreated for tens of {\i1}lǐ.{\i0}
+Dialogue: 0,0:16:49.68,0:16:51.56,Thinking,,0,0,0,,The Wei army retreated for tens of {\i1}li.{\i0}
 Dialogue: 0,0:16:49.68,0:16:52.20,Note (Potential style?),,0,0,0,,1 {\i1}lǐ{\i0}（里）≈ 417m at that time.
 Dialogue: 0,0:16:51.56,0:16:56.93,Thinking,,0,0,0,,Zhang He's rear army fled with the defeated troops.
 Dialogue: 0,0:16:57.47,0:17:03.42,Thinking,,0,0,0,,Huang Zhong, advancing his troops, regained three camps and seized Mount Tiandang.
@@ -374,12 +374,12 @@ Dialogue: 0,0:27:06.26,0:27:07.46,Default,,0,0,0,,Hurry up, hurry up!
 Dialogue: 0,0:27:09.57,0:27:10.20,Default,,0,0,0,,Put it out!
 Dialogue: 0,0:27:27.79,0:27:29.13,Default,,0,0,0,,General Xiahou!
 Dialogue: 0,0:27:29.13,0:27:29.88,Default,,0,0,0,,What?
-Dialogue: 0,0:27:30.06,0:27:34.86,Default,,0,0,0,,{\bord11}Huang Zhong decamped today. His army \Nadvanced about ten {\i1}lǐ{\i0} towards Mount Dingjun.
+Dialogue: 0,0:27:30.06,0:27:34.86,Default,,0,0,0,,{\bord11}Huang Zhong decamped today. His army \Nadvanced about ten {\i1}li{\i0} towards Mount Dingjun.
 Dialogue: 0,0:27:35.32,0:27:38.56,Default,,0,0,0,,{\bord11\pos(640,665)}He has encamped and decamped five times each.
-Dialogue: 0,0:27:38.56,0:27:41.18,Default,,0,0,0,,{\bord11\pos(640,665)}Now he is only five {\i1}lǐ{\i0} away from our main camp!
+Dialogue: 0,0:27:38.56,0:27:41.18,Default,,0,0,0,,{\bord11\pos(640,665)}Now he is only five {\i1}li{\i0} away from our main camp!
 Dialogue: 0,0:27:47.56,0:27:50.57,Default,,0,0,0,,{\bord11\pos(640,665)}Uncle, Huang Zhong is inching ever forward.
 Dialogue: 0,0:27:50.57,0:27:53.04,Default,,0,0,0,,{\bord11\pos(640,665)}If we don't fight, I'm afraid we'll be in danger.
-Dialogue: 0,0:27:53.78,0:27:58.13,Default,,0,0,0,,{\bord11}General, Huang Zhong is using\Nthe plan of "Reversing the Host and Guest."
+Dialogue: 0,0:27:53.78,0:27:58.13,Default,,0,0,0,,{\bord11}General, Huang Zhong is using\Nthe plan of "Reversing the Host and Guest,"
 Dialogue: 0,0:27:53.78,0:27:58.87,Note (Potential style?),,0,0,0,,The plan is where the inferior side subverts the superior side, thus reversing their roles,
 Dialogue: 0,0:27:58.13,0:28:03.25,Default,,0,0,0,,{\bord11}trying to lure us into abandoning \Nour defenses to attack! Do not sally forth!
 Dialogue: 0,0:28:03.25,0:28:07.63,Default,,0,0,0,,{\bord11}General Zhang, that old geezer Huang Zhong is insatiable. How can our army not fight?

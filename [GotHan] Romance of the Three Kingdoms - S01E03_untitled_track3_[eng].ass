@@ -51,7 +51,7 @@ Dialogue: 0,0:00:39.10,0:00:42.74,Default,Dong Zhuo,0,0,0,,if I sought to depose
 Dialogue: 0,0:00:42.74,0:00:44.72,Default,Dong Zhuo,0,0,0,,would it be possible?
 Dialogue: 0,0:00:38.76,0:00:41.20,Style Names,,0,0,0,,{\pos(979.898,496.957)\fade(255,0,255,0,400,2080,2440)}Dǒng Zhuó\NStyled: Zhòngyǐng
 Dialogue: 0,0:00:44.72,0:00:47.52,Style Names,,0,0,0,,{\pos(276.616,499.565)\fade(255,0,255,0,420,2520,2800)}Lǐ Rú
-Dialogue: 0,0:00:54.42,0:00:59.11,Default,Li Ru,0,0,0,,If you wanted to display authority by deposing the emperor,
+Dialogue: 0,0:00:54.42,0:00:59.11,Default,Li Ru,0,0,0,,If you wanted to display authority by deposing the Emperor,
 Dialogue: 0,0:00:59.76,0:01:01.29,Default,Li Ru,0,0,0,,then you have a splendid idea.
 Dialogue: 0,0:01:02.77,0:01:04.93,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}I have defended Xiliang for a long time.
 Dialogue: 0,0:01:04.93,0:01:06.91,Default,Dong Zhuo,0,0,0,,{\bord12\pos(640,660)}As for court matters,
@@ -76,7 +76,7 @@ Dialogue: 0,0:01:51.72,0:01:54.34,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}you
 Dialogue: 0,0:01:54.34,0:01:56.37,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}Now, if you enthrone a new monarch,
 Dialogue: 0,0:01:56.37,0:01:58.20,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}who would dare to oppose you?
 Dialogue: 0,0:01:58.90,0:02:00.42,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}With a new monarch,
-Dialogue: 0,0:02:00.42,0:02:03.32,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}you can control the emperor to rule over ministers.
+Dialogue: 0,0:02:00.42,0:02:03.32,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}you can control the Emperor to rule over ministers.
 Dialogue: 0,0:02:03.32,0:02:05.81,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}In doing so, you can shape the world.
 Dialogue: 0,0:02:05.81,0:02:08.24,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}This is the second boon.
 Dialogue: 0,0:02:13.08,0:02:16.97,Default,Dong Zhuo,0,0,0,,You truly are my source of wisdom!
@@ -409,13 +409,13 @@ Dialogue: 0,0:26:26.64,0:26:30.07,Default,Li Su,0,0,0,,How pure the heart of Lor
 Dialogue: 0,0:26:30.07,0:26:33.40,Default,Li Su,0,0,0,,How virtuous the actions of Lord Dong are!
 Dialogue: 0,0:26:38.66,0:26:42.60,Default,Lü Bu,0,0,0,,These words are new to me...
 Dialogue: 0,0:26:44.13,0:26:45.95,Default,Lü Bu,0,0,0,,... But they are not without merit.
-Dialogue: 0,0:26:46.96,0:26:52.25,Default,Lü Bu,0,0,0,,However, to depose the emperor is the path to usurpation!
+Dialogue: 0,0:26:46.96,0:26:52.25,Default,Lü Bu,0,0,0,,However, to depose the Emperor is the path to usurpation!
 Dialogue: 0,0:26:52.25,0:26:53.26,Default,Li Su,0,0,0,,Brother!
 Dialogue: 0,0:26:55.16,0:26:59.84,Default,Li Su,0,0,0,,Since antiquity, \Nonly the virtuous can rule the realm.
 Dialogue: 0,0:26:59.84,0:27:03.84,Default,Li Su,0,0,0,,The Prince and Emperor are sons of the late Majesty.
 Dialogue: 0,0:27:03.84,0:27:09.94,Default,Li Su,0,0,0,,If he assists the Prince in taking the throne, how can be called treacherous?
 Dialogue: 0,0:27:09.94,0:27:11.15,Default,Li Su,0,0,0,,That is the first point.
-Dialogue: 0,0:27:11.15,0:27:12.33,Default,Li Su,0,0,0,,Now for the second.
+Dialogue: 0,0:27:11.15,0:27:12.33,Default,Li Su,0,0,0,,Now for the second:
 Dialogue: 0,0:27:12.33,0:27:16.27,Default,Li Su,0,0,0,,when the late emperor reigned, he favored the Prince.
 Dialogue: 0,0:27:16.27,0:27:18.93,Default,Li Su,0,0,0,,He intended to have him succeed him.
 Dialogue: 0,0:27:18.93,0:27:21.58,Default,Li Su,0,0,0,,However, Empress He and\N He Jin chose his successor.
@@ -530,13 +530,13 @@ Dialogue: 0,0:37:47.58,0:37:52.17,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"Em
 Dialogue: 0,0:37:52.17,0:37:54.26,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"The Emperor received the succession"
 Dialogue: 0,0:37:54.26,0:37:56.28,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"and was looked up to by all across the Four Seas."
 Dialogue: 0,0:37:56.28,0:38:00.38,Default,Li Ru,0,0,0,,{\bord12}"However, the Emperor is frivolous by nature, and lacking majesty in his demeanor."
-Dialogue: 0,0:38:00.38,0:38:03.89,Default,Li Ru,0,0,0,,{\bord12}"He is slow and lazy in mourning,his wickedness evident."
+Dialogue: 0,0:38:00.38,0:38:03.89,Default,Li Ru,0,0,0,,{\bord12}"He is slow and lazy in mourning, his wickedness evident."
 Dialogue: 0,0:38:03.89,0:38:05.96,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"He is an embarrassment to the throne."
 Dialogue: 0,0:38:05.96,0:38:08.16,Style Names,,0,0,0,,{\pos(317.941,345.652)\fade(255,0,255,0,400,1820,2220)}Empress Dowager Hé
 Dialogue: 0,0:38:06.20,0:38:09.09,Default,Li Ru,0,0,0,,{\bord12}"The Empress Dowager did not teach\Nas a virtuous mother should,"
 Dialogue: 0,0:38:09.09,0:38:11.47,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"causing the empire to fall into decay."
 Dialogue: 0,0:38:11.47,0:38:16.00,Default,Li Ru,0,0,0,,{\bord12}"The sudden death of Empress Dowager Dong has aroused public rumors."
-Dialogue: 0,0:38:16.00,0:38:19.30,Default,Li Ru,0,0,0,,{\bord12}"As for the three bonds and\N the ties of the heavens and earth,"
+Dialogue: 0,0:38:16.00,0:38:19.30,Default,Li Ru,0,0,0,,{\bord12}"As for the three bonds and\N the ties of the Heavens and Earth,"
 Dialogue: 0,0:38:16.00,0:38:21.50,Note (Potential style?),Li Ru,0,0,0,,The three bonds consist of the lord and subject bond,\Nthe father and son bond, and the husband and wife bond.
 Dialogue: 0,0:38:19.30,0:38:21.50,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"have they not been violated?"
 Dialogue: 0,0:38:21.50,0:38:24.72,Default,Li Ru,0,0,0,,{\bord12\pos(640,660)}"The Prince of Chenliu has wisdom and majesty."

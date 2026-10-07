@@ -57,7 +57,7 @@ Dialogue: 0,0:00:40.08,0:00:44.12,Default,,0,0,0,,If I say anything offensive, p
 Dialogue: 0,0:00:45.36,0:00:48.28,Style Names,,0,0,0,,{\pos(969.065,487.792)\\fade(255,0,255,0,420,2540,2900)}Liú Bèi\NStyled: Xuándé
 Dialogue: 0,0:00:45.84,0:00:47.76,Default,,0,0,0,,Feel free to say anything you wish to.
 Dialogue: 0,0:00:49.04,0:00:53.36,Default,,0,0,0,,{\bord13}Both the Marquis of Wu and Commander Zhou have ordered me to greet you.
-Dialogue: 0,0:00:57.36,0:01:03.16,Default,,0,0,0,,{\bord13}in the past, Cao Cao led one million soldiers claiming to annex the Jiangnan region,
+Dialogue: 0,0:00:57.36,0:01:03.16,Default,,0,0,0,,{\bord13}In the past, Cao Cao led one million soldiers claiming to annex the Jiangnan region,
 Dialogue: 0,0:01:03.16,0:01:05.80,Default,,0,0,0,,{\bord13\pos(640,670)}but tried to capture you, Imperial Uncle.
 Dialogue: 0,0:01:05.80,0:01:09.80,Default,,0,0,0,,{\bord13}It was fortunate that our generals delivered a devastating blow to the Cao army.
 Dialogue: 0,0:01:09.80,0:01:11.52,Default,,0,0,0,,{\bord13\pos(640,670)}Thus, we saved you!

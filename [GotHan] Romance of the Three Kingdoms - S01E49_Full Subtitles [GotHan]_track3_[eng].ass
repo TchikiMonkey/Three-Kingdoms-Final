@@ -229,7 +229,7 @@ Dialogue: 0,0:18:27.02,0:18:31.36,Default,,0,0,0,,Our discussions need not to gi
 Dialogue: 0,0:18:32.33,0:18:33.99,Default,,0,0,0,,Get the wine!
 Dialogue: 0,0:18:48.41,0:18:50.50,Default,,0,0,0,,Please drink up.
 Dialogue: 0,0:18:57.75,0:19:01.71,Default,,0,0,0,,Sir, rest assured. If I, Liu Bei, harbor any intention to harm my younger brother,
-Dialogue: 0,0:19:02.20,0:19:05.72,Default,,0,0,0,,then heavenly principles do not tolerate me, and my crimes deserve death.
+Dialogue: 0,0:19:02.20,0:19:05.72,Default,,0,0,0,,then Heavenly principles do not tolerate me, and my crimes deserve death.
 Dialogue: 0,0:19:07.73,0:19:12.52,Default,,0,0,0,,Sirs, if you trust me, Liu Bei, then please drink up this cup.
 Dialogue: 0,0:19:26.68,0:19:28.74,Default,,0,0,0,,Report!
 Dialogue: 0,0:19:29.92,0:19:33.28,Default,,0,0,0,,My lord, Zhang Lu's army is coming to Jiameng Pass.
@@ -253,7 +253,7 @@ Dialogue: 0,0:21:26.40,0:21:32.93,Default,,0,0,0,,If this is the case, please re
 Dialogue: 0,0:21:34.54,0:21:37.40,Default,,0,0,0,,Strategist, please rest early.
 Dialogue: 0,0:21:47.59,0:21:50.22,Default,,0,0,0,,Liu Bei has led an army into the Riverlands,
 Dialogue: 0,0:21:50.32,0:21:54.42,Default,,0,0,0,,and is now garrisoning Jiameng Pass to help Liu Zhang defend against Zhang Lu.
-Dialogue: 0,0:21:54.54,0:21:57.09,Default,NTP,0,0,0,,I intend to take Jing Province back.
+Dialogue: 0,0:21:54.54,0:21:57.09,Default,NTP,0,0,0,,I intend to take Jing Province back,
 Dialogue: 0,0:21:56.66,0:21:59.14,Style Names,,0,0,0,,{\pos(312.582,471.636)}Sūn Quán\NStyled: Zhòngmóu
 Dialogue: 0,0:21:57.09,0:22:00.33,Default,NTP,0,0,0,,but Kongming and Guan Yu are stationed in Jīng Province.
 Dialogue: 0,0:22:01.53,0:22:06.20,Default,,0,0,0,,-My sirs, what good plans do you have?\N-My lord.

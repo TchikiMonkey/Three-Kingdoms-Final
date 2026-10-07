@@ -63,7 +63,7 @@ Dialogue: 0,0:02:37.42,0:02:39.74,Default,,0,0,0,,With my mother in distress, my
 Dialogue: 0,0:02:39.74,0:02:42.94,Default,,0,0,0,,Even if I stayed, I wouldn't be able to improve the situation.
 Dialogue: 0,0:02:43.58,0:02:48.10,Default,,0,0,0,,My lord should find another talented and virtuous man to assist you in achieving your great cause.
 Dialogue: 0,0:02:48.10,0:02:50.30,Default,,0,0,0,,My lord should not be so discouraged.
-Dialogue: 0,0:02:53.82,0:02:58.86,Default,,0,0,0,,Among all the able men under the heavens, I am afraid none can compete with you.
+Dialogue: 0,0:02:53.82,0:02:58.86,Default,,0,0,0,,Among all the able men under the Heavens, I am afraid none can compete with you.
 Dialogue: 0,0:03:00.82,0:03:03.78,Default,,0,0,0,,How can I, a mediocre man, be deserving of such high praise?
 Dialogue: 0,0:03:12.10,0:03:15.06,Default,,0,0,0,,I hope all your officers will serve the Lord well
 Dialogue: 0,0:03:15.82,0:03:19.78,Default,,0,0,0,,so that your names are recorded in silk and your achievements go down in history.
@@ -107,26 +107,26 @@ Dialogue: 0,0:07:20.42,0:07:28.18,Note (Potential style?),,0,0,0,,Note: Lǚ Wàn
 Dialogue: 0,0:07:28.26,0:07:31.50,Default,,0,0,0,,How does this man compare with mister?
 Dialogue: 0,0:07:32.10,0:07:35.06,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}If you are to compare me with him,
 Dialogue: 0,0:07:35.06,0:07:40.06,Default,,0,0,0,,{\bord12.545} it is like comparing a frail horse with a qilin, or a jackdaw with a phoenix.
-Dialogue: 0,0:07:40.06,0:07:43.18,Default,,0,0,0,,{{\bord12.545}This man compares himself with{\i1} Guǎn Zhòng{\i0} and{\i1} Yuè Yì,{\i0}
+Dialogue: 0,0:07:40.06,0:07:43.18,Default,,0,0,0,,{\bord12.545}This man compares himself with{\i1} Guǎn Zhòng{\i0} and{\i1} Yuè Yì,{\i0}
 Dialogue: 0,0:07:40.06,0:07:49.02,Note (Potential style?),,0,0,0,,Note: Guǎn Zhòng and Yuè Yì are two of the greatest philosopher-statesmen and generals of the Spring and Autumn and Warring States period respectively.
-Dialogue: 0,0:07:43.18,0:07:48.50,Default,,0,0,0,,{{\bord12.545}he has the ability to sew Heaven and Earth together, a genius who looms over all others.
+Dialogue: 0,0:07:43.18,0:07:48.50,Default,,0,0,0,,{\bord12.545}he has the ability to sew Heaven and Earth together, a genius who looms over all others.
 Dialogue: 0,0:07:50.06,0:07:52.50,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}I wish to know his name.
 Dialogue: 0,0:07:53.10,0:07:56.18,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}This man is from {\i1}Yángdū{\i0} of {\i1}Lángyá commandery.
-Dialogue: 0,0:07:56.18,0:08:00.06,Default,,0,0,0,,{{\bord12.545}Of the family {\i1}"Zhūgě,"{\i0} \Nby the name of {\i1}"Liàng,"{\i0} styled{\i1} Kǒngmíng.
+Dialogue: 0,0:07:56.18,0:08:00.06,Default,,0,0,0,,{\bord12.545}Of the family {\i1}"Zhūgě,"{\i0} \Nby the name of {\i1}"Liàng,"{\i0} styled{\i1} Kǒngmíng.
 Dialogue: 0,0:08:01.02,0:08:05.06,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}He lives on a ridge of hills called {\i1}Wolong Hillock,
 Dialogue: 0,0:08:01.10,0:08:07.02,Note (Potential style?),,0,0,0,,Note: Literally "Sleeping Dragon Hillock"
 Dialogue: 0,0:08:05.06,0:08:07.86,Default,,0,0,0,,{\bord12.545} which is why he calls himself,\N{\i1} the Sleeping Dragon.{\i0}
-Dialogue: 0,0:08:08.02,0:08:13.30,Default,,0,0,0,,{{\bord12.545}If you have this man's assistance you will have no worries about securing the realm.
-Dialogue: 0,0:08:16.10,0:08:20.34,Default,,0,0,0,,{{\bord12.545}Could he be the one from when people speak of \N{\i1}Sleeping Dragon {\i0}and{\i1} Fledgling Phoenix?
+Dialogue: 0,0:08:08.02,0:08:13.30,Default,,0,0,0,,{\bord12.545}If you have this man's assistance you will have no worries about securing the realm.
+Dialogue: 0,0:08:16.10,0:08:20.34,Default,,0,0,0,,{\bord12.545}Could he be the one from when people speak of \N{\i1}Sleeping Dragon {\i0}and{\i1} Fledgling Phoenix?
 Dialogue: 0,0:08:21.10,0:08:24.50,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}Fledgling Phoenix is {\i1}Páng Tǒng{\i0} from Xiāngyáng.
 Dialogue: 0,0:08:25.06,0:08:28.50,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}That Sleeping Dragon is indeed Zhuge Kongming!
-Dialogue: 0,0:08:32.18,0:08:35.42,Default,,0,0,0,,{{\bord12.545}Today I finally know who \NSleeping Dragon and Fledgling Phoenix are!
+Dialogue: 0,0:08:32.18,0:08:35.42,Default,,0,0,0,,{\bord12.545}Today I finally know who \NSleeping Dragon and Fledgling Phoenix are!
 Dialogue: 0,0:08:35.46,0:08:38.06,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}I did not expect them to be right before me.
 Dialogue: 0,0:08:38.06,0:08:41.58,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}If not for Mister's words, I would remain blind.
 Dialogue: 0,0:08:43.46,0:08:44.16,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}My lord!
 Dialogue: 0,0:08:45.78,0:08:49.58,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}I will take my leave.
 Dialogue: 0,0:08:52.06,0:08:53.46,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}Farewell.
-Dialogue: 0,0:09:02.06,0:09:06.02,Default,,0,0,0,,{{\bord12.545}With this departure, we are now separated by the earth.
+Dialogue: 0,0:09:02.06,0:09:06.02,Default,,0,0,0,,{\bord12.545}With this departure, we are now separated by the earth.
 Dialogue: 0,0:09:08.34,0:09:10.70,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}I wonder when we might meet again.
 Dialogue: 0,0:09:14.86,0:09:21.18,Thinking,,0,0,0,,In order to weaken Liu Bei's influence and gain the capable man for his own use,
 Dialogue: 0,0:09:21.74,0:09:25.14,Thinking,,0,0,0,,Cao Cao schemed to lure Xu Shu into Xudu.
@@ -149,9 +149,9 @@ Dialogue: 0,0:10:57.34,0:11:02.66,Default,,0,0,0,,This... this is not my letter!
 Dialogue: 0,0:11:04.38,0:11:06.38,Default,,0,0,0,,Then that is?
 Dialogue: 0,0:11:08.82,0:11:12.74,Default,,0,0,0,,How muddled you are!
 Dialogue: 0,0:11:26.26,0:11:30.78,Default,,0,0,0,,After you have roamed the world for so many years,
-Dialogue: 0,0:11:31.66,0:11:38.98,Default,,0,0,0,, I would think your learning had progressed, but you have regressed!
+Dialogue: 0,0:11:31.66,0:11:38.98,Default,,0,0,0,,I would think your learning had progressed, but you have regressed!
 Dialogue: 0,0:11:39.86,0:11:43.46,Default,,0,0,0,,My son, you are an educated man,
-Dialogue: 0,0:11:44.18,0:11:48.90,Default,,0,0,0,, you know you can only fulfill either filial piety and loyalty, not both.
+Dialogue: 0,0:11:44.18,0:11:48.90,Default,,0,0,0,,you know you can only fulfill either filial piety and loyalty, not both.
 Dialogue: 0,0:11:49.86,0:11:53.54,Default,,0,0,0,,How can you not see that Cao Cao deceives and insults the Dynasty?
 Dialogue: 0,0:11:54.86,0:11:58.02,Default,,0,0,0,,Liu Xuande's compassion stretches across the whole realm!
 Dialogue: 0,0:11:58.34,0:12:03.42,Default,,0,0,0,,On top of that, he is also a kinsman of \Nthe House of Hàn! You were assisting him!
@@ -221,13 +221,13 @@ Dialogue: 0,0:17:38.98,0:17:42.14,Default,,0,0,0,,What is this man like, sire?
 Dialogue: 0,0:17:46.42,0:17:48.90,Default,,0,0,0,,If Yuanzhi went, then so be it.
 Dialogue: 0,0:17:48.90,0:17:53.34,Default,,0,0,0,,But why should he ask Zhuge Liang to spit blood, sweat, and tears?
 Dialogue: 0,0:17:54.42,0:17:56.10,Default,,0,0,0,,Why say such a thing?
-Dialogue: 0,0:17:57.90,0:18:02.02,Default,,0,0,0,,{{\bord12.545}Kongming is a close friend with Cui Zhouping, Shi Guang,
+Dialogue: 0,0:17:57.90,0:18:02.02,Default,,0,0,0,,{\bord12.545}Kongming is a close friend with Cui Zhouping, Shi Guang,
 Dialogue: 0,0:18:02.14,0:18:06.14,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545} Meng Gongwei, and Xu Yuanzhi.
 Dialogue: 0,0:18:06.14,0:18:09.98,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}The talents of these four men surpass many.
 Dialogue: 0,0:18:09.98,0:18:14.14,Default,,0,0,0,,{\bord12.545}Only Kongming has \Nsuperior talent and mind for strategy.
 Dialogue: 0,0:18:14.14,0:18:18.14,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}He once joked to the four that,
-Dialogue: 0,0:18:18.14,0:18:22.14,Default,,0,0,0,,{{\bord12.545}they would be governors and prefects if they went into politics.
-Dialogue: 0,0:18:22.14,0:18:28.14,Default,,0,0,0,,{{\bord12.545}The four then asked where his ambitions lay,\N but he laughed without answering.
+Dialogue: 0,0:18:18.14,0:18:22.14,Default,,0,0,0,,{\bord12.545}they would be governors and prefects if they went into politics.
+Dialogue: 0,0:18:22.14,0:18:28.14,Default,,0,0,0,,{\bord12.545}The four then asked where his ambitions lay,\N but he laughed without answering.
 Dialogue: 0,0:18:28.14,0:18:32.14,Default,,0,0,0,,{\bord12.545}He regularly compared himself with Guǎn Zhòng and Yuè Yì.
 Dialogue: 0,0:18:32.14,0:18:36.42,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}His talents cannot be measured!
 Dialogue: 0,0:18:37.02,0:18:39.98,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}Mister Shuijing.
@@ -272,7 +272,7 @@ Dialogue: 0,0:22:30.18,0:22:32.42,Default,,0,0,0,,Thank you very much!
 Dialogue: 0,0:22:34.98,0:22:36.78,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:23:29.74,0:23:31.38,Default,,0,0,0,,What a wonderful place!
 Dialogue: 0,0:24:35.30,0:24:36.94,Default,,0,0,0,,Who is knocking at the door?
-Dialogue: 0,0:24:44.98,0:24:48.02,Default,,0,0,0,,Please pass on that {\i1}Hàn General of \Nthe Left,{\i0} {\i1}Marquis of Yicheng District{\i0},
+Dialogue: 0,0:24:44.98,0:24:48.02,Default,,0,0,0,,Please pass on that {\i1}Hàn General of \Nthe Left,{\i0} {\i1}Marquis of Yicheng District,{\i0}
 Dialogue: 0,0:24:48.02,0:24:52.86,Default,,0,0,0,, {\i1}Potentate candidate of Yù Province,{\i0} \NImperial Uncle Liu Bei, is here to visit Mister Zhuge.
 Dialogue: 0,0:24:54.02,0:24:56.34,Default,,0,0,0,,So wordy, I can't remember that many titles.
 Dialogue: 0,0:24:58.50,0:25:01.58,Default,,0,0,0,,Then simply tell him that \NLiu Bei has come to seek him.
@@ -302,11 +302,11 @@ Dialogue: 0,0:27:40.66,0:27:42.86,Default,,0,0,0,,Why do you wish to see Kongmin
 Dialogue: 0,0:27:45.22,0:27:48.30,Default,,0,0,0,,The world is now in turmoil, and warfare is constant.
 Dialogue: 0,0:27:50.78,0:27:55.42,Default,,0,0,0,,We have come to visit Mister Sleeping Dragon for a plan to pacify and reform the nation.
 Dialogue: 0,0:27:57.02,0:27:59.02,Default,,0,0,0,,I see.
-Dialogue: 0,0:27:59.02,0:28:04.98,Default,,0,0,0,,{{\bord12.545}Eh, though sir seeks to pacify, while with kindness, chaos is but a constant since ancient times.
+Dialogue: 0,0:27:59.02,0:28:04.98,Default,,0,0,0,,{\bord12.545}Eh, though sir seeks to pacify, while with kindness, chaos is but a constant since ancient times.
 Dialogue: 0,0:28:05.14,0:28:07.62,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545} Untouched by the strength of men.
 Dialogue: 0,0:28:08.90,0:28:13.94,Default,,0,0,0,,{\bord12.545}If you seek to ask Kongming to take the stage, \Nto restore the Hàn dynasty,
 Dialogue: 0,0:28:14.54,0:28:17.62,Default,,0,0,0,,{\pos(644.005,668.182)}{\bord12.545}I'm afraid it will be a wasted effort.
-Dialogue: 0,0:28:18.62,0:28:23.66,Default,,0,0,0,,{{\bord12.545} General must know that those who follow Heaven live in harmony, while those who defy it fail.
+Dialogue: 0,0:28:18.62,0:28:23.66,Default,,0,0,0,,{\bord12.545} General must know that those who follow Heaven live in harmony, while those who defy it fail.
 Dialogue: 0,0:28:23.70,0:28:27.22,Default,,0,0,0,,{\pos(644.005,664.788)}{\bord12.545}How could men oppose the natural order of things?
 Dialogue: 0,0:28:29.58,0:28:32.18,Default,,0,0,0,,Your words do carry insight,
 Dialogue: 0,0:28:32.18,0:28:37.46,Default,,0,0,0,,yet, as a kinsman of the House of Hàn, I should be restoring the Dynasty.

@@ -221,7 +221,7 @@ Dialogue: 0,0:18:10.48,0:18:13.76,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660
 Dialogue: 0,0:18:14.76,0:18:18.30,Default,Zhang Zhao,0,0,0,,{\bord12}Our only option, in my humble opinion,\N is submission.
 Dialogue: 0,0:18:18.51,0:18:20.98,Default,Zhang Zhao,0,0,0,,{\bord12\pos(640,660)}It is the only way to ensure our survival.
 Dialogue: 0,0:18:22.66,0:18:24.39,Default,Officials,0,0,0,,My lord, my lord!
-Dialogue: 0,0:18:24.70,0:18:28.28,Default,Officials,0,0,0,,Zibu's words accord with the will of the heavens!
+Dialogue: 0,0:18:24.70,0:18:28.28,Default,Officials,0,0,0,,Zibu's words accord with the will of the Heavens!
 Dialogue: 0,0:18:33.88,0:18:36.94,Default,Zhang Zhao,0,0,0,,Please have no doubts, my liege.
 Dialogue: 0,0:18:36.94,0:18:40.42,Default,Zhang Zhao,0,0,0,,If we surrender, the common people of Wu,
 Dialogue: 0,0:18:40.42,0:18:44.54,Default,Zhang Zhao,0,0,0,,and the six commanderies of Jiangdong can be ensured peace and tranquility!
@@ -235,15 +235,15 @@ Dialogue: 0,0:19:22.38,0:19:27.63,Default,Lu Su,0,0,0,,The views of the masses w
 Dialogue: 0,0:19:27.63,0:19:31.48,Default,Lu Su,0,0,0,,A common man might submit to Cao, but you, sire, cannot.
 Dialogue: 0,0:19:32.08,0:19:32.83,Default,Sun Quan,0,0,0,,Why?
 Dialogue: 0,0:19:33.12,0:19:37.54,Default,Lu Su,0,0,0,,{\bord12}If someone such as I submits to Cao Cao, I may keep my position like before.
-Dialogue: 0,0:19:37.54,0:19:41.08,Default,Lu Su,0,0,0,,{\bord12}If you, sire, submitted, to Cao Cao, you will be made merely a marquis.
-Dialogue: 0,0:19:41.08,0:19:45.54,Default,Lu Su,0,0,0,,{\bord12}with no chariots save one, no more horses than a pair, and followers left only a few.
+Dialogue: 0,0:19:37.54,0:19:41.08,Default,Lu Su,0,0,0,,{\bord12}If you, sire, submitted to Cao Cao, you would be made a mere marquis,
+Dialogue: 0,0:19:41.08,0:19:45.54,Default,Lu Su,0,0,0,,{\bord12}with no chariots save one, no more horses than a pair, and few followers left.
 Dialogue: 0,0:19:45.54,0:19:48.76,Default,Lu Su,0,0,0,,{\bord12}How could you not be but a fleeting shadow in the eyes of the South?
 Dialogue: 0,0:19:51.72,0:19:55.30,Default,Lu Su,0,0,0,,{\bord12\pos(640,660)}The gentry only seek their own interests.
 Dialogue: 0,0:19:55.64,0:19:57.16,Default,Lu Su,0,0,0,,{\bord12\pos(640,660)}They are not to be listened to.
 Dialogue: 0,0:19:57.58,0:20:00.40,Default,Lu Su,0,0,0,,{\bord12\pos(640,660)}Sire must decide on your plan soon.
 Dialogue: 0,0:20:02.74,0:20:06.49,Default,Sun Quan,0,0,0,,{\bord12}The words of my ministers have disappointed me greatly.
 Dialogue: 0,0:20:08.18,0:20:11.56,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}Only your plan matches mine, Zijing.
-Dialogue: 0,0:20:12.30,0:20:16.36,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}This must be the heavens gifting you to me!
+Dialogue: 0,0:20:12.30,0:20:16.36,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}This must be the Heavens gifting you to me!
 Dialogue: 0,0:20:17.22,0:20:18.70,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}However...
 Dialogue: 0,0:20:18.70,0:20:21.80,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}Cao Cao has attained the former armies of Yuan Shao
 Dialogue: 0,0:20:21.80,0:20:23.74,Default,Sun Quan,0,0,0,,{\bord12\pos(640,660)}and now the soldiers of Jing.
@@ -454,7 +454,7 @@ Dialogue: 0,0:35:43.48,0:35:46.84,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,66
 Dialogue: 0,0:35:46.84,0:35:49.76,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}It has no use for building a nation or governance.
 Dialogue: 0,0:35:52.05,0:35:57.32,Default,Zhuge Liang,0,0,0,,{\bord12}Of the wise sages since antiquity, \Nnot all of them mastered the canons.
 Dialogue: 0,0:35:58.50,0:36:00.50,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}The Chancellor of King Tang of Shang, Yi Yin,
-Dialogue: 0,0:36:00.50,0:36:04.08,Default,Zhuge Liang,0,0,0,,{\bord12}began as nothing more than \Na slave who tilled fields
+Dialogue: 0,0:36:00.50,0:36:04.08,Default,Zhuge Liang,0,0,0,,{\bord12}began as nothing more than \Na slave who tilled fields.
 Dialogue: 0,0:36:04.08,0:36:08.96,Default,Zhuge Liang,0,0,0,,{\bord12}Jiang Ziya, who built the Zhou, once cast his hooks into the Wei River to fish.
 Dialogue: 0,0:36:09.84,0:36:15.50,Note (Potential style?),,0,0,0,,Note Chen Ping (陳平) was another early chancellor of the Han\N who helped Liu Bang maintain stability after unification.
 Dialogue: 0,0:36:09.84,0:36:15.50,Default,Zhuge Liang,0,0,0,,{\bord12}Zhang Liang and Chen Ping of later ages, were all men of transcendent ability.
@@ -481,7 +481,7 @@ Dialogue: 0,0:37:23.70,0:37:27.82,Default,Zhuge Liang,0,0,0,,{\bord12}Yet when v
 Dialogue: 0,0:37:27.82,0:37:30.80,Default,Zhuge Liang,0,0,0,,{\bord12}Thus, his end was met \Nby throwing himself off a tower!
 Dialogue: 0,0:37:31.20,0:37:33.26,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}These are the lesser pedants!
 Dialogue: 0,0:37:33.26,0:37:37.32,Default,Zhuge Liang,0,0,0,,{\bord12}They may draft ten thousand words,\N yet none with value to speak of!
-Dialogue: 0,0:37:37.37,0:37:38.09,Default,Cheng Bing,0,0,0,,You..!
+Dialogue: 0,0:37:37.37,0:37:38.09,Default,Cheng Bing,0,0,0,,You...!
 Dialogue: 0,0:37:39.82,0:37:43.14,Default,Zhuge Liang,0,0,0,,{\bord12\pos(640,660)}Deshu, I respect you as a great scholar of Runan.
 Dialogue: 0,0:37:43.68,0:37:49.98,Note (Potential style?),,0,0,0,,Note: "Selections from the Book of Changes"{\i0} (周易摘) is a real book written by Cheng Bing in history, along with two other major works
 Dialogue: 0,0:37:43.58,0:37:47.22,Default,Zhuge Liang,0,0,0,,{\bord12}I have read your great {\i1}Selections from the Book of Changes{\i0} as well.
