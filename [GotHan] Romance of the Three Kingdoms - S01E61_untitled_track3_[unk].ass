@@ -216,10 +216,10 @@ Dialogue: 0,0:17:16.42,0:17:23.31,Note (Potential style?),,0,0,0,,Note: The Impe
 Dialogue: 0,0:17:16.42,0:17:18.87,Default,,0,0,0,,The Imperial Star was dim,
 Dialogue: 0,0:17:18.87,0:17:23.46,Default,,0,0,0,,whereas the stars of Wei, from the highest of Heavens to the horizon, cannot be enumerated.
 Dialogue: 0,0:17:23.46,0:17:28.08,Default,,0,0,0,,Moreover, there are prophecies. An omen states:
-Dialogue: 0,0:17:28.66,0:17:31.57,Default,,0,0,0,,{\bord14\pos(640,660)}"{\i1}Gǔi{\i0} (鬼) is at the side; {\i1}wěi{\i0} (委) is the leader."
+Dialogue: 0,0:17:28.66,0:17:31.57,Default,,0,0,0,,{\bord14\pos(640,660)}"{\i1}Gǔi{\i0} is at the side; {\i1}wěi{\i0} is the leader."
 Dialogue: 0,0:17:31.57,0:17:33.93,Default,,0,0,0,,{\bord14\pos(640,660)}They succeed the Han; no more needs to be said.
-Dialogue: 0,0:17:33.93,0:17:36.04,Default,,0,0,0,,{\bord14\pos(640,660)}"{\i1}Yán{\i0} (言) is at the east; {\i1}wǔ{\i0} (午) is at the west."
-Dialogue: 0,0:17:36.04,0:17:38.64,Default,,0,0,0,,{\bord14\pos(640,660)}"Two joined {\i1}rì{\i0} (日) move abreast."
+Dialogue: 0,0:17:33.93,0:17:36.04,Default,,0,0,0,,{\bord14\pos(640,660)}"{\i1}Yán{\i0} is at the east; {\i1}wǔ{\i0} is at the west."
+Dialogue: 0,0:17:36.04,0:17:38.64,Default,,0,0,0,,{\bord14\pos(640,660)}"Two joined {\i1}rì{\i0} move abreast."
 Dialogue: 0,0:17:38.64,0:17:42.43,Default,,0,0,0,,{\bord14\pos(640,660)}Because of this, Your Majesty should abdicate soon.
 Dialogue: 0,0:17:42.43,0:17:45.11,Default,,0,0,0,,{\bord14\pos(640,660)}The aforesaid "{\i1}Gǔi{\i0} is at the side; {\i1}wěi{\i0} is the leader"
 Dialogue: 0,0:17:42.43,0:17:46.65,Note (Potential style?),,0,0,0,,Note: 委+鬼=魏

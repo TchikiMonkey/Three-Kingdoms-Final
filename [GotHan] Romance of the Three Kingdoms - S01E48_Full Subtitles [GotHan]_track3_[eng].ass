@@ -86,7 +86,8 @@ Dialogue: 0,0:05:04.36,0:05:06.92,Default,,0,0,0,,The craftsmen did not understa
 Dialogue: 0,0:05:07.02,0:05:12.40,Default,,0,0,0,,It was I who told them that the character for "alive" within the character for "gate" is...
 Dialogue: 0,0:05:12.42,0:05:14.28,Default,,0,0,0,,Yes, yes.
 Dialogue: 0,0:05:14.68,0:05:18.26,Default,,0,0,0,,It was Registrar Yang Xiu, Lord Yang who instructed me,
-Dialogue: 0,0:05:19.18,0:05:23.30,Default,,0,0,0,,saying that the character for "alive"(活) within the character for "gate"(門) means "wide"(闊).
+Dialogue: 0,0:05:19.18,0:05:23.30,Default,,0,0,0,,saying that the character for "alive" within the character for "gate" means "wide."
+Dialogue: 0,0:05:19.18,0:05:23.30,Note (Potential style?),,0,0,0,,活 + 門 = 闊
 Dialogue: 0,0:05:30.26,0:05:33.34,Default,,0,0,0,,Your Excellency meant that the gate was wide,
 Dialogue: 0,0:05:33.36,0:05:36.38,Default,,0,0,0,,and that narrowing it would make it look beautiful.
 Dialogue: 0,0:05:36.40,0:05:38.44,Default,,0,0,0,,For this, I...

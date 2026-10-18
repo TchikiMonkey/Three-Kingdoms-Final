@@ -272,7 +272,7 @@ Dialogue: 0,0:15:40.49,0:15:42.17,Default,,0,0,0,,{\bord11\pos(640,672)}Once the
 Dialogue: 0,0:15:42.17,0:15:45.50,Default,,0,0,0,,{\bord11}our army can mount boats \Nat high ground and release the water.
 Dialogue: 0,0:15:45.50,0:15:47.86,Default,,0,0,0,,{\bord11\pos(640,672)}The Cao soldiers at Fancheng and Zengkou valley...
 Dialogue: 0,0:15:47.86,0:15:49.50,Default,,0,0,0,,{\bord11\pos(640,672)}... Will be like fishes and turtles!
-Dialogue: 0,0:15:58.74,0:16:02.84,Default,NTP,0,0,0,,... As the main general, \NI have led armies for decades，
+Dialogue: 0,0:15:58.74,0:16:02.84,Default,NTP,0,0,0,,... As the main general, \NI have led armies for decades,
 Dialogue: 0,0:16:02.84,0:16:04.75,Default,NTP,0,0,0,,you mean to say I am lesser than you!?
 Dialogue: 0,0:16:05.77,0:16:08.92,Default,,0,0,0,,But we are at the mouth \Nof a very low river valley.
 Dialogue: 0,0:16:06.14,0:16:08.34,Style Names,,0,0,0,,{\fade(255,0,255,0,360,1820,2180)\pos(962,444)}Chéng Hé
