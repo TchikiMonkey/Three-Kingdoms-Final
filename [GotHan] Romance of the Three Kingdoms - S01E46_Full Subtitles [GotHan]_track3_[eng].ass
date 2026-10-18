@@ -22,15 +22,14 @@ Video Position: 22656
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.85303,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
-Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
-Style: Episode Title,Sitka Heading,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,2.9553,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
-Style: That one frame,@FangSong,60,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1,2,10,10,10,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -356,7 +355,7 @@ Dialogue: 0,0:35:00.20,0:35:03.26,Default,,0,0,0,,Third General, just a moment.
 Dialogue: 0,0:35:02.78,0:35:03.98,Style Names,,0,0,0,,{\pos(980.909,480)}Zhāng Fēi\NStyled: Yìdé
 Dialogue: 0,0:35:04.28,0:35:07.00,Default,,0,0,0,,Pang Shiyuan is known to be a man of great ability.
 Dialogue: 0,0:35:06.82,0:35:11.20,That one frame,,0,0,0,,{\fade(255,0,255,0,500,4740,5100)\pos(942.4,372.4)}孙乾
-Dialogue: 0,0:35:06.82,0:35:11.20,That one frame,,0,0,0,,{\fade(255,0,255,0,500,4740,5100)\pos(1011.2,444.4)}{\fs45}“字 公祐”
+Dialogue: 0,0:35:06.82,0:35:11.20,That one frame,,0,0,0,,{\fade(255,0,255,0,500,4740,5100)\pos(1011.2,444.4)}“字 公祐”
 Dialogue: 0,0:35:07.26,0:35:11.20,Style Names,,0,0,0,,{\pos(993.6,459.2)}Sūn Qián\NStyled: Gōngyòu
 Dialogue: 0,0:35:07.04,0:35:11.16,Default,,0,0,0,,He was the one who devised the \NChain-Link Stratagem at the Battle of Chibi.
 Dialogue: 0,0:35:11.54,0:35:15.08,Default,,0,0,0,,There must be a reason for his drunkenness and tardiness.

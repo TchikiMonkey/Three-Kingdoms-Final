@@ -28,15 +28,15 @@ Video Position: 59424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
 Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
 Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
-Style: That one frame,@FangSong,72,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1,2,10,10,10,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
+Style: That one frame,TaiwanPearl,72,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -80,7 +80,7 @@ Dialogue: 0,0:03:27.03,0:03:30.23,Default,Yuan Shao,0,0,0,,Make sure you have th
 Dialogue: 0,0:03:31.01,0:03:31.88,Default,Yuan Shao,0,0,0,,Executed!
 Dialogue: 0,0:03:32.02,0:03:32.73,Default,Soldiers,0,0,0,,Yes!
 Dialogue: 0,0:03:31.88,0:03:33.05,Style Names,,0,0,0,,{\pos(838.4,403.2)}Jǔ Shòu
-Dialogue: 0,0:03:31.88,0:03:33.05,That one frame,,0,0,0,,{\fn@FangSong\pos(800,503.6)}沮授
+Dialogue: 0,0:03:31.88,0:03:33.05,That one frame,,0,0,0,,{\pos(800,503.6)}沮授
 Dialogue: 0,0:03:33.24,0:03:34.58,Default,Yuan Shao,0,0,0,,All forces, heed me!
 Dialogue: 0,0:03:34.92,0:03:36.86,Default,Ju Shou,0,0,0,,If you fail to take frank advice,
 Dialogue: 0,0:03:36.86,0:03:38.08,Default,Ju Shou,0,0,0,,we will lose the war!

@@ -28,17 +28,14 @@ Video Position: 46114
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
 Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
 Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
-Style: Default Song version,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,105.403,102,0,0,1,3.08965,2.01498,2,179,179,13,1
-Style: BlackBox,Arial,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,98.5075,100,0,0,1,0,0,2,179,179,13,1
-Style: That one frame,@FangSong,74,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,98.5075,100,0,-90,1,2.01498,1.34332,2,179,179,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -280,7 +277,7 @@ Dialogue: 0,0:19:51.58,0:19:52.34,Default,,0,0,0,,Please.
 Dialogue: 0,0:19:52.34,0:19:53.02,Default,,0,0,0,,Please.
 Dialogue: 0,0:20:04.50,0:20:05.86,Default,,0,0,0,,Elder Brother, please.
 Dialogue: 0,0:20:12.22,0:20:14.86,Default,,0,0,0,,{\bord10.909\pos(640,666.666)}Second Brother, have you heard of {\i1}Bóyí and Shūqí?
-Dialogue: 0,0:20:12.22,0:20:21.82,Note (Potential style?),,0,0,0,,Note: Bóyí(伯夷) and Shūqí({\fnYu Gothic\fs22}叔齐{\fn}) were royal sons of Guzhu, a vassal state of the Shang Dynasty, known for their moral virtue and loyalty to each other and their state, even as it fell to Zhōu.
+Dialogue: 0,0:20:12.22,0:20:21.82,Note (Potential style?),,0,0,0,,Note: Bóyí(伯夷) and Shūqí(叔齐) were royal sons of Guzhu, a vassal state of the Shang Dynasty, known for their moral virtue and loyalty to each other and their state, even as it fell to Zhōu.
 Dialogue: 0,0:20:18.22,0:20:21.78,Default,,0,0,0,,{\bord10.909\pos(640,666.666)}Those two are virtuous men of old!
 Dialogue: 0,0:20:22.10,0:20:26.34,Default,,0,0,0,,{\bord10.909\pos(640,666.666)}Boyi and Shuqi never separated in their lifetime.
 Dialogue: 0,0:20:26.46,0:20:31.42,Default,,0,0,0,,{\bord10.879}Although they later starved to death at \NMount Shouyang, the brothers were still together.

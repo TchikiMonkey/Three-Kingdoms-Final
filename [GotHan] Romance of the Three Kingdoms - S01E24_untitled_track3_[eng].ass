@@ -21,18 +21,14 @@ Video Position: 60370
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
 Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
 Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
-Style: Default (small),Yu Gothic,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.83146,0,2,185,185,13,1
-Style: Default Song version,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,3.10113,2.02247,2,185,185,13,1
-Style: BlackBox,Arial,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,185,185,13,1
-Style: That one frame,@FangSong,74,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2.02247,1.34831,2,185,185,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -72,7 +68,7 @@ Dialogue: 0,0:03:15.94,0:03:23.46,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,
 Dialogue: 0,0:03:16.02,0:03:23.54,Episode Title,,0,0,0,,{\fade(255,0,255,0,1220,4000,4800)\pos(636.012,531.236)}Leap Over Tán Creek
 Dialogue: 0,0:03:17.86,0:03:20.90,Thinking,,0,0,0,,After unifying the northern realms,
 Dialogue: 0,0:03:20.90,0:03:25.06,Thinking,,0,0,0,,Cao Cao ordered to build "Bronze Sparrow Terrace" on the bank of the Zhang River,
-Dialogue: 0,0:03:22.74,0:03:28.46,Note (Potential style?),,0,0,0,,Note: "Bronze Sparrow Terrace" ({\fnYu Gothic\fs22}铜雀台{\fn\fs}) was a real terrace located in Yè city, Hebei.
+Dialogue: 0,0:03:22.74,0:03:28.46,Note (Potential style?),,0,0,0,,Note: "Bronze Sparrow Terrace" (铜雀台) was a real terrace located in Yè city, Hebei.
 Dialogue: 0,0:03:25.06,0:03:28.82,Thinking,,0,0,0,,to commemorate his great achievement.
 Dialogue: 0,0:03:28.82,0:03:33.50,Thinking,,0,0,0,,He garrisoned his troops around Xǔchāng and fiefed them land to cultivate, to build up their strength,
 Dialogue: 0,0:03:33.50,0:03:40.06,Note (Potential style?),,0,0,0,,Note: Wú, named after the ancient state of Zhou dynasty, corresponds to areas south of the Yangtze River, AKA. Jiangdong or Jiangnan.
@@ -361,7 +357,7 @@ Dialogue: 0,0:28:08.92,0:28:09.74,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:28:13.62,0:28:15.06,Default,,0,0,0,,General.
 Dialogue: 0,0:28:17.02,0:28:21.90,Default,,0,0,0,,General. Seeing your actions,\NI feel something is going to happen.
 Dialogue: 0,0:28:24.06,0:28:26.50,Default,,0,0,0,,Liu Bei is a "mighty raptor" of our time.
-Dialogue: 0,0:28:24.06,0:28:29.66,Note (Potential style?),,0,0,0,,Note: A "Mighty Raptor" or "Xiāoxióng"({\fs21}{\fnNSimSun}枭雄{\fn}){\fs} is a term used for fierce, ambitious and formidable "great men" of history.
+Dialogue: 0,0:28:24.06,0:28:29.66,Note (Potential style?),,0,0,0,,Note: A "Mighty Raptor" or "Xiāoxióng"(枭雄) is a term used for fierce, ambitious and formidable "great men" of history.
 Dialogue: 0,0:28:26.62,0:28:30.14,Default,,0,0,0,,He'll be a source of trouble if he stays here long.
 Dialogue: 0,0:28:30.14,0:28:32.74,Default,,0,0,0,,We're going to kill him today.
 Dialogue: 0,0:28:33.82,0:28:34.94,Default,,0,0,0,,No!

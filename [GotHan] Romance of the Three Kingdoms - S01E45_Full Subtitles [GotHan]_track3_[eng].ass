@@ -28,15 +28,14 @@ Video Position: 47282
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,2.85303,0,2,172,172,14,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,14,1
-Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5,0.135858,5,172,172,14,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655506,0,1,2.71717,1.35858,5,172,172,14,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,14,1
-Style: Episode Title,Sitka Heading,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68664,3.3583,5,172,172,14,1
-Style: Thinking,Yu Gothic,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,2.9553,0,2,172,172,14,1
-Style: Note (Potential style?),Yu Gothic UI Semibold,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,14,1
-Style: That one frame,@FangSong,55,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1,2,10,10,10,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -212,7 +211,7 @@ Dialogue: 0,0:17:31.30,0:17:36.63,Default,,0,0,0,,{\bord11.909}Your Excellency h
 Dialogue: 0,0:17:36.63,0:17:38.52,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}and never once have you lost your nerve.
 Dialogue: 0,0:17:38.64,0:17:42.60,Default,,0,0,0,,{\bord11.909}But when you heard that Liu Bei gained Jing Province, what shocked you so?
 Dialogue: 0,0:17:42.60,0:17:47.60,That one frame,,0,0,0,,{\fade(255,0,255,0,500,3740,4100)\pos(977.6,372.4)}程昱
-Dialogue: 0,0:17:42.60,0:17:47.60,That one frame,,0,0,0,,{\fade(255,0,255,0,500,3740,4100)\pos(1043.2,444.4)}{\fs45}“字 仲德”
+Dialogue: 0,0:17:42.60,0:17:47.60,That one frame,,0,0,0,,{\fade(255,0,255,0,500,3740,4100)\pos(1043.2,444.4)}“字 仲德”
 Dialogue: 0,0:17:43.00,0:17:46.20,Style Names,,0,0,0,,{\pos(1038.4,479.6)}Chéng Yù \NStyled:\N Zhòngdé
 Dialogue: 0,0:17:46.60,0:17:50.56,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Liu Bei is a dragon amongst men.
 Dialogue: 0,0:17:51.12,0:17:53.80,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}All his life, he had never reached water.
@@ -233,7 +232,7 @@ Dialogue: 0,0:18:52.52,0:18:56.48,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Th
 Dialogue: 0,0:18:56.48,0:19:00.52,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Zhou Yu would lead forces there to claim them.
 Dialogue: 0,0:19:00.52,0:19:03.20,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Once these two sides start fighting,
 Dialogue: 0,0:19:03.20,0:19:06.76,Default,,0,0,0,,{\bord11.909}would Your Excellency not be \Nthe fisherman who reaps the benefits?
-Dialogue: 0,0:19:03.20,0:19:08.56,Note (Potential style?),,0,0,0,,Note: A Chinese idiom ({\fnYu Gothic} 渔翁之利{\fn0}). In the fight between the snipe and the clam, the fisherman has the best of it.
+Dialogue: 0,0:19:03.20,0:19:08.56,Note (Potential style?),,0,0,0,,Note: A Chinese idiom (渔翁之利). In the fight between the snipe and the clam, the fisherman has the best of it.
 Dialogue: 0,0:19:09.52,0:19:11.52,Default,,0,0,0,,Zhongde, your words...
 Dialogue: 0,0:19:13.24,0:19:15.20,Default,,0,0,0,,speaks my mind.
 Dialogue: 0,0:19:17.12,0:19:19.84,Default,,0,0,0,,{\pos(640,670)}{\bord11.909}Zhou Yu, adept in both civil and military matters,

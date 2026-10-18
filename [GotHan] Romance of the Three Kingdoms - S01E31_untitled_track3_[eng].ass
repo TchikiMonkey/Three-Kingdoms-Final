@@ -30,16 +30,14 @@ Video Position: 30778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
 Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
 Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
-Style: BlackBox,Arial,47,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,173,173,13,1
-Style: That one frame,@FangSong,74,&H00EDEDF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,2.01498,1.34332,2,173,173,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -376,7 +374,7 @@ Dialogue: 0,0:35:20.53,0:35:23.60,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord1
 Dialogue: 0,0:35:26.54,0:35:28.56,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}When I was in Longzhong,
 Dialogue: 0,0:35:28.78,0:35:32.22,Default,,0,0,0,,{\bord10.667}I heard that Cáo Cāo was building a new pavilion near River Zhang.
 Dialogue: 0,0:35:32.28,0:35:35.78,Default,,0,0,0,,{\bord10.667}It was to be named {\i1}"the Bronze Sparrow Terrace."{\i0} \NA magnificent edifice.
-Dialogue: 0,0:35:32.28,0:35:35.48,Note (Potential style?),,0,0,0,,AKA. Tóngquètái {\fnYu Gothic}(铜雀台)
+Dialogue: 0,0:35:32.28,0:35:35.48,Note (Potential style?),,0,0,0,,AKA. Tóngquètái (铜雀台)
 Dialogue: 0,0:35:36.21,0:35:39.54,Default,,0,0,0,,{\bord10.667}He sought far and wide for beautiful women to fill its chambers.
 Dialogue: 0,0:35:40.92,0:35:47.64,Default,,0,0,0,,{\bord10.667}We know Cáo Cāo as a lecherous man. He has heard Patriarch Qiao of Jiangdong has two daughters,
 Dialogue: 0,0:35:48.14,0:35:52.18,Default,,0,0,0,,{\bord10.667}the eldest called "Dà Qiáo," \Nthe younger called "Xiǎo Qiáo."
@@ -396,7 +394,7 @@ Dialogue: 0,0:37:16.48,0:37:20.62,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord1
 Dialogue: 0,0:37:23.22,0:37:27.40,Default,,0,0,0,,{\bord10.667} I admired the gorgeous language of this poem, thus I committed it to memory.
 Dialogue: 0,0:37:28.36,0:37:31.53,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}May I request a recitation?
 Dialogue: 0,0:37:36.20,0:37:39.10,Default,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}I will try.
-Dialogue: 0,0:37:41.54,0:37:48.42,Note (Potential style?),,0,0,0,,Ode to the Bronze Sparrow Terrace ("{\fnYu Gothic}铜雀台赋"{\fn})\Nby Cáo Zhí, edited by Luó Guànzhōng
+Dialogue: 0,0:37:41.54,0:37:48.42,Note (Potential style?),,0,0,0,,Ode to the Bronze Sparrow Terrace ("铜雀台赋")\Nby Cáo Zhí, edited by Luó Guànzhōng
 Dialogue: 0,0:37:41.54,0:37:45.57,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Beside His Esteemed steps I do rejoice so,
 Dialogue: 0,0:37:46.34,0:37:50.50,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}mounting storied towers in delight,
 Dialogue: 0,0:37:51.92,0:37:56.11,Thinking,,0,0,0,,{\pos(644.091,672.343)}{\bord10.667}Peering down on River Zhang's ever-flow,

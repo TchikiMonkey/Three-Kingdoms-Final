@@ -28,14 +28,14 @@ Video Position: 36808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
-Style: Header,Yu Gothic,41,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
+Style: Default,Rosario,44,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,107,102,0,0,1,4,0,2,172,172,13,1
+Style: Header,Rosario,37,&H0034C0CD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,95,0,0,1,2.71717,1.35858,8,172,172,13,1
 Style: Style Names,Tahoma,33,&H00FDFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,105,110,0,0,1,5.2,0.135858,5,172,172,13,1
-Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,-1,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
-Style: Song,Yu Gothic,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
+Style: Title,FZShiMenMingkaiShuS,56,&H000D40E5,&H000019FF,&H00000000,&H00000000,0,0,0,0,108.854,105,0.655041,0,1,2.71717,1.35858,5,172,172,13,1
+Style: Song,Rosario,33,&H000000FF,&H00FFFFFF,&H00000000,&H00000000,-1,-1,0,0,107,102,0,0,1,2.71717,0.543435,9,172,172,13,1
 Style: Episode Title,Sitka Heading,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,110,100,0,0,1,2.68663,3.35829,5,172,172,13,1
-Style: Thinking,Yu Gothic,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
-Style: Note (Potential style?),Yu Gothic UI,25,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
+Style: Thinking,Rosario,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,103,103,0,0,1,5,0,2,172,172,13,1
+Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,97,0,0,1,2.03789,1.35858,9,172,172,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -147,7 +147,7 @@ Dialogue: 0,0:10:55.44,0:10:58.44,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}
 Dialogue: 0,0:10:58.57,0:11:02.68,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}a divine turtle carried an inscription on its back
 Dialogue: 0,0:11:03.19,0:11:05.96,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}called the "Luo Stream Inscription."
 Dialogue: 0,0:11:06.15,0:11:11.03,Default,,0,0,0,,{\bord12.879}The Chart and the Inscription are thus Diagrams of Heaven and Earth.
-Dialogue: 0,0:11:06.68,0:11:27.48,Note (Potential style?),,0,0,0,,Note: Referring to "{\fnSimSun\fs20}河图洛书"{\fn\fs} (River-Chart and Luò-Inscription); Cosmological diagrams that is the basis of Yin-Yang and the Five Phases of Chinese philosophy. \NIn legend, it's passed down from the Heavens as a sign of benevolent rule.
+Dialogue: 0,0:11:06.68,0:11:27.48,Note (Potential style?),,0,0,0,,Note: Referring to "河图洛书" (River-Chart and Luò-Inscription); Cosmological diagrams that is the basis of Yin-Yang and the Five Phases of Chinese philosophy. \NIn legend, it's passed down from the Heavens as a sign of benevolent rule.
 Dialogue: 0,0:11:11.03,0:11:15.03,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}They are the roots of all thoughts
 Dialogue: 0,0:11:15.18,0:11:19.73,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}and the bud of all governing laws,
 Dialogue: 0,0:11:20.13,0:11:26.94,Default,,0,0,0,,{\bord12.879\pos(640,664.179)}understood neither by man's power nor wisdom.
