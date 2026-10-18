@@ -103,7 +103,7 @@ Dialogue: 0,0:05:25.70,0:05:31.06,Default,,0,0,0,,Brother, since you like the ho
 Dialogue: 0,0:05:31.06,0:05:32.78,Style Names,,0,0,0,,{\pos(463.19,503.182)}Zhāng Fēi\NStyled: Yìdé
 Dialogue: 0,0:05:31.06,0:05:34.14,Default,,0,0,0,,Oh! My brother, that will do!
 Dialogue: 0,0:05:36.66,0:05:40.14,Style Names,,0,0,0,,{\pos(971.406,468.243)}Guān Yǔ\NStyled: Yúncháng
-Dialogue: 0,0:05:54.82,0:06:03.14,Note (Potential Style),,0,0,0,,Note: The choreography depicts the characters "迎皇叔" or "Welcome, Uncle."
+Dialogue: 0,0:05:54.82,0:06:03.14,Note (Potential style?),,0,0,0,,Note: The choreography depicts the characters "迎皇叔" or "Welcome, Uncle."
 Dialogue: 0,0:06:33.54,0:06:35.26,Style Names,,0,0,0,,{\pos(934.418,451.939)}Yī Jí\NStyled: Jībó
 Dialogue: 0,0:06:45.50,0:06:46.66,Default,,0,0,0,,Good.
 Dialogue: 0,0:06:46.66,0:06:47.90,Default,,0,0,0,,Please.
@@ -489,7 +489,7 @@ Dialogue: 0,0:39:45.38,0:39:49.62,Default,,0,0,0,,I find you look like the perso
 Dialogue: 0,0:39:50.10,0:39:51.70,Default,,0,0,0,,Who's your teacher?
 Dialogue: 0,0:39:52.34,0:39:57.22,Default,,0,0,0,,{\bord12.581}My master is {\i1}Sīmǎ Huī.{\i0}\NHis style name is Décāo. He's from Yǐngchuān.
 Dialogue: 0,0:39:57.34,0:39:59.82,Default,,0,0,0,,{\bord12.581\pos(640,667.807)}His Daoist title is{\i1} Master Shuǐjìng.{\i0}
-Dialogue: 0,0:39:57.38,0:40:00.06,Note (Potential Style),,0,0,0,,Shuǐjìng = "Water Mirror"
+Dialogue: 0,0:39:57.38,0:40:00.06,Note (Potential style?),,0,0,0,,Shuǐjìng = "Water Mirror"
 Dialogue: 0,0:40:00.06,0:40:02.42,Default,,0,0,0,,{\bord12.581\pos(640,667.807)}Among his many friends,
 Dialogue: 0,0:40:02.42,0:40:06.14,Default,,0,0,0,,{\bord12.581}there are {\i1}Páng Dégōng{\i0} \Nand{\i1} Páng Tǒng{\i0} from Xiangyang.
 Dialogue: 0,0:40:06.46,0:40:09.34,Default,,0,0,0,,{\bord12.581\pos(640,667.807)}And who are these two Pángs?
@@ -552,6 +552,6 @@ Dialogue: 0,0:44:47.54,0:44:53.14,Song,,0,0,0,,{\k36}lì{\k88}shǐ {\k31}di {\k8
 Dialogue: 0,0:44:53.66,0:45:12.14,Thinking,,0,0,0,,{\bord10.706}as in the world of man dwells a spirit of heroism, ever galloping forward.
 Dialogue: 0,0:44:53.66,0:45:16.14,Song,,0,0,0,,{\k79}rén{\k27}jiān {\k29}yī {\k45}gǔ {\k70}yīng{\k82}xióng {\k230}qì {\k95}zài {\k59}chí{\k200}chěng {\k473}zòng{\k461}héng{\k400}
 Dialogue: 0,0:42:32.50,0:42:34.50,Default,,0,0,0,,
-Comment: 0,0:03:57.06,0:04:00.94,Note (Potential Style),,0,0,0,,207 CE
+Comment: 0,0:03:57.06,0:04:00.94,Note (Potential style?),,0,0,0,,207 CE
 Comment: 0,0:34:54.78,0:34:55.38,Default,,0,0,0,,Yes, sir!
 
