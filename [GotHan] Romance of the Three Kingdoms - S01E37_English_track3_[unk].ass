@@ -72,6 +72,8 @@ Dialogue: 0,0:02:30.04,0:02:41.30,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather on merriment.
 Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(633.81,321.182)}Act 2
+Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(630.051,548.64)}The Battle of Red Cliffs
 Dialogue: 0,0:03:16.00,0:03:20.72,Episode Title,,0,0,0,,{\pos(640,340.296)\fade(255,0,255,0,800,4080,4720)}Episode 37
 Dialogue: 0,0:03:16.00,0:03:20.72,Episode Title,,0,0,0,,{\fade(255,0,255,0,800,4080,4720)\pos(640,526.429)}Spear-Held Poetry
 Dialogue: 0,0:04:05.48,0:04:08.92,Style Names,,0,0,0,,{\fade(255,0,255,0,400,3180,3440)\pos(317.973,482.138)}Cáo Cāo \NStyled: Mèngdé

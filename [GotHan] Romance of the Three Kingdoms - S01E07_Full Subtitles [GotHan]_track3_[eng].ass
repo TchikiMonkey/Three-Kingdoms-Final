@@ -69,7 +69,7 @@ Dialogue: 0,0:02:30.04,0:02:41.30,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather on merriment.
 Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
-Dialogue: 0,0:03:11.26,0:03:15.00,Title,,0,0,0,,{\fade(255,0,255,0,900,2350,3120)\pos(640,481.6)}Act 1\N\N\N\N\N\N\NDeer-hunt of Heroes
+Dialogue: 0,0:03:11.26,0:03:15.00,Title,,0,0,0,,{\fade(255,0,255,0,900,2350,3120)\pos(640,481.6)}Act 1\N\N\N\N\N\N\NDeer-Hunt of Heroes
 Dialogue: 0,0:03:15.64,0:03:22.00,Episode Title,,0,0,0,,{\fade(255,0,255,0,1350,4960,6360)\pos(640,452.666)}Episode 7\N\N\N\N\NFengyi Pavilion
 Dialogue: 0,0:03:47.79,0:03:48.33,Default,Wang Yun,0,0,0,,General.
 Dialogue: 0,0:03:53.05,0:03:53.68,Default,Wang Yun,0,0,0,,General!
