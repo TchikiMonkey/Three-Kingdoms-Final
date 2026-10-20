@@ -34,33 +34,35 @@ Style: Note (Potential style?),TaiwanPearl,21,&H0018CBDC,&H000000FF,&H00000000,&
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Header,,0,0,0,,This is a Gentlemen of the Hàn free fansub.
-Dialogue: 0,0:01:14.50,0:01:19.58,Title,,0,0,0,,{\pos(640,483.2)}{\fade(255,0,255,0,900,4100,5000)}Romance of the Three Kingdoms
-Dialogue: 0,0:01:18.52,0:01:27.72,Song,,0,0,0,,{\k78}Gǔn{\k46}gǔn {\k52}cháng{\k53}jiāng {\k111}dōng{\k129}shì{\k448}shuǐ
-Dialogue: 0,0:01:18.52,0:01:27.72,Thinking,,0,0,0,,{\bord6}On and on the Great River rolls, racing east.
-Dialogue: 0,0:01:27.72,0:01:36.92,Song,,0,0,0,,{\k61}Làng{\k69}huā {\k117}táo{\k107}jǐn {\k105}yīng{\k464}xióng
-Dialogue: 0,0:01:27.72,0:01:36.92,Thinking,,0,0,0,,{\bord6}Of proud and gallant heroes its white-waves leave no trace.
-Dialogue: 0,0:01:36.96,0:01:46.04,Song,,0,0,0,,{\k67}Shì{\k111}fēi {\k76}chéng{\k104}bài {\k129}zhuǎn{\k242}tóu{\k195}kōng
-Dialogue: 0,0:01:36.96,0:01:46.04,Thinking,,0,0,0,,{\bord6}As right and wrong, glory and fall,\N fade at once into unreal.
-Dialogue: 0,0:01:46.16,0:01:50.44,Song,,0,0,0,,{\k69}Qīng{\k63}shān {\k40}yī{\k80}jiù {\k175}zài
-Dialogue: 0,0:01:46.16,0:01:50.44,Thinking,,0,0,0,,{\bord6}Yet ever the green hills stay,
-Dialogue: 0,0:01:50.52,0:01:56.08,Song,,0,0,0,,{\k85}Jǐ{\k78}dù {\k58}xī{\k64}yáng{\k271}hóng
-Dialogue: 0,0:01:50.52,0:01:56.08,Thinking,,0,0,0,,{\bord6}to blaze in the west-waning day.
-Dialogue: 0,0:02:03.60,0:02:11.92,Song,,0,0,0,,{\k52}Bái{\k71}fà {\k96}yú{\k195}qiáo {\k109}jiāng{\k116}zhǔ {\k193}shàng
-Dialogue: 0,0:02:03.60,0:02:11.92,Thinking,,0,0,0,,{\bord6}Fishers and woodsmen comb on the river isles,
-Dialogue: 0,0:02:12.00,0:02:19.80,Song,,0,0,0,,{\k50}Guàn{\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
-Dialogue: 0,0:02:12.00,0:02:19.80,Thinking,,0,0,0,,{\bord6}White-crowned, looking on \Nthe autumn moons and spring breezes.
-Dialogue: 0,0:02:19.96,0:02:28.36,Song,,0,0,0,,{\k74}Yī{\k124}hú {\k120}zhuó{\k114}jiǔ {\k64}xǐ{\k167}xiāng{\k177}féng
-Dialogue: 0,0:02:19.96,0:02:28.36,Thinking,,0,0,0,,{\bord6}With a jar of wine, they merrily gather.
-Dialogue: 0,0:02:28.52,0:02:31.32,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
-Dialogue: 0,0:02:28.52,0:02:31.32,Thinking,,0,0,0,,{\bord6}The countless tales of present and past,
-Dialogue: 0,0:02:31.32,0:02:42.16,Song,,0,0,0,,{\k56}Duō{\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
-Dialogue: 0,0:02:31.32,0:02:42.16,Thinking,,0,0,0,,{\bord6}all in their jests.
-Dialogue: 0,0:02:42.56,0:02:50.92,Song,,0,0,0,,{\k81}Yī{\k128}hú {\k135}zhuó{\k103}jiǔ {\k58}xǐ{\k150}xiāng{\k181}féng
-Dialogue: 0,0:02:42.56,0:02:50.92,Thinking,,0,0,0,,{\bord6}With a jar of wine, they merrily gather.
-Dialogue: 0,0:02:50.92,0:02:54.08,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
-Dialogue: 0,0:02:50.92,0:02:54.08,Thinking,,0,0,0,,{\bord6}The countless tales of present and past,
-Dialogue: 0,0:02:54.08,0:03:11.52,Song,,0,0,0,,{\k58}Duō{\k56}fù{\k493}xiào {\k333}tán{\k804}zhōng
-Dialogue: 0,0:02:54.08,0:03:11.52,Thinking,,0,0,0,,{\bord6}all in their jests.
+Dialogue: 0,0:01:17.34,0:01:26.54,Song,,0,0,0,,{\k78}Gǔn{\k46}gǔn {\k52}cháng{\k53}jiāng {\k111}dōng {\k129}shì {\k448}shuǐ
+Dialogue: 0,0:01:26.54,0:01:35.74,Song,,0,0,0,,{\k61}Làng{\k69}huā {\k117}táo {\k107}jǐn {\k105}yīng{\k464}xióng
+Dialogue: 0,0:01:35.78,0:01:44.86,Song,,0,0,0,,{\k67}Shì{\k111}fēi {\k76}chéng{\k104}bài {\k129}zhuǎn {\k242}tóu {\k195}kōng
+Dialogue: 0,0:01:44.98,0:01:49.26,Song,,0,0,0,,{\k69}Qīng{\k63}shān {\k40}yī{\k80}jiù {\k175}zài
+Dialogue: 0,0:01:49.34,0:01:54.90,Song,,0,0,0,,{\k85}Jǐ {\k78}dù {\k58}xī{\k64}yáng {\k271}hóng
+Dialogue: 0,0:02:02.42,0:02:10.74,Song,,0,0,0,,{\k52}Bái {\k71}fà {\k96}yú {\k195}qiáo {\k109}jiāng {\k116}zhǔ {\k193}shàng
+Dialogue: 0,0:02:10.82,0:02:18.62,Song,,0,0,0,,{\k50}Guàn {\k46}kàn {\k102}qiū{\k103}yuè {\k166}chūn{\k313}fēng
+Dialogue: 0,0:02:18.78,0:02:27.18,Song,,0,0,0,,{\k74}Yī {\k124}hú {\k120}zhuó {\k114}jiǔ {\k64}xǐ {\k167}xiāng{\k177}féng
+Dialogue: 0,0:02:27.34,0:02:30.14,Song,,0,0,0,,{\k38}Gǔ{\k64}jīn {\k48}duō{\k70}shǎo {\k60}shì
+Dialogue: 0,0:02:30.14,0:02:40.98,Song,,0,0,0,,{\k56}Dōu {\k68}fù {\k518}xiào {\k127}tán {\k316}zhōng
+Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó {\k103}jiǔ {\k58}xǐ {\k150}xiāng{\k181}féng
+Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
+Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
+Dialogue: 0,0:01:08.50,0:01:12.96,Title,,0,0,0,,{\move(1550.333,640,85.333,640,200,4500)\clip(162.667,6.667,1118.667,720)}Romance of the Three Kingdoms
+Dialogue: 0,0:01:12.96,0:01:18.52,Title,,0,0,0,,{\move(85.333,640,661.333,468,00,970)\clip(162.667,6.667,1118.667,720)\fade(255,0,255,0,0,4700,5500)}Romance of the Three Kingdoms
+Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}On and on the Great River rolls, racing east.
+Dialogue: 0,0:01:26.28,0:01:35.13,Thinking,,0,0,0,,{\bord12}Of proud and gallant heroes,\N its white waves leave no trace,
+Dialogue: 0,0:01:35.50,0:01:44.71,Thinking,,0,0,0,,{\bord12}as right and wrong, glory and fall,\N fade at once into nothing.
+Dialogue: 0,0:01:44.71,0:01:49.44,Thinking,,0,0,0,,{\bord12}Yet ever the green hills stay,
+Dialogue: 0,0:01:49.44,0:01:53.95,Thinking,,0,0,0,,{\bord12}to blaze in the west-waning day.
+Dialogue: 0,0:02:02.22,0:02:06.26,Thinking,,0,0,0,,{\bord12}The white-haired fishermen and lumberjacks,
+Dialogue: 0,0:02:06.26,0:02:10.46,Thinking,,0,0,0,,{\bord12}on the river banks,
+Dialogue: 0,0:02:10.46,0:02:18.68,Thinking,,0,0,0,,{\bord12}looking on the autumn moons and spring breezes.
+Dialogue: 0,0:02:18.68,0:02:26.94,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather in merriment.
+Dialogue: 0,0:02:26.94,0:02:30.04,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
+Dialogue: 0,0:02:30.04,0:02:41.30,Thinking,,0,0,0,,{\bord12}all in their jests!
+Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather in merriment.
+Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
+Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:03:12.00,0:03:16.02,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,3900)\pos(640,348)}Act 4
 Dialogue: 0,0:03:12.00,0:03:16.02,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,3900)\pos(640,551.733)}Battles in the North and South
 Dialogue: 0,0:03:17.44,0:03:22.72,Episode Title,,0,0,0,,{\fade(255,0,255,0,900,4500,5210)\pos(653.755,434.522)}Episode 67\N\N\N\N\NSeven Capturings of Meng Huo

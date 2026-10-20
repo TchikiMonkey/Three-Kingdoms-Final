@@ -57,17 +57,17 @@ Dialogue: 0,0:02:41.38,0:02:49.74,Song,,0,0,0,,{\k81}Yī {\k128}hú {\k135}zhuó
 Dialogue: 0,0:02:49.74,0:02:52.90,Song,,0,0,0,,{\k47}Gǔ{\k67}jīn {\k43}duō{\k74}shǎo {\k82}shì
 Dialogue: 0,0:02:52.90,0:03:10.34,Song,,0,0,0,,{\k58}Dōu {\k56}fù {\k493}xiào {\k333}tán {\k804}zhōng
 Dialogue: 0,0:01:17.20,0:01:26.28,Thinking,,0,0,0,,{\bord12}On and on the Great River rolls, racing east.
-Dialogue: 0,0:01:26.28,0:01:35.13,Thinking,,0,0,0,,{\bord12}Of proud and gallant heroes,\N its white-waves leave no trace.
-Dialogue: 0,0:01:35.50,0:01:44.71,Thinking,,0,0,0,,{\bord12}As right and wrong, glory and fall,\N fade at once into nothing.
+Dialogue: 0,0:01:26.28,0:01:35.13,Thinking,,0,0,0,,{\bord12}Of proud and gallant heroes,\N its white waves leave no trace,
+Dialogue: 0,0:01:35.50,0:01:44.71,Thinking,,0,0,0,,{\bord12}as right and wrong, glory and fall,\N fade at once into nothing.
 Dialogue: 0,0:01:44.71,0:01:49.44,Thinking,,0,0,0,,{\bord12}Yet ever the green hills stay,
 Dialogue: 0,0:01:49.44,0:01:53.95,Thinking,,0,0,0,,{\bord12}to blaze in the west-waning day.
 Dialogue: 0,0:02:02.22,0:02:06.26,Thinking,,0,0,0,,{\bord12}The white-haired fishermen and lumberjacks,
 Dialogue: 0,0:02:06.26,0:02:10.46,Thinking,,0,0,0,,{\bord12}on the river banks,
 Dialogue: 0,0:02:10.46,0:02:18.68,Thinking,,0,0,0,,{\bord12}looking on the autumn moons and spring breezes.
-Dialogue: 0,0:02:18.68,0:02:26.94,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather on merriment.
+Dialogue: 0,0:02:18.68,0:02:26.94,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather in merriment.
 Dialogue: 0,0:02:26.94,0:02:30.04,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:30.04,0:02:41.30,Thinking,,0,0,0,,{\bord12}all in their jests!
-Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather on merriment.
+Dialogue: 0,0:02:41.30,0:02:49.55,Thinking,,0,0,0,,{\bord12}With a jar of wine, they gather in merriment.
 Dialogue: 0,0:02:49.55,0:02:52.56,Thinking,,0,0,0,,{\bord12}The countless tales of present and past,
 Dialogue: 0,0:02:52.56,0:03:09.15,Thinking,,0,0,0,,{\bord12}all in their jests!
 Dialogue: 0,0:03:11.36,0:03:15.18,Title,,0,0,0,,{\fade(255,0,255,0,900,3350,4180)\pos(633.81,321.182)}Act 2
